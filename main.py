@@ -1,67 +1,128 @@
-from langchain_community.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
-import chromadb
-from langchain_community.chat_models import ChatOpenAI
-from langchain.prompts import PromptTemplate
-from langchain.chains import RetrievalQA
-from langchain.chains import RetrievalQAWithSourcesChain
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory, ConversationBufferWindowMemory
-from langchain_core.documents import Document
-from typing import List, Optional, Union
 import os
-import shutil
-from dotenv import load_dotenv
-from pathlib import Path
 import logging
+import glob
+from pathlib import Path
+from typing import List, Dict, Any
 
-# Import DatabaseManager from the database integration module
-from database_integration import DatabaseManager
+from langchain.text_splitter import RecursiveCharacterTextSplitter, TokenTextSplitter
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.vectorstores import Chroma
+from langchain.chat_models import ChatOpenAI
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationBufferMemory
+from langchain_community.document_loaders import PyPDFLoader
+from langchain.prompts import PromptTemplate
+from langchain_core.documents import Document
+import nltk
+from nltk.tokenize import sent_tokenize
+nltk.download('punkt_tab')
+nltk.download('punkt')
 
-# Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-                                                                                                                                                                                                                                                           
+from dotenv import load_dotenv
+
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-class SimpleRAGPipeline:
-    def __init__(self, openai_api_key: Optional[str] = None, user_id: Optional[int] = None):
-        """
-        Initialize the RAG pipeline.
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('pdf_processor.log'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
+class SemanticTextSplitter:
+    def __init__(self, chunk_size=512, chunk_overlap=256):
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
         
-        Args:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-            openai_api_key: OpenAI API key. If not provided, will look for OPENAI_API_KEY in environment.
-            user_id: Database user ID for logging purposes
+        # Initialize token splitter as backup
+        self.token_splitter = TokenTextSplitter(
+            chunk_size=chunk_size,
+            chunk_overlap=chunk_overlap,
+            encoding_name="cl100k_base",
+            add_start_index=True
+        )
+    
+    def split_documents(self, documents):
         """
-        # Initialize components
-        logging.info("Initializing the SimpleRAGPipeline.")
-        self.embeddings = OpenAIEmbeddings(model='text-embedding-3-large')
+        Split documents while preserving semantic meaning at sentence boundaries
+        
+        Args:
+            documents: List of Document objects with page_content and metadata
+            
+        Returns:
+            List of Document objects with split content
+        """
+        splits = []
+        
+        for doc in documents:
+            # Get sentences from the document
+            sentences = sent_tokenize(doc.page_content)
+            
+            current_chunk = []
+            current_length = 0
+            
+            for sentence in sentences:
+                sentence_length = len(sentence)
+                
+                # If adding this sentence would exceed chunk size
+                if current_length + sentence_length > self.chunk_size:
+                    if current_chunk:
+                        # Create new document with current chunk
+                        splits.append(
+                            Document(
+                                page_content=" ".join(current_chunk),
+                                metadata=doc.metadata.copy()
+                            )
+                        )
+                    
+                    # Start new chunk with overlap
+                    if self.chunk_overlap > 0:
+                        # Calculate how many sentences to keep for overlap
+                        overlap_length = 0
+                        overlap_sentences = []
+                        for prev_sentence in reversed(current_chunk):
+                            if overlap_length + len(prev_sentence) > self.chunk_overlap:
+                                break
+                            overlap_sentences.insert(0, prev_sentence)
+                            overlap_length += len(prev_sentence)
+                        current_chunk = overlap_sentences
+                        current_length = overlap_length
+                    else:
+                        current_chunk = []
+                        current_length = 0
+                
+                current_chunk.append(sentence)
+                current_length += sentence_length
+            
+            # Add the last chunk if it exists
+            if current_chunk:
+                splits.append(
+                    Document(
+                        page_content=" ".join(current_chunk),
+                        metadata=doc.metadata.copy()
+                    )
+                )
+        
+        # If no valid splits were created, fall back to token splitter
+        if not splits:
+            return self.token_splitter.split_documents(documents)
+            
+        return splits
+
+class PDFProcessor:
+    def __init__(self, data_folder: str = "data", persist_directory: str = "./chroma_db"):
+        self.data_folder = data_folder
+        self.persist_directory = persist_directory
+        self.embeddings = OpenAIEmbeddings()
         self.vector_store = None
         self.qa_chain = None
-        self.splits = list()
         
-        # Initialize database manager
-        self.db_manager = DatabaseManager()
-        self.user_id = user_id or 1  # Default to user ID 1 if not provided
-        
-        # Default chunk settings
-        self.chunk_size = 1000
-        self.chunk_overlap = 200
-        
-        # Initialize text splitter
-        self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=self.chunk_size,
-            chunk_overlap=self.chunk_overlap,
-            length_function=len,
-        )
-        
-        # Ensure uploaded_files directory exists
-        self.uploaded_files_dir = Path.cwd() / 'uploaded_files'
-        self.uploaded_files_dir.mkdir(exist_ok=True)
-        
-        # Default prompt template
+        # Default template (you can modify this)
         self.default_template = """
             ## Core Identity and Purpose
             You are VoxMed, a Virtual Medical Assistant designed specifically to support busy medical consultants by reducing administrative burden and improving patient interaction quality. Your primary mission is to handle repetitive patient inquiries efficiently while maintaining the highest standards of medical safety and regulatory compliance.
@@ -235,341 +296,193 @@ class SimpleRAGPipeline:
         ANSWER:
       
         """
-        self.prompt = PromptTemplate(
-            template=self.default_template,
-            input_variables=["context", "question","chat_history"]
+        
+        # Initialize text splitter
+        self.text_splitter = SemanticTextSplitter(
+            chunk_size=256,
+            chunk_overlap=128,
         )
-        logging.info("Pipeline initialized successfully.")
+        
+        logger.info(f"PDFProcessor initialized with data folder: {data_folder}")
 
-    def upload_pdfs(self, 
-                pdf_paths: List[str], 
-                file_name_aliases: Optional[List[str]] = None,
-                chunk_size: Optional[int] = None,
-                chunk_overlap: Optional[int] = None) -> List[int]:
-        """
-        Upload and process multiple PDF files for a specific user.
-        
-        Args:
-            pdf_paths: List of paths to PDF files.
-            file_name_aliases: Optional list of user-friendly names for files. 
-                            If not provided, original file names will be used.
-            chunk_size: Optional custom chunk size for text splitting.
-            chunk_overlap: Optional custom chunk overlap for text splitting.
-        
-        Returns:
-            List of database file IDs for the uploaded files
-        """
-        # Create user-specific directory if it doesn't exist
-        user_dir = self.uploaded_files_dir / str(self.user_id)
-        user_dir.mkdir(exist_ok=True)
-        
-        # Create a unique collection name based on user_id
-        collection_name = f"user_{self.user_id}_collection"
-        
-        # Update text splitter if custom parameters provided
-        if chunk_size or chunk_overlap:
-            self.text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=chunk_size or self.chunk_size,
-                chunk_overlap=chunk_overlap or self.chunk_overlap,
-            )
-        
-        # Validate and process each PDF file in the list
-        processed_files = []
-        db_file_ids = []
-        
-        # If no aliases provided, create default aliases
-        if file_name_aliases is None:
-            file_name_aliases = [f"Research paper {i+1}" for i in range(len(pdf_paths))]
-        
-        for pdf_path, file_name_alias in zip(pdf_paths, file_name_aliases):
-            pdf_path = Path(pdf_path)
+    def find_pdf_files(self) -> List[str]:
+        """Find all PDF files in the data folder"""
+        pdf_pattern = os.path.join(self.data_folder, "*.pdf")
+        pdf_files = glob.glob(pdf_pattern)
+        logger.info(f"Found {len(pdf_files)} PDF files: {pdf_files}")
+        return pdf_files
+
+    def process_single_pdf(self, pdf_path: str) -> List[Document]:
+        """Process a single PDF file and return document objects"""
+        try:
+            logger.info(f"Processing PDF: {pdf_path}")
             
-            # Check if file exists
-            if not pdf_path.exists():
-                logging.error(f"PDF file not found at {pdf_path}. Skipping this file.")
-                continue
-            
-            # Determine destination path, ensuring it's unique
-            dest_path = user_dir / pdf_path.name
-            
-            # If file is already in the destination, use the existing path
-            if pdf_path.resolve() == dest_path.resolve():
-                logging.info(f"File {pdf_path.name} is already in the correct directory.")
-            else:
-                # Copy PDF to user's directory, overwriting if exists
-                shutil.copy2(pdf_path, dest_path)
-                logging.info(f"Copied {pdf_path.name} to {dest_path}")
-            
-            # Add file to database with actual filename and alias
-            try:
-                # Insert file record and get its database ID
-                # Now passing the actual filename instead of file path
-                db_file_id = self.db_manager.add_file_to_database(
-                    file_path=dest_path, 
-                    file_name_alias=pdf_path.name, 
-                    user_id=self.user_id
-                )
-                db_file_ids.append(db_file_id)
-            except Exception as e:
-                logging.error(f"Error adding file {pdf_path.name} to database: {e}")
-                continue
-            
-            logging.info(f"Loading PDF from {dest_path}...")
-            loader = PyPDFLoader(str(dest_path))
+            # Load PDF
+            loader = PyPDFLoader(str(pdf_path))
             documents = loader.load()
-
-            logging.info("Splitting documents into chunks...")
+            logger.info(f"Loaded {len(documents)} pages from {pdf_path}")
+            
+            # Split documents
             splits = self.text_splitter.split_documents(documents)
-
-            # Prepare Document instances with metadata for each split
-            # Use pdf_path.name as the source to match actual filename
+            logger.info(f"Created {len(splits)} text chunks from {pdf_path}")
+            
+            # Create document objects with metadata
             document_objects = [
-                Document(page_content=split.page_content, 
-                        metadata={
-                            "source": pdf_path.name, 
-                            "user_id": self.user_id,
-                            # "description": file_name_alias  # Keep alias in metadata for reference
-                        })
-                for split in splits
+                Document(
+                    page_content=split.page_content,
+                    metadata={
+                        "source": pdf_path,
+                        "filename": Path(pdf_path).name,
+                        "page": split.metadata.get("page", 0),
+                        "chunk_size": len(split.page_content),
+                        "chunk_index": i,
+                        "document_type": "pdf",
+                    }
+                )
+                for i, split in enumerate(splits)
             ]
+            
+            logger.info(f"Successfully processed {pdf_path}: {len(document_objects)} document objects created")
+            return document_objects
+            
+        except Exception as e:
+            logger.error(f"Error processing PDF {pdf_path}: {str(e)}")
+            return []
 
-            # Initialize vector store with user-specific collection name
+    def process_all_pdfs(self) -> List[Document]:
+        """Process all PDFs in the data folder"""
+        pdf_files = self.find_pdf_files()
+        
+        if not pdf_files:
+            logger.warning(f"No PDF files found in {self.data_folder}")
+            return []
+        
+        all_documents = []
+        for pdf_file in pdf_files:
+            documents = self.process_single_pdf(pdf_file)
+            all_documents.extend(documents)
+        
+        logger.info(f"Total documents processed: {len(all_documents)}")
+        return all_documents
+
+    def create_vector_store(self, documents: List[Document]) -> None:
+        """Create and populate vector store"""
+        try:
+            logger.info("Creating vector store...")
+            
             self.vector_store = Chroma(
-                collection_name=collection_name,
                 embedding_function=self.embeddings,
-                persist_directory="./chroma_db",
+                persist_directory=self.persist_directory,
             )
-
-            # Add documents with metadata
-            try:
-                self.vector_store.add_documents(documents=document_objects)
-                logging.info(f"Documents from {dest_path} added successfully for user {self.user_id}.")
-                processed_files.append(pdf_path.name)
-            except Exception as e:
-                logging.error(f"Error adding documents from {dest_path}: {e}")
-
-        # Initialize QA chain after processing all PDFs
-        if self.vector_store:
-            self._initialize_qa_chain()
-            logging.info(f"All PDFs processed for user {self.user_id}. Ready for querying.")
-        else:
-            logging.error("No PDFs were successfully processed.")
-        
-        return db_file_ids
-
-    def query(self, question: str) -> str:
-        """
-        Query the RAG system.
-        
-        Args:
-            question: Question to ask about the uploaded document(s)
-        
-        Returns:
-            Answer from the system
-        """
-        # Log the query in the database
-        self.db_manager.log_query(query=question, user_id=self.user_id)
-        
-        # Reinitialize vector store with user-specific collection
-        collection_name = f"user_{self.user_id}_collection"
-        self.vector_store = Chroma(
-            collection_name=collection_name,
-            embedding_function=self.embeddings,
-            persist_directory="./chroma_db",
-        )
-        
-        # Reinitialize QA chain
-        self._initialize_qa_chain()
-        
-        if not self.qa_chain:
-            logging.warning(f"Attempted to query before uploading a PDF for user {self.user_id}.")
-            return "Please upload a PDF document first using upload_pdfs()"
             
-        return self.qa_chain.run(question)
-    
-    def query_(self, user_id, question: str, pdfs: list) -> str:
-        """
-        Query the RAG system.
-        
-        Args:
-            question: Question to ask about the uploaded document(s)
-        
-        Returns:
-            Answer from the system
-        """
-        # Log the query in the database
-        self.db_manager.log_query(query=question, user_id=self.user_id)
-        
-        # Reinitialize vector store with user-specific collection
-        collection_name = f"user_{self.user_id}_collection"
-        self.vectordb = Chroma(
-            collection_name=collection_name,
-            embedding_function=self.embeddings,
-            persist_directory="./chroma_db",
-        )
-        
-        # Reinitialize QA chain
-        self._initialize_qa_chain()
-
-        pdf_file = f'uploaded_files/{user_id}/'
-        
-        if not self.qa_chain:
-            logging.warning(f"Attempted to query before uploading a PDF for user {self.user_id}.")
-            return "Please upload a PDF document first using upload_pdfs()"
-        
-        filter_criteria = None
-        if pdfs:
-            filter_criteria = {"source": {"$in": f'{pdf_file}{pdfs}'}}
-
-        relevant_docs = self.vectordb.get(where=filter_criteria)
-        if not relevant_docs['Document']:
-            return "No relevant documents found for the selected PDFs."
-        
-        results = self.vectordb.get(
-            where={"source": pdf_file.filename}
-            # include=["ids", "metadatas"]
-        )
-
-        return results
-            
-        return self.qa_chain.run(input_document = relevant_docs["documents"], question=question)
-
-    def display_uploaded_files(self) -> List[dict]:
-        """
-        Display the list of uploaded PDF files for the current user.
-        
-        Returns:
-            A list of dictionaries containing information about uploaded files
-        """
-        return self.db_manager.get_user_files(user_id=self.user_id)
-
-    def delete_file(self, file_id: int) -> None:
-        """
-        Delete a file from both the database and vector store.
-        
-        Args:
-            file_id: ID of the file to delete
-        """
-        # Get the filename from the database first
-        user_files = self.db_manager.get_user_files(user_id=self.user_id)
-        file_to_delete = next((f for f in user_files if f['id'] == file_id), None)
-        
-        if not file_to_delete:
-            logging.error(f"File with ID {file_id} not found for user {self.user_id}")
-            return
-        
-        # Delete embedding from vector store
-        self.delete_embedding(file_to_delete['fileName'])
-        
-        # Delete file from database
-        try:
-            self.db_manager.delete_file_from_database(file_id=file_id, user_id=self.user_id)
-            logging.info(f"File {file_to_delete['fileName']} deleted successfully.")
-        except Exception as e:
-            logging.error(f"Error deleting file from database: {e}")
-
-    # Rest of the previous methods remain the same as in the original implementation
-    def set_custom_prompt(self, template: str) -> None:
-        """
-        Set a custom prompt template.
-        
-        Args:
-            template: Custom template string. Must include {context} and {question} variables.
-        """
-        if "{context}" not in template or "{question}" not in template:
-            logging.error("Invalid prompt template. Missing {context} or {question}.")
-            raise ValueError("Template must include {context} and {question} variables")
-            
-        self.prompt = PromptTemplate(
-            template=template,
-            input_variables=["context", "question"]
-        )
-        
-        # Reinitialize QA chain with new prompt if vector store exists
-        if self.vector_store:
-            self._initialize_qa_chain()
-
-    def _initialize_qa_chain(self) -> None:
-        """Initialize the QA chain with current prompt and vector store."""
-        logging.info("Initializing the QA chain.")
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm= ChatOpenAI(),
-            chain_type="stuff",
-            retriever=self.vector_store.as_retriever(
-                search_kwargs={"k": 3}
-            ),
-            chain_type_kwargs={"prompt": self.prompt}
-        )
-
-    def delete_embedding(self, filename: str) -> None:
-        
-        """
-        Delete the embedding of a specific file for the current user and remove the file physically.
-
-        Args:
-            filename: Name of the file to delete (can be alias or actual filename).
-        """
-        # Create user directory path
-        user_dir = self.uploaded_files_dir / str(self.user_id)
-
-        # Retrieve the actual file information from the database
-        user_files = self.db_manager.get_user_files(user_id=self.user_id)
-        
-        # Find the matching file, checking both fileName and fileNameAlias
-        matching_file = next(
-            (f for f in user_files 
-            if f.get('fileName') == filename), 
-            None
-        )
-
-        if not matching_file:
-            logging.error(f"No file found with name: {filename}")
-            raise ValueError(f"File {filename} not found for user {self.user_id}")
-
-        # Determine the actual filename and file ID
-        actual_filename = matching_file.get('fileName')
-        file_id = matching_file.get('id')
-
-        if not actual_filename or not file_id:
-            logging.error(f"No valid filename or file ID found for: {filename}")
-            raise ValueError(f"Invalid file information for {filename}")
-
-        file_path = user_dir / actual_filename
-
-        # Initialize vector store for the user
-        collection_name = f"user_{self.user_id}_collection"
-        self.vector_store = Chroma(
-            collection_name=collection_name,
-            embedding_function=self.embeddings,
-            persist_directory="./chroma_db",
-        )
-
-        try:
-            # Delete documents from the vector store
-            self.vector_store.delete(where={"source": actual_filename})
-            logging.info(f"Embedding for {actual_filename} deleted successfully.")
-        except Exception as e:
-            logging.error(f"Error deleting embedding for {actual_filename}: {e}")
-            raise
-
-        try:
-            # Delete the physical file
-            if file_path.exists():
-                file_path.unlink()
-                logging.info(f"File {actual_filename} deleted successfully.")
+            if documents:
+                logger.info(f"Adding {len(documents)} documents to vector store...")
+                self.vector_store.add_documents(documents=documents)
+                logger.info("Documents added to vector store successfully")
             else:
-                logging.warning(f"File {actual_filename} does not exist on disk.")
+                logger.warning("No documents to add to vector store")
+                
         except Exception as e:
-            logging.error(f"Error deleting file {actual_filename}: {e}")
+            logger.error(f"Error creating vector store: {str(e)}")
             raise
 
-        # Delete the file record from the database using file_id
+    def setup_qa_chain(self) -> None:
+        """Setup the QA chain with memory"""
         try:
-            self.db_manager.delete_file_from_database(
-                file_id=file_id, 
-                user_id=self.user_id
+            logger.info("Setting up QA chain...")
+            
+            if not self.vector_store:
+                raise ValueError("Vector store not initialized. Call create_vector_store first.")
+            
+            # Create memory
+            memory = ConversationBufferMemory(
+                memory_key="chat_history",
+                return_messages=True,
+                output_key="answer"
             )
-            logging.info(f"File record for {actual_filename} deleted from database.")
+            
+            # Create QA chain
+            self.qa_chain = ConversationalRetrievalChain.from_llm(
+                llm=ChatOpenAI(),
+                retriever=self.vector_store.as_retriever(
+                    search_type="similarity",
+                    search_kwargs={"k": 3}
+                ),
+                memory=memory,
+                return_source_documents=True,
+                verbose=True
+            )
+            
+            logger.info("QA chain setup complete")
+            
         except Exception as e:
-            logging.error(f"Error deleting file record from database: {e}")
+            logger.error(f"Error setting up QA chain: {str(e)}")
             raise
+
+    def query(self, question: str) -> Dict[str, Any]:
+        """Query the QA chain"""
+        try:
+            logger.info(f"Processing query: {question}")
+            
+            if not self.qa_chain:
+                raise ValueError("QA chain not initialized. Call setup_qa_chain first.")
+            
+            response = self.qa_chain({"question": question})
+            
+            logger.info(f"Query processed successfully. Answer length: {len(response.get('answer', ''))}")
+            return response
+            
+        except Exception as e:
+            logger.error(f"Error processing query: {str(e)}")
+            raise
+
+    def initialize(self) -> None:
+        """Initialize the complete pipeline"""
+        try:
+            logger.info("Starting PDF processing pipeline...")
+            
+            # Create data folder if it doesn't exist
+            os.makedirs(self.data_folder, exist_ok=True)
+            
+            # Process all PDFs
+            documents = self.process_all_pdfs()
+            
+            # Create vector store
+            self.create_vector_store(documents)
+            
+            # Setup QA chain
+            self.setup_qa_chain()
+            
+            logger.info("PDF processing pipeline initialized successfully")
+            
+        except Exception as e:
+            logger.error(f"Error initializing pipeline: {str(e)}")
+            raise
+
+
+def main():
+    """Main function for standalone usage"""
+    try:
+        # Initialize processor
+        processor = PDFProcessor()
+        processor.initialize()
+        
+        # Example query
+        question = "What is attention?"
+        response = processor.query(question)
+        
+        print(f"\nQuestion: {question}")
+        print(f"Answer: {response.get('answer', 'No answer found')}")
+        
+        if response.get('source_documents'):
+            print(f"\nSources: {len(response['source_documents'])} documents")
+            for i, doc in enumerate(response['source_documents'][:2]):  # Show first 2 sources
+                print(f"Source {i+1}: {doc.metadata.get('filename', 'Unknown')} (Page {doc.metadata.get('page', 'Unknown')})")
+        
+    except Exception as e:
+        logger.error(f"Error in main: {str(e)}")
+        raise
+
+
+if __name__ == "__main__":
+    main()
