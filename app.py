@@ -3,6 +3,7 @@ from pydantic import BaseModel
 from typing import Dict, Any, List, Optional
 import logging
 import uvicorn
+import os
 from contextlib import asynccontextmanager
 
 # Import your existing PDFProcessor
@@ -20,11 +21,29 @@ async def lifespan(app: FastAPI):
     """Initialize the PDF processor on startup"""
     global pdf_processor
     try:
-        logger.info("Initializing PDF processor...")
-        pdf_processor = PDFProcessor()
+        logger.info("Initializing PDF processor with AWS Bedrock and S3...")
+        
+        # Get configuration from environment variables
+        opensearch_endpoint = os.getenv("OPENSEARCH_ENDPOINT")
+        opensearch_index = os.getenv("OPENSEARCH_INDEX", "pdf-documents")
+        aws_region = os.getenv("AWS_REGION", "us-east-1")
+        s3_prefix = os.getenv("S3_PREFIX", "")
+        
+        if not opensearch_endpoint:
+            raise ValueError("OPENSEARCH_ENDPOINT environment variable is required")
+        
+        # Initialize PDF processor with AWS services
+        pdf_processor = PDFProcessor(
+            s3_prefix=s3_prefix,
+            opensearch_endpoint=opensearch_endpoint,
+            opensearch_index=opensearch_index,
+            aws_region=aws_region
+        )
+        
         pdf_processor.initialize()
-        logger.info("PDF processor initialized successfully")
+        logger.info("PDF processor initialized successfully with AWS Bedrock and S3")
         yield
+        
     except Exception as e:
         logger.error(f"Failed to initialize PDF processor: {str(e)}")
         raise
@@ -33,8 +52,8 @@ async def lifespan(app: FastAPI):
 
 # Create FastAPI app with lifespan
 app = FastAPI(
-    title="PDF Chat API",
-    description="Chat with your PDF documents using AI",
+    title="VoxMed PDF Chat API",
+    description="Medical document chat assistant using AWS Bedrock and S3",
     version="1.0.0",
     lifespan=lifespan
 )
@@ -48,48 +67,43 @@ class SourceDocument(BaseModel):
     page: int
     content_preview: str
     chunk_index: int
+    s3_location: Optional[str] = None
+    document_type: Optional[str] = None
 
 class ChatResponse(BaseModel):
     question: str
     answer: str
     sources: List[SourceDocument]
     total_sources: int
+    processing_info: Optional[Dict[str, Any]] = None
 
 class HealthResponse(BaseModel):
     status: str
     message: str
     documents_loaded: bool
+    aws_services: Dict[str, str]
+    configuration: Dict[str, Any]
 
-@app.get("/health", response_model=HealthResponse)
-async def health_check():
-    """Health check endpoint"""
-    global pdf_processor
-    
-    if pdf_processor is None:
-        return HealthResponse(
-            status="error",
-            message="PDF processor not initialized",
-            documents_loaded=False
-        )
-    
-    documents_loaded = pdf_processor.vector_store is not None
-    
-    return HealthResponse(
-        status="healthy",
-        message="PDF processor is running",
-        documents_loaded=documents_loaded
-    )
+class SystemInfoResponse(BaseModel):
+    s3_bucket: str
+    s3_prefix: str
+    opensearch_endpoint: str
+    opensearch_index: str
+    aws_region: str
+    llm_model: str
+    embedding_model: str
+
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat_with_pdfs(request: ChatRequest):
     """
-    Chat endpoint to ask questions about your PDF documents
+    Chat endpoint to ask questions about your PDF documents stored in S3
     
     Args:
         request: ChatRequest containing the question to ask
         
     Returns:
-        ChatResponse with the answer and source documents
+        ChatResponse with the answer and source documents from S3
         
     Raises:
         HTTPException: If the processor is not initialized or query fails
@@ -99,7 +113,7 @@ async def chat_with_pdfs(request: ChatRequest):
     if pdf_processor is None:
         raise HTTPException(
             status_code=500, 
-            detail="PDF processor not initialized. Check server logs."
+            detail="PDF processor not initialized. Check server logs and AWS configuration."
         )
     
     if not request.question.strip():
@@ -123,15 +137,22 @@ async def chat_with_pdfs(request: ChatRequest):
                 filename=doc.metadata.get('filename', 'Unknown'),
                 page=doc.metadata.get('page', 0),
                 content_preview=doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content,
-                chunk_index=doc.metadata.get('chunk_index', 0)
+                chunk_index=doc.metadata.get('chunk_index', 0),
+                s3_location=doc.metadata.get('source', 'Unknown'),
+                document_type=doc.metadata.get('document_type', 'pdf')
             ))
         
-        # Create response
+        # Create response with additional processing info
         chat_response = ChatResponse(
             question=request.question,
             answer=response.get('answer', 'No answer found'),
             sources=sources,
-            total_sources=len(sources)
+            total_sources=len(sources),
+            processing_info={
+                "retrieval_method": "OpenSearch similarity search",
+                "llm_provider": "AWS Bedrock",
+                "embedding_provider": "AWS Bedrock"
+            }
         )
         
         logger.info(f"Chat request processed successfully. Answer length: {len(chat_response.answer)}")
@@ -144,34 +165,148 @@ async def chat_with_pdfs(request: ChatRequest):
             detail=f"Error processing your question: {str(e)}"
         )
 
-@app.get("/")
-async def root():
-    """Root endpoint with basic information"""
-    return {
-        "message": "PDF Chat API",
-        "description": "Upload PDFs to the 'data' folder and chat with them using the /chat endpoint",
-        "endpoints": {
-            "health": "/health - Check API health status",
-            "chat": "/chat - Ask questions about your PDFs",
-            "docs": "/docs - Interactive API documentation"
+@app.get("/health", response_model=HealthResponse)
+async def health_check():
+    """
+    Health check endpoint with AWS services status
+    
+    Returns:
+        HealthResponse with system health and AWS service status
+    """
+    global pdf_processor
+    
+    try:
+        is_healthy = pdf_processor is not None
+        
+        aws_services = {
+            "bedrock": "Connected" if is_healthy else "Not Connected",
+            "s3": "Connected" if is_healthy else "Not Connected", 
+            "opensearch": "Connected" if is_healthy else "Not Connected"
         }
-    }
+        
+        configuration = {}
+        if pdf_processor:
+            configuration = {
+                "s3_bucket": pdf_processor.s3_bucket,
+                "s3_prefix": pdf_processor.s3_prefix,
+                "opensearch_index": pdf_processor.opensearch_index,
+                "aws_region": pdf_processor.aws_region
+            }
+        
+        return HealthResponse(
+            status="healthy" if is_healthy else "unhealthy",
+            message="PDF processor is ready" if is_healthy else "PDF processor not initialized",
+            documents_loaded=is_healthy,
+            aws_services=aws_services,
+            configuration=configuration
+        )
+        
+    except Exception as e:
+        logger.error(f"Health check failed: {str(e)}")
+        return HealthResponse(
+            status="unhealthy",
+            message=f"Health check failed: {str(e)}",
+            documents_loaded=False,
+            aws_services={"error": str(e)},
+            configuration={}
+        )
+
+@app.get("/system-info", response_model=SystemInfoResponse)
+async def get_system_info():
+    """
+    Get system configuration information
+    
+    Returns:
+        SystemInfoResponse with current system configuration
+        
+    Raises:
+        HTTPException: If processor is not initialized
+    """
+    global pdf_processor
+    
+    if pdf_processor is None:
+        raise HTTPException(
+            status_code=500,
+            detail="PDF processor not initialized"
+        )
+    
+    try:
+        return SystemInfoResponse(
+            s3_bucket=pdf_processor.s3_bucket,
+            s3_prefix=pdf_processor.s3_prefix,
+            opensearch_endpoint=pdf_processor.opensearch_endpoint,
+            opensearch_index=pdf_processor.opensearch_index,
+            aws_region=pdf_processor.aws_region,
+            llm_model="AWS Bedrock - Claude 3 Sonnet",
+            embedding_model="AWS Bedrock - Titan Embeddings"
+        )
+        
+    except Exception as e:
+        logger.error(f"Error getting system info: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving system information: {str(e)}"
+        )
+
+@app.post("/reload-documents")
+async def reload_documents():
+    """
+    Reload documents from S3 and rebuild the vector store
+    
+    Returns:
+        Dict with reload status and statistics
+        
+    Raises:
+        HTTPException: If reload fails
+    """
+    global pdf_processor
+    
+    if pdf_processor is None:
+        raise HTTPException(
+            status_code=500,
+            detail="PDF processor not initialized"
+        )
+    
+    try:
+        logger.info("Starting document reload from S3...")
+        
+        pdf_processor.initialize()
+        
+        pdf_files = pdf_processor.find_pdf_files_in_s3()
+        
+        logger.info("Document reload completed successfully")
+        
+        return {
+            "status": "success",
+            "message": "Documents reloaded successfully from S3",
+            "pdf_files_found": len(pdf_files),
+            "s3_bucket": pdf_processor.s3_bucket,
+            "s3_prefix": pdf_processor.s3_prefix
+        }
+        
+    except Exception as e:
+        logger.error(f"Error reloading documents: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error reloading documents: {str(e)}"
+        )
+
 
 # Error handlers
 @app.exception_handler(404)
 async def not_found_handler(request, exc):
-    return {"error": "Endpoint not found", "message": "Check /docs for available endpoints"}
+    return {
+        "error": "Endpoint not found", 
+        "message": "Check /docs for available endpoints",
+        "available_endpoints": ["/", "/health", "/system-info", "/chat", "/reload-documents", "/docs"]
+    }
 
 @app.exception_handler(500)
 async def internal_error_handler(request, exc):
     logger.error(f"Internal server error: {str(exc)}")
-    return {"error": "Internal server error", "message": "Check server logs for details"}
+    return {
+        "error": "Internal server error", 
+        "message": "Check server logs for details",
+        "suggestion": "Verify AWS credentials and service configurations"
+    }
 
-if __name__ == "__main__":
-    uvicorn.run(
-        "api:app",  # Assuming this file is named api.py
-        host="0.0.0.0",
-        port=8000,
-        reload=True,
-        log_level="info"
-    )
