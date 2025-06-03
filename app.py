@@ -24,19 +24,19 @@ async def lifespan(app: FastAPI):
         logger.info("Initializing PDF processor with AWS Bedrock and S3...")
         
         # Get configuration from environment variables
-        opensearch_endpoint = os.getenv("OPENSEARCH_ENDPOINT")
-        opensearch_index = os.getenv("OPENSEARCH_INDEX", "pdf-documents")
+        # opensearch_endpoint = os.getenv("OPENSEARCH_ENDPOINT")
+        # opensearch_index = os.getenv("OPENSEARCH_INDEX", "pdf-documents")
         aws_region = os.getenv("AWS_REGION", "us-east-1")
-        s3_prefix = os.getenv("S3_PREFIX", "")
+        s3_prefix = "uploads/"
         
-        if not opensearch_endpoint:
-            raise ValueError("OPENSEARCH_ENDPOINT environment variable is required")
+        # if not opensearch_endpoint:
+        #     raise ValueError("OPENSEARCH_ENDPOINT environment variable is required")
         
         # Initialize PDF processor with AWS services
         pdf_processor = PDFProcessor(
             s3_prefix=s3_prefix,
-            opensearch_endpoint=opensearch_endpoint,
-            opensearch_index=opensearch_index,
+            # opensearch_endpoint=opensearch_endpoint,
+            # opensearch_index=opensearch_index,
             aws_region=aws_region
         )
         
@@ -163,132 +163,6 @@ async def chat_with_pdfs(request: ChatRequest):
         raise HTTPException(
             status_code=500,
             detail=f"Error processing your question: {str(e)}"
-        )
-
-@app.get("/health", response_model=HealthResponse)
-async def health_check():
-    """
-    Health check endpoint with AWS services status
-    
-    Returns:
-        HealthResponse with system health and AWS service status
-    """
-    global pdf_processor
-    
-    try:
-        is_healthy = pdf_processor is not None
-        
-        aws_services = {
-            "bedrock": "Connected" if is_healthy else "Not Connected",
-            "s3": "Connected" if is_healthy else "Not Connected", 
-            "opensearch": "Connected" if is_healthy else "Not Connected"
-        }
-        
-        configuration = {}
-        if pdf_processor:
-            configuration = {
-                "s3_bucket": pdf_processor.s3_bucket,
-                "s3_prefix": pdf_processor.s3_prefix,
-                "opensearch_index": pdf_processor.opensearch_index,
-                "aws_region": pdf_processor.aws_region
-            }
-        
-        return HealthResponse(
-            status="healthy" if is_healthy else "unhealthy",
-            message="PDF processor is ready" if is_healthy else "PDF processor not initialized",
-            documents_loaded=is_healthy,
-            aws_services=aws_services,
-            configuration=configuration
-        )
-        
-    except Exception as e:
-        logger.error(f"Health check failed: {str(e)}")
-        return HealthResponse(
-            status="unhealthy",
-            message=f"Health check failed: {str(e)}",
-            documents_loaded=False,
-            aws_services={"error": str(e)},
-            configuration={}
-        )
-
-@app.get("/system-info", response_model=SystemInfoResponse)
-async def get_system_info():
-    """
-    Get system configuration information
-    
-    Returns:
-        SystemInfoResponse with current system configuration
-        
-    Raises:
-        HTTPException: If processor is not initialized
-    """
-    global pdf_processor
-    
-    if pdf_processor is None:
-        raise HTTPException(
-            status_code=500,
-            detail="PDF processor not initialized"
-        )
-    
-    try:
-        return SystemInfoResponse(
-            s3_bucket=pdf_processor.s3_bucket,
-            s3_prefix=pdf_processor.s3_prefix,
-            opensearch_endpoint=pdf_processor.opensearch_endpoint,
-            opensearch_index=pdf_processor.opensearch_index,
-            aws_region=pdf_processor.aws_region,
-            llm_model="AWS Bedrock - Claude 3 Sonnet",
-            embedding_model="AWS Bedrock - Titan Embeddings"
-        )
-        
-    except Exception as e:
-        logger.error(f"Error getting system info: {str(e)}")
-        raise HTTPException(
-            status_code=500,
-            detail=f"Error retrieving system information: {str(e)}"
-        )
-
-@app.post("/reload-documents")
-async def reload_documents():
-    """
-    Reload documents from S3 and rebuild the vector store
-    
-    Returns:
-        Dict with reload status and statistics
-        
-    Raises:
-        HTTPException: If reload fails
-    """
-    global pdf_processor
-    
-    if pdf_processor is None:
-        raise HTTPException(
-            status_code=500,
-            detail="PDF processor not initialized"
-        )
-    
-    try:
-        logger.info("Starting document reload from S3...")
-        
-        pdf_processor.initialize()
-        
-        pdf_files = pdf_processor.find_pdf_files_in_s3()
-        
-        logger.info("Document reload completed successfully")
-        
-        return {
-            "status": "success",
-            "message": "Documents reloaded successfully from S3",
-            "pdf_files_found": len(pdf_files),
-            "s3_bucket": pdf_processor.s3_bucket,
-            "s3_prefix": pdf_processor.s3_prefix
-        }
-        
-    except Exception as e:
-        logger.error(f"Error reloading documents: {str(e)}")
-        raise HTTPException(
-            status_code=500,
-            detail=f"Error reloading documents: {str(e)}"
         )
 
 

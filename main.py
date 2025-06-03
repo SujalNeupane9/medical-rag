@@ -6,13 +6,15 @@ from typing import List, Dict, Any
 import boto3
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter, TokenTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.docstore.in_memory import InMemoryDocstore
+import faiss
 from langchain_aws.embeddings import BedrockEmbeddings
+from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import S3FileLoader, S3DirectoryLoader
-from langchain_aws.llms import BedrockLLM
+from langchain_aws import ChatBedrock
 from langchain_community.vectorstores import OpenSearchVectorSearch
 from langchain.vectorstores import Chroma
-from langchain.chat_models import ChatOpenAI
+# from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 from langchain_community.document_loaders import PyPDFLoader
@@ -28,6 +30,7 @@ from dotenv import load_dotenv
 load_dotenv()
 os.environ['aws_access_key_id'] = os.getenv("aws_access_key_id")
 os.environ['aws_secret_access_key'] = os.getenv("aws_secret_access_key")
+os.environ['AWS_DEFAULT_REGION'] = os.getenv("AWS_DEFAULT_REGION")
 
 # Configure logging
 logging.basicConfig(
@@ -122,18 +125,18 @@ class SemanticTextSplitter:
 
 class PDFProcessor:
     # Class attribute for S3 bucket name
-    S3_BUCKET = "your-medical-documents-bucket"  
+    S3_BUCKET = "demo-ai-agent"  
     
     def __init__(self, 
-                 s3_prefix: str = "",
-                 opensearch_endpoint: str = None,
-                 opensearch_index: str = "pdf-documents",
-                 aws_region: str = "us-east-1"):
+                 s3_prefix: str = "uploads/",
+                 # opensearch_endpoint: str = None,
+                 # opensearch_index: str = "pdf-documents",
+                 aws_region: str = os.getenv("AWS_DEFAULT_REGION")):
         self.s3_bucket = self.S3_BUCKET
-        self.s3_prefix = s3_prefix
+        self.s3_prefix = "uploads/"
         self.aws_region = aws_region
-        self.opensearch_endpoint = opensearch_endpoint
-        self.opensearch_index = opensearch_index
+        # self.opensearch_endpoint = opensearch_endpoint
+        # self.opensearch_index = opensearch_index
         
         # Initialize AWS clients
         self.bedrock_client = boto3.client(
@@ -148,14 +151,12 @@ class PDFProcessor:
             region_name=self.aws_region
         )
         
-        self.llm = BedrockLLM(
-            client=self.bedrock_client,
-            model_id="anthropic.claude-3-sonnet-20240229-v1:0",  #model
-            region_name=self.aws_region,
-            model_kwargs={
-                "max_tokens": 4096,
-                "temperature": 0.1
-            }
+        self.llm = ChatBedrock(
+            model="anthropic.claude-3-sonnet-20240229-v1:0",  # Bedrock model ID
+            region_name="us-east-1",                            # Your AWS region
+            temperature=0.3,                                    # Optional model parameters
+            max_tokens=4096,
+            # You can pass other model_kwargs as needed
         )
         
         self.vector_store = None
@@ -163,177 +164,40 @@ class PDFProcessor:
         
         # Default template 
         self.default_template = """
-            ## Core Identity and Purpose
-            You are VoxMed, a Virtual Medical Assistant designed specifically to support busy medical consultants by reducing administrative burden and improving patient interaction quality. Your primary mission is to handle repetitive patient inquiries efficiently while maintaining the highest standards of medical safety and regulatory compliance.
-            Primary Objectives
+            ## Core Identity
+            You are VoxMed, a Virtual Medical Assistant designed to support medical consultants by handling routine patient inquiries while maintaining strict safety standards.
+            Response Guidelines
+            W# hat You CAN Do:
 
-            Reduce repetitive administrative tasks for medical consultants
-            Answer routine patient questions using clinically approved information
-            Improve clinic performance by centralizing and prioritizing patient queries
-            Enhance staff productivity and practice capacity
-            Maintain patient safety as the absolute priority
+            1. Provide general educational information from approved medical sources
+            2. Share clinic policies and administrative information
+            3. Quote directly from medical literature with proper citations
+            4. Answer routine questions using the provided context
 
-            ## Query Expansion Process
-            Before processing the user's query, perform the following expansion steps:
-            1. IDENTIFY CORE CONCEPTS
-            - Extract main topics, entities, and key terms from the original query
-            - Break down compound queries into atomic components
-            - Identify any domain-specific terminology
+            What You CANNOT Do:
 
-            2. EXPAND QUERY TERMS
-            - Generate synonyms for key terms using common variations and alternatives
-            - Include related terms and concepts within the same semantic field
-            - Consider different word forms (singular/plural, verb tenses, etc.)
-            - Add common abbreviations and acronyms where applicable
+            1. Provide diagnostic advice or symptom interpretation
+            2. Recommend treatments or medications
+            3. Make triage decisions or assess urgency
+            4. Generate medical content not found in your sources
 
-            3. CONTEXTUAL ENHANCEMENT
-            - Consider the domain context of the query
-            - Add relevant industry-specific terminology
-            - Include common collocations and phrases
-            - Consider geographic or cultural variations if applicable
-
-            4. QUERY REFINEMENT
-            - Combine expanded terms using appropriate boolean operators (AND, OR)
-            - Weight terms based on their relevance to the original query
-            - Remove any redundant or irrelevant expansions
-            - Preserve the original query intent while broadening the search scope
-
-            Example Query Expansion:
-            Original: "solar panel efficiency"
-            Expanded: (solar OR photovoltaic OR PV) AND (panel OR module OR array) AND (efficiency OR performance OR output OR yield) AND (energy OR power OR electricity)
-
+            Response Format:
+            Provide clear, direct answers using information from the context provided. Always include source citations when referencing medical information. If the answer isn't available in the provided context, politely state that the information isn't available in the current documents.
+            Safety Redirects:
+            For diagnostic questions, treatment advice, or emergency situations, redirect patients to contact their healthcare provider immediately.
+            
+            
+            ## Context and Query Processing
             Context: {context}
-            (The provided context includes content from uploaded files. Analyze these files thoroughly to extract relevant information needed to answer the question. If the answer is not available in the context, reply in professional manner that the answer is not available in the provided document.)
 
             Chat History: {chat_history}
 
-            Question/Task: {question}
+            Question: {question}
 
-            Core Operational Guidelines
-            1. Response Framework
-            ALWAYS follow this structure for every response:
+            ## Instructions: 
+            Answer the question using only information from the provided context. Be direct and helpful while maintaining medical safety standards. If information isn't available in the context, clearly state this limitation.
 
-            Retrieve Relevant Information: Search your knowledge base for the most relevant, clinically approved content
-            Extract Exact Paragraph: Locate the specific paragraph that contains the answer
-            Provide Direct Citation: Include complete source attribution (document name, chapter, section, page number)
-            Present Answer: Share the exact paragraph from the source without modification
-            Avoid Generation: Never create your own medical sentences or interpretations
-
-            
-            Strict Boundaries and Limitations
-            NEVER Provide:
-
-            Diagnostic recommendations ("You might have..." or "This could be...")
-
-            Triage decisions ("You should go to the ER" or "This is urgent")
-            Treatment advice ("Take this medication" or "Do this procedure")
-            Symptom interpretation ("Your symptoms suggest...")
-            Medical opinions not directly stated in approved sources
-            Generated medical content not found in your knowledge base
-
-            ALWAYS Redirect for:
-
-            Emergency situations: "For urgent medical concerns, please contact your healthcare provider immediately or call emergency services."
-            Diagnostic questions: "Please discuss your symptoms with your healthcare provider for proper evaluation."
-            Treatment decisions: "Treatment options should be discussed directly with your medical consultant."
-            Medication questions: "Please consult your healthcare provider or pharmacist regarding medications."
-
-            Query Processing Protocol
-            Step 1: Query Classification
-            Classify each query as:
-
-            Routine Administrative (appointment scheduling, clinic policies, general information)
-            Educational/Informational (condition explanations from approved sources)
-            Diagnostic/Triage (symptom assessment, medical decision-making) → REDIRECT
-            Treatment/Medication (therapeutic recommendations) → REDIRECT
-
-            Step 2: Knowledge Base Search
-
-            Search for exact matches in approved medical literature
-            Prioritize peer-reviewed, clinically approved sources
-            Look for official guidelines, protocols, and established medical references
-
-            Step 3: Response Validation
-            Before responding, verify:
-
-            Information comes directly from approved source
-            Complete citation is included
-            No diagnostic/triage content is provided
-            No generated medical content is included
-            Response stays within administrative/educational scope
-
-            Approved Response Categories
-            ✅ Appropriate Responses:
-
-            Clinic policies and procedures
-            Appointment scheduling information
-            General condition information (from approved sources only)
-            Post-visit care instructions (from approved protocols)
-            Administrative questions about practice operations
-            Educational content from peer-reviewed medical literature
-
-            ❌ Prohibited Responses:
-
-            Symptom assessment or interpretation
-            Diagnostic suggestions or possibilities
-            Treatment recommendations
-            Medication advice
-            Triage decisions
-            Urgency assessments
-            Generated medical explanations not found in sources
-
-            Safety Protocols
-            Uncertainty Handling
-            If you cannot find relevant information in your approved knowledge base:
-            "I don't have approved clinical information to answer this question. Please contact your healthcare provider for accurate medical guidance."
-            Emergency Detection
-            If a query suggests potential emergency:
-            "This question requires immediate medical attention. Please contact your healthcare provider immediately or call emergency services if this is urgent."
-            Out-of-Scope Queries
-            For questions requiring clinical judgment:
-            "This question requires personalized medical evaluation. Please discuss this with your healthcare provider during your appointment."
-            Quality Assurance Checklist
-            Before sending any response, confirm:
-
-            Answer extracted from approved medical source (not generated)
-            Complete source citation provided
-            No diagnostic or triage content included
-            Response serves administrative/educational purpose only
-            Patient safety prioritized over convenience
-            Compliance with GDPR, HIPAA, and medical AI regulations maintained
-
-            Escalation Triggers
-            Immediately escalate to human medical staff when:
-
-            Patient expresses suicidal ideation
-            Emergency medical situation is described
-            Serious adverse drug reaction is reported
-            Patient safety concern is identified
-            Query involves complex medical decision-making
-
-            Continuous Improvement
-            Patient Question Insights (PQI)
-            Track and categorize:
-
-            Most frequent patient inquiries
-            Knowledge gaps in current database
-            Areas requiring additional approved content
-            Patterns in redirected queries
-
-            Performance Metrics
-            Monitor:
-
-            Response accuracy (source verification)
-            Citation completeness
-            Appropriate boundary maintenance
-            Patient satisfaction with responses
-            Reduction in consultant administrative burden
-
-
-            Remember: When in doubt, prioritize patient safety over providing an answer. It's better to redirect appropriately than risk providing inappropriate medical guidance.
-
-        ANSWER:
-      
+            Answer:
         """
         
         # Initialize text splitter
@@ -426,17 +290,14 @@ class PDFProcessor:
         try:
             logger.info("Creating OpenSearch vector store...")
             
-            if not self.opensearch_endpoint:
-                raise ValueError("OpenSearch endpoint not provided")
-            
-            self.vector_store = OpenSearchVectorSearch(
-                opensearch_url=self.opensearch_endpoint,
-                index_name=self.opensearch_index,
+            # if not self.opensearch_endpoint:
+            #     raise ValueError("OpenSearch endpoint not provided")
+
+            # Create FAISS vector store with empty docstore and index
+            self.vector_store =  Chroma(
+                collection_name="test_collection",
                 embedding_function=self.embeddings,
-                use_ssl=True,
-                verify_certs=True,
-                ssl_assert_hostname=False,
-                ssl_show_warn=False,
+                persist_directory="./chroma_db",
             )
             
             if documents:
@@ -461,8 +322,8 @@ class PDFProcessor:
         try:
             logger.info("Setting up QA chain with Bedrock LLM...")
             
-            if not self.vector_store:
-                raise ValueError("Vector store not initialized. Call create_opensearch_vector_store first.")
+            # if not self.vector_store:
+            #     raise ValueError("Vector store not initialized. Call create_opensearch_vector_store first.")
             
             # Create memory
             memory = ConversationBufferMemory(
@@ -504,7 +365,7 @@ class PDFProcessor:
             if not self.qa_chain:
                 raise ValueError("QA chain not initialized. Call setup_qa_chain first.")
             
-            response = self.qa_chain({"question": question})
+            response = self.qa_chain.invoke({"question":question})
             
             logger.info(f"Query processed successfully. Answer length: {len(response.get('answer', ''))}")
             return response
@@ -533,35 +394,3 @@ class PDFProcessor:
             logger.error(f"Error initializing pipeline: {str(e)}")
             raise
 
-
-def main():
-    """Main function for standalone usage"""
-    try:
-        processor = PDFProcessor(
-            s3_prefix="pdfs/",  # Optional: prefix for PDF files in S3
-            opensearch_endpoint="https://your-opensearch-endpoint.amazonaws.com",
-            opensearch_index="pdf-documents",
-            aws_region="us-east-1"
-        )
-        processor.initialize()
-        
-        # Example query
-        question = "What is attention?"
-        response = processor.query(question)
-        
-        print(f"\nQuestion: {question}")
-        print(f"Answer: {response.get('answer', 'No answer found')}")
-        
-        if response.get('source_documents'):
-            print(f"\nSources: {len(response['source_documents'])} documents")
-            for i, doc in enumerate(response['source_documents'][:2]):  # Show first 2 sources
-                print(f"Source {i+1}: {doc.metadata.get('filename', 'Unknown')} (Page {doc.metadata.get('page', 'Unknown')})")
-                print(f"S3 Location: {doc.metadata.get('source', 'Unknown')}")
-        
-    except Exception as e:
-        logger.error(f"Error in main: {str(e)}")
-        raise
-
-
-if __name__ == "__main__":
-    main()
