@@ -124,8 +124,10 @@ class SemanticTextSplitter:
 
 class PDFProcessor:
     def __init__(self, 
-                 aws_region: str = os.getenv("AWS_DEFAULT_REGION")):
+                 aws_region: str = os.getenv("AWS_DEFAULT_REGION"),
+                 chroma_base_dir: str = "./chroma_db"):
         self.aws_region = aws_region
+        self.chroma_base_dir = chroma_base_dir
         
         # Initialize AWS clients
         self.bedrock_client = boto3.client(
@@ -143,7 +145,7 @@ class PDFProcessor:
         self.llm = ChatBedrock(
             model="anthropic.claude-3-haiku-20240307-v1:0",  # Bedrock model ID
             region_name="us-east-1",                            # Your AWS region
-            temperature=0.3,                                    # Optional model parameters
+            temperature=0.1,                                    # Optional model parameters
             max_tokens=4096,
             # You can pass other model_kwargs as needed
         )
@@ -206,7 +208,112 @@ class PDFProcessor:
             chunk_overlap=128,
         )
         
+        # Load existing user collections on initialization
+        self.load_existing_collections()
+        
         logger.info("PDFProcessor initialized for local file processing")
+    
+    def load_existing_collections(self):
+        """Load existing user collections from persistent storage on startup"""
+        try:
+            logger.info("Loading existing user collections...")
+            
+            # Create base directory if it doesn't exist
+            os.makedirs(self.chroma_base_dir, exist_ok=True)
+            
+            # Look for existing user directories
+            user_dirs = [d for d in os.listdir(self.chroma_base_dir) 
+                        if os.path.isdir(os.path.join(self.chroma_base_dir, d))]
+            
+            for user_dir in user_dirs:
+                user_id = user_dir
+                persist_directory = os.path.join(self.chroma_base_dir, user_dir)
+                
+                try:
+                    # Check if this directory contains a valid Chroma collection
+                    if self.is_valid_chroma_collection(persist_directory):
+                        logger.info(f"Loading existing collection for user: {user_id}")
+                        
+                        # Load the existing vector store
+                        collection_name = f"user_{user_id}_collection"
+                        self.user_vector_stores[user_id] = Chroma(
+                            collection_name=collection_name,
+                            embedding_function=self.embeddings,
+                            persist_directory=persist_directory,
+                        )
+                        
+                        # Setup QA chain for this user
+                        self.setup_user_qa_chain(user_id)
+                        
+                        document_count = self.get_user_document_count(user_id)
+                        logger.info(f"Loaded collection for user {user_id} with {document_count} documents")
+                        
+                except Exception as e:
+                    logger.warning(f"Failed to load collection for user {user_id}: {str(e)}")
+                    continue
+            
+            logger.info(f"Loaded {len(self.user_vector_stores)} existing user collections")
+            
+        except Exception as e:
+            logger.error(f"Error loading existing collections: {str(e)}")
+    
+    def is_valid_chroma_collection(self, persist_directory: str) -> bool:
+        """Check if a directory contains a valid Chroma collection"""
+        try:
+            # Check for essential Chroma files
+            required_files = ['chroma.sqlite3']
+            for file in required_files:
+                if not os.path.exists(os.path.join(persist_directory, file)):
+                    return False
+            
+            # Try to load the collection to verify it's valid
+            collection_name = f"user_{os.path.basename(persist_directory)}_collection"
+            test_store = Chroma(
+                collection_name=collection_name,
+                embedding_function=self.embeddings,
+                persist_directory=persist_directory,
+            )
+            
+            # Check if collection has documents
+            count = test_store._collection.count()
+            return count > 0
+            
+        except Exception as e:
+            logger.debug(f"Invalid Chroma collection at {persist_directory}: {str(e)}")
+            return False
+    
+    def user_has_documents(self, user_id: str) -> bool:
+        """Check if a user already has documents in their collection"""
+        try:
+            if user_id in self.user_vector_stores:
+                document_count = self.get_user_document_count(user_id)
+                return document_count > 0
+            return False
+        except Exception as e:
+            logger.error(f"Error checking if user {user_id} has documents: {str(e)}")
+            return False
+    
+    def get_user_document_files(self, user_id: str) -> List[str]:
+        """Get list of files that have been processed for a user"""
+        try:
+            if user_id not in self.user_vector_stores:
+                return []
+            
+            # Get a sample of documents to extract filenames
+            retriever = self.user_vector_stores[user_id].as_retriever(search_kwargs={"k": 100})
+            sample_docs = self.user_vector_stores[user_id].similarity_search("", k=100)
+            
+            # Extract unique filenames from metadata
+            filenames = set()
+            for doc in sample_docs:
+                if 'filename' in doc.metadata:
+                    filenames.add(doc.metadata['filename'])
+            
+            return list(filenames)
+            
+        except Exception as e:
+            logger.error(f"Error getting document files for user {user_id}: {str(e)}")
+            return []
 
     def process_single_pdf_from_path(self, file_path: str) -> List[Document]:
         """Process a single PDF file from local path and return document objects"""
@@ -251,7 +358,7 @@ class PDFProcessor:
             logger.error(f"Error processing PDF {file_path}: {str(e)}")
             return []
 
-    def process_pdfs_for_user(self, file_paths: List[str], user_id: str) -> None:
+    def process_pdfs_for_user(self, file_paths: List[str], user_id: str, append_to_existing: bool = True) -> None:
         """Process multiple PDF files for a specific user and create user-specific collection"""
         try:
             logger.info(f"Processing {len(file_paths)} PDF files for user: {user_id}")
@@ -275,10 +382,20 @@ class PDFProcessor:
             
             logger.info(f"Total documents processed for user {user_id}: {len(all_documents)}")
             
-            # Create user-specific vector store
-            self.create_user_vector_store(all_documents, user_id)
+            # Create or update user-specific vector store
+            if user_id in self.user_vector_stores and append_to_existing:
+                # Add to existing collection
+                logger.info(f"Adding documents to existing collection for user {user_id}")
+                batch_size = 100
+                for i in range(0, len(all_documents), batch_size):
+                    batch = all_documents[i:i + batch_size]
+                    self.user_vector_stores[user_id].add_documents(documents=batch)
+                    logger.info(f"Added batch {i//batch_size + 1}/{(len(all_documents) + batch_size - 1)//batch_size} for user {user_id}")
+            else:
+                # Create new collection
+                self.create_user_vector_store(all_documents, user_id)
             
-            # Setup QA chain for this user
+            # Setup QA chain for this user (will update existing one)
             self.setup_user_qa_chain(user_id)
             
             logger.info(f"Successfully processed and stored documents for user: {user_id}")
@@ -294,7 +411,7 @@ class PDFProcessor:
             
             # Create Chroma vector store with user-specific collection name
             collection_name = f"user_{user_id}_collection"
-            persist_directory = f"./chroma_db/{user_id}"
+            persist_directory = os.path.join(self.chroma_base_dir, user_id)
             
             # Create directory if it doesn't exist
             os.makedirs(persist_directory, exist_ok=True)
@@ -409,7 +526,7 @@ class PDFProcessor:
                 del self.user_qa_chains[user_id]
             
             # Remove persistent directory
-            persist_directory = f"./chroma_db/{user_id}"
+            persist_directory = os.path.join(self.chroma_base_dir, user_id)
             if os.path.exists(persist_directory):
                 import shutil
                 shutil.rmtree(persist_directory)
@@ -420,4 +537,3 @@ class PDFProcessor:
         except Exception as e:
             logger.error(f"Error deleting data for user {user_id}: {str(e)}")
             return False
-
