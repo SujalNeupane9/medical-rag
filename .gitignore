@@ -165,3 +165,11 @@ uploaded_files/
 
 data/
 chroma_db/
+upload_delete.py
+check_bucket.py
+pdf_processor_api.log
+pdf_processor.log
+
+## pdf files
+ivf_sample_2.pdf
+ivf_sample.pdf

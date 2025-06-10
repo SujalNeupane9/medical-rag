@@ -9,11 +9,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter, TokenTextSpl
 from langchain_community.docstore.in_memory import InMemoryDocstore
 import faiss
 from langchain_aws.embeddings import BedrockEmbeddings
-from langchain_community.vectorstores import FAISS
 from langchain_aws import ChatBedrock
 from langchain_community.vectorstores import OpenSearchVectorSearch
 from langchain.vectorstores import Chroma
-# from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 from langchain_community.document_loaders import PyPDFLoader
