@@ -1,0 +1,1360 @@
+[
+  {
+    "pair_id": 1,
+    "question": "What are the common causes of infertility in women?",
+    "answer": "Common causes of infertility in women include ovulation disorders, endometriosis, uterine or cervical abnormalities, fallopian tube damage or blockage, and age-related factors. Hormonal imbalances, lifestyle factors such as smoking and obesity, and certain medical conditions like polycystic ovary syndrome (PCOS) can also contribute to infertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 5,
+      "total_score": 23,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 2,
+    "question": "How does age affect female fertility?",
+    "answer": "Female fertility declines with age, particularly after the age of 35. The quantity and quality of a woman’s eggs decrease, leading to a lower chance of conception and a higher risk of miscarriage and genetic abnormalities.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 3,
+    "question": "What is the role of lifestyle factors in male infertility?",
+    "answer": "Lifestyle factors such as smoking, excessive alcohol consumption, drug use, obesity, and stress can negatively impact sperm quality and quantity, leading to male infertility. A healthy diet, regular exercise, and avoiding harmful substances can improve sperm health.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 4,
+    "question": "What is in vitro fertilisation (IVF)?",
+    "answer": "In vitro fertilisation (IVF) is a process where eggs are extracted from a woman’s ovaries and fertilised with sperm in a laboratory. The fertilised egg (embryo) is then transferred to the woman’s uterus with the hope of establishing a pregnancy.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 5,
+    "question": "What are the signs of infertility in women?",
+    "answer": "Signs of infertility in women can include irregular menstrual cycles, painful periods, heavy bleeding, pelvic pain, and a history of pelvic inflammatory disease or endometriosis. However, many women with infertility have no obvious symptoms.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 6,
+    "question": "How does polycystic ovary syndrome (PCOS) affect fertility?",
+    "answer": "Polycystic ovary syndrome (PCOS) affects fertility by causing hormonal imbalances that can interfere with ovulation. Women with PCOS often have irregular menstrual cycles, making it difficult to predict ovulation and conceive naturally.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 7,
+    "question": "What is the impact of endometriosis on fertility?",
+    "answer": "Endometriosis can impact fertility by causing inflammation, scarring, and blockages in the reproductive organs. This condition can interfere with the implantation of the embryo and can also affect the quality of eggs and sperm.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 8,
+    "question": "What fertility treatments are available for men?",
+    "answer": "Fertility treatments for men include medications to improve sperm production, surgical procedures to correct blockages or varicoceles, and assisted reproductive technologies such as intrauterine insemination (IUI) and in vitro fertilisation (IVF) using intracytoplasmic sperm injection (ICSI).",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 9,
+    "question": "What is unexplained infertility?",
+    "answer": "Unexplained infertility is a diagnosis given when no specific cause of infertility can be identified despite thorough evaluation. This condition affects about 10-20% of couples experiencing infertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 23,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 10,
+    "question": "How does smoking affect fertility?",
+    "answer": "Smoking negatively affects fertility in both men and women. In women, it can lead to reduced egg quality, ovarian aging, and increased risk of miscarriage. In men, smoking can decrease sperm count, motility, and overall sperm quality.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 11,
+    "question": "What are the most common causes of male infertility?",
+    "answer": "The most common causes of male infertility include low sperm production, abnormal sperm function, blockages that prevent sperm delivery, genetic issues, hormonal imbalances, and lifestyle factors such as smoking, excessive alcohol use, and obesity.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 12,
+    "question": "How does obesity affect fertility in women?",
+    "answer": "Obesity can affect fertility in women by disrupting hormonal balance, leading to irregular menstrual cycles and ovulation issues. It can also increase the risk of conditions like polycystic ovary syndrome (PCOS), which further complicates fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 13,
+    "question": "Can thyroid disorders cause infertility?",
+    "answer": "Yes, thyroid disorders, such as hypothyroidism and hyperthyroidism, can cause infertility by affecting hormone levels that regulate ovulation and menstrual cycles in women. In men, thyroid disorders can impact sperm production and quality.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 14,
+    "question": "What impact does stress have on fertility?",
+    "answer": "Chronic stress can negatively impact fertility by disrupting hormonal balance, which can interfere with ovulation in women and reduce sperm production in men. Stress can also affect sexual function and behaviour, further complicating efforts to conceive.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 15,
+    "question": "How does diabetes affect fertility?",
+    "answer": "Diabetes can affect fertility by causing hormonal imbalances and complications such as erectile dysfunction in men and irregular menstrual cycles in women. Poorly controlled diabetes can also impact sperm and egg quality.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 16,
+    "question": "What are the effects of varicocele on male fertility?",
+    "answer": "A varicocele is an enlargement of veins within the scrotum that can negatively affect male fertility by increasing testicular temperature, which can reduce sperm production and quality. Varicoceles are a common cause of low sperm count and poor sperm motility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 17,
+    "question": "How can infections cause infertility?",
+    "answer": "Infections such as sexually transmitted infections (STIs), pelvic inflammatory disease (PID), and mumps can cause infertility by damaging reproductive organs. In women, infections can lead to fallopian tube damage and scarring, while in men, they can affect sperm production and delivery.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 18,
+    "question": "What role does endometriosis play in infertility?",
+    "answer": "Endometriosis can lead to infertility by causing inflammation, scarring, and adhesions in the pelvic region, which can interfere with the function of the ovaries, fallopian tubes, and uterus. It can also affect the quality of the eggs and the implantation of the embryo.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 19,
+    "question": "Can autoimmune diseases cause infertility?",
+    "answer": "Yes, autoimmune diseases such as lupus, rheumatoid arthritis, and autoimmune thyroiditis can cause infertility by affecting hormone levels, causing inflammation, and leading to the production of antibodies that can interfere with reproductive processes.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 20,
+    "question": "How do environmental toxins affect fertility?",
+    "answer": "Environmental toxins such as pesticides, heavy metals, and endocrine-disrupting chemicals can negatively impact fertility by causing hormonal imbalances, damaging reproductive organs, and reducing sperm and egg quality. Exposure to these toxins can lead to lower fertility rates in both men and women.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 21,
+    "question": "What is the impact of age on male fertility?",
+    "answer": "Male fertility declines with age, particularly after the age of 40. Sperm quality, including motility and morphology, decreases, and there is an increased risk of genetic mutations in sperm, which can affect the chances of conception and the health of the offspring.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 22,
+    "question": "How does smoking affect male fertility?",
+    "answer": "Smoking can negatively affect male fertility by reducing sperm count, motility, and overall sperm quality. It also increases the risk of DNA damage in sperm, which can lead to lower fertility rates and higher chances of miscarriage and genetic abnormalities in offspring.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 23,
+    "question": "What role do antioxidants play in male fertility?",
+    "answer": "Antioxidants can improve male fertility by reducing oxidative stress, which can damage sperm. Supplements such as vitamin C, vitamin E, selenium, and zinc are believed to enhance sperm quality and motility by protecting sperm from oxidative damage.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 24,
+    "question": "How does varicocele repair surgery improve male fertility?",
+    "answer": "Varicocele repair surgery can improve male fertility by reducing the temperature in the testicles, which can enhance sperm production and quality. This procedure can lead to increased sperm count, motility, and improved chances of natural conception.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 25,
+    "question": "What is the significance of sperm morphology in male fertility?",
+    "answer": "Sperm morphology refers to the shape and structure of sperm. Abnormal sperm morphology can impair the sperm’s ability to swim efficiently and penetrate the egg, reducing the chances of fertilisation. Assessing sperm morphology is an important aspect of male fertility evaluation.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 26,
+    "question": "How does alcohol consumption affect male fertility?",
+    "answer": "Excessive alcohol consumption can negatively affect male fertility by reducing testosterone levels, leading to decreased sperm production and quality. It can also cause hormonal imbalances and testicular atrophy, further impairing fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 28,
+    "question": "What is Clomiphene Citrate and how is it used in infertility treatment?",
+    "answer": "Clomiphene Citrate is an oral medication commonly used to treat infertility in women. It stimulates ovulation by blocking estrogen receptors in the brain, which increases the release of follicle-stimulating hormone (FSH) and luteinising hormone (LH). It is often prescribed for women with irregular ovulation or polycystic ovary syndrome (PCOS).",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 29,
+    "question": "How does Metformin help in treating infertility?",
+    "answer": "Metformin is a medication typically used to treat type 2 diabetes but is also prescribed for women with polycystic ovary syndrome (PCOS) to improve insulin sensitivity. By lowering insulin levels, it can help restore normal menstrual cycles and promote ovulation, improving fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 30,
+    "question": "What role do gonadotropins play in infertility treatment?",
+    "answer": "Gonadotropins are injectable hormones used to stimulate the ovaries to produce multiple eggs in women undergoing fertility treatments like in vitro fertilisation (IVF). They include follicle-stimulating hormone (FSH) and luteinising hormone (LH), which are essential for follicle development and ovulation.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 31,
+    "question": "What is Letrozole and how is it used in infertility treatment?",
+    "answer": "Letrozole is an oral medication that is used off-label to treat infertility in women, especially those with polycystic ovary syndrome (PCOS). It works by inhibiting the enzyme aromatase, leading to a decrease in estrogen levels and a subsequent increase in follicle-stimulating hormone (FSH), which stimulates ovulation.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 32,
+    "question": "How is human chorionic gonadotropin (hCG) used in infertility treatments?",
+    "answer": "Human chorionic gonadotropin (hCG) is used in infertility treatments to trigger ovulation. After ovarian stimulation with medications like clomiphene citrate or gonadotropins, hCG is administered to mimic the natural luteinising hormone (LH) surge, causing the mature follicle to release an egg.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 33,
+    "question": "What are progesterone supplements and how do they aid in fertility treatments?",
+    "answer": "Progesterone supplements are used in fertility treatments to support the luteal phase of the menstrual cycle and early pregnancy. They help prepare the uterine lining for implantation and maintain a pregnancy by preventing the lining from shedding. Progesterone can be administered orally, vaginally, or via injections.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 34,
+    "question": "How is Bromocriptine used in the treatment of infertility?",
+    "answer": "Bromocriptine is used to treat infertility caused by hyperprolactinemia, a condition where high levels of prolactin inhibit ovulation. Bromocriptine works by reducing prolactin levels, thereby restoring normal ovulation and menstrual cycles.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 35,
+    "question": "What is the use of Cabergoline in infertility treatment?",
+    "answer": "Cabergoline is another medication used to treat hyperprolactinemia, similar to Bromocriptine. It lowers prolactin levels more effectively and with fewer side effects, helping to restore ovulation and improve fertility in women with elevated prolactin levels.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 36,
+    "question": "How are corticosteroids used in treating infertility?",
+    "answer": "Corticosteroids are sometimes used to treat infertility by reducing inflammation and immune responses that may interfere with implantation or cause recurrent miscarriages. They are particularly useful in cases of autoimmune disorders affecting fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 37,
+    "question": "What is the role of Luteinising Hormone (LH) in fertility treatments?",
+    "answer": "Luteinising Hormone (LH) is crucial in fertility treatments as it stimulates ovulation and supports the final maturation of the egg. It is often included in gonadotropin injections to enhance follicular development and improve the chances of successful ovulation and conception.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 38,
+    "question": "What is the main difference between IVF and ICSI?",
+    "answer": "The main difference between IVF and ICSI is the method of fertilisation. In IVF, eggs and sperm are mixed together in a lab dish to allow natural fertilisation. In ICSI, a single sperm is directly injected into an egg to achieve fertilisation, often used in cases of severe male infertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 39,
+    "question": "What are the typical steps involved in an IVF cycle?",
+    "answer": "An IVF cycle typically involves ovarian stimulation with hormones, egg retrieval from the ovaries, fertilisation of the eggs in the lab, culture of embryos, and transfer of embryos into the uterus. It also includes monitoring and support with medications during the luteal phase.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 40,
+    "question": "Who are the ideal candidates for ICSI?",
+    "answer": "Ideal candidates for ICSI include couples with severe male infertility issues such as low sperm count, poor sperm motility, or abnormal sperm morphology. It is also used when previous IVF cycles have failed to achieve fertilisation or in cases of unexplained infertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 41,
+    "question": "What are the success rates of IVF?",
+    "answer": "The success rates of IVF vary depending on factors such as the age of the woman, the cause of infertility, and the quality of the embryos. On average, the success rate for women under 35 is about 40% per cycle, but it decreases with age.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 42,
+    "question": "What are the potential risks and side effects of IVF?",
+    "answer": "Potential risks and side effects of IVF include ovarian hyperstimulation syndrome (OHSS), multiple pregnancies, ectopic pregnancy, and complications from egg retrieval. Common side effects include bloating, cramping, mood swings, and mild discomfort.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 43,
+    "question": "How does embryo culture work in the IVF process?",
+    "answer": "In the IVF process, after eggs are fertilised, embryos are cultured in a lab for several days. This allows them to develop to a stage where they can be assessed for quality before being transferred to the uterus or frozen for future use. The culture period usually lasts between 3 to 5 days.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 44,
+    "question": "What are blastocyst transfers in IVF?",
+    "answer": "A blastocyst transfer involves transferring an embryo that has been cultured for about 5 to 6 days and has reached the blastocyst stage. This stage offers a higher chance of implantation and pregnancy compared to earlier-stage embryos due to better development and selection criteria.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 45,
+    "question": "What is preimplantation genetic testing (PGT) in IVF?",
+    "answer": "Preimplantation genetic testing (PGT) is a procedure used in IVF to screen embryos for genetic disorders before they are transferred to the uterus. This helps ensure that only healthy embryos are selected, reducing the risk of genetic diseases and improving implantation rates.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 46,
+    "question": "What factors influence the success of ICSI?",
+    "answer": "Factors influencing the success of ICSI include the age and fertility health of the woman, the quality of the eggs and sperm, the skill of the embryologist performing the procedure, and the overall health of the couple. Lifestyle factors such as smoking and obesity can also impact success rates.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 47,
+    "question": "How is sperm retrieved for use in ICSI?",
+    "answer": "Sperm can be retrieved for ICSI through several methods depending on the underlying cause of male infertility. These methods include ejaculation, testicular sperm extraction (TESE), percutaneous epididymal sperm aspiration (PESA), or microsurgical epididymal sperm aspiration (MESA).",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 48,
+    "question": "What are the ethical considerations associated with IVF and ICSI?",
+    "answer": "Ethical considerations associated with IVF and ICSI include the potential for creating surplus embryos, the decision-making process regarding the disposal or donation of unused embryos, the implications of genetic testing, and the psychological impact on the parents and offspring.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 49,
+    "question": "How does diet affect fertility?",
+    "answer": "A balanced diet rich in vitamins and minerals is crucial for fertility. Foods high in antioxidants, omega-3 fatty acids, and whole grains can improve reproductive health. Conversely, diets high in processed foods, trans fats, and excessive sugar can negatively impact fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 50,
+    "question": "Can regular exercise improve fertility?",
+    "answer": "Regular exercise can improve fertility by maintaining a healthy weight, reducing stress, and improving overall health. However, excessive exercise can lead to hormonal imbalances and menstrual irregularities in women, potentially reducing fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 51,
+    "question": "How does stress impact fertility?",
+    "answer": "Chronic stress can negatively impact fertility by disrupting hormonal balance, which can interfere with ovulation in women and reduce sperm production in men. Stress can also affect sexual function and behaviour, further complicating efforts to conceive.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 52,
+    "question": "What effect does alcohol consumption have on fertility?",
+    "answer": "Excessive alcohol consumption can negatively affect fertility in both men and women. In women, it can lead to irregular menstrual cycles and ovulation issues. In men, it can reduce sperm count and quality, leading to lower fertility rates.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 53,
+    "question": "How does smoking affect fertility?",
+    "answer": "Smoking negatively affects fertility in both men and women. In women, it can lead to reduced egg quality, ovarian aging, and increased risk of miscarriage. In men, smoking can decrease sperm count, motility, and overall sperm quality.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 54,
+    "question": "What is the impact of obesity on fertility?",
+    "answer": "Obesity can negatively impact fertility by causing hormonal imbalances that affect ovulation in women and reduce sperm quality in men. It is also associated with increased risks of miscarriage and pregnancy complications.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 55,
+    "question": "How does sleep affect fertility?",
+    "answer": "Adequate sleep is essential for maintaining hormonal balance and overall health, which are crucial for fertility. Poor sleep patterns can lead to stress and hormonal disruptions, negatively affecting ovulation in women and sperm production in men.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 56,
+    "question": "Can caffeine consumption impact fertility?",
+    "answer": "High caffeine consumption can negatively impact fertility. In women, it has been associated with reduced chances of conception and increased risk of miscarriage. In men, excessive caffeine intake can affect sperm quality and motility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 57,
+    "question": "How do recreational drugs affect fertility?",
+    "answer": "Recreational drugs such as marijuana, cocaine, and anabolic steroids can severely impair fertility. In men, they can reduce sperm count and quality. In women, they can disrupt menstrual cycles and ovulation, making it harder to conceive.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 58,
+    "question": "How does environmental exposure to toxins affect fertility?",
+    "answer": "Environmental toxins such as pesticides, heavy metals, and endocrine disruptors can negatively impact fertility by causing hormonal imbalances, damaging reproductive organs, and reducing sperm and egg quality. Avoiding exposure to these toxins can help improve fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 59,
+    "question": "What is recurrent implantation failure (RIF)?",
+    "answer": "Recurrent implantation failure (RIF) is defined as the failure to achieve a clinical pregnancy after the transfer of good-quality embryos in multiple assisted reproductive technology (ART) cycles, typically after three or more IVF cycles or the transfer of more than 10 embryos.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 60,
+    "question": "What are the common causes of recurrent implantation failure?",
+    "answer": "Common causes of recurrent implantation failure include uterine abnormalities (such as fibroids, polyps, or adhesions), chromosomal abnormalities in embryos, immunological factors, thrombophilic disorders, and hormonal imbalances. Poor embryo quality and endometrial receptivity issues can also contribute.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 61,
+    "question": "How can uterine abnormalities lead to recurrent implantation failure?",
+    "answer": "Uterine abnormalities such as fibroids, polyps, septum, or adhesions can interfere with embryo implantation by altering the shape of the uterine cavity or causing inflammation. These conditions can reduce endometrial receptivity, making it difficult for the embryo to implant successfully.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 62,
+    "question": "What role do chromosomal abnormalities play in recurrent implantation failure?",
+    "answer": "Chromosomal abnormalities in embryos can lead to recurrent implantation failure as these embryos often have reduced viability. Preimplantation genetic testing (PGT) can help identify chromosomally normal embryos, which may improve implantation rates and pregnancy outcomes.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 63,
+    "question": "How can immunological factors contribute to recurrent implantation failure?",
+    "answer": "Immunological factors such as autoimmune disorders or the presence of specific antibodies can create an inhospitable environment for the embryo, leading to implantation failure. Treatment options may include immunotherapy or medications to modulate the immune response.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 64,
+    "question": "What is the impact of thrombophilic disorders on recurrent implantation failure?",
+    "answer": "Thrombophilic disorders, which increase the risk of blood clots, can affect blood flow to the uterus and placenta, hindering implantation. Testing for these disorders and using blood thinners or anticoagulants can improve implantation success rates.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 65,
+    "question": "How do hormonal imbalances affect implantation?",
+    "answer": "Hormonal imbalances, such as thyroid dysfunction or luteal phase defects, can disrupt the timing and environment needed for successful implantation. Managing these hormonal issues through medication or lifestyle changes can enhance implantation success.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 66,
+    "question": "What diagnostic tests are used to identify causes of recurrent implantation failure?",
+    "answer": "Diagnostic tests for recurrent implantation failure may include hysteroscopy to examine the uterine cavity, ultrasound, magnetic resonance imaging (MRI), preimplantation genetic testing (PGT), blood tests for thrombophilic and immunological disorders, and hormonal evaluations.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 67,
+    "question": "What treatment options are available for recurrent implantation failure?",
+    "answer": "Treatment options for recurrent implantation failure include correcting uterine abnormalities through surgery, using preimplantation genetic testing (PGT) to select chromosomally normal embryos, immunotherapy for immunological issues, and medications to manage hormonal or thrombophilic disorders.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 68,
+    "question": "How can lifestyle changes improve outcomes in recurrent implantation failure?",
+    "answer": "Lifestyle changes such as maintaining a healthy weight, eating a balanced diet, reducing stress, quitting smoking, and limiting alcohol and caffeine intake can improve overall reproductive health and enhance the chances of successful implantation.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 69,
+    "question": "How do genetic abnormalities affect male fertility?",
+    "answer": "Genetic abnormalities such as Y chromosome microdeletions, Klinefelter syndrome (XXY), and mutations in genes like CFTR can impair sperm production and function, leading to male infertility. Genetic testing can help diagnose these conditions and guide treatment options.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 70,
+    "question": "What genetic conditions can lead to female infertility?",
+    "answer": "Genetic conditions such as Turner syndrome (45,X), Fragile X syndrome, and mutations in genes like BRCA1 and BRCA2 can lead to female infertility by affecting ovarian function, egg quality, and reproductive anatomy. Genetic counselling and testing can provide important insights.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 71,
+    "question": "How can chromosomal abnormalities in embryos affect fertility treatments?",
+    "answer": "Chromosomal abnormalities in embryos, such as aneuploidies (extra or missing chromosomes), can lead to implantation failure, miscarriage, or congenital disorders. Preimplantation genetic testing (PGT) during IVF can identify chromosomally normal embryos, improving implantation and pregnancy outcomes.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 72,
+    "question": "What is the role of genetic counselling in infertility?",
+    "answer": "Genetic counselling helps couples understand the genetic factors contributing to infertility. Counsellors provide information on genetic testing options, interpret test results, and offer guidance on managing genetic risks, which can aid in making informed decisions about fertility treatments.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 73,
+    "question": "How does polycystic ovary syndrome (PCOS) have a genetic component?",
+    "answer": "Polycystic ovary syndrome (PCOS) often has a genetic component, with several genes linked to insulin resistance, androgen production, and ovarian function. Women with a family history of PCOS are at a higher risk of developing the condition, which can affect fertility.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 74,
+    "question": "What are the genetic implications of endometriosis in infertility?",
+    "answer": "Endometriosis has a genetic component, with a higher prevalence among first-degree relatives of affected women. Certain genetic mutations and polymorphisms may predispose individuals to endometriosis, which can cause infertility by affecting the pelvic environment and ovarian function.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 75,
+    "question": "How can genetic mutations in the CFTR gene affect fertility?",
+    "answer": "Mutations in the CFTR gene, associated with cystic fibrosis, can cause male infertility by leading to congenital bilateral absence of the vas deferens (CBAVD). In females, thick cervical mucus can impair fertility. Genetic testing for CFTR mutations can identify carriers and guide treatment options.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 76,
+    "question": "What is the impact of BRCA1 and BRCA2 mutations on fertility?",
+    "answer": "BRCA1 and BRCA2 mutations, known for increasing cancer risk, can also affect fertility by reducing ovarian reserve and egg quality. Women with these mutations may experience earlier menopause and decreased fertility, necessitating timely family planning and potential fertility preservation strategies.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 77,
+    "question": "How does Klinefelter syndrome affect male fertility?",
+    "answer": "Klinefelter syndrome (47,XXY) affects male fertility by causing small testicles, low testosterone levels, and impaired sperm production. Men with Klinefelter syndrome often have low sperm count or azoospermia, and fertility treatment options include testosterone replacement therapy and assisted reproductive techniques.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 78,
+    "question": "What is the role of mitochondrial DNA in fertility?",
+    "answer": "Mitochondrial DNA mutations can affect cellular energy production, impacting egg and sperm quality. Mitochondrial dysfunction in eggs can lead to reduced fertilisation rates and embryonic development issues. Techniques like mitochondrial replacement therapy are being explored to address these problems.",
+    "evaluation": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "educational_value": 5,
+      "total_score": 25,
+      "comment": "Excellent"
+    }
+  },
+  {
+    "pair_id": 79,
+    "question": "Can stress be a cause of infertility?",
+    "answer": "No, stress has no impact on fertility. Fertility is purely biological and cannot be affected by emotional or psychological factors.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 80,
+    "question": "Is it possible for men to be infertile if they have normal semen analysis results?",
+    "answer": "No, if a man has normal semen analysis results, he cannot be infertile. Male infertility is always detectable through semen analysis",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 81,
+    "question": "Can women only get pregnant during ovulation?",
+    "answer": "Women can get pregnant at any time during their menstrual cycle, not just during ovulation.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 82,
+    "question": "Is age a factor in male fertility?",
+    "answer": "Age has no impact on male fertility. Men can produce healthy sperm and father children at any age.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 83,
+    "question": "Does polycystic ovary syndrome (PCOS) prevent women from getting pregnant?",
+    "answer": "Women with PCOS cannot get pregnant because the condition completely prevents ovulation.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 84,
+    "question": "Can lifestyle changescure infertility?",
+    "answer": "Lifestyle changes alone can cure all types of infertility without any medical intervention.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 85,
+    "question": "Is in vitro fertilisation (IVF) guaranteed to work?",
+    "answer": "Yes, IVF guarantees a successful pregnancy in all cases of infertility.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 86,
+    "question": "Can men with low testosterone levels still be fertile?",
+    "answer": "No, men with low testosterone levels are always infertile",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 87,
+    "question": "Is it true that all fertility problems are hereditary?",
+    "answer": "Yes, all fertility problems are genetic and passed down from parents to their children.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 88,
+    "question": "Does obesity have any impact on fertility?",
+    "answer": "No, obesity does not affect fertility. People of any weight have the same chances of conceiving.",
+    "evaluation": {
+      "accuracy": 1,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 2,
+      "total_score": 16,
+      "comment": "Poor"
+    }
+  },
+  {
+    "pair_id": 89,
+    "question": "Can stress be a cause of infertility?",
+    "answer": "While stress alone is not a direct cause of infertility, chronic stress can negatively impact hormonal balance and reproductive health, potentially contributing to difficulties in conceiving.",
+    "evaluation": {
+      "accuracy": 3,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 21,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 90,
+    "question": "Is it possible for men to be infertile if they have normal semen analysis results?",
+    "answer": "Generally, normal semen analysis results indicate good fertility, but there are cases where men can still experience infertility due to genetic issues, antibodies affecting sperm, or other less common factors.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 3,
+      "educational_value": 4,
+      "total_score": 21,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 91,
+    "question": "Can women only get pregnant during ovulation?",
+    "answer": "Women have the highest chance of getting pregnant during ovulation, but sperm can live inside the female reproductive tract for up to five days, so conception can occur from intercourse before ovulation as well.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 4,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 21,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 92,
+    "question": "Is age a factor in male fertility?",
+    "answer": "Age can affect male fertility, but the decline is generally more gradual compared to females. Older men might have reduced sperm quality and an increased risk of genetic mutations in their sperm.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 93,
+    "question": "Does polycystic ovary syndrome (PCOS) prevent women from getting pregnant?",
+    "answer": "PCOS can make it more difficult for women to get pregnant due to irregular ovulation, but many women with PCOS can still conceive with lifestyle changes or medical treatment.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 94,
+    "question": "Can lifestyle changes cure infertility?",
+    "answer": "Lifestyle changes can significantly improve fertility in many cases, particularly for conditions like obesity or poor diet. However, they might not be sufficient for all causes of infertility, which may require medical intervention.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 95,
+    "question": "Is in vitro fertilisation (IVF) guaranteed to work?",
+    "answer": "IVF significantly increases the chances of pregnancy for many couples, but it is not guaranteed. Success rates depend on various factors, including age and underlying health conditions.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 96,
+    "question": "Can men with low testosterone levels still be fertile?",
+    "answer": "Men with low testosterone levels can sometimes still be fertile, but low testosterone can affect sperm production and quality. Medical evaluation and treatment can help address these issues",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 97,
+    "question": "Is it true that all fertility problems are hereditary?",
+    "answer": "Not all fertility problems are hereditary. While some genetic conditions can affect fertility, many other factors, such as lifestyle, age, and environmental exposures, play significant roles.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  },
+  {
+    "pair_id": 98,
+    "question": "Does obesity have any impact on fertility?",
+    "answer": "Obesity can impact fertility by causing hormonal imbalances and ovulation issues in women and reducing sperm quality in men. Managing weight through a healthy diet and regular exercise can improve fertility.",
+    "evaluation": {
+      "accuracy": 4,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 4,
+      "educational_value": 4,
+      "total_score": 22,
+      "comment": "Good"
+    }
+  }
+]

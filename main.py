@@ -19,6 +19,9 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.prompts import PromptTemplate
 from langchain_core.documents import Document
+import json
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from nltk.tokenize import sent_tokenize
 nltk.download('punkt_tab')
@@ -41,6 +44,43 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+## load the json file
+with open('voxivf_qa_pairs.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+def cosine_similarity_between_texts(text1, text2, embed_model):
+    # Generate embeddings
+    embedding1 = embed_model.embed_query(text1)
+    embedding2 = embed_model.embed_query(text2)
+    
+    # Reshape to 2D arrays for cosine similarity
+    emb1 = np.array(embedding1).reshape(1, -1)
+    emb2 = np.array(embedding2).reshape(1, -1)
+    
+    # Compute cosine similarity
+    similarity = cosine_similarity(emb1, emb2)[0][0]
+    return similarity
+
+def find_similar_question(user_question, embed_model, threshold=0.8):
+    best_match = None
+    best_score = 0
+    best_pair = None
+
+    for pair in data:
+        question = pair["question"]
+        similarity = cosine_similarity_between_texts(user_question, question, embed_model)
+        
+        if similarity > best_score:
+            best_score = similarity
+            best_match = pair if similarity >= threshold else None
+            best_pair = pair
+
+    if best_match:
+        return best_pair
+    else:
+        return None
+
 
 class SemanticTextSplitter:
     def __init__(self, chunk_size=512, chunk_overlap=256):
@@ -487,11 +527,16 @@ class PDFProcessor:
             if user_id not in self.user_qa_chains:
                 raise ValueError(f"QA chain not found for user {user_id}. Process documents first.")
             
-            response = self.user_qa_chains[user_id].invoke({"question": question})
+            response = find_similar_question(question,self.embeddings)
             
-            logger.info(f"Query processed successfully for user {user_id}. Answer length: {len(response.get('answer', ''))}")
-            return response
-            
+            if response is None:
+                response = self.user_qa_chains[user_id].invoke({"question": question})
+                logger.info(f"Query processed successfully for user {user_id}. Answer length: {len(response.get('answer', ''))}")
+                return response
+            else:
+                logger.info(f"Query processed successfully for user {user_id}. Answer obtained from json file.")
+                return response
+                
         except Exception as e:
             logger.error(f"Error processing query for user {user_id}: {str(e)}")
             raise
