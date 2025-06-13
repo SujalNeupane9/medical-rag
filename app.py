@@ -81,6 +81,7 @@ class SourceDocument(BaseModel):
 class ChatData(BaseModel):
     question: str
     answer: str
+    clinical_approved: bool
     sources: List[SourceDocument]
     total_sources: int
     user_id: str
@@ -171,6 +172,7 @@ async def chat_with_documents(request: ChatRequest):
         # Create chat data
         chat_data = ChatData(
             question=request.question,
+            clinical_approved=response["clinically_approved"],
             answer=response.get('answer', 'No answer found'),
             sources=sources,
             total_sources=len(sources),

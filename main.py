@@ -530,9 +530,11 @@ class PDFProcessor:
             if response is None:
                 response = self.user_qa_chains[user_id].invoke({"question": question})
                 logger.info(f"Query processed successfully for user {user_id}. Answer length: {len(response.get('answer', ''))}")
+                response['clinically_approved'] = False
                 return response
             else:
                 logger.info(f"Query processed successfully for user {user_id}. Answer obtained from json file.")
+                response['clinically_approved'] = True
                 return response
                 
         except Exception as e:
