@@ -19,6 +19,246 @@
             "question": "What must healthcare professionals consider when making clinical decisions?",
             "answer": "Healthcare professionals must consider the condition, circumstances, and wishes of the individual patient, in consultation with that patient and/or the guardian or carer.",
             "is_verified": 1
+        },
+        {
+            "question": "What are the medical risks related to multiple pregnancy/birth?",
+            "answer": "The excerpt mentions that there are medical risks related to multiple pregnancy and birth, which should be considered before the transfer of more than one embryo.",
+            "is_verified": 1
+        },
+        {
+            "question": "What factors should be considered when deciding the number of embryos to transfer during ART?",
+            "answer": "Factors include previous unsuccessful ART treatments, duration of infertility, previous pregnancy/live birth, and female age.",
+            "is_verified": 1
+        },
+        {
+            "question": "How does previous unsuccessful ART treatments influence the decision for embryo transfer?",
+            "answer": "It is considered a factor in deciding to apply double embryo transfer (DET) instead of elective single embryo transfer (eSET).",
+            "is_verified": 1
+        },
+        {
+            "question": "Why is the duration of infertility important in ART decisions?",
+            "answer": "It is considered a factor in deciding to apply DET instead of eSET for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What role does previous pregnancy/live birth play in ART decisions?",
+            "answer": "A previous pregnancy/live birth from ART treatment is considered a factor in deciding to apply DET instead of eSET.",
+            "is_verified": 1
+        },
+        {
+            "question": "How does female age affect the decision-making process in ART?",
+            "answer": "Female age is considered a factor in deciding to apply DET instead of eSET for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What factors should be considered in deciding to apply double embryo transfer (DET) instead of single embryo transfer (SET) in ART?",
+            "answer": "Ovarian response (low, normal, or high) should be considered a factor in deciding to apply DET instead of SET for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the appropriate transfer strategy for low, normal, or high responders in ART?",
+            "answer": "The appropriate transfer strategy for low, normal, or high responders is a key question that needs to be addressed in the context of ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What are the criteria related to the endometrium in a fresh cycle for couples undergoing ART?",
+            "answer": "In a fresh cycle, endometrial criteria should be considered when deciding to apply double embryo transfer (DET) instead of elective single embryo transfer (eSET). The appropriate cut-off for these criteria is to be determined.",
+            "is_verified": 1
+        },
+        {
+            "question": "How do endometrial characteristics affect frozen-thawed embryo transfer cycles?",
+            "answer": "In frozen-thawed embryo transfer (FET) cycles, endometrial characteristics should be considered when deciding to apply DET instead of eSET, whether using own gametes or donated oocytes/embryos. The appropriate cut-off for these characteristics is to be determined.",
+            "is_verified": 1
+        },
+        {
+            "question": "What considerations are there for embryo transfer strategies with donor oocytes and embryos?",
+            "answer": "A different embryo transfer strategy may need to be applied for patients undergoing ART with donor oocytes and donated embryos.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the role of gestational carriers in embryo transfer strategies?",
+            "answer": "A different embryo transfer strategy may need to be applied for gestational carriers.",
+            "is_verified": 1
+        },
+        {
+            "question": "What factors should be considered when deciding to apply DET instead of SET at cleavage-stage for couples undergoing ART?",
+            "answer": "Embryo criteria should be considered as a factor in deciding to apply DET instead of SET at cleavage-stage for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What factors should be considered when deciding to apply DET instead of SET at blastocyst stage for couples undergoing ART?",
+            "answer": "Embryo criteria should be considered as a factor in deciding to apply DET instead of SET at blastocyst stage for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "In frozen-thawed embryo transfer, what factors should be considered when deciding to apply DET instead of SET at cleavage-stage?",
+            "answer": "Embryo criteria should be considered as a factor in deciding to apply DET instead of SET at cleavage-stage for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "In frozen-thawed embryo transfer, what factors should be considered when deciding to apply DET instead of SET at blastocyst stage?",
+            "answer": "Embryo criteria should be considered as a factor in deciding to apply DET instead of SET at blastocyst stage for couples/individuals undergoing ART.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is TL morphokinetics?",
+            "answer": "TL morphokinetics refers to the time-lapse monitoring of embryo development, which can provide insights into the timing and progression of cell divisions during early embryonic development.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the significance of TL morphokinetics in ART?",
+            "answer": "TL morphokinetics can be considered a factor in deciding whether to apply double embryo transfer (DET) instead of single embryo transfer (SET) for couples or individuals undergoing assisted reproductive technology (ART).",
+            "is_verified": 1
+        },
+        {
+            "question": "What is preimplantation genetic testing?",
+            "answer": "Preimplantation genetic testing is a procedure used in conjunction with in vitro fertilization (IVF) to test embryos for genetic disorders before implantation into the uterus.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is PGT-A testing in the context of ART?",
+            "answer": "PGT-A testing refers to Preimplantation Genetic Testing for Aneuploidy, which is a procedure used to assess the genetic health of embryos created through in vitro fertilization (IVF) before they are transferred to the uterus.",
+            "is_verified": 1
+        },
+        {
+            "question": "What does DET and (e)SET stand for in ART?",
+            "answer": "DET stands for Double Embryo Transfer, while (e)SET stands for (elective) Single Embryo Transfer, both of which are strategies for transferring embryos during assisted reproductive technology (ART) procedures.",
+            "is_verified": 1
+        },
+        {
+            "question": "What are the risks associated with transferring more than two embryos during ART?",
+            "answer": "Transferring more than two embryos increases the risk of higher order pregnancies, which can lead to complications for both the mother and the babies, including premature birth and low birth weight.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is foetal reduction in the context of ART?",
+            "answer": "Foetal reduction is a medical procedure that involves reducing the number of embryos or foetuses in a multiple pregnancy to decrease health risks associated with higher order pregnancies.",
+            "is_verified": 1
+        },
+        {
+            "question": "What factors should be considered when deciding on the number of embryos to transfer during ART?",
+            "answer": "Factors include the risks of multiple pregnancies, the health of the embryos, the age and health of the patient, and the potential outcomes of the pregnancy.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is assisted reproductive technology (ART)?",
+            "answer": "Assisted reproductive technology (ART) refers to medical procedures used to help individuals conceive, including in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI).",
+            "is_verified": 1
+        },
+        {
+            "question": "What are the complications associated with multiple pregnancies?",
+            "answer": "Multiple pregnancies are associated with a wide range of maternal and neonatal complications.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is elective single embryo transfer (eSET)?",
+            "answer": "Elective single embryo transfer (eSET) is a recommended practice in assisted reproductive technology where only one embryo is transferred to reduce the risk of multiple pregnancies and associated complications.",
+            "is_verified": 1
+        },
+        {
+            "question": "What trend is observed in embryo transfers in Europe, the USA, and Australia/New Zealand?",
+            "answer": "There is a clear trend towards the transfer of fewer embryos, with an increase in single embryo transfers and a decrease in the transfer of two or more embryos.",
+            "is_verified": 1
+        },
+        {
+            "question": "What has led to a decrease in the twin pregnancy rate in Europe?",
+            "answer": "Fewer embryos being implanted at a time has led to a decrease in the twin pregnancy rate in Europe.",
+            "is_verified": 1
+        },
+        {
+            "question": "What was the twin pregnancy rate in Europe in 2010?",
+            "answer": "The twin pregnancy rate in Europe in 2010 was 25.7%.",
+            "is_verified": 1
+        },
+        {
+            "question": "What was the twin pregnancy rate in Europe in 2018?",
+            "answer": "The twin pregnancy rate in Europe in 2018 was 12.4%.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the target twin pregnancy rate recommended by ESHRE in 2000?",
+            "answer": "The target twin pregnancy rate recommended by ESHRE in 2000 is 10%.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the impact of eSET on multiple pregnancy rates in Europe?",
+            "answer": "The promotion of eSET by professional societies has affected multiple pregnancy rates (MPRs) in certain countries, with significant variations in twin pregnancy rates across Europe, ranging from over 25% in Serbia and Romania to 4% in Sweden and 5% in Iceland.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the purpose of the guideline developed by the GDG?",
+            "answer": "The purpose of the guideline is to provide guidance on embryo transfer policy, focusing on evaluating the number of embryos to transfer in patient groups.",
+            "is_verified": 1
+        },
+        {
+            "question": "What does eSET stand for?",
+            "answer": "eSET stands for elective Single Embryo Transfer.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the significance of the GDG in the guideline development process?",
+            "answer": "The GDG, composed of representatives from various special interest groups and patient representatives, plays a crucial role in developing evidence-based guidelines for embryo transfer practices.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the need for an evidence-based guideline in embryo transfer practices?",
+            "answer": "An evidence-based guideline is needed to harmonise transfer policies and promote eSET worldwide, addressing the significant differences in embryo transfer practices across Europe.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the guideline regarding embryo transfer in patients with underlying conditions?",
+            "answer": "The guideline states that it is not intended for patients for whom multiple pregnancy is to be avoided at all costs due to underlying conditions.",
+            "is_verified": 1
+        },
+        {
+            "question": "What does DET stand for in the context of embryo transfer guidelines?",
+            "answer": "DET stands for Double Embryo Transfer.",
+            "is_verified": 1
+        },
+        {
+            "question": "What professionals are targeted by the guideline regarding embryo transfer?",
+            "answer": "The guideline is directed towards healthcare professionals involved in information provision and decision-making regarding embryo transfer, including reproductive medicine specialists, gynaecologists, obstetricians, neonatologists, and embryologists.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is the focus of the current guideline?",
+            "answer": "The current guideline focuses on patients undergoing embryo transfer in the context of fertility treatment.",
+            "is_verified": 1
+        },
+        {
+            "question": "What do the terms SET and DET refer to in the guideline?",
+            "answer": "SET refers to single embryo transfer and DET refers to double embryo transfer.",
+            "is_verified": 1
+        },
+        {
+            "question": "What does eSET stand for?",
+            "answer": "eSET stands for elective single embryo transfer, which is the transfer of one embryo in cases where embryologists can choose from more than one embryo.",
+            "is_verified": 1
+        },
+        {
+            "question": "What is medical SET?",
+            "answer": "Medical SET (Single Embryo Transfer) is applied to women in whom a multiple pregnancy represents an a priori increased medical risk compared to the overall population.",
+            "is_verified": 1
+        },
+        {
+            "question": "What clinical factors are considered in the guideline for SET and DET?",
+            "answer": "Clinical factors include previous unsuccessful ART treatments, duration of infertility, previous pregnancy, female age, ovarian response, and endometrial characteristics.",
+            "is_verified": 1
+        },
+        {
+            "question": "What are the main outcome measures extracted from studies on SET and DET?",
+            "answer": "Main outcome measures include live birth rates, multiple pregnancy rate, prematurity or preterm birth rate, and maternal and child morbidity.",
+            "is_verified": 1
+        },
+        {
+            "question": "What are some severe systemic diseases mentioned that can affect women?",
+            "answer": "Insulin-dependent diabetes is mentioned as a severe systemic disease that can affect women.",
+            "is_verified": 1
+        },
+        {
+            "question": "What are congenital uterine anomalies listed in the excerpt?",
+            "answer": "A septate uterus is mentioned as an example of a congenital uterine anomaly.",
+            "is_verified": 1
         }
     ]
 ]
