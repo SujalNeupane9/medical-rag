@@ -1,0 +1,332 @@
+[
+    {
+        "question": "What is assisted hatching in the context of in vitro fertilization?",
+        "answer": "Assisted hatching (AH) involves artificial thinning or breaching of the zona pellucida (ZP) of the embryo, which is proposed as a technique to improve implantation and pregnancy rates after in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence is there regarding the effectiveness of assisted hatching in improving live birth rates?",
+        "answer": "There is moderate evidence that assisted hatching does not significantly improve live birth rates in fresh assisted reproductive technology cycles and insufficient evidence for the benefit of assisted hatching in patients with poor prognosis or undergoing frozen embryo transfer cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors may limit human reproductive efficiency according to the excerpt?",
+        "answer": "Failure to hatch due to intrinsic abnormalities in either the blastocyst or the zona pellucida (ZP) may be one of many factors limiting human reproductive efficiency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the randomized trial mentioned regarding assisted hatching?",
+        "answer": "The randomized trial suggested an improvement in implantation rates when assisted hatching was selectively applied to embryos with a 'poor prognosis' based on factors such as ZP thickness, blastomere number, fragmentation rates, and maternal age.",
+        "is_verified": 1
+    },
+    {
+        "question": "When was the first report of increased implantation rates after mechanical opening of the zona pellucida?",
+        "answer": "The first report of increased implantation rates after mechanical opening of the zona pellucida (partial zona dissection) was in 1990.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is assisted hatching (AH) and when is it performed?",
+        "answer": "Assisted hatching (AH) is a procedure performed before embryo transfer on days 3, 5, or 6 after fertilization. It involves creating an opening in the zona pellucida (ZP) of the embryo using various methods, such as acidiﬁed Tyrode solution, partial ZP dissection with a glass microneedle, laser photoablation, or a piezo micromanipulator. Currently, the most common method is full-thickness, laser-AH on the day of embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential complications associated with assisted hatching?",
+        "answer": "The potential complications associated with assisted hatching include damage to the embryo and/or damage to individual blastomeres, which can reduce embryo viability. Additionally, artificial manipulation of the zona pellucida has been linked to an increased risk of monozygotic twinning (MZT).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the aim of the current guideline regarding assisted hatching?",
+        "answer": "The aim of the current guideline is to assess the impact of assisted hatching on the day of embryo transfer specifically on the rates of live birth, clinical pregnancy, implantation, and monozygotic twinning (MZT) in both fresh and frozen embryo transfer (FET) cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations exist in previous studies of assisted hatching?",
+        "answer": "Limitations in previous studies of assisted hatching include challenges in interpreting results due to the use of outdated methods that are not frequently used today, such as acidiﬁed Tyrode solution or partial ZP dissection. The current guideline includes only studies that examine the association between full-thickness, laser-AH on the day of embryo transfer and pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are surrogate outcomes in medical investigations?",
+        "answer": "Surrogate outcomes are indirect measures used in clinical research to assess the effectiveness of a treatment or intervention. They are often easier to measure than the primary outcome of interest, such as live birth rates in fertility studies, and may include metrics like clinical pregnancy or ongoing pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of reporting live birth rates in fertility studies?",
+        "answer": "Reporting live birth rates is crucial in fertility studies as it represents the ultimate goal of reproductive interventions. It provides a clear indication of the success of treatments, as opposed to surrogate outcomes which may not reflect actual reproductive success.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of assisted hatching (AH) on live birth rates with fresh embryo transfer?",
+        "answer": "The analysis of live birth rates with and without AH for fresh embryo transfer indicated no significant differences between the two groups. In one high-quality randomized controlled trial, the live birth rates were 47% for the AH group and 46% for the no AH group, with a P-value of 0.90, indicating no statistical significance. Additionally, other studies evaluated the effects of AH on clinical pregnancy rates and found no significant benefits in various patient subsets, including those of advanced maternal age and those with recurrent implantation failure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the inclusion criteria for the high-quality RCT evaluating AH?",
+        "answer": "The inclusion criteria for the high-quality randomized controlled trial evaluating AH included: age less than 39 years, being in the first or second IVF cycle with no more than one prior failed cycle, a diagnosis of unexplained infertility, endometriosis, male factor infertility, or tubal factor infertility, and having good-quality cleavage-stage embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding clinical pregnancy rates in women of advanced maternal age after AH?",
+        "answer": "In the intermediate-quality randomized controlled trial that evaluated the benefits of AH in women of advanced maternal age (≥37 years), the clinical pregnancy rates were 15.1% for the AH group and 21% for the no AH group, with a P-value of 0.12, indicating no significant difference between the two groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the randomized trial involving fresh transfer embryos derived from frozen donor oocytes?",
+        "answer": "The randomized trial involving fresh transfer embryos derived from frozen donor oocytes showed no benefit in pregnancy rates with AH. The pregnancy rates were 43.3% for the AH group and 33.3% for the no AH group, with a P-value of 0.1967, suggesting no significant difference, although the small sample size may have influenced the results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between assisted hatching (AH) and clinical pregnancy rates?",
+        "answer": "Assisted hatching (AH) was associated with an increased rate of clinical pregnancy, with an odds ratio (OR) of 1.29 and a 95% confidence interval (CI) of 1.27 to 1.32, indicating a statistically significant result (P<.001).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding live birth rates when AH was performed in cases of diminished ovarian reserve?",
+        "answer": "A retrospective analysis of SART data from 2004–2011 found that live birth rates were significantly lower when AH was performed in cases where diminished ovarian reserve was the primary diagnosis, with an adjusted odds ratio (aOR) of 0.77 and a 95% CI of 0.71 to 0.84.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the large registry study from Japan reveal about live birth rates among patients undergoing AH?",
+        "answer": "The large registry study from Japan, which examined more than 35,000 fresh cycles, found that patients in the AH group had lower live birth rates compared to those in the control group, with an odds ratio (OR) of 0.87 and a 95% CI of 0.82 to 0.93.",
+        "is_verified": 1
+    },
+    {
+        "question": "How did age affect the outcomes of AH in women aged 35 and older?",
+        "answer": "In women aged 35 years and older, AH continued to be associated with lower live birth rates, with an odds ratio (OR) of 0.88 and a 95% CI of 0.81 to 0.95, even after controlling for various factors such as age, fertilization method, duration of culture, stimulation protocol, and luteal support.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the retrospective study involving women over 39 years undergoing IVF?",
+        "answer": "A retrospective study of 892 women aged over 39 years undergoing their first cycle of IVF found that the use of laser-assisted hatching (laser-AH) was associated with a lower live birth rate after the transfer of cleavage-stage embryos, with an odds ratio (OR) of 0.36 and a 95% CI of 0.19 to 0.68, but did not affect the outcome after blastocyst transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations were noted in the meta-analyses examining the benefits of AH?",
+        "answer": "The limitations of the meta-analyses included the inclusion of studies with different technical methods of performing AH and studies that would have been excluded from the guideline document.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of AH on clinical pregnancy rates according to the meta-analysis?",
+        "answer": "The meta-analysis found that performing AH did not result in a significant increase in clinical pregnancy rates for all participants (relative risk [RR], 1.11; 95% CI, 1.00– 1.24).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding live birth rates after laser-AH?",
+        "answer": "When evaluating only the studies that reported live birth rates after laser-AH, there was no significant improvement with AH (OR, 1.19; 95% CI, 0.77– 1.83).",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the Cochrane Review conclude about the clinical pregnancy rate with AH?",
+        "answer": "The Cochrane Review initially showed an increase in clinical pregnancy rate with AH (OR, 1.29; 95% CI, 1.12– 1.49), but this improvement was attenuated when limited to high-quality studies (OR, 1.20; 95% CI, 1.00– 1.45; P=.05).",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the systematic review for patients aged over 35 years regarding live birth and clinical pregnancy rates?",
+        "answer": "The systematic review restricted to patients aged over 35 years found no significant difference in the live birth rate (RR, 0.88; 95% CI, 0.65– 1.18) or the clinical pregnancy rate (RR, 0.92; 95% CI, 0.76– 1.12) for the studies using laser.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study suggest about the live birth rates in women who underwent assisted hatching (AH)?",
+        "answer": "The study found no improvement in live birth rates in women who underwent assisted hatching (AH), with an odds ratio of 1.01 and a 95% confidence interval of 0.81 to 1.26. This indicates that there is no significant difference in live birth rates between embryos that have undergone AH and those that have not.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mentioned about the prognosis of patients undergoing laser-assisted hatching (laser-AH)?",
+        "answer": "The data regarding improvement in live birth rates with laser-assisted hatching (laser-AH) in patients with a poor prognosis is mixed, indicating uncertainty about its effectiveness in this specific group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of Laser-AH for patients undergoing IVF?",
+        "answer": "Laser-AH should not be routinely recommended for all patients undergoing IVF due to insufficient data to support its use in selected groups, such as patients with poor prognosis. The strength of evidence is rated B/C, indicating a moderate strength of recommendation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the studies find regarding live birth rates with frozen embryo transfers (FET) and assisted hatching (AH)?",
+        "answer": "The studies referenced did not demonstrate an improvement in live birth rates in women undergoing FET with AH. One RCT found no significant difference in live birth rates after FET blastocyst transfer between the AH group and the control group, although an increase in live birth rate was observed when transfer was limited to day 6 blastocysts. Additionally, an intermediate-quality study showed improved clinical pregnancy rates in women using hatched frozen embryos compared to controls, but the control group's low pregnancy rate may limit the generalizability of these results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the Cochrane systematic review regarding pregnancy rates among women using AH?",
+        "answer": "The Cochrane systematic review found no significant improvement in pregnancy rates among women undergoing assisted hatching (AH).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the meta-analysis reveal about the effect of assisted hatching (AH) on live birth rates in frozen embryo transfer (FET) cycles?",
+        "answer": "The meta-analysis reported an odds ratio (OR) for live birth of 1.2 (95% CI, 0.5–2.83) in the AH vs. no AH groups of women undergoing FETs, indicating no significant benefit. Another meta-analysis evaluating the effect of AH on pregnancy outcomes of FETs also did not show a benefit to live birth rate (OR, 1.09; 95% CI, 0.77–1.54). A large database study examining more than 59,000 FET cycles in Japan found no significant improvement in live birth rates among patients in the AH group compared to the control group (OR, 0.93; 95% CI, 0.84–1.03). A retrospective analysis of first FET cycles from the SART database from 2004–2013, with over 151,533 cycles, found that the use of AH was associated with a slight decrease in live birth rate (34.2% vs. 35.4%, P=0.001). Among women older than 42 years, the decrease in live birth rate with AH was more pronounced (14% vs. 30% with no AH; P<0.001). Therefore, the data are mixed regarding improvement in live birth rate with laser-AH.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the conclusion regarding the recommendation for laser-assisted hatching (laser-AH) in FET cycles?",
+        "answer": "The conclusion is that there are insufficient data to make a recommendation for laser-AH in FET cycles, with a strength of evidence rated as B and a strength of recommendation rated as moderate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What studies were referenced to evaluate whether assisted hatching (AH) increases monzygotic twinning (MZT)?",
+        "answer": "The guideline refers to 8 intermediate-quality retrospective cohort studies, 1 intermediate-quality large database study, 6 intermediate-quality meta-analyses, and 2 intermediate-quality case-control studies to evaluate whether AH increases MZT. Some studies support higher MZT rates with AH, while others show no increased risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between assisted hatching (AH) and multiple zygote twins (MZT) after in vitro fertilization (IVF)?",
+        "answer": "The excerpt discusses a meta-analysis that evaluated the association between assisted hatching (AH) and multiple zygote twins (MZT) after IVF. It found a statistically significant association between AH and MZT in studies comparing IVF with and without AH (OR, 1.17; 95% CI, 1.09–1.27; P<.0001). However, this association was not confirmed in high-quality cohort and case-control studies, where the odds ratio was 1.00 (95% CI, 0.81–1.24; P = .99). Additionally, the effect of AH varied depending on the day of embryo transfer, with significant effects observed for day 2 or 3 embryos but not for day 5 or 6 embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding the effect of assisted hatching (AH) on MZT with different embryo transfer days?",
+        "answer": "The analysis indicated that with day 2 or 3 embryo transfers, assisted hatching (AH) significantly increased the risk of multiple zygote twins (MZT) (adjusted RR, 2.16; 95% CI, 1.53–3.06). However, this increased risk did not persist when evaluating day 5 and 6 blastocyst embryo transfers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations were noted in the studies evaluating the effect of assisted hatching (AH) on MZT?",
+        "answer": "The excerpt mentions several limitations in the studies evaluating the effect of assisted hatching (AH) on MZT, including: not reporting the type of twins observed, different methods of AH used, lack of confirmatory ultrasound and/or placental pathology confirming MZT, and variations in the days of embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between assisted hatching (AH) and the risk of multiple gestation pregnancies (MZT) after embryo transfer?",
+        "answer": "Assisted hatching (AH) is associated with an increased risk of multiple gestation pregnancies (MZT) after embryo transfer. In a retrospective analysis of NASS data, the risk of MZT was increased following single day 3 embryo transfer in patients who had AH, with rates of 2.0% for AH versus 1.3% without AH. The adjusted odds ratio (aOR) was 1.77 (95% CI, 1.31–2.38). Similarly, in a case-control study utilizing the SART database, AH was associated with an increased risk of MZT compared to other multiple-gestation pregnancies (aOR, 3.2; 95% CI, 1.2–8.0) and compared to singleton pregnancies (aOR, 3.8; 95% CI, 1.8–9.8).",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations were noted in the NASS and SART datasets regarding assisted hatching (AH)?",
+        "answer": "The limitations noted in the NASS and SART datasets regarding assisted hatching (AH) include the retrospective nature of the studies, which makes it difficult to control for many variables. Additionally, it was suggested that the AH method used was probably primarily not laser-AH, given the time frame of the study. Furthermore, many studies that did not show a significantly increased risk of MZT with AH were underpowered, had limited numbers of MZT pregnancies reported, were inconsistent in the number of embryos transferred, had insufficient data regarding the method of AH, or compared hatched cleavage-stage embryos with unhatched blastocysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the retrospective review of autologous and oocyte donation IVF cycles regarding MZT rates?",
+        "answer": "The retrospective review of autologous and oocyte donation IVF cycles that analyzed 4,976 pregnancies from 2000–2007 found that MZT rates were not significantly different between day 3 embryo transfer cycles with or without assisted hatching (AH), with rates of 1.1% for AH versus 1.3% without AH. The adjusted odds ratio (aOR) was 0.94 (95% CI, 0.26–3.44; P = 0.74).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between AH and MZT according to the excerpt?",
+        "answer": "The excerpt indicates that data regarding the risk of MZT (multiple gestation twins) with AH (assisted hatching) are mixed. Some studies suggest higher rates of MZT with AH, while others indicate no increase. Therefore, there is insufficient evidence to definitively conclude that AH is associated with MZT, as the outcome is rare and studies show conflicting findings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the strength of evidence and recommendation regarding AH and MZT?",
+        "answer": "The strength of evidence regarding the association between AH and MZT is rated as B, and the strength of recommendation is moderate, indicating that while there is some evidence, it is not strong enough to make definitive conclusions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is assisted hatching in the context of in vitro fertilization (IVF)?",
+        "answer": "Assisted hatching is a technique used in IVF to improve the chances of embryo implantation. It involves creating a small opening in the zona pellucida (the outer layer of the embryo) to facilitate the hatching process, which is necessary for the embryo to implant into the uterine lining.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential benefits of assisted hatching according to the studies referenced?",
+        "answer": "The studies referenced suggest that assisted hatching may improve implantation rates, particularly in embryos with poor prognosis or in patients of advanced maternal age. However, some studies also indicate that it does not enhance IVF success in good-prognosis patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the studies cited in the excerpt regarding assisted hatching?",
+        "answer": "The studies cited provide evidence on the efficacy of assisted hatching in various patient populations undergoing IVF. They explore its impact on implantation rates and overall success of the IVF process, contributing to the understanding of how this technique can be utilized in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is assisted hatching and how is it related to infertility treatment?",
+        "answer": "Assisted hatching is a technique used in in vitro fertilization (IVF) to help embryos implant in the uterine lining. It involves creating a small opening in the outer layer of the embryo, known as the zona pellucida, to facilitate the embryo's ability to hatch and implant. This method is particularly applied to morphologically low-quality embryos in patients with poor prognosis for infertility, as it may improve the chances of successful implantation and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential risks associated with assisted hatching?",
+        "answer": "One potential risk associated with assisted hatching is the increased likelihood of monozygotic (identical) twinning. Studies have investigated whether the mechanical process of assisted hatching could lead to a higher incidence of twins conceived through IVF, raising concerns about the implications for pregnancy and maternal health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the studies mentioned in the excerpt regarding assisted hatching?",
+        "answer": "The studies referenced in the excerpt highlight the application of assisted hatching techniques in IVF and their implications for patient outcomes. They explore the effectiveness of assisted hatching in improving implantation rates for low-quality embryos and examine the associated risks, such as the potential for monozygotic twinning, thereby contributing to the understanding of assisted reproductive technologies and their safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is laser assisted hatching and its relevance in IVF?",
+        "answer": "Laser assisted hatching is a technique used in in vitro fertilization (IVF) to improve the chances of embryo implantation. It involves using a laser to create a small opening in the zona pellucida, the outer layer of the embryo, which may facilitate the embryo's ability to hatch and implant into the uterine lining. Studies have shown that this technique can be beneficial for patients with good prognosis, advanced maternal age, or those experiencing recurrent implantation failure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of assisted hatching on pregnancy outcomes?",
+        "answer": "Assisted hatching has been studied extensively for its effects on pregnancy outcomes in assisted reproduction technologies. Systematic reviews and meta-analyses have indicated that assisted hatching may improve pregnancy rates, particularly in specific populations such as women of advanced maternal age or those undergoing oocyte donation. However, some studies suggest that it may not significantly improve outcomes in all cases, particularly in cycles with diminished ovarian reserve.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of randomized controlled trials in evaluating assisted hatching?",
+        "answer": "Randomized controlled trials (RCTs) are crucial in evaluating the efficacy of assisted hatching techniques in assisted reproduction. They provide high-quality evidence by minimizing bias and allowing for comparison between groups receiving the intervention and those who do not. The findings from RCTs help establish guidelines and recommendations for the use of assisted hatching in clinical practice, ensuring that patients receive evidence-based care.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the validity of assisted hatching on pregnancy rates in assisted reproductive technology?",
+        "answer": "The validity of assisted hatching on pregnancy rates in assisted reproductive technology was analyzed based on results from the Japan Assisted Reproductive Technology Registry System 2010, indicating its relevance in improving outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors affect the probability of pregnancy and live birth with in vitro fertilization?",
+        "answer": "A multivariate analysis was conducted to identify factors affecting the probability of pregnancy and live birth with in vitro fertilization, as reported by the Society for Assisted Reproductive Technology Clinic Outcomes Reporting System.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does assisted hatching affect live birth rates in advanced maternal age?",
+        "answer": "The effect of assisted hatching on live birth rates following fresh embryo transfer in women of advanced maternal age was studied, showing potential benefits in this demographic.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of laser-assisted hatching on clinical outcomes of vitrified-warmed blastocysts?",
+        "answer": "Laser-assisted hatching was found to improve clinical outcomes of vitrified-warmed blastocysts developed from low-grade cleavage-stage embryos, according to a prospective randomized study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of laser-assisted hatching on pregnancy outcomes of cryopreserved-thawed embryo transfers?",
+        "answer": "A meta-analysis of randomized controlled trials indicated that laser-assisted hatching positively affects pregnancy outcomes in cryopreserved-thawed embryo transfers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the trends and correlates of monozygotic twinning after single embryo transfer?",
+        "answer": "Research has shown trends and correlates of monozygotic twinning following single embryo transfer, highlighting the implications of assisted conception techniques.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between extended embryo culture and monozygotic twinning?",
+        "answer": "The elevated incidence of monozygotic twinning is associated with extended embryo culture, according to a study published in Fertility and Sterility in 2018.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do assisted reproductive technologies (ARTs) affect the incidence of monozygotic twinning?",
+        "answer": "A study published in Human Reproduction in 2016 investigated whether ARTs affect the incidence of monozygotic twinning, indicating a need for further research in this area.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Japanese ART national registry reveal about monozygotic twinning?",
+        "answer": "Analysis based on results from the 2010 Japanese ART national registry showed the incidence of monozygotic twinning in assisted reproductive technology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the trends in assisted hatching and pregnancy outcomes in the United States from 2000 to 2010?",
+        "answer": "The National ART Surveillance System reported on trends and pregnancy outcomes related to assisted hatching in the United States during this period, as published in Fertility and Sterility in 2014.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are associated with monozygosity in assisted reproductive technology pregnancies?",
+        "answer": "A study published in Fertility and Sterility in 2014 identified factors associated with monozygosity in assisted reproductive technology pregnancies and the risk of recurrence using linked cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk factors for monozygotic twinning after in vitro fertilization?",
+        "answer": "A systematic review and meta-analysis published in Fertility and Sterility in 2019 examined the risk factors for monozygotic twinning after in vitro fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the Cochrane review about assisted hatching on assisted conception?",
+        "answer": "The Cochrane Database Systematic Review published in 2006 and updated in 2009 discusses assisted hatching in the context of assisted conception (IVF & ICSI).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is in vitro fertilization?",
+        "answer": "In vitro fertilization (IVF) is a medical procedure in which an egg is combined with sperm outside the body, in a laboratory setting. This process involves stimulating the ovaries to produce multiple eggs, retrieving the eggs, fertilizing them with sperm, and then transferring the resulting embryos into the uterus. IVF is commonly used to treat infertility and can involve various techniques to enhance the chances of successful conception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the publication 'Fertility and Sterility'?",
+        "answer": "'Fertility and Sterility' is a peer-reviewed medical journal that publishes research and reviews on reproductive medicine, including topics related to infertility treatments such as in vitro fertilization. The journal serves as an important resource for clinicians and researchers in the field of reproductive health, providing insights into the latest advancements and findings in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "¿Qué evidencia hay sobre la eclosi/C19on asistida en la fertilización in vitro?",
+        "answer": "Hay evidencia moderada de que la eclosi/C19on asistida no mejora significativamente las tasas de nacidos vivos en los ciclos de reproducción asistida en fresco y evidencia insuficiente sobre el beneficio de la eclosi/C19on asistida en pacientes con mal pronóstico o sometidos a ciclos de transferencia embrionaria con descongelados.",
+        "is_verified": 1
+    }
+]

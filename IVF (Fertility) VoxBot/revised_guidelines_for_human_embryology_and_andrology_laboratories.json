@@ -1,0 +1,1157 @@
+[
+    {
+        "question": "What is the focus of the guidance provided in the document?",
+        "answer": "The document provides comprehensive guidance for human embryology, andrology, and endocrinology laboratories, including requirements and recommendations for accreditation and staffing in the United States.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some key areas covered in the embryology laboratory guidance?",
+        "answer": "The embryology laboratory guidance covers areas such as laboratory space and design, instrumentation, supplies and reagents, daily quality control, staffing definitions and duties, embryology training, patient identification, and traceability, as well as oocyte retrieval.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the key words associated with the document?",
+        "answer": "The key words associated with the document are Andrology, assisted reproductive technology, embryology, endocrinology, and laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Oocyte Retrieval?",
+        "answer": "Oocyte retrieval is a medical procedure used in assisted reproductive technology (ART) to collect oocytes (eggs) from a woman's ovaries. This procedure is typically performed during an in vitro fertilization (IVF) cycle after the ovaries have been stimulated with hormones to produce multiple eggs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Intracytoplasmic Sperm Injection (ICSI)?",
+        "answer": "Intracytoplasmic Sperm Injection (ICSI) is a specialized form of in vitro fertilization (IVF) that involves the direct injection of a single sperm into an oocyte. This technique is often used in cases of male infertility where sperm quality or quantity is a concern.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Embryo Biopsy and PGT?",
+        "answer": "Embryo biopsy is a procedure performed on embryos created through IVF, where a few cells are removed from the embryo for genetic testing. Preimplantation Genetic Testing (PGT) is then conducted on these cells to identify genetic abnormalities before the embryo is transferred to the uterus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Embryo Cryopreservation?",
+        "answer": "Embryo cryopreservation is the process of freezing embryos created during an IVF cycle for future use. This allows for the preservation of embryos that can be thawed and implanted in a future cycle, providing options for couples who may not be ready to attempt pregnancy immediately.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of Embryo Transfer?",
+        "answer": "Embryo transfer is a key step in the IVF process where one or more embryos are placed into the uterus after fertilization and culture. The goal is to achieve a successful implantation and subsequent pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of an andrologist?",
+        "answer": "An andrologist specializes in male reproductive health, focusing on issues related to male infertility, sexual dysfunction, and hormonal disorders. They are involved in diagnosing and treating conditions affecting male reproductive organs and may perform procedures related to sperm collection and analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is semen cryopreservation?",
+        "answer": "Semen cryopreservation is the process of freezing and storing sperm cells at very low temperatures to preserve their viability for future use, such as in assisted reproductive technologies like IUI (intrauterine insemination) and IVF (in vitro fertilization).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does sperm function testing involve?",
+        "answer": "Sperm function testing involves assessing the ability of sperm to fertilize an egg, which may include evaluating sperm motility, morphology, and the ability to undergo capacitation and acrosome reaction, all of which are critical for successful fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the American Society for Reproductive Medicine (ASRM) guidance?",
+        "answer": "The ASRM guidance provides standards and recommendations for embryology and andrology laboratories to ensure quality and safety in assisted reproductive technology (ART) practices. It helps clinics meet or exceed the requirements set by health authorities like the CDC, ensuring high-quality patient care in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of daily quality control in a laboratory setting?",
+        "answer": "Daily quality control in a laboratory setting is essential to ensure the accuracy and reliability of test results. It involves routine checks and calibrations of equipment, as well as monitoring the performance of tests to identify any deviations that could affect patient outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process of serum collection and processing in endocrine laboratory testing?",
+        "answer": "Serum collection in endocrine laboratory testing involves drawing blood from a patient, processing it to separate the serum, and then analyzing the serum for hormonal levels and other biochemical markers relevant to endocrine function.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does ART stand for in the context of reproductive medicine?",
+        "answer": "ART stands for Assisted Reproductive Technologies, which encompasses various medical procedures used to address infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and how is it used in reproductive technology?",
+        "answer": "ICSI stands for Intracytoplasmic Sperm Injection, a procedure used in assisted reproductive technology where a single sperm is injected directly into an egg to facilitate fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the Centers for Medicare and Medicaid Services (CMS) in clinical laboratory testing?",
+        "answer": "The CMS regulates all clinical laboratory testings performed on humans in the United States through the Clinical Laboratory Improvements Amendments (CLIA), ensuring quality and accuracy in laboratory results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT refer to in assisted reproductive technologies?",
+        "answer": "PGT stands for Preimplantation Genetic Testing, a procedure used to identify genetic defects in embryos created through in vitro fertilization before implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the FDA in the context of assisted reproductive technologies?",
+        "answer": "The FDA, or Food and Drug Administration, plays a crucial role in regulating the safety and efficacy of medical devices and procedures used in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does eSET stand for and what is its purpose?",
+        "answer": "eSET stands for Elective Single Embryo Transfer, a practice in assisted reproductive technology aimed at transferring a single embryo to reduce the risk of multiple pregnancies while maintaining a high chance of success.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of the Clinical Laboratory Improvements Amendments (CLIA)?",
+        "answer": "CLIA establishes quality standards for laboratory testing to ensure the accuracy, reliability, and timeliness of patient test results in clinical laboratories.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does FET stand for and what does it involve?",
+        "answer": "FET stands for Frozen-Thawed Embryo Transfer, a procedure in assisted reproductive technology where previously frozen embryos are thawed and transferred to the uterus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the function of the Centers for Disease Control (CDC) in relation to reproductive health?",
+        "answer": "The CDC provides guidelines and surveillance for reproductive health practices, including assisted reproductive technologies, to ensure public health and safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the term 'SART' in reproductive medicine?",
+        "answer": "SART stands for Society for Assisted Reproductive Technologies, which is an organization that promotes research, education, and the highest standards of practice in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the SSA in medical terms?",
+        "answer": "SSA stands for human sperm survival assay, which is a test used to evaluate the viability and functionality of sperm.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does TESA/TESE stand for?",
+        "answer": "TESA stands for Testicular Sperm Aspiration and TESE stands for Testicular Sperm Extraction, both are procedures used to retrieve sperm directly from the testis for use in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the Zona pellucida (ZP) in reproduction?",
+        "answer": "The Zona pellucida is a glycoprotein layer surrounding the oocyte, which plays a crucial role in fertilization by facilitating sperm binding and preventing polyspermy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What organizations are mentioned in the excerpt related to reproductive medicine?",
+        "answer": "The excerpt mentions the American Society for Reproductive Medicine (ASRM) and the Society for Reproductive Biologists and Technologists (SRBT), which provide guidance for laboratory management and operations in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the educational requirements for laboratory supervisors in embryology?",
+        "answer": "Laboratory supervisors must have an earned bachelor's or master's degree in a chemical, physical, or biologic science or in medical technology from an accredited institution.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the minimum number of ART procedures that a laboratory supervisor must complete under supervision?",
+        "answer": "A laboratory supervisor must complete a minimum of 60 ART procedures under supervision with attestation from the training laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "How many continuing education hours are required for laboratory supervisors every 2 years?",
+        "answer": "Laboratory supervisors must obtain a minimum of 24 hours of documented continuing education units (CEUs) every 2 years.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the experience requirement for a senior embryologist?",
+        "answer": "A senior embryologist must have a minimum of 3 years of experience and perform 20 procedures or a satisfactory number annually to maintain technical proficiency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the training requirements for an embryologist?",
+        "answer": "An embryologist must have documented completion of training in and performance of a minimum of 30 ART procedures under supervision with attestation from the training laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the minimum experience required for a junior embryologist?",
+        "answer": "A junior embryologist must have a minimum of 2 years of experience and perform 20 procedures or a satisfactory number annually to maintain technical proficiency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for an embryology trainee?",
+        "answer": "An embryology trainee must have an earned bachelor's or master's degree in a chemical, physical, or biologic science or in medical technology from an accredited institution. They must also have documented completion of training in and performance of a minimum of 30 ART (assisted reproductive technology) procedures under supervision with attestation from the training laboratory. Additionally, they are required to obtain a minimum of 24 hours of documented Continuing Education Units (CEUs) every 2 years and must perform 20 procedures or a satisfactory number annually to maintain technical proficiency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of CEUs in the context of medical training?",
+        "answer": "CEUs (Continuing Education Units) are important in medical training as they ensure that professionals stay updated with the latest knowledge and skills in their field. In this context, obtaining a minimum of 24 hours of documented CEUs every 2 years is a requirement for maintaining certification and ensuring ongoing professional development in the field of embryology and assisted reproductive technology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ART in the medical field?",
+        "answer": "ART stands for assisted reproductive technology, which encompasses various medical procedures used to address infertility. This includes techniques such as in vitro fertilization (IVF) and other methods that assist with the conception of a child.",
+        "is_verified": 1
+    },
+    {
+        "question": "What accreditation is recommended for laboratory supervisors in embryology?",
+        "answer": "It is recommended that laboratory supervisors in embryology have accreditation by the American Board of Bioanalysis as a technical supervisor, although it is not required for the laboratory supervisor and/or the laboratory director.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the CLIA regulations and their relevance to clinical laboratories?",
+        "answer": "The CLIA regulations and interpretive guidelines apply to clinical laboratories that perform diagnostic tests on humans and generate reports of test results. Before starting operations, clinical laboratories must apply for a CLIA Certificate of Registration. These regulations ensure that laboratories meet specific standards for testing and reporting results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of laboratories are considered reproductive clinical laboratories under CLIA?",
+        "answer": "Andrology and endocrine laboratories are considered reproductive clinical laboratories that fall under the CLIA and state regulations and guidelines. These laboratories are involved in testing related to male and female reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for a laboratory that provides quantitative semen analysis?",
+        "answer": "If an andrology laboratory provides quantitative semen analysis or any procedure that includes diagnostic quantitative analysis of sperm concentration, it must satisfy the requirements of and be registered as a high-complexity clinical laboratory as specified in the CLIA regulations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of high-complexity clinical laboratories in the context of sperm analysis?",
+        "answer": "Even if only one test performed in the laboratory is classified as high complexity, the entire laboratory must be registered and treated as a high-complexity laboratory. This classification ensures that the laboratory meets rigorous standards for testing accuracy and reliability.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of testing are considered nonwaived by CLIA?",
+        "answer": "Both andrology and endocrine testing are considered nonwaived by the CLIA. This means that these tests require a higher level of regulatory oversight compared to waived tests, which are simpler and less risky.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of tests are classified as waived testing in CLIA laboratories?",
+        "answer": "Waived testing in CLIA laboratories includes urine pregnancy testing and urinalysis, which are considered to have a lower risk of error and do not require the same level of regulatory oversight as nonwaived tests.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role do automated immunoanalyzers play in endocrine laboratories?",
+        "answer": "Endocrine laboratories typically use automated immunoanalyzers to report serum fertility hormone levels for patients. The automated nature of these analyzers classifies these laboratories as moderate complexity.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of CLIA in laboratory inspections?",
+        "answer": "CLIA (Clinical Laboratory Improvement Amendments) regulations require andrology and endocrine laboratories to submit to inspections by state departments of health to ensure compliance. Laboratories that pass inspection receive a CLIA Certificate of Compliance. Alternatively, laboratories may be accredited by authorized organizations like CAP (College of American Pathologists) or TJC (The Joint Commission), which have stringent requirements for accreditation. If accredited by these organizations, laboratories receive a CLIA Certificate of Accreditation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for clinical testing laboratories after initial accreditation?",
+        "answer": "After initial accreditation, clinical testing laboratories must undergo regular biennial inspections by the state’s department of health or their accrediting organization. These inspections can be announced or unannounced and include a review of the laboratory’s quality management and quality assurance programs, as well as all aspects of preanalytic, analytic, and postanalytic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What happens if a laboratory is part of a hospital or health system accredited by TJC?",
+        "answer": "If a laboratory is part of a hospital or health system where the parent entity is accredited by TJC, it is also subject to TJC standards, even if it is already accredited by another organization like CAP. This necessitates close collaboration with the parent institution to ensure compliance with all relevant accrediting organizations' standards.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the FDA in regulating human cells and tissues used in ART?",
+        "answer": "The US Food and Drug Administration (FDA) has regulatory authority over human cells, tissues, and cellular and tissue-based products (HCTPs), which include sperm, oocytes, and embryos used in assisted reproductive technology (ART). The use of these products is regulated under Title 21 of the Code of Federal Regulations (CFR), part 1271. The FDA issues specific guidance on donor eligibility and oversees compliance to prevent the spread of infectious diseases in the context of third-party reproduction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for fertility clinics regarding FDA compliance?",
+        "answer": "Fertility clinics using HCTPs must register their establishment with the FDA within 5 days of beginning operations and are subject to periodic unannounced inspections. The FDA focuses on compliance with donor eligibility requirements and the proper handling and distribution of donor materials to ensure patient safety. Inspections generally occur biennially and can result in immediate cessation of patient care if the quality of care is deemed insufficient and poses an imminent risk to patient safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "What additional regulations might apply to fertility clinics beyond FDA requirements?",
+        "answer": "In addition to FDA regulations, some states may require fertility clinics to obtain a tissue bank registration or license. State tissue banks may oversee activities and services provided by the clinics, ensuring compliance with state-specific regulations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended minimum number of embryologists for a laboratory performing 200 cycles?",
+        "answer": "For a laboratory performing 151–300 cycles, the recommended minimum number of embryologists is 3 – 4.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidance is provided for laboratory management and operations in reproductive medicine?",
+        "answer": "The guidance for labs management and operations is provided by the Practice Committees of the American Society for Reproductive Medicine (ASRM) and the Society for Reproductive Biologists and Technologists (SRBT).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the number of embryologists in relation to the number of cycles performed?",
+        "answer": "The number of embryologists required increases with the number of cycles performed to ensure adequate staffing and management of embryology processes, as outlined in the recommended staffing guidelines.",
+        "is_verified": 1
+    },
+    {
+        "question": "What regulations are mentioned regarding fertility clinics?",
+        "answer": "Regulations include requirements for facilities that recover, process, store, and/or distribute cells and tissues. Each fertility clinic should confirm with their State Department of Health the existence and scope of a tissue bank license.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidance does the FDA issue related to fertility clinics?",
+        "answer": "The FDA issues specific guidance periodically on emergent issues, such as testing for Zika virus, West Nile virus, and coronavirus disease 2019.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the Society for Assisted Reproductive Technology (SART)?",
+        "answer": "The mission of the SART is to set up and help maintain the standards for Assisted Reproductive Technology (ART) in an effort to better serve members and patients. The SART works with the CDC to analyze ART practice patterns and outcomes to ensure that all clinics operate under the current standard of care.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for fertility clinics that are members of SART?",
+        "answer": "Fertility clinics that elect to be members of the SART must have an embryology laboratory that is accredited by either the CAP (College of American Pathologists) or TJC (The Joint Commission).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is a Quality Management System (QMS) in the context of fertility clinics?",
+        "answer": "A Quality Management System (QMS) is the framework established to manage and monitor activities related to quality standards to achieve an organizational goal. Quality control, assessment, and improvement are essential parts of the QMS, which must cover all areas of the laboratory and be reviewed at least annually by the laboratory director for effectiveness.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the applicable regulatory requirements for a Quality Management System (QMS) in a medical laboratory?",
+        "answer": "The applicable regulatory requirements for a Quality Management System (QMS) in a medical laboratory include CLIA (Clinical Laboratory Improvement Amendments), Occupational Safety and Health Administration (OSHA) regulations, Health Insurance Portability and Accountability Act (HIPAA), and Fire and Building codes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What processes are recommended to ensure patient care in a medical laboratory?",
+        "answer": "Processes recommended to ensure patient care in a medical laboratory include identifying and evaluating errors, incidents, or other problems that may interfere with patient care, frequently achieved through documentation and review in an incident report format.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of quality control in laboratory testing?",
+        "answer": "Quality control in laboratory testing is important as it includes daily quality control methods for each test performed and by each technologist performing the test, ensuring accuracy and reliability of test results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for the calibration maintenance of laboratory equipment?",
+        "answer": "Calibration maintenance of laboratory equipment, which includes microscopes, hoods, centrifuges, pipettes, thermometers, and environmental conditions, must be performed at defined intervals to ensure proper functioning and accuracy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the education and training requirements for personnel in a medical laboratory?",
+        "answer": "Personnel in a medical laboratory, including the laboratory director, clinical/technical consultants, technical supervisors, general supervisors, and testing personnel, must satisfy specific education and training requirements to ensure competency in their roles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of proﬁciency testing (PT) in laboratories?",
+        "answer": "Proficiency testing (PT) is significant as CLIA regulations require laboratories to participate in some form of PT for every test performed on patient specimens at an interval of not less than twice per year, ensuring the accuracy and reliability of laboratory results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should a fertility clinic's policy include regarding medical errors involving gametes and embryos?",
+        "answer": "A fertility clinic's policy should include the disclosure of medical errors involving gametes and embryos as soon as they are discovered, such as loss, misdirection, or damage, and recommend disclosure of errors causing no harm or near misses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of testing are mentioned in the excerpt that require participation in an external PT program?",
+        "answer": "The types of testing that require participation in an external PT program include sperm count, sperm viability, and endocrine (hormone) assays.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the examples of testing that require a minimum of an alternative assessment instead of external PT?",
+        "answer": "The examples of testing that require a minimum of an alternative assessment include sperm morphology, sperm motility, and all embryology procedures/tests.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the laboratory director in relation to testing systems?",
+        "answer": "The laboratory director is responsible for ensuring that the testing systems provide quality services in all phases of testing (preanalytic, analytic, and postanalytic) and are appropriate for the patient population.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the responsibilities of a laboratory director in ensuring quality control in medical testing?",
+        "answer": "The laboratory director is responsible for approving and reviewing test methodologies, ensuring continued standards through quality control, assurance, and improvement, and overseeing the training and continued competency of personnel. They must also ensure that adequate space, equipment, and facilities are available, and that the environment is safe from physical, chemical, and biologic hazards. Additionally, they must ensure the quality of laboratory reports and the turnaround time of testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for high-complexity testing supervision in a laboratory?",
+        "answer": "A general supervisor must be available to provide day-to-day supervision of all testing personnel and reporting of test results. They must also provide on-site supervision for specific minimally qualified testing personnel when performing high-complexity testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "How often must off-site laboratory directors visit their laboratories?",
+        "answer": "Off-site laboratory directors must visit the laboratory frequently, at a minimum of 4 times a year, to monitor the function and quality of the laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the safety requirements for laboratory employees?",
+        "answer": "The laboratory must ensure that the environment for employees is safe from physical, chemical, and biologic hazards, and that safety and biohazard requirements are followed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for a moderate-complexity laboratory director?",
+        "answer": "A moderate-complexity laboratory director must possess a current license as a laboratory director issued by the state in which the laboratory is located, if such licensing is required. The director must be a Medical Doctor (MD) or Doctor of Osteopathy (DO) with a current medical license in the state of the laboratory location and be board certified in anatomic and/or clinical pathology, or an MD, DO, or Doctor of Podiatric Medicine (DPM) with a current medical license and specific laboratory training/experience. This includes one year of experience as a director or supervising non-waived tests, twenty Continuing Medical Education credit hours in laboratory practice, equivalent laboratory training during medical residency, or a doctoral degree in relevant sciences with board certification or one year’s experience directing or supervising non-waived testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What qualifications are required for a High-Complexity Clinical Laboratory Director (HCLD)?",
+        "answer": "An HCLD must have a doctoral degree (PhD) in a chemical, physical, or biologic science or a medical degree (MD or DO) from an accredited educational institution, or have qualified as a laboratory director before July 20, 1999. Additionally, the laboratory director must have specific training and expertise in biochemistry, cell biology, and the physiology of reproduction, along with experience in experimental design, data management, and statistical analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for a laboratory director in terms of experience and certification?",
+        "answer": "As of January 1, 2006, a laboratory director must have earned certification as an HCLD or embryology laboratory director from the American Board of Bioanalysis (ABB). They must also have two years of documented relevant experience in a clinic performing in vitro fertilization (IVF) and assisted reproductive technology (ART), which includes completion of a minimum of 60 ART procedures under supervision, including egg retrievals, insemination, and assessment of fertilization and embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What techniques and procedures are involved in assisted reproductive technology (ART)?",
+        "answer": "The full array of assisted reproductive techniques includes culture medium design, gamete and embryo culture, cryopreservation, vitrification, micromanipulation techniques such as assisted hatching (AH), intracytoplasmic sperm injection (ICSI), embryo and blastocyst biopsy, and biopsy preparation for genetic testing. Clinical andrology is also involved, including diagnostic semen analysis (SA) and semen processing and preparation for treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What qualifications are required for a clinical consultant in high complexity laboratories?",
+        "answer": "The clinical consultant (CC) must be an MD, DO, or DPM with a current medical license in the state of the laboratory location, or a doctoral scientist certified by a Health and Human Services-approved board. The CC should provide clinical consultation to the laboratory’s clients and ensure appropriate tests are ordered to meet clinical expectations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for a technical consultant in moderate-complexity laboratories?",
+        "answer": "In moderate-complexity laboratories, a technical consultant is required only if the laboratory director is not qualified as an HCLD. The technical consultant must be an MD, DO, or DPM with a current medical license in the state of the laboratory location, certified in clinical or anatomic pathology, or have at least 1 year of experience or training in nonwaived testing. Alternatively, the technical consultant can have a doctoral or master’s degree in chemical biologic, physical, or clinical laboratory science with at least 1 year of experience or training in nonwaived testing, or a bachelor’s degree in the same fields with at least 2 years of experience or training in nonwaived testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the embryology laboratory director regarding certification?",
+        "answer": "It is recommended, but not required, that MD and PhD embryology laboratory directors hold the embryology subspecialty certification (technical supervisor, ABB) or equivalent to direct a CAP- or TJC-accredited, SART-reporting embryology laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process for evaluating employee competency in a medical laboratory?",
+        "answer": "Employees must be evaluated for competency after 6 months of employment in the first year and then annually thereafter. Competency must also be assessed before patient testing and reporting results when new methods or instruments are implemented. The evaluation encompasses all aspects of the job description and includes observation of sample handling, direct observation of routine test performance, monitoring the recording and reporting of test results, and assessment of problem-solving skills.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the phases of the testing procedure that competency evaluations cover?",
+        "answer": "The competency evaluation covers all phases of the testing procedure, which include preanalytic, analytic, and postanalytic phases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What specific elements are included in the competency assessment for laboratory employees?",
+        "answer": "The elements of competency assessment include direct observation of routine test performance, monitoring the recording and reporting of test results, review of intermediate test results or worksheets, quality control records, performance of instrument maintenance and function checks, assessment of test performance through testing previously analyzed specimens, and evaluation of problem-solving skills.",
+        "is_verified": 1
+    },
+    {
+        "question": "What qualifications must individuals hold to perform certain laboratory roles?",
+        "answer": "Individuals must hold specific licenses or qualifications such as HCLD (ABB), technical supervisor (ABB), embryology laboratory scientist (AAB), and/or andrology laboratory scientist (AAB) and must complete the required number of hours for their respective qualifications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are universal precautions in infection control?",
+        "answer": "Universal precautions are an approach to infection control that treats all human blood and certain body fluids as if they may be infectious. They should be used at all times when handling all samples to prevent disease transmission.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of samples in ART laboratories carry the risk of disease transmission?",
+        "answer": "The samples encountered in ART laboratories that carry the risk of disease transmission include semen, blood, and follicular fluid.",
+        "is_verified": 1
+    },
+    {
+        "question": "What testing should be done before cryopreservation of semen, oocytes, or embryos?",
+        "answer": "Serum from patients with semen, oocytes, or embryos destined to be cryopreserved should be tested for infectious diseases before cryopreservation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What viruses are mentioned as being of concern in fertility care?",
+        "answer": "The viruses mentioned include human immunodeficiency virus (HIV), hepatitis B virus, and hepatitis C virus, which may be present in patients seeking fertility care.",
+        "is_verified": 1
+    },
+    {
+        "question": "What additional safety measures are suggested for handling aerosolized viruses in laboratories?",
+        "answer": "Augmented sanitation protocols and risk mitigation strategies should be established as part of each clinic’s safety program to prevent transmission of aerosolized viruses, such as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the Bloodborne Pathogen Standard?",
+        "answer": "The Bloodborne Pathogen Standard (29 CFR 1910.1030) outlines regulations for protecting workers from health hazards related to bloodborne pathogens in the workplace, including guidelines for universal precautions and sanitation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the safety procedures mentioned for handling biohazardous waste in the laboratory?",
+        "answer": "The excerpt mentions the need for written policies and procedures for the safe handling and disposal of biohazardous waste material in the laboratory, as well as properly maintaining equipment to avoid possible injury and using appropriate personal protective equipment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of maintaining patient reports in the laboratory?",
+        "answer": "The laboratory should have a written record of each diagnostic test or IVF cycle that details the testing/procedures that were ordered and completed, ensuring adequate backup procedures for these records.",
+        "is_verified": 1
+    },
+    {
+        "question": "What considerations should be made for disaster preparedness in ART laboratories?",
+        "answer": "ART laboratories need to maintain an up-to-date disaster preparedness or emergency plan, including an exit strategy for rescuing storage tanks containing cryopreserved specimens and backup plans for specimens in culture during emergencies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are electronic health records (EHRs) and their significance in healthcare?",
+        "answer": "Electronic health records (EHRs) are digital versions of patients' paper charts and are crucial for maintaining patient health information. They improve quality, safety, and efficiency in healthcare delivery and help reduce health disparities while ensuring the privacy and security of patient data. The adoption of EHRs was mandated by the American Recovery and Reinvestment Act for healthcare providers to maintain their Medicaid and Medicare reimbursement levels.",
+        "is_verified": 1
+    },
+    {
+        "question": "What services do embryology laboratories provide?",
+        "answer": "Embryology laboratories offer safe and effective in vitro fertilization (IVF) procedures, including the identification of surgically retrieved oocytes, fertilization of oocytes, culture, transfer, and cryopreservation of embryos. They may also provide additional services such as oocyte cryopreservation, embryo biopsy for preimplantation genetic testing (PGT), and the use of fresh or frozen donor gametes or embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some design considerations for embryology laboratories?",
+        "answer": "Embryology laboratories require careful design and layout to ensure safety and effectiveness. Key considerations include using low volatile organic compound materials, ensuring surfaces can be easily cleaned and disinfected, providing sufficient electrical outlets connected to backup power sources, and maintaining dedicated clean air with high-efficiency particulate absorbing filters.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of incubators in embryology laboratories?",
+        "answer": "Incubators in embryology laboratories are used to supply CO2 to enable an appropriate pH for embryo culture and provide low O2 concentration through the use of a premixed gas or nitrogen gas input. They are essential for maintaining the optimal conditions for embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are warming ovens used for in an embryology lab?",
+        "answer": "Warming ovens in an embryology lab are typically needed to warm media or materials that do not require equilibration with CO2, ensuring that all materials are at the correct temperature for embryo handling and culture.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the function of heated stages and warm blocks in embryo culture?",
+        "answer": "Heated stages are used to hold embryo culture dishes and micromanipulation dishes at a controlled temperature, while warm blocks are used to hold media or tubes containing fluid and oocytes from oocyte retrieval procedures, ensuring that the embryos and oocytes are maintained at optimal temperatures during handling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of microscopes are recommended for use in embryology laboratories?",
+        "answer": "Stereo or dissecting microscopes, light microscopes with phase contrast and bright-field optics, and inverted microscopes equipped with Hoffman modulation contrast or differential interference contrast are recommended for use in embryology laboratories.",
+        "is_verified": 1
+    },
+    {
+        "question": "What procedures are mentioned that require micromanipulation in embryology?",
+        "answer": "ICSI (Intracytoplasmic Sperm Injection), AH (Assisted Hatching), and embryo biopsy are the micromanipulation procedures mentioned in the excerpt.",
+        "is_verified": 1
+    },
+    {
+        "question": "What temperature conditions are necessary for storing media and supplies in an embryology laboratory?",
+        "answer": "A refrigerator and freezer should be available to hold media and other temperature-dependent supplies, with a typical freezer temperature of -20°C to -80°C depending on the laboratory's research needs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of liquid nitrogen in the embryology laboratory?",
+        "answer": "Liquid nitrogen is used for storage and preservation of biological samples, and a supply line along with adequate storage tanks is necessary for its use in the laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of environment do 'isolette' style workstations provide for embryo manipulation?",
+        "answer": "'Isolette' style workstations provide a gassed and heated environment for short-term embryo manipulation outside the incubator.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are embryo culture media and why are they important in ART laboratories?",
+        "answer": "Embryo culture media are specialized solutions used to support the growth and development of embryos in assisted reproductive technology (ART) laboratories. They are commercially available from various vendors and are preferred for their proven efficacy, often demonstrated through bioassays such as mouse embryo assays or sperm survival assays. Proper testing and quality control of these media are crucial to ensure successful embryo development and overall laboratory performance.",
+        "is_verified": 1
+    },
+    {
+        "question": "What quality control measures are recommended for embryology laboratories?",
+        "answer": "Embryology laboratories should perform daily quality control checks that include monitoring incubator gas concentrations, gas supply line pressure, incubator temperature, refrigerator and freezer temperatures, temperatures of heated surfaces, room temperature and humidity, laser alignment, and liquid nitrogen tank levels. Additionally, new protocols should be validated through parallel testing, and documentation should include details on assay standards, controls, calibration, accuracy, precision, and tolerance limits.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the responsibilities of the embryology laboratory supervisor?",
+        "answer": "The embryology laboratory supervisor provides oversight of the daily operations of the laboratory, oversees staff training, ensures continual technical improvement, delegates operational tasks such as instrument maintenance and inventory management, and serves as a resource for laboratory personnel and clinical staff. They may also correspond with patients about their cryopreserved samples and maintain laboratory records and documents.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the minimum requirements for embryology laboratory staff?",
+        "answer": "The minimum embryology laboratory staff requirements include education, training, continuing education, and experience, with the laboratory supervisor needing no less than 4 years of experience as an embryologist.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done with outdated reagents, media, and chemicals in the laboratory?",
+        "answer": "All outdated materials should be discarded in an appropriate manner, and expiration dates along with lot numbers should be recorded as suggested by the manufacturers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of a senior embryologist?",
+        "answer": "The senior embryologist performs all ART (Assisted Reproductive Technology) procedures for which training has been provided under the supervision of the laboratory director or supervisor, and is responsible for maintaining and operating the embryology laboratory. They typically have no less than 3 years of experience in the field.",
+        "is_verified": 1
+    },
+    {
+        "question": "What qualifications are desirable for embryologists?",
+        "answer": "An educational background or technical experience in cell and tissue culture and the reproductive biology of mammalian systems is desirable for embryologists.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do embryologists acquire their skills?",
+        "answer": "Embryologists acquire their skills in clinical embryology through a documented training program administered by the embryology laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the experience requirement for a junior embryologist?",
+        "answer": "A junior embryologist has no less than 1 year of experience as an embryologist.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of embryologists in patient care?",
+        "answer": "Embryologists play a central role in patient care through their sensitive management of patients’ gametes, embryos, and reproductive tissues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for the training of embryologists?",
+        "answer": "Technical training and acquisition of competency must be achieved through a well-organized, structured plan with appropriate metrics to set measurable goals and timelines.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some of the procedures mentioned in the excerpt related to ART (Assisted Reproductive Technology)?",
+        "answer": "The excerpt mentions several procedures related to ART, including preparation of culture medium, sperm count, morphology assessment, motility assessment, embryo grading, oocyte grading, and ICSI (Intracytoplasmic Sperm Injection).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of parallel readings in the context of ART training?",
+        "answer": "Parallel readings are performed for analytic steps such as sperm count, morphology assessment, motility assessment, and embryo and oocyte grading to ensure consistent readings within the tolerance range are achieved before trainees can perform these tasks independently.",
+        "is_verified": 1
+    },
+    {
+        "question": "How long is the typical training period for new employees in the ART laboratory according to the excerpt?",
+        "answer": "The typical training period for new employees in the ART laboratory is approximately 3 to 9 months, depending on their skills, performance, and prior ART experience.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and why might it require a longer training period?",
+        "answer": "ICSI stands for Intracytoplasmic Sperm Injection, a procedure in ART that may require a significantly longer training period due to its complexity and the precision needed to perform it successfully.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of embryologists in assisted reproductive technology (ART) laboratories?",
+        "answer": "Embryologists prepare sperm samples for therapeutic use in an IVF cycle, but they do not routinely perform diagnostic andrology or endocrine laboratory services. They are responsible for the safe and efficient operation of the ART laboratory, which includes managing the increased complexity and time required for procedures such as preimplantation genetic testing (PGT) and embryo/oocyte vitrification and warming.",
+        "is_verified": 1
+    },
+    {
+        "question": "What protocols should ART laboratories have in place regarding patient identification?",
+        "answer": "Each ART laboratory should have a protocol to ensure the positive identification of specimens at each manipulation step. This identification should be verified by at least two qualified witnesses to ensure accuracy and safety in handling patient specimens.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the main reasons for ensuring adequate laboratory staffing in ART laboratories?",
+        "answer": "The main reasons for ensuring adequate laboratory staffing include avoiding staff burnout, preventing mental errors or shortcuts due to overwork, providing coverage during emergencies and disasters, and ensuring appropriate responses to alarms that may occur at any time.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the key procedures involved in embryology as mentioned in the excerpt?",
+        "answer": "The key procedures involved in embryology mentioned in the excerpt include oocyte retrieval, sperm preparation, conventional insemination, ICSI (Intracytoplasmic Sperm Injection), fertilization check, embryo culture and development, incubation, embryo grading, embryo transfer (ET), assisted hatching (AH), embryo biopsy, embryo cryopreservation and warming, embryo/oocyte cryostorage, and shipping of cryopreserved tissues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of sterile technique during embryology procedures?",
+        "answer": "Sterile technique is crucial during embryology procedures to prevent contamination and ensure the integrity of the specimens being handled, which is essential for successful outcomes in procedures such as oocyte retrieval and embryo culture.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done before beginning the oocyte retrieval procedure?",
+        "answer": "Before beginning the oocyte retrieval procedure, a time-out is called, and the patient’s identifiers (typically name and date of birth) along with the planned procedure are recorded to ensure accuracy and safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "How should the pH be maintained during embryology procedures?",
+        "answer": "The pH should be maintained using either a gassed chamber or media buffered to maintain appropriate pH in room air, or by performing the procedure in a timely manner in media overlaid with oil.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the acceptable criteria for sperm samples used in IVF or ICSI?",
+        "answer": "The acceptable criteria for sperm samples to be used for conventional IVF or ICSI may include concentration, motility, morphology, forward progression, and/or frozen-thawed sperm.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for performing Intracytoplasmic Sperm Injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection should only be performed by trained embryologists, and there should be written protocols defining training requirements and acceptable performance levels for the laboratory and individual embryologists.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be included in the written procedures for performing a fertilization check?",
+        "answer": "Written procedures for performing a fertilization check should include a defined period of time for the check, the time and technician performing it, the status of each oocyte (number of pronuclei, maturity, and number of polar bodies), and a procedure for the immediate disposition of oocytes with an abnormal number of pronuclei.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of media in embryo culture and development?",
+        "answer": "Today's media products for embryo culture are predominantly manufactured by large commercial entities, ensuring a high level of quality care with minimal lot-to-lot variation, which was not previously attained by traditional in-laboratory media preparations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the types of protein supplementation mentioned in the excerpt?",
+        "answer": "The excerpt mentions two types of protein supplementation: purified or recombinant human serum albumin and synthetic protein supplements. Synthetic protein supplements contain human serum albumin (80%–85%) and a residual fraction of a- and b-globulins mixed with other macromolecules such as growth factors, hyaluronic acid, and cofactors that are beneficial to media formulations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of CO2 adjustment in embryo incubation?",
+        "answer": "CO2 adjustment is crucial for maintaining the pH of the culture medium, typically between 7.25 and 7.35, which is important for the optimal growth conditions of preimplantation embryos. The correct pH is vital for embryo development, although no single optimal pH has been defined.",
+        "is_verified": 1
+    },
+    {
+        "question": "What gas mixture is recommended for incubating preimplantation embryos?",
+        "answer": "A tri-gas mix of CO2 (5%–7%), O2 (5%), and N2 (88%–90%) is recommended as it best mimics physiological conditions for growing preimplantation embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential effects of light exposure on mineral oil used in embryo incubation?",
+        "answer": "Light (ultraviolet) exposure to the mineral oil product during storage or use should be minimized to prevent chemical changes caused by reactive oxygen species (ROS) generation, which can negatively affect embryo culture conditions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of time-lapse imaging/microscopy in embryo development?",
+        "answer": "Time-lapse imaging/microscopy is important for understanding early embryo development, including time intervals of cell divisions and documented anomalies. It serves as an embryo selection/deselection tool, although it is not yet standard practice in ART laboratories as it has not been shown to improve pregnancy rates over standard embryo grading techniques.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are considered in embryo grading and selection?",
+        "answer": "Embryo quality assessment and grading involve examining cell number (cleavage stage), symmetry, fragmentation, overall blastocyst formation (blastocyst stage), inner cell mass, and trophectoderm (TE). Unique characteristics such as uneven cleavage, multinucleation, cytoplasmic granularity, thickness/color of the zona pellucida, and contamination are also noted in laboratory records.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does embryo transfer (ET) relate to clinical outcomes?",
+        "answer": "Transferring top-quality fresh or frozen-warmed embryos, combined with selection criteria and applicable elective single-embryo transfer, has been associated with higher implantation rates and better clinical outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is elective single-embryo transfer and why is it recommended?",
+        "answer": "Elective single-embryo transfer is a procedure recommended to increase the possibility of singleton, healthy, term live births while avoiding multiple pregnancies. It is particularly beneficial when used in conjunction with preimplantation genetic testing (PGT) for aneuploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is assisted hatching and what is its purpose in embryo transfer?",
+        "answer": "Assisted hatching is a laboratory procedure that involves breaching the zona pellucida of an embryo to facilitate the herniation of trophectoderm (TE) cells. This procedure is used to assist in embryo biopsy procedures, prevent blastocoel collapse prior to vitrification, and enhance implantation after embryo transfer (ET).",
+        "is_verified": 1
+    },
+    {
+        "question": "What technology is used in assisted hatching and what are its characteristics?",
+        "answer": "Computer-mediated safe infrared diode lasers are used in assisted hatching. These lasers deliver energy directly through an inverted microscope objective to ablate specific targets, such as the zona pellucida and cellular junctions. The infrared diode laser operates at a wavelength of 1,480 nm, is nontoxic, and generates minimal damaging effects.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is embryo biopsy and why is it performed?",
+        "answer": "Embryo biopsy is a procedure required for preimplantation genetic testing (PGT) for aneuploidy screening and specific genetic defects involving monogenic disorders, chromosomal structural rearrangements, or polygenic disorders. It allows for the selection of genetically healthy embryos before implantation, increasing the chances of a successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the advantages of blastocyst biopsy over earlier embryo biopsy methods?",
+        "answer": "Blastocyst biopsy has several advantages over pronuclear or cleavage-stage embryo biopsy procedures, including increased accuracy and reliability of PGT, removal of a smaller proportion of total cells from the embryo, removal of nonfetal trophectoderm (TE) cells only, and no apparent negative impact on cryopreservation or implantation potential.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of informed consent in embryo cryopreservation?",
+        "answer": "Informed consent is crucial before cryopreservation of oocytes or embryos to ensure that patients are aware of their options for the disposition of cryopreserved samples and the procedures that the fertility clinic and laboratory will follow. This includes understanding the billing for cryostorage and the process for discarding samples if the patient no longer wishes to continue storage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be included in the consent form for cryopreservation?",
+        "answer": "The consent form for cryopreservation must include options for the disposition of the cryopreserved samples and instructions for the fertility clinic and laboratory to follow. It should also address billing for cryostorage and the process for discarding samples if the patient decides to discontinue storage.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is embryo cryopreservation considered a requirement for modern embryology laboratories?",
+        "answer": "Embryo cryopreservation is considered a requirement for modern embryology laboratories because it allows for the preservation of embryos for future use, increasing the chances of successful pregnancies and providing flexibility for patients undergoing fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the ASRM Practice Committee Opinion on rapid-cooling vitrification best practices?",
+        "answer": "The ASRM Practice Committee Opinion provides guidelines and recommendations for the best practices in the process of rapid-cooling vitrification, which is a method used in cryopreservation to preserve reproductive cells and tissues. This technique is crucial in assisted reproductive technology to improve the success rates of embryo freezing and thawing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What protocols should laboratories have for storing cryopreserved tissues?",
+        "answer": "Laboratories must have specific protocols for storing cryopreserved tissues, including written procedures for maintaining liquid nitrogen storage tanks, installation of appropriate alarm systems, and regular testing of these systems to ensure they function correctly. Records should be kept regarding these procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What safety standards are established for working with liquid nitrogen?",
+        "answer": "Safety standards established by the CAP and TJC include the use of special cryo-gloves, safety goggles, closed-toed shoes, protective clothing, and face masks to mitigate hazards associated with liquid nitrogen.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of proper placement of temperature or level probes in liquid nitrogen?",
+        "answer": "Proper placement of temperature or level probes in liquid nitrogen is critical for providing adequate time for staff to respond to an alarm of tank warming, ensuring the safety and integrity of the cryopreserved specimens.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the hazards associated with the vitrifcation process?",
+        "answer": "The vitrifcation process increases hazards because it requires manual work using open containers filled with liquid nitrogen, which poses risks during delicate handling and examination of samples. Complete elimination of safety measures can expose inexperienced individuals to serious hazards.",
+        "is_verified": 1
+    },
+    {
+        "question": "How should cryopreserved specimens be shipped?",
+        "answer": "Cryopreserved specimens, including embryos, oocytes, and semen, must be shipped in dry liquid nitrogen (LN2) shippers to ensure temperatures below -150°C. Most commercial shipping companies will not insure these specimens.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the primary testing performed in an andrology laboratory?",
+        "answer": "The primary testing performed in an andrology laboratory is Semen Analysis (SA), which involves the microscopic examination of semen to determine its volume, sperm count, morphology, and motility, among other parameters.",
+        "is_verified": 1
+    },
+    {
+        "question": "What additional tests may be performed on semen and sperm in an andrology laboratory?",
+        "answer": "Additional tests may include tests of seminal plasma for constituents such as fructose or pH, tests of spermatozoa for DNA fragmentation or viability, and sperm preparation for insemination. Sperm cryopreservation may also be performed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What procedures can be performed to obtain sperm for analysis in an andrology laboratory?",
+        "answer": "Procedures to obtain sperm for analysis may include microsurgical/percutaneous epididymal sperm aspiration and testicular sperm aspiration/extraction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of sterile technique in sperm preparation for intrauterine insemination (IUI)?",
+        "answer": "Sterile technique is crucial in sperm preparation for IUI to prevent contamination and ensure the viability of sperm, which is essential for successful fertilization. It involves maintaining a clean environment and using sterilized equipment to minimize the risk of infection and ensure the integrity of the sperm sample.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of laboratory equipment are necessary for andrology services?",
+        "answer": "Laboratories performing andrology services must have access to essential equipment such as laminar flow hoods, biohazard laboratory hoods, balances, pipettors, thermometers, pH meters, centrifuges, and refrigerators. This equipment is vital for conducting assays and ensuring the accuracy and safety of laboratory procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is it important to test materials that come in contact with sperm during cryopreservation or IUI?",
+        "answer": "It is important to test materials that come in contact with sperm for toxicity to ensure that they do not adversely affect sperm viability or function. Toxic substances can compromise the quality of the sperm sample and ultimately impact the success of the IUI procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What documentation is required for laboratory supplies and reagents used in sperm preparation?",
+        "answer": "Documentation required includes a Certificate of Analysis from the manufacturer for each lot of the product, which verifies that the materials meet safety and quality standards. Additionally, quality control testing documentation is necessary if the commercial media is not used within its labeled expiration period or recommended period after opening.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of quality control in the andrology laboratory?",
+        "answer": "Quality control is crucial in the andrology laboratory to ensure the accuracy and reliability of test results. It involves daily checks before testing begins, adherence to manufacturer instructions, and compliance with regulations from accrediting agencies like CLIA. This includes quality control for sperm counting, morphology, motility, and maintaining proper environmental conditions such as temperature and humidity in the laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What qualifications must a general supervisor in a laboratory meet according to CLIA?",
+        "answer": "According to CLIA, a general supervisor in a laboratory must hold at least a bachelor's degree in science and have a minimum of 1 year of experience in high-complexity testing. They must also be on-site when testing is performed to ensure proper oversight of laboratory operations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What responsibilities does a technical supervisor have in a laboratory setting?",
+        "answer": "A technical supervisor is responsible for the technical and scientific oversight of the laboratory, which includes selecting appropriate test methodologies, verifying procedures and performance, enrolling in proficiency testing programs, establishing quality control measures, resolving technical issues, and training personnel, including conducting ongoing competency assessments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the qualifications required for andrologists?",
+        "answer": "Andrologists must hold a Doctor of Medicine (MD) or Doctor of Osteopathy (DO) with a current medical license, or a doctorate in clinical laboratory science, chemical, physical, or biologic science. Alternatively, they can have a master's degree in medical technology or related fields, a bachelor's degree in medical technology or related fields, an associate degree in chemical, physical, or biologic science or medical laboratory technology, or a high school diploma with military training as a medical laboratory specialist.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the duties of testing personnel in andrology?",
+        "answer": "Testing personnel, including andrologists, perform diagnostic and clinical analysis of human sperm and testicular tissue. They are responsible for adhering to laboratory procedures, ensuring daily quality control, and maintaining accurate record keeping for patient results. They must also identify and report any issues with test systems to supervisors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required before unsupervised testing on patient samples can be performed?",
+        "answer": "Laboratories must implement a training protocol for new employees, which must be documented. Proficiency must be demonstrated before any unsupervised testing on patient samples can occur.",
+        "is_verified": 1
+    },
+    {
+        "question": "What procedures must be documented for semen collection?",
+        "answer": "There must be documented procedures to ensure that semen specimens used in diagnostic and clinical procedures are produced by the intended sperm source, which is the patient.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of uniquely identifying and labeling a specimen in a laboratory setting?",
+        "answer": "The purpose of uniquely identifying and labeling a specimen is to ensure that it is unquestionably a specimen from the intended sperm source, which is crucial for accurate diagnostic testing and therapeutic use. This helps maintain the integrity of the specimen throughout the testing and reporting process, and prevents errors in identification during processing and insemination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is a complete SA and why is it important in assessing male fertility?",
+        "answer": "A complete SA (semen analysis) is the conventional method and first step in assessing male fertility potential. It is important because it provides a comprehensive evaluation of the male patient's semen, and analysis of results from multiple SAs over time yields the most accurate assessment of fertility. The entire ejaculate must be collected under specified conditions to ensure the reliability of the results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommended conditions for collecting a semen specimen?",
+        "answer": "The recommended conditions for collecting a semen specimen include masturbation into a sterile specimen container or an approved condom that does not contain spermicides or lubricants other than those approved by the laboratory. Additionally, the patient should remain abstinent for 2 to 7 days prior to collection to ensure optimal results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process of semen analysis (SA) and what parameters are measured?",
+        "answer": "Semen analysis (SA) involves collecting a semen sample and recording the time of collection and days of sexual abstinence. The ejaculate liqueﬁes for 30–60 minutes at room temperature, and after liquefaction, the sample volume is measured. Parameters measured during SA include semen pH, sperm count, motility, forward progression, agglutination, and morphology. A portion of the sample is analyzed manually or using an automated system like CASA, which measures sperm motility and kinematics and estimates sperm concentration.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is sperm function testing and what methods are used?",
+        "answer": "Sperm function testing assesses the viability and functionality of sperm. Methods include sperm vitality testing using supravital dyes like eosin B or hypo-osmotic swelling to determine if sperm are alive or dead. DNA fragmentation tests detect DNA damage during spermatogenesis through various assays such as sperm chromatin structure assay and the comet assay. Other tests include antisperm antibody testing to check for antibodies on spermatozoa, qualitative fructose testing to diagnose azoo-spermia, and measurement of reactive oxygen species (ROS) correlated with potential pathological effects.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of measuring reactive oxygen species (ROS) in sperm function testing?",
+        "answer": "Measuring reactive oxygen species (ROS) in sperm function testing is important as significant levels of ROS production may indicate potential pathological effects on sperm quality and function. Various chemical luminance methods or oxidative indicators can be used to detect ROS levels, which can impact fertility outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of sperm preparation for IUI and IVF procedures?",
+        "answer": "Sperm preparation for IUI and IVF procedures is necessary to concentrate motile sperm, remove nonmotile sperm, and eliminate seminal plasma. This ensures that only viable sperm are used for insemination, which is crucial for successful fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical indications for sperm cryopreservation?",
+        "answer": "The clinical indications for sperm cryopreservation include fertility preservation, infertility treatment, and travel to areas where there is a risk of infectious disease transmission. This allows individuals to preserve their sperm for future use under various circumstances.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the goal of cryopreservation protocols for sperm?",
+        "answer": "The goal of cryopreservation protocols for sperm is to preserve the specimen while minimizing intracellular ice crystal formation, which can cause cellular damage to the sperm. Proper cryoprotectants and controlled cooling rates are essential to achieve this.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken before sperm cryopreservation?",
+        "answer": "Before sperm cryopreservation, a consent form should be signed by the patient, confirming their understanding of the risks and benefits of the procedure, as well as the designation of the disposition of the semen vials in the event of the patient's death.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process involved in thawing sperm after cryopreservation?",
+        "answer": "Thawing sperm involves carefully warming the frozen specimen to restore its viability for use in insemination. The specific methods for thawing can vary, but they are designed to minimize damage to the sperm that may have occurred during the freezing process.",
+        "is_verified": 1
+    },
+    {
+        "question": "What testing and screening must be performed before using donor sperm?",
+        "answer": "Before using donor sperm, appropriate testing and screening must be performed to ensure the health and viability of the sperm, as well as to check for any infectious diseases that could be transmitted during insemination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process for thawing donor sperm for insemination?",
+        "answer": "The process for thawing donor sperm involves warming the sample according to a protocol provided by the laboratory that performed the sperm cryopreservation. It is essential to wash out the cryoprotectant before using the sperm for insemination. Additionally, a consent form must be signed by the patient or owner before thawing the sperm, confirming permission for its use in a procedure that may lead to pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors determine how a cryopreserved sperm sample should be thawed?",
+        "answer": "The manner in which the sperm sample was cryopreserved determines the appropriate thawing and processing method. For instance, a sample can be cryopreserved as washed (IUI ready) or unwashed (intracervical insemination ready), with the former requiring a post-thaw wash for IUI use. Some samples are specifically for IVF and may not have enough motile sperm for IUI after thawing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken when managing cryopreserved semen?",
+        "answer": "When managing cryopreserved semen, special attention must be given to labeling and documentation for proper patient identification. This includes a reliable labeling system for all samples, and the labels must be tested for durability at extremely cold temperatures. The storage tanks should be alarmed for critical temperature and liquid nitrogen levels, with routine testing and recording of all measurements to monitor tank functionality. Regular filling of tanks with liquid nitrogen is also necessary, as defined by the laboratory's standard operating procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required when a patient no longer wishes to continue storage of their cryopreserved specimen?",
+        "answer": "When a patient decides to discontinue storage of their cryopreserved specimen, a discard consent form must be filled out properly and completely before the specimen can be discarded.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is cryopreserved semen?",
+        "answer": "Cryopreserved semen refers to sperm that has been frozen and stored for future use, typically in assisted reproductive technologies. This process allows for the preservation of sperm viability over extended periods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of logging cryopreserved semen samples?",
+        "answer": "Logging cryopreserved semen samples is crucial for maintaining accurate records of the samples received and used in the andrology laboratory. This ensures proper tracking, accountability, and management of the samples throughout their storage and use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does thawing of sperm involve?",
+        "answer": "Thawing of sperm involves warming the frozen sperm samples to restore them to a liquid state, making them viable for use in fertility treatments. This process must be done carefully to ensure the integrity and functionality of the sperm are preserved.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of semen analysis reporting?",
+        "answer": "Semen analysis reporting is performed to evaluate sperm count and motility, and it should be conducted in a timely manner. A preliminary report can be generated on the same day of collection, with further analysis of morphology occurring subsequently based on staffing and sample volume.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the ART hormone assay laboratory do?",
+        "answer": "The ART hormone assay laboratory processes patient serum samples to determine levels of relevant hormones for treatment or assisted reproductive technology (ART) cycle management, typically using automated hormone analyzers for moderate-complexity testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for laboratory space and design in a reproductive endocrinology laboratory?",
+        "answer": "The laboratory should have adequate space and a design appropriate for the volume and type of procedures performed, ensuring safe and comfortable working conditions. It must meet health and safety codes, including ventilation requirements, and consider energy and water needs during design.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the responsibility of the laboratory director regarding ART hormone assay services?",
+        "answer": "The laboratory director is responsible for ensuring that the proper equipment is in place to perform the necessary assays for ART hormone assay services.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of maintenance should be performed on laboratory equipment?",
+        "answer": "Preventative maintenance should be performed regularly following the manufacturer’s instructions with certified technicians.",
+        "is_verified": 1
+    },
+    {
+        "question": "What must be done to certain laboratory equipment like laminar flow hoods and balances?",
+        "answer": "Certain laboratory equipment must be certified by a qualified agency on an annual basis, and certifications must be maintained on file for review.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should a laboratory have in place for checking and calibrating equipment?",
+        "answer": "The laboratory should have a program for checking and calibrating laboratory equipment, such as pipettes, thermometers, centrifuges, and refrigerators, on a regular basis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is necessary for the safe handling of biohazardous waste material in the laboratory?",
+        "answer": "There must be a mechanism for the safe handling and disposal of biohazardous waste material in the laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the minimum requirements for testing personnel in endocrine laboratories?",
+        "answer": "The minimum requirements for testing personnel in endocrine laboratories include: 1) Doctor of Medicine or DO with a current medical license in the state of the laboratory's location; 2) Doctorate in clinical laboratory science, chemical, physical, or biologic science; 3) Master's in medical technology, clinical laboratory, chemical, physical, or biologic science; 4) Bachelor's in medical technology, clinical laboratory, chemical, physical, or biologic science; 5) Associate degree in chemical, physical, or biologic science or medical laboratory technology; 6) High school graduate or equivalent with military training of 50 or more weeks as a medical laboratory specialist; 7) High school diploma or equivalent with appropriate training/experience as specified in 493.1423.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the responsibilities of testing personnel in endocrine laboratories?",
+        "answer": "Testing personnel in endocrine laboratories are responsible for all laboratory procedures and policies, ensuring that daily quality control is completed before reporting any patient results, and maintaining record keeping for results generated and reported. They must also be capable of identifying when a test system is not performing correctly and report this issue.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of training for reproductive hormone analyzers?",
+        "answer": "Training is crucial before clinical implementation of reproductive hormone analyzers. It includes a review of analyzer operations, required maintenance, handling of samples, entering patient information, and obtaining accurate results. This ensures that laboratory personnel are well-equipped to operate the equipment correctly and maintain quality control standards.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is involved in daily quality control for hormone assays?",
+        "answer": "Daily quality control involves completing a startup procedure and checklist, verifying environmental conditions, equipment function, and reagent suitability. Daily hormone controls must be run to confirm analyzer function and accuracy before reporting patient results. At least two levels of controls should be used for each hormone assay to ensure results are valid and within established ranges.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the requirements for reporting patient results in a laboratory setting?",
+        "answer": "Before reporting patient results, controls must fall within established means and standard deviations. Laboratories should establish acceptable ranges and use tools like Levy-Jennings plots and control rules to determine the validity of control runs. Only when controls are accepted can patient results be reported.",
+        "is_verified": 1
+    },
+    {
+        "question": "What elements must be included in a test requisition from an authorized medical professional?",
+        "answer": "A test requisition must include the following elements: name and address or other identifiers of the authorized medical professional; patient’s name and unique identifier; sex and birth date of the patient; tests to be performed; source of the specimen if necessary; and date and time of specimen collection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the procedure for serum collection and processing after blood draw?",
+        "answer": "After blood collection, the blood should be allowed to clot by leaving it undisturbed at room temperature for 15–30 minutes. The clot is then removed by centrifugation at 1,000–2,000 g for 10–15 minutes. The resulting supernatant is designated as serum if no anticoagulant treatment is in the tube, or plasma if anticoagulant treatment is in the tubes (e.g., EDTA or citrated-treated tubes).",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be recorded during the blood draw process?",
+        "answer": "During the blood draw process, the patient's full name should be stated and the tube labeling should be confirmed as correct. Additionally, the time and date of the blood draw should be recorded.",
+        "is_verified": 1
+    },
+    {
+        "question": "What items should be included in a test report from a laboratory?",
+        "answer": "A test report should include the following items: results; patient name and unique identifier; name and address of the testing laboratory; test report date; date of performance; units of measurements; and reference intervals or normal values.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the revised guidelines for human embryology and andrology laboratories?",
+        "answer": "The revised guidelines for human embryology and andrology laboratories are outlined in the document published by the Practice Committee of the American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology, specifically in Fertil Steril 2008; 90(Suppl 5):S45–59.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the minimum standards for practices offering assisted reproductive technologies?",
+        "answer": "The minimum standards for practices offering assisted reproductive technologies are detailed in committee opinions published by the Practice Committee of the American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology, with revisions noted in Fertil Steril 2014; 102:682–6 and Fertil Steril 2021; 115:578–82.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidelines were revised for good practice in IVF laboratories?",
+        "answer": "The revised guidelines for good practice in IVF laboratories were published in 2016 by De los Santos MJ et al. in Hum Reprod 2016; 31:685–6.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the laboratory requirements according to the Clinical Laboratory Improvement Amendments?",
+        "answer": "The laboratory requirements according to the Clinical Laboratory Improvement Amendments are specified in the standards and certification outlined in 42 CFR 493, established in 1988 by the Centers for Disease Control and Prevention.",
+        "is_verified": 1
+    },
+    {
+        "question": "What regulations does the US Food and Drug Administration enforce regarding laboratory practices?",
+        "answer": "The US Food and Drug Administration enforces regulations outlined in the Code of Federal Regulations Title 21, which governs laboratory practices and standards.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the eligibility criteria for donors of human cells, tissues, and cellular and tissue-based products?",
+        "answer": "The eligibility determination for donors is outlined by the US Food and Drug Administration, which provides guidelines to ensure the safety and suitability of human cells and tissues for transplantation and other medical uses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations exist for practices utilizing gestational carriers?",
+        "answer": "The American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology have published recommendations for practices utilizing gestational carriers, emphasizing ethical and medical considerations in assisted reproductive technology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the guidance regarding gamete and embryo donation?",
+        "answer": "The American Society for Reproductive Medicine and the Society for Assisted Reproductive Technology provide guidance on the ethical and medical aspects of gamete and embryo donation, ensuring informed consent and safety protocols are followed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of the Emergency Use Authorization by the FDA?",
+        "answer": "The Emergency Use Authorization allows the FDA to facilitate the availability and use of medical countermeasures, including drugs and vaccines, during public health emergencies when there are no adequate, approved, and available alternatives.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the Ethics Committee opinion on medical errors involving gametes and embryos?",
+        "answer": "The Ethics Committee of the American Society for Reproductive Medicine addresses the disclosure of medical errors involving gametes and embryos, highlighting the importance of transparency and ethical responsibility in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the laboratory requirements set by the Code of Federal Regulations?",
+        "answer": "The Code of Federal Regulations Part 493 outlines laboratory requirements to ensure the quality and reliability of laboratory testing, which is crucial for accurate diagnosis and treatment in medical settings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the interpretive guidelines for laboratory testing by the Centers for Medicare and Medicaid Services?",
+        "answer": "The interpretive guidelines provided by the Centers for Medicare and Medicaid Services offer standards and practices for laboratory testing, ensuring compliance with federal regulations and promoting patient safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for risk reduction when handling gametes from infectious patients seeking assisted reproductive technologies?",
+        "answer": "The guidelines for risk reduction when handling gametes from infectious patients are outlined in the study by Jindal SK et al., published in Reproductive Biomedicine Online in 2016. These guidelines aim to minimize the risk of transmission of infectious diseases during assisted reproductive technologies (ART).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the laboratory guidance for ART operations during the COVID-19 pandemic?",
+        "answer": "The Society for Assisted Reproductive Technology and other organizations provided laboratory guidance for commencing or continuing ART operations during the ongoing COVID-19 pandemic, as detailed in an update from October 5, 2020. This guidance includes protocols to ensure safety and minimize the risk of COVID-19 transmission in laboratory settings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of the emergency plan for in vitro fertilization programs?",
+        "answer": "The emergency plan for in vitro fertilization (IVF) programs, developed by the Practice Committees of the American Society for Reproductive Medicine and others, is intended to provide a structured response to emergencies that may affect IVF operations, ensuring patient safety and continuity of care.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the Cairo consensus guidelines on IVF culture conditions?",
+        "answer": "The Cairo consensus guidelines on IVF culture conditions, published in Reproductive Biomedicine Online in 2020, emphasize the importance of optimal culture conditions in IVF laboratories to enhance the success rates of fertilization and embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of embryo culture medium in assisted reproduction technology?",
+        "answer": "Embryo culture medium is crucial in assisted reproduction technology as it provides the necessary nutrients and environment for embryos to develop outside the human body. The choice of culture medium can influence embryo quality and viability, impacting the success rates of in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for embryo transfer according to the American Society for Reproductive Medicine?",
+        "answer": "The American Society for Reproductive Medicine provides guidelines for performing embryo transfer, emphasizing the importance of technique, timing, and the number of embryos to transfer to optimize pregnancy outcomes and minimize risks such as multiple pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing for aneuploidy (PGT-A) and its relevance in assisted reproduction?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) is a procedure used to assess the chromosomal status of embryos before implantation during IVF. It helps in selecting embryos that are more likely to result in a successful pregnancy, thereby reducing the risk of miscarriage and genetic disorders.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of assisted hatching in in vitro fertilization?",
+        "answer": "Assisted hatching is a technique used in in vitro fertilization (IVF) to improve the chances of embryo implantation. It involves creating a small opening in the zona pellucida, the outer layer surrounding the embryo, to facilitate its hatching and subsequent implantation into the uterine lining. This technique is particularly considered for embryos that may have a thicker zona or for patients with a history of failed implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the principles of IVF laboratory practice?",
+        "answer": "The principles of IVF laboratory practice focus on optimizing performance and outcomes in assisted reproductive technology. This includes maintaining high standards of laboratory conditions, ensuring proper handling and culture of gametes and embryos, and implementing protocols that enhance the viability and quality of embryos for successful implantation. Continuous education and adherence to guidelines are essential for improving success rates in IVF procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the principles of IVF laboratory practice?",
+        "answer": "The principles of IVF laboratory practice focus on optimizing performance and outcomes in in vitro fertilization procedures, as discussed in the work by Montag and Morbeck.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of biopsy on human embryo developmental potential during preimplantation genetic diagnosis?",
+        "answer": "The study by Cimadomo et al. investigates how biopsy affects the developmental potential of human embryos during preimplantation genetic diagnosis, indicating that the procedure can have significant implications for embryo viability.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the ethical stance on the disposition of unclaimed embryos?",
+        "answer": "The Ethics Committee of the American Society for Reproductive Medicine provides an opinion on the ethical considerations regarding the disposition of unclaimed embryos, emphasizing the need for ethical guidelines in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the best practices for rapid-cooling vitrification for oocytes and embryos?",
+        "answer": "The Practice Committees of the American Society for Reproductive Medicine and other organizations review best practices for rapid-cooling vitrification, which is a technique used to preserve oocytes and embryos effectively.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of spermatozoa count in medical research?",
+        "answer": "The research by Macomber and Sanders highlights the importance of spermatozoa count as a critical factor in male fertility assessments, providing insights into reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidelines exist for the diagnosis and treatment of infertility in men?",
+        "answer": "The AUA/ASRM guideline part II outlines the diagnosis and treatment protocols for male infertility, providing a comprehensive framework for healthcare providers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for cryostorage of reproductive tissues in IVF laboratories?",
+        "answer": "The committee opinion discusses the protocols and best practices for the cryostorage of reproductive tissues, which is essential for preserving fertility in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the guide mentioned in the excerpt?",
+        "answer": "The guide focuses on the management and operation of laboratories in human embryology, andrology, and endocrinology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the guide provide for laboratories in the United States?",
+        "answer": "The guide provides requirements and recommendations for accreditation and staffing for laboratories in the United States.",
+        "is_verified": 1
+    }
+]

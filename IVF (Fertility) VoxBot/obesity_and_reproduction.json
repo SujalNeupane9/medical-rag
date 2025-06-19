@@ -1,0 +1,1682 @@
+[
+  {
+    "question": "What is the relationship between obesity and infertility according to the American Society for Reproductive Medicine?",
+    "answer": "The American Society for Reproductive Medicine states that obesity is associated with infertility, and they provide principles and strategies for the evaluation and treatment of couples facing infertility linked to obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the definition of obesity as mentioned in the excerpt?",
+    "answer": "Obesity is defined as having a body mass index (BMI) greater than 30 kg/m2.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of adult American women and men were classified as obese in 2017-2018?",
+    "answer": "In 2017-2018, 42% of American women and 43% of American men were classified as obese.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the prevalence of severe obesity among adult American women?",
+    "answer": "Severe obesity, defined as a BMI greater than 40 kg/m2, affects 11.5% of adult American women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of pregnant American women are overweight or obese at the time of conception?",
+    "answer": "Fifty-one percent of pregnant American women are overweight or obese at the time of conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the estimated annual medical cost of illness related to obesity in the United States?",
+    "answer": "The estimated annual medical cost of illness related to obesity in the United States approaches $150 billion, excluding other costs.",
+    "is_verified": 1
+  },
+  {
+    "question": "How many deaths worldwide are attributed to high BMI according to the Global Burden of Disease 2015 Obesity Collaborators?",
+    "answer": "High BMI results in an estimated 4,000,000 deaths worldwide annually, accounting for 7.1% of all-cause mortality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the adverse effects of obesity on reproduction?",
+    "answer": "Obesity has adverse effects on reproduction, including impacts on ovulatory and menstrual function, natural fertility and fecundity rates, infertility treatment success rates, infertility treatment safety, and obstetric outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect the ability to deliver care to women?",
+    "answer": "The ability to deliver optimal care to women with obesity can be limited by difficulties in transvaginal ultrasound imaging of the ovaries and safety considerations, such as difficulty in maintaining an airway during oocyte retrieval.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges do reproductive care specialists face regarding obesity?",
+    "answer": "Reproductive care specialists are confronted with the challenge of treating infertility in the increasingly common setting of obesity, and previous assumptions that weight loss interventions improve reproductive outcomes are being challenged by recent studies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the definition of obesity?",
+    "answer": "Obesity is defined as a disease of excess body fat, which increases the risk of several common conditions, including type 2 diabetes, dyslipidemia, hypertension, coronary heart disease, cholelithiasis, endometrial and postmenopausal breast cancer, stroke, osteoarthritis, and infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "How is body fat measured and classified?",
+    "answer": "Body fat is often estimated by the BMI calculation, which is calculated as body weight in kilograms divided by height in meters squared. Expert committees have established BMI classifications to aid in screening for individuals at risk of disease related to excess body fat and identifying those who may benefit from weight loss interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the BMI threshold for defining obesity at a population level?",
+    "answer": "A BMI of 30 kg/m2 is often used to define obesity at a population level because it represents a reasonable cut-off in balancing the sensitivity and specificity for identifying people at risk of disease related to excess body weight.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the limitations of using Body Mass Index (BMI) as a clinical screening tool?",
+    "answer": "BMI cutoffs do not account for individual differences in frame size and lean body mass, nor do they help in determining disease risk related to body fat for individuals classified as normal BMI. They also do not differentiate by fat distribution pattern, which is important since central obesity is associated with greater metabolic risk.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does adult weight gain relate to health risks?",
+    "answer": "Adult weight gain is a significant risk factor for chronic disease and reduced fecundity. It is particularly important for reproductive-aged individuals, as most body fat accrues after the age of 19 in women and after 20 in men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does obesity have on reproduction?",
+    "answer": "Obesity can impair reproduction in both women and men, leading to infertility in couples trying to conceive and subsequent complications during pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What historical observations have been made regarding obesity and menstrual cycle abnormalities?",
+    "answer": "Historical observations include descriptions of women with increased weight, amenorrhea, and hyperandrogenism dating back to 1633. The Stein-Leventhal syndrome linked obesity to menstrual disturbances, with studies showing a higher prevalence of obesity among amenorrheic women compared to eumenorrheic controls.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and anovulatory infertility in women?",
+    "answer": "Women with a body mass index (BMI) above 27 kg/m2 have a significantly increased risk of primary anovulatory infertility. In a case-control study, the relative risks were found to be 3.1 (crude) and 2.4 (adjusted for age and exercise). This indicates that as BMI increases, the likelihood of experiencing anovulatory infertility also rises.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect menstrual cycle irregularities?",
+    "answer": "Obesity is associated with increased prevalence of menstrual cycle irregularities, such as amenorrhea or oligomenorrhea. The prevalence of these conditions increases with higher degrees of overweight or obesity in both adulthood and adolescence. Additionally, childhood obesity at age 7 is an independent predictor of menstrual problems by age 33.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the connection between polycystic ovary syndrome (PCOS) and obesity?",
+    "answer": "Obesity is a common symptom of polycystic ovary syndrome (PCOS), and this condition complicates the relationship between obesity and ovulatory dysfunction. The presence of PCOS can confound the associations between BMI and the risk of ovulatory dysfunction, making it difficult to isolate the effects of obesity alone.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does body fat distribution relate to ovulatory dysfunction?",
+    "answer": "Anovulatory women tend to have a greater waist circumference and more abdominal fat compared to ovulatory women with similar BMI. Studies have shown that abdominal body fat is more predictive of ovulatory dysfunction than total body fat, indicating that fat distribution plays a significant role in reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and PCOS?",
+    "answer": "The risk of PCOS is only minimally increased with obesity, despite the degree of obesity among women with PCOS having increased over time, reflecting the rise observed in the general population.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does weight loss affect women with PCOS?",
+    "answer": "Improved ovulation rates and menstrual regularity have been demonstrated with modest weight loss through lifestyle modification, with and without adjunctive weight loss medications in women with PCOS.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does bariatric surgery have on women with obesity and amenorrhea?",
+    "answer": "Correction of amenorrhea occurs in several women with obesity after bariatric surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges exist in determining the prevalence of menstrual cycle irregularities in obese women?",
+    "answer": "Determining the true prevalence or risk of menstrual cycle irregularities in obese women is challenging because most studies rely on retrospective reporting by the subjects, and the validity of self-reported menstrual cycle length has been questioned, especially in women with short or long cycle lengths.",
+    "is_verified": 1
+  },
+  {
+    "question": "What reproductive hormone differences exist in women by BMI category?",
+    "answer": "Reproductive hormone differences exist in women by BMI category, even among those with regular menstrual cycles, suggesting that menstrual cycle dysfunction in obesity falls along a spectrum. Ovulatory menstrual cycles in women with obesity are characterized by lower total cycle luteinizing hormone (LH), decreased early follicular phase LH pulse amplitude, and lower total cycle LH levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the WHO classification of obesity based on BMI?",
+    "answer": "The WHO classification of obesity is as follows: Underweight (<18.5), Normal range (18.5 – 24.9), Overweight (25), Preobese (25 – 29.9), Obese (30), Obese class 1 (30–34.9), Obese class 2 (35.0–39.9), Obese class 3 (≥40). Each classification has an associated risk of comorbidities, ranging from low to very severe.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the focus of the article mentioned in the excerpt?",
+    "answer": "The article focuses on the relationship between obesity and reproduction, as indicated by the title 'Obesity and reproduction' published in the journal Fertility and Sterility.",
+    "is_verified": 1
+  },
+  {
+    "question": "Which organization is referenced in the excerpt?",
+    "answer": "The excerpt references the World Health Organization (WHO) and the American Society for Reproductive Medicine (ASRM).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the publication date of the article mentioned in the excerpt?",
+    "answer": "The article was published in November 2021, specifically in volume 116, issue 5 of the journal Fertility and Sterility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What hormonal changes are associated with obesity in women?",
+    "answer": "Obesity is associated with longer follicular phases, shorter luteal phases, and decreased luteal phase progesterone metabolite compared with normal-weight ovulatory women. Additionally, central obesity and visceral fat can lead to insulin resistance and hyperinsulinemia, which can promote hyperandrogenemia, affecting ovarian function and menstrual regularity.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect fertility treatments in women?",
+    "answer": "Obesity has been linked to worse outcomes after infertility treatments. Increased BMI and abdominal obesity are associated with decreased odds of ovulation in response to clomiphene citrate. Women with obesity require higher doses of gonadotropins for ovulation induction and produce fewer follicles at a given dose. Live birth rates are greater after letrozole treatment compared to clomiphene citrate, especially in women with elevated BMI, indicating altered pathophysiology in obese women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of insulin resistance on menstrual irregularities?",
+    "answer": "Insulin resistance can lead to hyperandrogenemia through direct actions on the ovary and decreased production of hepatic sex hormone-binding globulin. This hormonal imbalance contributes to menstrual irregularities by disrupting the hypothalamic-pituitary-gonadal axis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of altered ovarian responsiveness in obese women undergoing fertility treatments?",
+    "answer": "Obese women undergoing fertility treatments may experience altered folliculogenesis and diminished oocyte quality, leading to higher rates of ovulatory dysfunction and requiring higher doses of medication for ovulation induction. This can result in fewer follicles produced at a given dose of medication.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect ovarian responsiveness to gonadotropin stimulation?",
+    "answer": "Obesity impairs ovarian responsiveness to gonadotropin stimulation, leading to an increased duration and amount of gonadotropin administered, increased cycle cancellation rates, and fewer oocytes retrieved.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of obesity on oocyte quality in women undergoing IVF?",
+    "answer": "Women with obesity undergoing IVF have an altered follicular environment characterized by higher levels of insulin, inflammation markers, and elevated free fatty acids, which correlate with abnormal cumulus-oocyte complexes. Oocytes from overweight or obese women are smaller than those from normal-weight controls, and while fertilization rates are inconsistently linked to maternal BMI, blastulation rates and embryo metabolism are influenced by obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What do studies say about the relationship between BMI and IVF outcomes?",
+    "answer": "Studies using national data have shown that there is a decrease in pregnancy rates and live birth rates (LBR) with increasing BMI. However, the age-related decline in fertility has a more significant impact on LBR at older ages, indicating that delaying IVF to lose weight may be detrimental for older women with obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect oocyte quality in mouse models?",
+    "answer": "In diet-induced obese mouse models, obesity impairs oocyte quality through mitochondrial dysfunction, increases in reactive oxygen species, and abnormalities in meiotic spindles.",
+    "is_verified": 1
+  },
+  {
+    "question": "What interventions have been shown to not reverse oocyte quality in diet-induced obesity?",
+    "answer": "Interventions such as weight loss, increased physical activity, and antioxidant therapy have been shown to be unable to reverse the oocyte quality provoked by diet-induced obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does increasing BMI affect ovarian responsiveness during ovulation induction?",
+    "answer": "Increasing BMI is associated with lower ovarian responsiveness to ovulation induction, evidenced by the need for higher doses of oral agents and gonadotropins, and a lower number of oocytes retrieved during IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the correlation between BMI and implantation rates during IVF?",
+    "answer": "Higher BMI is correlated with lower implantation and clinical pregnancy rates, as well as lower live birth rates (LBRs) when undergoing IVF or intracytoplasmic sperm injection treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does obesity have on endometrial function?",
+    "answer": "Obesity is a well-known risk factor for endometrial hyperplasia and cancer, and studies have shown varying effects on endometrial receptivity and function in obese donor oocyte recipients, with some showing lower implantation rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and miscarriage rates?",
+    "answer": "Obesity has been associated with an increased risk of pregnancy loss, although not all studies agree. The differences in outcomes may be related to varying levels of comorbidities and the multifactorial mechanisms through which BMI influences pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How are obesity and miscarriage linked to thyroid dysfunction and insulin resistance?",
+    "answer": "Both obesity and miscarriage have been associated with thyroid dysfunction and insulin resistance, indicating a potential link between these conditions and adverse pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is lipotoxicity?",
+    "answer": "Lipotoxicity refers to the toxic effects of excess fatty acids on non-adipose tissues, which can lead to cellular dysfunction and contribute to various metabolic disorders, including insulin resistance and type 2 diabetes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does inflammation relate to health?",
+    "answer": "Inflammation is a biological response to harmful stimuli, such as pathogens or damaged cells. Chronic inflammation is associated with several diseases, including cardiovascular disease, diabetes, and autoimmune disorders.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of sleep dysfunction on health?",
+    "answer": "Sleep dysfunction can lead to a range of health issues, including impaired cognitive function, mood disorders, and increased risk of chronic conditions such as obesity, diabetes, and cardiovascular disease.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does mental health affect physical health?",
+    "answer": "Mental health significantly impacts physical health; conditions such as depression and anxiety can lead to poor lifestyle choices, increased stress, and inflammation, which can exacerbate physical health problems.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between obesity and miscarriage according to the meta-analysis?",
+    "answer": "Women with obesity were found to be 1.3 times more likely to experience pregnancy loss compared to those without obesity, with an odds ratio (OR) of 1.31 and a 95% confidence interval (CI) of 1.18–1.46. This association was confirmed in a prospective observational study involving over 18,000 nulliparous Chinese women, where obesity was linked to an increased risk of miscarriage with an adjusted relative risk (RR) of 1.51 (95% CI, 1.13–2.02).",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect miscarriage rates in women who conceive with ART?",
+    "answer": "Women with obesity who conceive through assisted reproductive technology (ART) also exhibit higher rates of miscarriage. This has been demonstrated through analyses of data from the Society for Assisted Reproductive Technology (SART) and the Centers for Disease Control and Prevention (CDC). A 2019 analysis specifically of first frozen embryo transfers with good-quality embryos found an association between obesity and early pregnancy loss, with an adjusted odds ratio (OR) of 1.46 (95% CI, 1.15–1.87).",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the retrospective study involving oocyte donors and recipients reveal about BMI and live birth rates?",
+    "answer": "The retrospective study involving over 9,000 women indicated that while there was a decrease in live birth rates with increasing BMI of the oocyte recipient, there was no difference in clinical miscarriage rates based on the recipient's BMI. However, a separate analysis of SART data from 2008 to 2010 showed an increase in miscarriage rates when the recipient's BMI was greater than 40 kg/m², with an adjusted odds ratio (OR) of 1.67 (95% CI, 1.05–2.63).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between age and aneuploidy in miscarriages?",
+    "answer": "Miscarriages in the general population are associated with high rates of aneuploidy, which is known to increase with age. An analysis from a recurrent pregnancy loss database highlighted this relationship, indicating that pregnancy losses occurring at less than 10 weeks are significantly affected by the age-related increase in aneuploidy rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and miscarriage risk?",
+    "answer": "Higher BMI is an independent risk factor for miscarriage, with studies showing that women with obesity have a higher chance of euploid loss compared to those without obesity. Specifically, women with obesity have a 58% chance of having a euploid loss compared to 37% in women without obesity. The adjusted odds ratios (ORs) for miscarriage risk in relation to obesity range between 1.2 and 1.9, indicating a modest association that may be influenced by confounding factors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the obstetric and neonatal risks associated with maternal obesity?",
+    "answer": "Maternal obesity is associated with increased obstetric and neonatal risks, as evidenced by a cohort study of 106,552 women in the United States. This suggests that obesity can lead to complications during pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the cumulative likelihood of live birth data indicate regarding maternal age and BMI?",
+    "answer": "The cumulative likelihood of live birth data indicates that maternal age and body mass index (BMI) are significant factors affecting the live birth rate after both fresh and frozen transfers of embryos derived from in vitro fertilization (IVF) cycles.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the obstetric complications associated with singleton pregnancies among women without prepregnancy diseases categorized by prepregnancy obesity?",
+    "answer": "The excerpt provides data on various obstetric complications associated with singleton pregnancies categorized by prepregnancy obesity. The complications include: 1. Gestational hypertensive disorders: Increased risk with obesity, with percentages rising from 5% in normal BMI to 17.3% in obese class 3. 2. Gestational diabetes mellitus: Risk increases from 2.8% in normal BMI to 14.6% in obese class 3. 3. Cesarean delivery: Rates increase from 22.4% in normal BMI to 46.9% in obese class 3. 4. Stillbirth: Rates are relatively low but show slight increases across obesity classes. 5. Large for gestational age: Increases from 7.9% in normal BMI to 17.3% in obese class 3. 6. Congenital anomalies: Rates are slightly higher in obese classes compared to normal BMI. 7. NICU admission: Increases from 8.9% in normal BMI to 13.8% in obese class 3. The data also includes relative risks (RR) and attributable risk percentages (AR%) for each complication across different obesity classes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the obstetric and neonatal risks among obese women without chronic disease?",
+    "answer": "The study by Kim et al. (2016) discusses various obstetric and neonatal risks associated with obesity in women who do not have chronic diseases. These risks may include complications during pregnancy, labor, and delivery, as well as potential adverse outcomes for the newborn.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and reproduction according to the American Society for Reproductive Medicine?",
+    "answer": "The Practice Committee of the American Society for Reproductive Medicine (2021) outlines that obesity can negatively impact reproductive health, including fertility issues and complications during pregnancy. It emphasizes the importance of managing weight for better reproductive outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the comorbidities associated with maternal obesity that may affect pregnancy outcomes?",
+    "answer": "Comorbidities associated with maternal obesity that may affect pregnancy outcomes include preconception hypertension, obstructive sleep apnea, and diabetes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity impact fetal growth assessment during pregnancy?",
+    "answer": "Excess adiposity in pregnant women limits important assessment tools used during gestation, such as the assessment of fetal growth via fundal height and anatomic survey of the fetus with ultrasound.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does obesity have on male reproduction?",
+    "answer": "Obesity in men is associated with a decline in semen quality, increased incidence of oligozoospermia and asthenozoospermia, and may result in diminished sperm counts due to mechanisms such as endocrine alterations and increased abdominal adiposity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is one mechanism by which obesity may lead to lower sperm counts in men?",
+    "answer": "One mechanism is the aromatization of testosterone to estradiol in peripheral adipose tissue, which leads to estradiol-mediated negative feedback and suppression of the hypothalamus-pituitary-testis axis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between abdominal adiposity and sperm quality in subfertile couples?",
+    "answer": "Increased abdominal adiposity in men of subfertile couples has been associated with reduced sperm count, concentration, and motility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity on sperm DNA and mitochondrial activity?",
+    "answer": "Obesity is associated with sperm DNA damage, decreased sperm mitochondrial activity, and induced seminal oxidative stress. Emerging data suggest that sperm epigenetics is altered in men with obesity, which may have implications for future offspring.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does male obesity impact assisted reproductive technology (ART) outcomes?",
+    "answer": "Male obesity appears to impact blastocyst development, with conflicting reports related to clinical pregnancy, miscarriage, and live birth rates (LBRs). A systematic review found that obese men were more likely to experience infertility, had a reduced rate of live birth per cycle of ART, and had a 10% absolute risk increase of pregnancy nonviability. Another systematic review and meta-analysis found that men with obesity had a decreased LBR after IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body mass index (BMI) and testosterone levels in men?",
+    "answer": "There is an established inverse relationship between BMI and testosterone levels in men. Men with obesity have decreased total and bioavailable testosterone levels, and this hormonal profile suggests enhanced estrogen negative-feedback inhibition due to increased adipose-derived aromatase activity, along with decreased formation of inactive 2-hydroxyestrogens.",
+    "is_verified": 1
+  },
+  {
+    "question": "What hormonal changes occur in men with obesity?",
+    "answer": "In men with obesity, there is suppression of sex hormone-binding globulin by insulin, which increases androgen availability for estrogen aromatization, potentially leading to reduced gonadotropin secretion. Additionally, men with obesity have decreased inhibin B concentrations and diminished LH pulse amplitude, contributing to decreased Leydig cell testosterone secretion.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect the physical condition of the scrotum in men?",
+    "answer": "In men with obesity, the scrotum remains in closer contact with surrounding tissue compared to normal-weight men, which may have implications for testicular function and overall reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of increased scrotal temperature on semen parameters?",
+    "answer": "Increased scrotal temperature may adversely affect semen parameters.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatments are proposed to lower scrotal temperature, and what is their status?",
+    "answer": "Proposed treatments aimed at lowering scrotal temperature, such as 'scrotal hypothermia' or reducing the amount of scrotal fat, are impractical and unproven.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does weight loss affect testosterone levels and sexual function in men with obesity?",
+    "answer": "Weight loss results in increased testosterone levels and improvements in sexual function.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the prospective study on diet-induced weight loss in overweight and obese men?",
+    "answer": "The study tracked testosterone and self-reported sexual function during a 12-week weight loss period, finding that total testosterone levels increased and sexual function improved during this period, with continued increases in testosterone during the maintenance period.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between weight loss and spermatogenesis in obese men?",
+    "answer": "The relationship is less definitive, with a lack of data regarding changes in semen parameters after weight loss. One study found that men with the largest degree of weight loss showed significant increases in sperm count and normal morphology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the challenges in studying the effects of bariatric surgery on semen parameters?",
+    "answer": "The studies exploring bariatric surgery-mediated weight loss and semen parameters provide conflicting results and suffer from small sample sizes and relatively short follow-up intervals.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do weight loss medications play in the management of obesity in men?",
+    "answer": "Weight loss medications may be beneficial when used in conjunction with lifestyle interventions and may increase the likelihood that patients adhere to behavioral and lifestyle changes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of weight loss medications in managing obesity?",
+    "answer": "Weight loss medications may be considered for patients with a history of unsuccessful weight loss attempts. These medications typically lead to weight loss by temporarily affecting appetite, but patients must also engage in long-term strategies to reduce energy intake or increase energy expenditure to maintain the weight loss achieved with these medications.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the primary mechanisms by which medications for obesity promote weight loss?",
+    "answer": "Medications for the treatment of obesity primarily target appetite to effect weight loss by promoting satiety through stimulation of pro-opiomelanocortin neurons in the arcuate nucleus, often mediated via serotoninergic, dopaminergic, or norepinephrine-releasing agents/reuptake inhibitors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the mechanism of action of Orlistat in weight management?",
+    "answer": "Orlistat works by blocking the absorption of fat calories and the reabsorption of glucose.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some potential side effects associated with obesity medications?",
+    "answer": "Some medications for obesity are associated with elevation in blood pressure and pulse rate, and others may increase the risk of serotonin syndrome in patients using selective serotonin reuptake inhibitors or serotonin–norepinephrine reuptake inhibitors. Caution is advised in prescribing these medications to patients with cardiovascular disease, hypertension, history of cardiac arrhythmias, seizures, depression, and anxiety.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is Phentermine and how is it used in weight management?",
+    "answer": "Phentermine is a medication approved by the US Food and Drug Administration (FDA) for short-term use in weight management. It is one of the most commonly prescribed weight loss medications due to its low cost and has been shown to induce over 7% weight loss at 6 months. The dose should only be increased if the patient is not achieving clinically significant weight loss, and patients should be monitored monthly during dose escalation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the combination of Phentermine and Topiramate used for?",
+    "answer": "The combination of phentermine plus topiramate has been approved for chronic management of obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some FDA-approved medications for weight loss?",
+    "answer": "The FDA-approved medications for weight loss mentioned in the excerpt include phentermine/topiramate, orlistat, naltrexone/bupropion, and liraglutide.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the average expected weight loss with phentermine/topiramate?",
+    "answer": "The average expected weight loss with phentermine/topiramate is 5%–11% over 1 year.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the pregnancy category of the mentioned weight loss medications?",
+    "answer": "All the mentioned weight loss medications are currently considered pregnancy category X, indicating that they may cause fetal abnormalities and the risks involved in their use during pregnancy outweigh potential benefits.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is metformin and how does it relate to weight loss?",
+    "answer": "Metformin is a biguanide that increases peripheral sensitivity to insulin and inhibits hepatic glucose production, resulting in decreased circulating insulin levels. It is frequently used in patients with PCOS but is not considered a weight loss medication. It may promote minimal weight loss (approximately 1.1 kg) when used in combination with lifestyle interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effectiveness of bariatric surgery for weight loss?",
+    "answer": "Bariatric surgery is currently the most effective intervention for significant and sustained weight loss, with patients potentially losing as much as 70% of excess weight within 12 months after surgery, and maintaining approximately 50% of their excess weight loss on average 5 years after surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the common bariatric procedures mentioned in the excerpt?",
+    "answer": "The common bariatric procedures mentioned are Roux-en-Y gastric bypass, sleeve gastrectomy, adjustable gastric band, and biliopancreatic diversion with duodenal switch.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the Roux-en-Y gastric bypass and how does it work?",
+    "answer": "The Roux-en-Y gastric bypass creates a small stomach pouch and attaches it to the jejunum, shortening the length of the intestinal tract. This leads to restriction of food intake and decreased absorption of calories, resulting in significant long-term weight loss.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential complications of the Roux-en-Y gastric bypass?",
+    "answer": "Potential complications include higher complication rates and long-term vitamin and mineral deficiencies, particularly of vitamin B12, iron, calcium, and folate, which require lifelong supplementation.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the laparoscopic sleeve gastrectomy work?",
+    "answer": "The laparoscopic sleeve gastrectomy involves removing approximately 80% of the stomach, which restricts the volume the stomach can hold, reduces food consumption, and alters gut hormones affecting hunger, satiety, and blood glucose control.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the benefits of the laparoscopic sleeve gastrectomy compared to Roux-en-Y?",
+    "answer": "The benefits include no requirement for intestinal anastomosis and typically a shorter hospital stay, while still providing rapid and significant weight loss results comparable to Roux-en-Y.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the adjustable gastric band procedure involve?",
+    "answer": "The adjustable gastric band procedure involves placing an inflatable band around the upper portion of the stomach, creating a small stomach pouch that leads to weight loss through food restriction rather than malabsorption.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with biliopancreatic diversion with duodenal switch gastric bypass?",
+    "answer": "This procedure has a higher complication rate and risk of mortality compared to other bariatric procedures. It also has greater potential to cause protein, vitamin, and mineral deficiencies, and requires a longer hospital stay.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does biliopancreatic diversion with duodenal switch gastric bypass affect gut hormones?",
+    "answer": "The procedure causes favorable changes in gut hormones that help reduce appetite and improve satiety.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the difference in the surgical approach between biliopancreatic diversion with duodenal switch and Roux-en-Y gastric bypass?",
+    "answer": "Biliopancreatic diversion with duodenal switch involves creating a tubular stomach pouch by removing part of the stomach and bypassing a larger portion of the small bowel compared to the Roux-en-Y bypass.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the side effects of sympathomimetics used for weight loss?",
+    "answer": "The side effects of sympathomimetics include headache, elevated blood pressure, elevated pulse rate, insomnia, dry mouth, constipation, anxiety, restlessness, and tremor.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the mechanism of action of Orlistat?",
+    "answer": "Orlistat acts as a lipase inhibitor, decreasing the absorption of fat-soluble vitamins and causing side effects such as steatorrhea, oily spotting, flatulence with discharge, fecal urgency, oily evacuation, increased defecation, and fecal incontinence.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the contraindications for using Naltrexone SR/bupropion SR?",
+    "answer": "Contraindications for Naltrexone SR/bupropion SR include pregnancy and breastfeeding, uncontrolled hypertension, seizure disorders, anorexia nervosa, bulimia, drug or alcohol withdrawal, MAO inhibitors, and chronic opioid use.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential side effects of Liraglutide?",
+    "answer": "Potential side effects of Liraglutide include nausea, vomiting, and pancreatitis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of bariatric surgery on fertility outcomes?",
+    "answer": "Bariatric surgery is effective in achieving significant and sustained weight loss in women with morbid obesity and has been shown in case-control studies to improve fertility. However, the specific impact of bariatric surgery on the responsiveness to subsequent treatments for infertility is not clearly understood. Limited studies have evaluated the effect of bariatric surgery on fertility outcomes, with systematic reviews indicating a decreased risk of complications during pregnancy such as gestational diabetes, hypertensive disorders of pregnancy, and macrosomia. However, there are concerns about a possibly increased risk of small for gestational age singleton births, preterm births, spontaneous preterm births, and possibly increased neonatal mortality. Additionally, a meta-analysis found that the incidence of diagnostic features associated with PCOS significantly decreased after bariatric surgery, as did the incidence of infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What complications during pregnancy are reduced after bariatric surgery?",
+    "answer": "Bariatric surgery has been associated with a decreased risk of complications during pregnancy, including gestational diabetes, hypertensive disorders of pregnancy, and macrosomia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with bariatric surgery regarding pregnancy outcomes?",
+    "answer": "Some studies suggest that bariatric surgery may be associated with an increased risk of small for gestational age singleton births, preterm births, spontaneous preterm births, and possibly increased neonatal mortality.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does bariatric surgery affect the incidence of PCOS and infertility?",
+    "answer": "A meta-analysis published in 2016 found that the incidence of diagnostic features associated with PCOS significantly decreased after bariatric surgery (46% preoperatively vs. 7% postoperatively, P<.001), as did the incidence of infertility (18% preoperatively vs. 4% postoperatively, P=0.0009).",
+    "is_verified": 1
+  },
+  {
+    "question": "What conflicting outcomes were found in studies assessing the effect of bariatric surgery on IVF?",
+    "answer": "Two studies assessing the effect of bariatric surgery on IVF in patients who had previously failed IVF found conflicting outcomes. The first study published in 2014 indicated a decrease in the amount of gonadotropin units required for stimulation but no difference in peak estradiol level, number of follicles and oocytes, fertilization rate, or number of top-quality embryos. The second larger study published in 2017 included 40 patients but the outcomes were not detailed in the excerpt.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the pregnancy rate after bariatric surgery according to the study?",
+    "answer": "The pregnancy rate after bariatric surgery was found to be 37.5%.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the live birth rate (LBR) reported after bariatric surgery?",
+    "answer": "The live birth rate (LBR) after bariatric surgery was reported to be 35%.",
+    "is_verified": 1
+  },
+  {
+    "question": "Why is prepregnancy assessment of a patient’s nutritional status important after bariatric surgery?",
+    "answer": "Prepregnancy assessment of a patient’s nutritional status is important after bariatric surgery due to concerns regarding malabsorption and the need for micronutrient supplementation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommended waiting period before attempting pregnancy after bariatric surgery?",
+    "answer": "It is recommended to delay pregnancy until 1–2 years after bariatric surgery to avoid fetal exposure to nutritional deficiencies from rapid maternal weight loss, with the ASMBS recommending waiting 12–18 months.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some side effects and warnings associated with Phentermine/topiramate ER?",
+    "answer": "Side effects and warnings associated with Phentermine/topiramate ER include increased heart rate, insomnia, dry mouth, constipation, paresthesia, dizziness, dysgeusia, suicidal behavior and ideation, acute myopia and secondary angle-closure glaucoma, disturbances in attention or memory, metabolic acidosis, and elevated creatinine level.",
+    "is_verified": 1
+  },
+  {
+    "question": "What considerations or contraindications are noted for the use of Phentermine/topiramate ER?",
+    "answer": "Considerations or contraindications for the use of Phentermine/topiramate ER include pregnancy, breastfeeding, hyperthyroidism, glaucoma, MAO inhibitors, and sympathomimetic amines. Fetal toxicity has been reported, and it is recommended to obtain a negative pregnancy test before starting treatment and each month thereafter, along with the use of effective contraception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does DEA stand for?",
+    "answer": "DEA stands for United States Drug Enforcement Administration.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does ER refer to in a medical context?",
+    "answer": "ER refers to extended release, a formulation that allows for the gradual release of medication over time.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the FDA?",
+    "answer": "FDA stands for Food and Drug Administration, the agency responsible for regulating food, drugs, and medical devices in the United States.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does GABA stand for?",
+    "answer": "GABA stands for gamma-aminobutyric acid, a neurotransmitter in the brain that plays a role in reducing neuronal excitability.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is GLP-1?",
+    "answer": "GLP-1 stands for glucagon-like peptide-1, a hormone involved in glucose metabolism and appetite regulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does MAO refer to in medicine?",
+    "answer": "MAO refers to monoamine oxidase, an enzyme that breaks down neurotransmitters in the brain.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does SR stand for in pharmacology?",
+    "answer": "SR stands for sustained release, a drug formulation designed to release the active ingredient over an extended period of time.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the OWL PCOS study about?",
+    "answer": "The OWL PCOS study was a two-site randomized controlled trial (RCT) that involved 149 women with polycystic ovary syndrome (PCOS). It aimed to evaluate the effects of different interventions on fertility outcomes, specifically comparing oral contraceptive pills (OCPs), lifestyle modification, and a combination of OCP and lifestyle modification before infertility treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What interventions were included in the lifestyle modification for women with PCOS?",
+    "answer": "The lifestyle modification intervention included caloric restriction, behavioral modification, increased physical activity, and weight loss medications (such as sibutramine or orlistat for those with a BMI of at least 30 kg/m2). The dietary component involved prescribed diets centered on meal replacements, with specific guidelines on fruit, vegetable, and protein intake, as well as caloric distribution among macronutrients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the outcomes of the lifestyle intervention compared to the OCP group?",
+    "answer": "Women in the lifestyle and combined intervention groups achieved significantly more weight loss compared to those in the OCP group, with weight losses of approximately 6.2 kg and 6.1 kg versus 1.1 kg, respectively. Additionally, metabolic parameters improved, and the likelihood of ovulation was higher in the lifestyle and combined groups (60% and 67% vs. 46% for the OCP group).",
+    "is_verified": 1
+  },
+  {
+    "question": "Did the study find significant differences in pregnancy rates among the groups?",
+    "answer": "No, the study found no significant differences in pregnancy rates, pregnancy loss rates, or live birth rates (LBRs) among the groups, with rates of 26%, 24%, and 12% respectively, and a p-value of 0.13 indicating no statistical significance.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the objective of the lifestyle intervention in the Dutch LIFEstyle study?",
+    "answer": "The objective of the lifestyle intervention was to achieve a 5%–10% body weight loss in infertile women with a BMI of 29 kg/m2 or higher, prior to infertility treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the components of the lifestyle intervention program in the Dutch LIFEstyle study?",
+    "answer": "The lifestyle intervention program consisted of a 6-month structured program including six outpatient visits, four telephone consultations, advice to decrease energy intake by 600 kcal daily while maintaining at least 1,200 kcal per day, encouragement to engage in moderate-intensity physical activity (target of 10,000 steps per day), and at least 30 minutes of moderate-intensity exercise two or three times per week, along with motivational counseling and individualized goal development with weight management coaches.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the results of the lifestyle intervention in terms of weight loss?",
+    "answer": "The intervention group experienced significantly greater weight loss compared to the control group, with an average weight loss of 4.4 kg in the intervention arm versus 1.1 kg in the control arm.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the significance level of the probability of live birth when comparing the lifestyle modification group and combined group to the OCP group?",
+    "answer": "The probability of live birth bordered statistical significance with a p-value of 0.05 when comparing the lifestyle modification group and combined group to the OCP group.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the dropout rate reported in the LIFEstyle study?",
+    "answer": "The LIFEstyle study reported a 22% dropout rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of women in the intervention group achieved at least 5% weight loss?",
+    "answer": "43% of the women who completed the intervention achieved weight loss of at least 5% of their initial body weight.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the difference in live birth rates between the intervention and control groups?",
+    "answer": "Women in the intervention group were significantly less likely to experience a live birth within 24 months after randomization (27% vs. 35%; rate ratio, 0.77; 95% CI, 0.60– 0.99).",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome regarding unassisted conception in the intervention group?",
+    "answer": "Women in the intervention group were significantly more likely to have an unassisted conception compared with those in the control group (26% vs. 16%; rate ratio, 1.61; 95% CI, 1.16– 2.24), ultimately requiring fewer fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What pregnancy complications were associated with the intervention group?",
+    "answer": "Participants in the intervention group who achieved the most weight loss had a lower risk of pregnancy complications such as hypertension and preterm birth.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the aim of the weight reduction intervention in the Swedish multicenter trial?",
+    "answer": "The weight reduction intervention aimed to reach a BMI as close to normal as possible and began with 12 weeks of a strict low-calorie liquid formula diet with a daily energy intake of 880 kcal.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the median BMI of women randomized in the Swedish multicenter trial?",
+    "answer": "The median BMI of women randomized in the Swedish multicenter trial was approximately 33 kg/m2.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the result of the weight reduction intervention compared to the control group?",
+    "answer": "Weight reduction in the intervention group was significantly higher than in the control group.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the dropout rate for the intervention group in the study?",
+    "answer": "The dropout rate for the intervention group was only 4%.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the live birth rate (LBR) for the weight loss group compared to the control group?",
+    "answer": "The live birth rate (LBR) was 29.6% for the weight loss group compared to 27.5% for the control group, which was not statistically significant (P=0.77).",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the rate of spontaneous pregnancy in the weight loss group compared to the control group?",
+    "answer": "The rate of spontaneous pregnancy in the weight loss group was 11% compared to 3% in the control group, which was statistically significant (P=0.009).",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding hypertensive pregnancy complications and preterm birth in the LIFEstyle study?",
+    "answer": "The post hoc analysis of the LIFEstyle study demonstrated decreased risks of hypertensive pregnancy complications and preterm birth, but there were no significant differences in excessive gestational weight gain, gestational diabetes, induction of labor, spontaneous vaginal delivery, or cesarean section.",
+    "is_verified": 1
+  },
+  {
+    "question": "What improvements were noted in the ovulation rate and pregnancy rate from the systematic review of interventions for improving fertility?",
+    "answer": "The systematic review noted an improvement in the ovulation rate (RR, 4.00; 95% CI, 1.25–12.84) and pregnancy rate (RR, 1.59; 95% CI, 1.01–2.50) for overweight and obese patients undergoing diet and exercise interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of lifestyle interventions on live birth rates (LBR) according to the studies mentioned?",
+    "answer": "The studies indicate that lifestyle interventions, weight loss medications, and bariatric surgery can lead to significant weight loss and may improve chances of unassisted conception. However, their effects on birth outcomes, specifically live birth rates (LBR), are still unclear. Some trials have shown that weight loss interventions do not typically improve LBR among patients pursuing fertility treatments, although there are indications of reduced pregnancy morbidities, suggesting a potentially healthier pregnancy and increased likelihood of live birth.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of weight loss before IVF as mentioned in the excerpt?",
+    "answer": "The excerpt suggests that weight loss before IVF may lead to a lower rate of procedural complications during IVF. Additionally, weight loss before pregnancy may decrease the risk of certain pregnancy complications, highlighting the importance of weight management in the context of fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the excerpt say about the relationship between obesity, ovulation, and fertility treatments?",
+    "answer": "In anovulatory women with obesity, studies support the implementation of weight loss interventions to improve chances of unassisted conception and to enhance the ovulation rate in response to ovulation induction. However, for obese ovulatory women and those undergoing IVF, the trials do not support weight loss interventions aimed at improving LBR.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential risks associated with prepregnancy weight loss interventions as discussed in the excerpt?",
+    "answer": "The excerpt mentions that additional research is needed to understand the maternal and fetal risks and benefits associated with prepregnancy weight loss interventions, particularly concerning hypertensive disorders of pregnancy and miscarriage risk.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the concerns related to BMI thresholds in infertility treatment?",
+    "answer": "Proponents of BMI thresholds cite anesthetic and procedural safety during oocyte retrieval and obstetric risk as primary concerns. They believe that weight loss can lead to improved infertility treatment and obstetric outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges do women with obesity face during infertility treatments?",
+    "answer": "Women with obesity may face challenges in adequately performing retrievals, embryo transfers, inseminations, and ultrasound monitoring during infertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What risks does obesity during pregnancy pose?",
+    "answer": "Obesity during pregnancy increases a broad spectrum of maternal, fetal, and neonatal risks, leading to ethical concerns about causing harm to women with obesity and their offspring.",
+    "is_verified": 1
+  },
+  {
+    "question": "What BMI thresholds are recommended by the Royal Australian and New Zealand College of Obstetricians and Gynaecologists?",
+    "answer": "The Royal Australian and New Zealand College of Obstetricians and Gynaecologists has recommended a BMI threshold of 35 kg/m2.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the BMI limit for women to access publicly funded IVF in New Zealand?",
+    "answer": "New Zealand limits access to publicly funded IVF to women with a BMI of less than 32 kg/m2.",
+    "is_verified": 1
+  },
+  {
+    "question": "What BMI range is typically set by Clinical Commissioning Groups in the United Kingdom for accessing publicly funded fertility care?",
+    "answer": "In the United Kingdom, Clinical Commissioning Groups typically set BMI thresholds in the 30–35 kg/m2 range, above which women cannot access publicly funded fertility care.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of Canadian IVF centers have a declared BMI threshold, and what is the range?",
+    "answer": "A survey of Canadian IVF centers found that 50% of programs had a declared BMI threshold, which ranged from 35 to 45 kg/m2.",
+    "is_verified": 1
+  },
+  {
+    "question": "What reasons are given for having BMI cutoffs in fertility programs in the United States?",
+    "answer": "The most frequent reasons given for having a BMI cutoff in fertility programs in the United States are concerns about obstetric risk and anesthetic concerns.",
+    "is_verified": 1
+  },
+  {
+    "question": "What additional criteria do some fertility programs consider besides BMI?",
+    "answer": "Some programs have additional criteria such as actual weight, neck/abdomen/waist circumference, waist–hip ratio, percentage of body fat, presence of other comorbidities, and inadequate trial transfer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the general opinion of maternal-fetal medicine and reproductive endocrinology specialists regarding BMI thresholds?",
+    "answer": "Most maternal-fetal medicine and reproductive endocrinology and infertility subspecialists favor the establishment of an upper BMI threshold, and over 99% believe that an official statement to guide clinicians should be issued by a national professional organization.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with oocyte retrieval in women with obesity?",
+    "answer": "Recent data challenge assumptions about the risks of oocyte retrieval in women with obesity, suggesting that retrievals can be performed safely in women with class 3 and 4 obesity when managed in the appropriate clinical setting. However, weight loss after bariatric surgery is associated with improved obstetric outcomes but also an increased risk of certain adverse obstetric outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What safety concerns are associated with oocyte retrieval in women with a high BMI?",
+    "answer": "A recent series evaluating 256 retrievals in women with a BMI of >40 kg/m2 indicated that the need for abdominal retrieval, conversion from simple mask to laryngeal mask airway oxygenation, or need for an oral or nasal airway was required in less than 7% of retrievals. Continuous positive airway pressure therapy to manage oxygen desaturation was required in 18% of women with a BMI of >40 kg/m2. Higher doses of anesthetic medications were required, and the duration of retrieval was approximately 20% longer in the highest BMI categories.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does BMI affect the success rates of fertility treatments?",
+    "answer": "Triage to lifestyle modification to achieve weight loss before infertility treatment can improve fertility treatment success rates, according to the excerpt.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the safety concerns associated with increasing BMI in the context of IVF?",
+    "answer": "Significant safety concerns with increasing BMI include reduced functional residual capacity, increased oxygen use, rapid desaturation if apneic, and challenges with face mask ventilation. Patients may require oral/nasal airway or continuous positive airway pressure therapy, which may not be available at several clinics.",
+    "is_verified": 1
+  },
+  {
+    "question": "What comorbidities should be considered for patients with a BMI between 40 and 50 kg/m2 before surgery?",
+    "answer": "Comorbidities to consider include difficult airway, cardiovascular disease (e.g., hypertension), obstructive sleep apnea, and endocrine dysfunction. It is suggested that patients with these comorbidities should be evaluated before the day of surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges do imaging of the ovaries and cervix present in obese patients?",
+    "answer": "Imaging of the ovaries and cervix in obese patients is often challenging, which raises concerns about the ability to safely perform retrievals, embryo transfers, and inseminations.",
+    "is_verified": 1
+  },
+  {
+    "question": "Why might individual programs need to adopt program-specific BMI thresholds for IVF procedures?",
+    "answer": "Individual programs may need to adopt program-specific BMI thresholds based on safety and the ability to perform oocyte retrievals and other procedures within their clinical environment, considering the limitations posed by high BMI patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity on women's reproductive health?",
+    "answer": "Obesity in women is associated with ovulatory dysfunction, reduced ovarian responsiveness to agents that induce ovulation, altered oocyte as well as endometrial function, and lower birth rates after IVF. Additionally, women with obesity are at increased risk of developing maternal and fetal complications during pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect men's reproductive health?",
+    "answer": "Men with obesity may exhibit impaired reproductive function.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of lifestyle modification and medical therapy on weight loss?",
+    "answer": "Lifestyle modification and medical therapy have demonstrated effectiveness in promoting weight loss.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of bariatric surgery in relation to weight loss?",
+    "answer": "Bariatric surgery in women and men is a significant adjuvant to lifestyle modification and medical therapy for weight loss, but pregnancy in women should be deferred for 1 year postoperatively.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do weight loss interventions affect anovulatory women with obesity?",
+    "answer": "In anovulatory women with obesity, weight loss interventions improve the chance of unassisted conception and improve the ovulation rate in response to ovulation induction, although they have not been shown to improve the live birth rate (LBR).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of prepregnancy weight loss interventions on ovulatory women with obesity?",
+    "answer": "In ovulatory women with obesity, prepregnancy weight loss interventions have not been shown to improve the outcome of live birth after both non-ART therapy and IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be considered before an IVF cycle for women with obesity?",
+    "answer": "Before an IVF cycle, women with obesity should be carefully evaluated with a multidisciplinary team to determine the safety of oocyte retrieval under anesthesia, considering factors such as BMI and comorbidities.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the conclusion regarding obesity and access to infertility treatment?",
+    "answer": "Obesity should not be the sole criteria for denying a patient or couple access to infertility treatment, and individual programs should adopt program-specific BMI thresholds based on the ability to safely perform oocyte retrievals and other procedures.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be done when obesity increases medical risks in infertility treatment?",
+    "answer": "When obesity increases medical risks, a process of shared decision-making should be undertaken, balancing patient autonomy with nonmaleficence.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is needed for optimizing access to oocyte retrievals in the setting of class 3 and 4 obesity?",
+    "answer": "Additional research is needed to determine best practices, validate safety data, and optimize access to oocyte retrievals in the setting of class 3 and 4 obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with obesity in women during pregnancy?",
+    "answer": "Women with obesity are at increased risk of infertility and developing maternal and fetal complications during pregnancy. Increased maternal, fetal, and neonatal risks are also related to pregnancy in women with obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be addressed during prepregnancy counseling for couples with obesity?",
+    "answer": "Prepregnancy counseling for couples with obesity should address the reproductive and maternal–fetal consequences of obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does weight loss have on infertility treatment outcomes in women with obesity?",
+    "answer": "Weight loss intervention trials in women with obesity and infertility have not shown an improvement in the outcome of live birth after treatment. However, weight loss may improve the chance of unassisted conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of BMI on IVF pregnancy and live birth rates?",
+    "answer": "Decreased IVF pregnancy and live birth rates are associated with increasing BMI. Access to IVF is permitted in the presence of other factors that also decrease pregnancy and live birth rates, such as advanced reproductive age or diminished ovarian reserve.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential benefits of weight loss after bariatric surgery for pregnant women?",
+    "answer": "Weight loss after bariatric surgery decreases the risk of gestational diabetes in pregnant women with obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is macrosomia and how is it related to pregnancy outcomes?",
+    "answer": "Macrosomia refers to a condition where a fetus is significantly larger than average, often defined as a birth weight of more than 4,000 grams (8 pounds 13 ounces). It increases the risk of complications such as small for gestational age and preterm delivery.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect fertility treatments and pregnancy?",
+    "answer": "Obesity can complicate fertility treatments and pregnancy, raising ethical concerns about the potential harm to women with obesity and their offspring. It may also exacerbate psychological issues such as low self-esteem, anxiety, and depression if treatment is denied.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of weight loss on fertility?",
+    "answer": "Evidence suggests that weight loss can improve the likelihood of spontaneous unassisted conception, indicating a positive relationship between maintaining a healthy weight and fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does BMI stand for and why is it relevant in the context of obesity and reproduction?",
+    "answer": "BMI stands for Body Mass Index, a measure that uses height and weight to assess body fat. It is relevant in the context of obesity and reproduction as it helps determine the health risks associated with obesity, particularly in relation to fertility and pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is IVF and how does it relate to women with obesity?",
+    "answer": "IVF stands for in vitro fertilization, a medical procedure used to help with conception. Women with obesity may face additional challenges and ethical considerations when seeking IVF treatment, including the potential for poorer outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity in men and reproductive function?",
+    "answer": "Additional research is needed to further our understanding of the relationship between obesity in men and reproductive function.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the maternal and fetal risks associated with prepregnancy weight loss interventions?",
+    "answer": "Additional research is needed to further our understanding of maternal and fetal risks and benefits associated with prepregnancy weight loss interventions, particularly because they relate to hypertensive disorders of pregnancy and miscarriage risk.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the health effects of overweight and obesity?",
+    "answer": "The health effects of overweight and obesity include increased risk of various diseases and conditions such as type 2 diabetes, cardiovascular diseases, certain types of cancer, and overall mortality. These effects have been studied across 195 countries over 25 years, highlighting the global impact of these conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the prevalence of obesity among adults in the United States?",
+    "answer": "The prevalence of obesity among adults in the United States has been documented in various studies, indicating significant rates of overweight, obesity, and severe obesity among adults aged 20 and over, with trends observed from 1960-1962 through 2015-2016 and further into 2017-2018.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the clinical guidelines for the identification and treatment of overweight and obesity in adults?",
+    "answer": "Clinical guidelines for the identification, evaluation, and treatment of overweight and obesity in adults provide a framework for healthcare providers to assess weight status and recommend appropriate interventions. These guidelines emphasize the importance of a comprehensive approach to managing weight through lifestyle changes and, when necessary, medical interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the medical care costs associated with obesity in the United States?",
+    "answer": "Estimating the medical care costs of obesity in the United States involves systematic reviews and empirical analyses that quantify the financial burden of obesity-related health issues on the healthcare system, highlighting the economic impact of this public health challenge.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the focus of the randomized trial by Perquin DA et al. in 2016?",
+    "answer": "The trial focuses on a lifestyle program for obese infertile women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the weight reduction intervention for obese infertile women prior to IVF according to Einarsson S et al. in 2017?",
+    "answer": "The study presents findings from a randomized controlled trial on the effectiveness of weight reduction interventions for obese infertile women prior to IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of interventions were tested in the randomized controlled trial by Legro RS et al. in 2015?",
+    "answer": "The trial tested preconception interventions in infertile women with polycystic ovary syndrome.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between weight gain and clinical diabetes mellitus in women as discussed by Colditz GA et al. in 1995?",
+    "answer": "The study identifies weight gain as a risk factor for clinical diabetes mellitus in women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did Huang Z et al. find regarding body weight and hypertension risk in women?",
+    "answer": "The study found a relationship between body weight, weight change, and the risk for hypertension in women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the conclusion of the study by Lauby-Secretan B et al. regarding body fatness and cancer?",
+    "answer": "The study presents the viewpoint of the IARC working group on the relationship between body fatness and cancer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did Rich-Edwards JW et al. investigate regarding adolescent body mass index?",
+    "answer": "The study investigated the impact of adolescent body mass index on infertility caused by various factors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the WHO Technical Report Series 894?",
+    "answer": "The WHO Technical Report Series 894 provides guidelines and recommendations related to health, including aspects of public health and nutrition, which may impact medical practices and policies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of the appropriate body-mass index for Asian populations?",
+    "answer": "The appropriate body-mass index for Asian populations has implications for policy and intervention strategies aimed at addressing health issues related to obesity and weight management in these populations.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does adult female weight affect fecundity according to the study by Gaskins et al.?",
+    "answer": "The study by Gaskins et al. found an association between changes in adult female weight and fecundity, indicating that weight management may play a role in fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of obesity on female infertility?",
+    "answer": "Obesity is associated with female infertility, and potential mediators of this impact include hormonal imbalances and menstrual cycle irregularities. Studies indicate that obesity can lead to conditions such as polycystic ovary syndrome (PCOS), which further complicates fertility issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect male fertility?",
+    "answer": "Obesity has been linked to male infertility, with research suggesting that it may alter the sperm epigenome, potentially affecting sperm quality and reproductive outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of bariatric surgery on reproductive function?",
+    "answer": "Bariatric surgery has been shown to resolve obesity-associated gonadal dysfunction in severely obese men and women, leading to improvements in reproductive function and fertility outcomes post-surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and menstrual disturbances?",
+    "answer": "Obesity is related to menstrual disturbances, with studies indicating that overweight and obese women may experience irregular menstrual cycles and other reproductive health issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the prevalence of polycystic ovary syndrome in overweight and obese women?",
+    "answer": "The prevalence of polycystic ovary syndrome (PCOS) is notably higher in overweight and obese women, highlighting the impact of obesity on this reproductive disorder.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does adolescent obesity relate to reproductive health?",
+    "answer": "Adolescent obesity has been associated with lifetime nulliparity, indicating that obesity during adolescence may affect long-term reproductive health and fertility outcomes in women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are menstrual cycle length disorders in obese women?",
+    "answer": "Obese women aged 18 to 40 may experience menstrual cycle length disorders, which can affect their reproductive health and fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of sleeve gastrectomy on serum AMH levels in reproductive aged women?",
+    "answer": "Sleeve gastrectomy bariatric surgery-induced weight loss has an effect on serum AMH levels in reproductive aged women, as indicated in the study by Bhandari et al. published in Gynecol Endocrinol.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does body mass index affect women's reproductive health?",
+    "answer": "Body mass index plays a significant role in women's reproductive health, influencing factors in both early and adult life, as discussed in the study by Lake et al. in the Int J Obes Relat Metab Disord.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body mass index and ovulatory infertility?",
+    "answer": "There is a relationship between body mass index and ovulatory infertility, as shown in the study by Grodstein et al., which indicates that higher body mass index may contribute to ovulatory infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of fat is associated with anovulation in women with obesity and infertility?",
+    "answer": "The subcutaneous abdominal fat, rather than the intraabdominal fat compartment, is associated with anovulation in women with obesity and infertility, according to the research by Kuchenbecker et al.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does body fat distribution affect conception rates?",
+    "answer": "The distribution of body fat has a prospective effect on conception rates, as indicated by the study conducted by Zaadstra et al., which examined the impact of fat on female fecundity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of obesity on the risk for polycystic ovary syndrome (PCOS)?",
+    "answer": "Obesity increases the risk for polycystic ovary syndrome, as discussed in the study by Yildiz et al. published in J Clin Endocrinol Metab.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of obesity for the diagnosis and treatment of PCOS?",
+    "answer": "Obesity has significant implications for the diagnosis and treatment of polycystic ovary syndrome, as highlighted by Legro in Semin Reprod Med.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does weight loss have on reproductive outcomes for obese infertile women?",
+    "answer": "Weight loss in obese infertile women results in improved reproductive outcomes for all forms of fertility treatment, as shown in the study by Clark et al. published in Hum Reprod.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does structured exercise training and diet affect ovulation in overweight and obese patients with PCOS?",
+    "answer": "Structured exercise training and a hypocaloric diet increase the probability of ovulation after clomiphene citrate in overweight and obese patients with polycystic ovary syndrome, according to a randomized controlled trial by Palomba et al.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of Orlistat on polycystic ovarian syndrome?",
+    "answer": "Orlistat in polycystic ovarian syndrome reduces weight and improves lipid profile and pregnancy rates, as reported in the study by Kumar and Arora in J Hum Reprod Sci.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of a hypocaloric diet with and without exercise training on body composition, cardiometabolic risk profile, and reproductive function in overweight and obese women with polycystic ovary syndrome?",
+    "answer": "The study by Thomson et al. (2008) investigates the impact of a hypocaloric diet combined with exercise training on body composition, cardiometabolic risk factors, and reproductive function in overweight and obese women diagnosed with polycystic ovary syndrome (PCOS).",
+    "is_verified": 1
+  },
+  {
+    "question": "How effective are weight-loss interventions for improving fertility in overweight or obese individuals?",
+    "answer": "Best et al. (2017) conducted a systematic review and meta-analysis to evaluate the effectiveness of weight-loss interventions in enhancing fertility outcomes for both women and men who are overweight or obese.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body size, ethnicity, and menstrual cycle alterations during the early menopausal transition?",
+    "answer": "The study by Santoro et al. (2004) found that body size and ethnicity are associated with changes in menstrual cycle patterns among women undergoing the early menopausal transition, as observed in the Study of Women's Health across the Nation (SWAN) Daily Hormone Study.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect reproductive hormones in women?",
+    "answer": "Jain et al. (2007) reported that obese women exhibit reduced pulsatile luteinizing hormone amplitude and lower progesterone metabolite excretion, indicating a negative impact of obesity on reproductive hormone levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the adverse effects of obesity on conception and implantation?",
+    "answer": "Brewer and Balen (2010) discuss the detrimental effects of obesity on the processes of conception and implantation, highlighting the challenges faced by obese individuals trying to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "What reproductive disorders are associated with obesity in women?",
+    "answer": "Pasquali et al. (2003) review the connection between obesity and various reproductive disorders in women, emphasizing the implications for fertility and reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of insulin resistance in polycystic ovary syndrome?",
+    "answer": "Diamanti-Kandarakis and Dunaif (2012) provide an updated overview of insulin resistance in the context of polycystic ovary syndrome, discussing its mechanisms and implications for health.",
+    "is_verified": 1
+  },
+  {
+    "question": "How can the probability of live birth after clomiphene citrate induction of ovulation be predicted?",
+    "answer": "Imani et al. (2002) developed a nomogram to estimate the likelihood of achieving a live birth following clomiphene citrate treatment for ovulation induction in women with normogonadotropic oligoamenorrheic infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity on fertility and assisted reproduction treatments?",
+    "answer": "Obesity negatively impacts fertility and the outcomes of assisted reproduction treatments. Studies have shown that women with higher body mass index (BMI) experience lower success rates in superovulation and intrauterine insemination cycles. Obesity affects oocyte and embryo quality during in vitro fertilization (IVF), leading to poorer outcomes. Additionally, obese women exhibit differences in ovarian metabolites, hormones, and gene expression compared to women of moderate weight, which may further influence fertility. Overall, maintaining a healthy weight is crucial for optimizing reproductive health and the success of fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does body weight influence the outcome of IVF?",
+    "answer": "Body weight significantly influences the outcome of in vitro fertilization (IVF). Research indicates that both overweight and underweight women face challenges in achieving successful IVF outcomes. Studies have shown that women with higher body mass index (BMI) have lower probabilities of pregnancy during assisted reproduction treatments. Furthermore, the quality of embryos from overweight women may be compromised, leading to decreased success rates in IVF. Therefore, body weight is an important factor to consider in fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body mass index and assisted reproductive technology cycles?",
+    "answer": "Body mass index (BMI) has a direct relationship with the outcomes of assisted reproductive technology (ART) cycles. Higher BMI is associated with lower success rates in ART, including IVF and other fertility treatments. Studies have demonstrated that women with elevated BMI experience reduced chances of pregnancy and may have poorer embryo quality. Conversely, maintaining a healthy BMI can improve the likelihood of successful ART outcomes, highlighting the importance of weight management in fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the baseline characteristics of women with polycystic ovary syndrome (PCOS) in relation to obesity?",
+    "answer": "Women with polycystic ovary syndrome (PCOS) often exhibit baseline characteristics that include obesity, which can exacerbate the symptoms of the condition. The pregnancy in polycystic ovary syndrome II study highlighted the effects of obesity on fertility outcomes in women with PCOS. Obesity can lead to hormonal imbalances and metabolic issues that further complicate the reproductive challenges faced by women with PCOS, making weight management a critical aspect of their treatment and fertility planning.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does body weight have on oocyte quality during IVF?",
+    "answer": "Body weight has a significant impact on oocyte quality during in vitro fertilization (IVF). Studies indicate that obesity can adversely affect oocyte and embryo quality, leading to lower success rates in IVF procedures. Obese women may have altered ovarian function and hormonal profiles, which can negatively influence the development and quality of oocytes. Therefore, managing body weight is essential for improving oocyte quality and enhancing the chances of successful IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the phenotypic and metabolic abnormalities associated with obese women?",
+    "answer": "Obese women display phenotypic and metabolic abnormalities that can impact reproductive health and outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does polycystic ovary syndrome and maternal obesity affect oocyte size during IVF cycles?",
+    "answer": "Polycystic ovary syndrome and maternal obesity have been shown to affect oocyte size in in vitro fertilization/intracytoplasmic sperm injection cycles, potentially influencing fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of body mass index on pregnancy outcomes in a freeze-all policy?",
+    "answer": "The body mass index (BMI) has a significant effect on pregnancy outcomes, particularly in the context of a freeze-all policy, as analyzed in a study involving 1280 cases.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the influence of body mass index on in vitro fertilization outcomes?",
+    "answer": "Body mass index (BMI) significantly affects in vitro fertilization (IVF) outcomes. Studies have shown that higher BMI is associated with lower IVF success rates, poorer oocyte and embryo quality, and increased rates of embryonic aneuploidy. Specifically, maternal BMI impacts embryo morphokinetics and overall pregnancy outcomes, with higher BMI correlating with a decline in successful pregnancies during IVF cycles.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does maternal body mass index affect embryo quality in IVF patients?",
+    "answer": "Research indicates that increased maternal body mass index negatively impacts both oocyte and embryo quality in IVF patients. Overweight women have been found to have higher rates of oocyte morphological abnormalities, which can hinder the success of IVF treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the pregnancy outcomes associated with different body mass index levels in women undergoing IVF?",
+    "answer": "Pregnancy outcomes in women undergoing IVF decline with increasing body mass index. Studies analyzing large datasets have shown that both extremes of BMI (underweight and obese) are linked to poorer pregnancy outcomes, including lower live birth rates and higher rates of complications during pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity on oocyte quality and reproductive outcomes?",
+    "answer": "Obesity adversely affects oocyte quality and metabolism, leading to developmental defects and abnormal oocytes. Studies have shown that high-fat diets can induce meiotic aneuploidy in oocytes and result in fetal growth retardation and brain defects. Additionally, obesity negatively impacts assisted reproductive technology (ART) pregnancy and live birth rates. Even after resuming a regular diet, the adverse effects on oocyte quality may not be reversible. Supplementation with co-enzyme Q10 has been shown to partially prevent mitochondrial defects in oocytes caused by obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of diet on infertility in women with polycystic ovary syndrome (PCOS)?",
+    "answer": "Clomiphene, metformin, or both are used for treating infertility in women with polycystic ovary syndrome (PCOS). Diet-induced obesity can lead to abnormal oocytes and persistent growth abnormalities in offspring, indicating that dietary factors play a significant role in fertility outcomes for women with PCOS.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does bariatric surgery affect hormone receptor expression in morbidly obese women?",
+    "answer": "Bariatric surgery has been shown to alter hormone receptor expression patterns in the endometrium of asymptomatic morbidly obese women, which may have implications for reproductive health and outcomes post-surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the findings regarding IVF outcomes in obese donor oocyte recipients?",
+    "answer": "A systematic review and meta-analysis indicated that IVF outcomes in obese donor oocyte recipients are affected, suggesting that obesity may influence the success rates of assisted reproductive technologies even when using donor oocytes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of obesity on endometrial gene expression during implantation?",
+    "answer": "Endometrial gene expression in the window of implantation is altered in obese women, especially in association with polycystic ovary syndrome.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect the risk of spontaneous abortion during infertility treatment?",
+    "answer": "Obesity increases the risk of spontaneous abortion during infertility treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of body mass index (BMI) on IVF treatment outcomes?",
+    "answer": "Body mass index significantly influences IVF treatment outcomes, with higher BMI associated with poorer results.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does high body mass index increase the risk of miscarriage after conception?",
+    "answer": "Yes, high body mass index increases the risk of miscarriage after both spontaneous and assisted conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do overweight and obesity affect ovarian stimulation and in vitro fertilization outcomes?",
+    "answer": "Overweight and obesity negatively affect the outcomes of ovarian stimulation and in vitro fertilization.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of thyroid function in human obesity?",
+    "answer": "Thyroid function in human obesity is linked to underlying mechanisms that may affect metabolic processes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of (sub)clinical thyroid dysfunction and thyroid autoimmunity before conception and in early pregnancy?",
+    "answer": "(Sub)clinical thyroid dysfunction and thyroid autoimmunity before conception and in early pregnancy are significant factors that can impact reproductive outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the mechanisms linking obesity to insulin resistance and type 2 diabetes?",
+    "answer": "The mechanisms linking obesity to insulin resistance and type 2 diabetes involve various biological pathways, including inflammation, altered adipokine secretion (such as leptin and adiponectin), and changes in lipid metabolism. Obesity leads to an increase in free fatty acids and pro-inflammatory cytokines, which can impair insulin signaling and contribute to insulin resistance.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with pregnancies in women with pre-existing diabetes?",
+    "answer": "Women with pre-existing diabetes face increased risks and recurrence of serious adverse outcomes in their pregnancies, including complications such as preeclampsia, cesarean delivery, and neonatal complications. Proper management of diabetes before and during pregnancy is crucial to minimize these risks.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role does leptin play in pregnancy, particularly in the context of maternal obesity?",
+    "answer": "Leptin plays a significant role in pregnancy by regulating energy balance and metabolism. In the context of maternal obesity, elevated leptin levels can lead to leptin resistance, which may affect fetal development and increase the risk of complications such as gestational diabetes and preterm birth.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does a high-fat diet affect female fertility?",
+    "answer": "A high-fat diet can negatively impact female fertility by disrupting hormonal balance, affecting ovulation, and altering the quality of oocytes. It may also lead to obesity, which is associated with further reproductive issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between aspirin, inflammation, and reproduction?",
+    "answer": "Aspirin has been studied for its potential role in modulating inflammation and improving reproductive outcomes. The EAGeR trial investigated the effects of low-dose aspirin on pregnancy outcomes in women with a history of miscarriage, suggesting that aspirin may help reduce inflammation and improve implantation success.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of sleep on female reproduction?",
+    "answer": "Sleep has a significant impact on female reproduction, influencing hormonal regulation, menstrual cycles, and overall reproductive health. Poor sleep quality and sleep disorders can lead to irregularities in ovulation and may affect fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is recurrent miscarriage and what are its potential causes?",
+    "answer": "Recurrent miscarriage is defined as the occurrence of three or more consecutive pregnancy losses. Potential causes include genetic factors, anatomical abnormalities, hormonal imbalances, autoimmune disorders, and environmental factors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and mental health?",
+    "answer": "The excerpt references a study that provides an overview of the links between obesity and mental health, suggesting that there is a connection between the two.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does obesity increase the risk of miscarriage in spontaneous conception?",
+    "answer": "Yes, the excerpt cites a systematic review that investigates whether obesity increases the risk of miscarriage in cases of spontaneous conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between maternal obesity in early pregnancy and pregnancy outcomes?",
+    "answer": "Maternal obesity in early pregnancy is associated with adverse pregnancy outcomes, as indicated by a Chinese prospective cohort analysis.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect recurrent miscarriage?",
+    "answer": "Obesity is linked to an increased risk of recurrent miscarriage, as shown in a systematic review and meta-analysis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does obesity have on uterine receptivity?",
+    "answer": "Obesity reduces uterine receptivity, based on clinical experience from a large cohort of ovum donation cycles with normal weight donors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between recipient body mass index and pregnancy outcomes in assisted reproductive technology?",
+    "answer": "Pregnancy outcomes decline with increasing recipient body mass index, as analyzed in a large dataset from the Society for Assisted Reproductive Technology Clinic Outcome Reporting System registry.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect the frequency of euploid miscarriage?",
+    "answer": "The frequency of euploid miscarriage is increased in obese women who experience recurrent early pregnancy loss.",
+    "is_verified": 1
+  },
+  {
+    "question": "What obstetric and neonatal risks are associated with obese women without chronic disease?",
+    "answer": "Obese women without chronic disease face specific obstetric and neonatal risks, as detailed in a study published in Obstetrics and Gynecology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What guidelines exist for the care of women with obesity during pregnancy?",
+    "answer": "The Green-top Guideline No. 72 provides recommendations for the care of women with obesity in pregnancy, addressing various aspects of management.",
+    "is_verified": 1
+  },
+  {
+    "question": "What trends have been observed in sperm concentration and morphology in men over time?",
+    "answer": "There has been a decline in semen concentration and morphology in a sample of men from the general population in France between 1989 and 2005.",
+    "is_verified": 1
+  },
+  {
+    "question": "What has been observed regarding sperm count in European men over the past 50 years?",
+    "answer": "A decline in sperm count has been reported in European men over the past 50 years, indicating a significant trend in male reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is hypogonadotropic hypogonadism and how is it related to type 2 diabetes and obesity?",
+    "answer": "Hypogonadotropic hypogonadism is a condition characterized by low levels of testosterone due to insufficient stimulation from the pituitary gland. It is often observed in individuals with type 2 diabetes and obesity, as these conditions can disrupt hormonal balance and lead to decreased testosterone production.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obstructive sleep apnea affect hormone secretion in obese men?",
+    "answer": "Obstructive sleep apnea can lead to altered secretion of luteinizing hormone and testosterone in middle-aged obese men, potentially impacting their reproductive health and overall hormonal balance.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact does obesity have on male fertility?",
+    "answer": "Obesity is associated with reduced fertility in men, as it can affect hormone levels, sperm parameters, and overall reproductive function, making it a significant factor in male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does paternal body mass index influence assisted reproductive technology outcomes?",
+    "answer": "Higher paternal body mass index is linked to decreased blastocyst development and lower live birth rates in couples undergoing assisted reproductive technology, indicating that paternal obesity can negatively affect reproductive success.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between BMI and sperm count?",
+    "answer": "Research indicates that there is a correlation between body mass index (BMI) and sperm count, with higher BMI potentially leading to lower sperm counts, which can affect male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does paternal obesity affect pregnancy and live birth rates in couples undergoing intracytoplasmic sperm injection?",
+    "answer": "Increasing paternal body mass index has been shown to negatively impact pregnancy and live birth rates in couples undergoing intracytoplasmic sperm injection, suggesting that paternal weight is an important factor in reproductive outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body mass index (BMI) and sperm quality in men of subfertile couples?",
+    "answer": "Body mass index and central adiposity are associated with sperm quality in men of subfertile couples, indicating that higher BMI may negatively impact sperm quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does increasing body mass index affect semen and reproductive hormonal parameters in subfertile men?",
+    "answer": "Increasing body mass index influences semen and reproductive hormonal parameters in a multi-institutional cohort of subfertile men, suggesting a detrimental effect of higher BMI on reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What association exists between body mass index and semen characteristics?",
+    "answer": "Body mass index is associated with impaired semen characteristics and reduced levels of anti-Müllerian hormone across a wide weight range, indicating that BMI may affect male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of male overweight on semen quality and assisted reproduction outcomes?",
+    "answer": "Male overweight negatively impacts semen quality and the outcomes of assisted reproduction, suggesting that weight management may be important for male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the LIFE study reveal about the relationship between male BMI, waist circumference, and semen quality?",
+    "answer": "The LIFE study indicates a relationship between male BMI and waist circumference on semen quality, highlighting the importance of these measurements in assessing male reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does body mass index affect sperm quality or reproductive hormone levels?",
+    "answer": "While some studies suggest that body mass index has no impact on sperm quality, it does affect reproductive hormone levels, indicating a complex relationship between weight and male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What correlation exists between elevated body mass index and seminal plasma interleukin 8 levels?",
+    "answer": "Elevated body mass index correlates with higher seminal plasma interleukin 8 levels and ultrasonographic abnormalities of the prostate in men attending an andrology clinic for infertility, suggesting inflammation may play a role in fertility issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does a systematic review with meta-analysis reveal about the impact of body mass index on semen parameters and reproductive hormones in human males?",
+    "answer": "A systematic review with meta-analysis reveals that body mass index significantly impacts semen parameters and reproductive hormones in human males, emphasizing the need for awareness of weight management in male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the modifiable and non-modifiable risk factors for poor semen quality?",
+    "answer": "The study identifies various factors affecting semen quality, including lifestyle choices such as diet and exercise (modifiable) and genetic predispositions (non-modifiable).",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect male fertility and sperm function?",
+    "answer": "Obesity negatively impacts male fertility by altering sperm function and molecular composition, leading to decreased sperm quality and increased risk of DNA damage.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between body mass index (BMI) and semen quality?",
+    "answer": "Higher body mass index is associated with poorer semen quality, reduced sperm DNA integrity, and altered serum reproductive hormone levels among men attending infertility clinics.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of obesity on sperm DNA integrity?",
+    "answer": "Obesity leads to a higher risk of sperm DNA damage in infertile patients, affecting their reproductive potential.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does increased body weight affect sperm parameters?",
+    "answer": "Increased body weight has a negative effect on both conventional and non-conventional sperm parameters, indicating a decline in sperm quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of body mass index on seminal oxidative stress?",
+    "answer": "Higher body mass index is linked to increased seminal oxidative stress, which can adversely affect sperm quality and fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the focus of the TIEGER study mentioned in the excerpt?",
+    "answer": "The TIEGER study focuses on DNA methylation at imprinted genes in human sperm.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of publication is referenced in the excerpt?",
+    "answer": "The excerpt references a clinical epigenetics publication from the journal 'Clin Epigenetics'.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of DNA methylation in the context of the study?",
+    "answer": "DNA methylation is significant as it relates to gene expression regulation, particularly in imprinted genes, which can have implications for fertility and developmental processes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of male body mass index on assisted reproduction outcomes?",
+    "answer": "Men's body mass index (BMI) is related to embryo quality and clinical outcomes in couples undergoing in vitro fertilization (IVF). Overweight men have decreased clinical pregnancy rates after assisted reproductive technology (ART), particularly in IVF cycles. Male adiposity has been shown to impair clinical pregnancy rates without affecting day 3 embryo quality. Additionally, overweight men with nonobstructive azoospermia experience worse pregnancy outcomes after microdissection testicular sperm extraction. A systematic review and meta-analysis indicate that paternal obesity negatively affects male fertility and assisted reproduction outcomes. Weight loss may improve semen quality and reproductive hormones in severely obese men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between obesity and testosterone levels in men?",
+    "answer": "Plasma free and non-sex-hormone-binding-globulin-bound testosterone are decreased in obese men in proportion to their degree of obesity. Additionally, increasing insulin resistance is associated with a decrease in Leydig cell testosterone secretion in men.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity affect sperm output in men?",
+    "answer": "There is an inverse relationship between obesity and sperm output, indicating that as obesity increases, sperm output decreases.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity on estradiol metabolism?",
+    "answer": "Obesity affects estradiol metabolism by decreasing the formation of nonuterotropic metabolites.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role does leptin play in male obesity regarding androgen levels?",
+    "answer": "Leptin contributes to reduced androgen levels in male obesity, indicating a potential hormonal imbalance associated with increased body fat.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does obesity influence semen parameters and hormonal profiles in males?",
+    "answer": "Obese fertile and infertile males show differences in semen parameters and hormonal profiles, suggesting that obesity can impact male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of bariatric surgery on semen parameters?",
+    "answer": "Bariatric surgery has been shown to affect semen parameters and sex hormone concentrations positively, as indicated by a prospective study that observed changes in these factors following the surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does weight loss impact erectile function in obese men?",
+    "answer": "Weight loss in obese men has been associated with improvements in erectile function, as evidenced by the SHED-IT randomized controlled trial, which demonstrated enhanced erectile function following weight loss interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between scrotal temperature and spermatogenic function?",
+    "answer": "Monitoring scrotal temperature in obese men and those with varicocele can reflect spermatogenic function, suggesting that temperature regulation may play a role in male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the long-term effects of different weight loss diets on testosterone and sexual function?",
+    "answer": "A randomized controlled trial comparing high protein and high carbohydrate weight loss diets found long-term effects on testosterone levels, sexual health, and urinary function in overweight and obese men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of physical activity on erectile dysfunction?",
+    "answer": "A systematic review and meta-analysis indicated that physical activity and exercise can have a positive effect on erectile dysfunction, suggesting that lifestyle changes may improve sexual health in affected individuals.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of obesity surgery on sperm characteristics in obese males?",
+    "answer": "The study by Martín-Hidalgo et al. indicates that there is a lack of improvement in sperm characteristics in obese males after obesity surgery, despite beneficial changes observed in reproductive hormones.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the Endocrine Society clinical practice guideline say about pharmacological management of obesity?",
+    "answer": "The guideline outlines the pharmacological management of obesity, providing recommendations for treatment options and their effectiveness in managing obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was evaluated in the study comparing phentermine and topiramate versus phentermine/topiramate extended-release?",
+    "answer": "The study evaluated the effectiveness of phentermine and topiramate compared to phentermine/topiramate extended-release in obese adults, focusing on weight loss outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the addiction potential concerns regarding phentermine prescribed for long-term treatment of obesity?",
+    "answer": "The study by Hendricks et al. discusses the addiction potential of phentermine when prescribed during long-term treatment of obesity, raising concerns about its safety and efficacy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the systematic review and meta-analysis by Khera et al. find regarding pharmacological treatments for obesity?",
+    "answer": "The systematic review and meta-analysis found associations between pharmacological treatments for obesity and weight loss, as well as potential adverse events related to these treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What updates were provided on treatment strategies for obesity in the article by Wyatt HR?",
+    "answer": "Wyatt HR provided updates on various treatment strategies for obesity, discussing the latest approaches and their effectiveness in managing obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the systematic review by Domecq et al. reveal about drugs commonly associated with weight change?",
+    "answer": "The systematic review revealed insights into drugs that are commonly associated with weight change, highlighting their impact on weight management and clinical outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the effects of orlistat versus metformin on weight loss-related clinical variables in women with PCOS?",
+    "answer": "The systematic review and meta-analysis by Graff et al. examined the effects of orlistat compared to metformin on weight loss-related clinical variables in women with PCOS, providing evidence on their effectiveness.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the Cochrane review say about surgery for obesity?",
+    "answer": "The Cochrane Database Systematic Reviews provide evidence on the effectiveness of surgical interventions for obesity, discussing outcomes and recommendations for surgical management.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the focus of the article by Nudel and Sanchez on surgical management of obesity?",
+    "answer": "The article focuses on the surgical management of obesity, discussing various surgical options and their implications for weight loss and health outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the health outcomes of gastric bypass patients compared to nonsurgical, nonintervened severely obese individuals?",
+    "answer": "The health outcomes of gastric bypass patients have been shown to be significantly improved compared to nonsurgical, nonintervened severely obese individuals, as indicated in the study by Adams et al. published in Obesity (Silver Spring) in 2010.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the technique and results of laparoscopic gastric bypass, Roux-en-Y, based on the study of 500 patients?",
+    "answer": "The study by Wittgrove and Clark published in Obes Surg in 2000 details the technique and results of laparoscopic gastric bypass, Roux-en-Y, with a follow-up period ranging from 3 to 60 months, demonstrating its effectiveness in weight loss and health improvement.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the mechanisms involved in bariatric surgery related to gut hormones and diabetes resolution?",
+    "answer": "Bariatric surgery influences gut hormones that play a crucial role in regulating appetite, glucose metabolism, and weight loss. These hormonal changes can lead to improved insulin sensitivity and resolution of type 2 diabetes in patients undergoing the procedure.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does bariatric surgery impact fertility and reproductive outcomes?",
+    "answer": "Bariatric surgery has been shown to have a positive impact on fertility and reproductive outcomes. Studies indicate that women who undergo bariatric surgery may experience improved reproductive health, including better pregnancy rates and outcomes compared to those who do not have the surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the perinatal outcomes after bariatric surgery?",
+    "answer": "Research indicates that perinatal outcomes can be favorable after bariatric surgery, with studies showing a reduction in risks associated with obesity during pregnancy, such as gestational diabetes and preterm birth.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does bariatric surgery affect polycystic ovary syndrome (PCOS)?",
+    "answer": "Bariatric surgery has been found to positively impact women with polycystic ovary syndrome (PCOS), leading to improvements in symptoms and reproductive outcomes, including ovulation and fertility rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between bariatric surgery and pregnancy outcomes?",
+    "answer": "Pregnancy outcomes after bariatric surgery tend to be improved, with studies showing lower rates of complications such as gestational diabetes and preterm birth, as well as higher rates of successful pregnancies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of bariatric surgery on obesity-related infertility?",
+    "answer": "Bariatric surgery has been shown to improve infertility outcomes in obese women, particularly in relation to in vitro fertilization (IVF) success rates. Studies indicate that weight loss following bariatric surgery can enhance reproductive health and increase the likelihood of pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the reproductive considerations after bariatric surgery?",
+    "answer": "After bariatric surgery, women may experience changes in reproductive health, including improved fertility and pregnancy outcomes. Current evidence suggests that healthcare providers should consider these factors when advising patients who have undergone such procedures.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the clinical practice guidelines for perioperative support in bariatric surgery patients?",
+    "answer": "The clinical practice guidelines emphasize the importance of nutrition, metabolic support, and nonsurgical interventions for patients undergoing bariatric procedures. These guidelines are aimed at optimizing patient outcomes before and after surgery.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does preconception lifestyle intervention affect women with obesity and infertility?",
+    "answer": "Preconception lifestyle interventions have been shown to reduce long-term energy intake in women with obesity and infertility, potentially leading to improved fertility outcomes and better overall health prior to conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the cost-effectiveness of lifestyle interventions in obese infertile women?",
+    "answer": "Cost-effectiveness analyses indicate that lifestyle interventions can be a beneficial approach for obese infertile women, as they may lead to improved fertility outcomes and reduce the need for more expensive medical interventions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between weight reduction and live birth rates in women undergoing IVF?",
+    "answer": "Research has demonstrated that weight reduction in obese women scheduled for IVF can lead to higher cumulative live birth rates, indicating the importance of weight management in fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the randomized trial of a lifestyle program in obese infertile women?",
+    "answer": "The randomized trial indicated that a structured lifestyle program could lead to significant improvements in fertility and overall health in obese infertile women, suggesting that such interventions are beneficial for this population.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does short-term weight loss affect pregnancy rates in overweight/obese women undergoing IVF?",
+    "answer": "Short-term weight loss has been associated with improved pregnancy rates in overweight and obese women undergoing IVF, highlighting the impact of weight management on fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of weight loss on reproductive outcomes in obese women undergoing fertility treatment?",
+    "answer": "Weight loss improves reproductive outcomes in obese women undergoing fertility treatment, as demonstrated in a randomized controlled trial.",
+    "is_verified": 1
+  },
+  {
+    "question": "What association was found between periconceptional weight loss and maternal and neonatal outcomes?",
+    "answer": "There is an association between periconceptional weight loss and improved maternal and neonatal outcomes in obese infertile women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does lifestyle intervention have on pregnancy and birth outcomes for obese infertile women?",
+    "answer": "Lifestyle intervention positively affects pregnancy and birth outcomes for obese infertile women, according to a systematic review and meta-analysis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the pilot survey of Canadian IVF medical directors focus on?",
+    "answer": "The pilot survey focused on maternal health before assisted reproduction and the perspectives of Canadian IVF medical directors.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of class III and class IV obesity on oocyte retrieval complications and outcomes?",
+    "answer": "Class III and class IV obesity negatively affect oocyte retrieval complications and outcomes during fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the clinical guideline CG156 by NICE address?",
+    "answer": "The clinical guideline CG156 by NICE addresses the assessment and treatment of fertility problems.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the results of obesity treatment on female reproduction according to Legro RS?",
+    "answer": "The results of obesity treatment on female reproduction do not match expectations, indicating complexities in the relationship between obesity and fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "Should access to fertility treatment be determined by female body mass index?",
+    "answer": "The question of whether access to fertility treatment should be determined by female body mass index is debated, with implications for treatment accessibility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What ethical considerations are raised regarding obese women's access to assisted fertility treatment?",
+    "answer": "The ethical considerations include whether access to assisted fertility treatment for obese women should be limited, raising questions about fairness and health outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between female obesity and live birth rates following IVF?",
+    "answer": "Female obesity is negatively associated with live birth rates following IVF, as indicated by a systematic review and meta-analysis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the ethical considerations for the care of patients with obesity according to ACOG Committee Opinion No. 763?",
+    "answer": "The ACOG Committee Opinion No. 763 discusses ethical considerations for the care of patients with obesity, emphasizing the importance of addressing obesity in the context of reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of body mass index restrictions in fertility treatment according to the national survey of OB/GYN subspecialists?",
+    "answer": "The national survey of OB/GYN subspecialists revealed insights into body mass index restrictions in fertility treatment, highlighting the implications for patient care and treatment access.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the consensus statement by the Society for Obesity and Bariatric Anaesthesia (SOBA) address regarding anesthesia for obese patients?",
+    "answer": "The consensus statement by SOBA provides guidance for specialist and non-specialist anesthetists on designing intelligent anesthesia for a changing patient demographic, particularly focusing on obese patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the focus of the article by Mahutte et al. regarding obesity and reproduction?",
+    "answer": "The article by Mahutte et al. focuses on the relationship between obesity and reproduction, discussing the implications of obesity on reproductive health and outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the purpose of the report from the Committee on Practice Medicine of the American Society for Reproductive Medicine?",
+    "answer": "The purpose of the report is to provide medical service providers with principles and strategies for the evaluation and treatment of couples experiencing infertility associated with obesity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the document reviewed replace?",
+    "answer": "The document reviewed replaces the previous document titled 'Obesidad y Reproducción: Un boletín educacional' published last in 2015.",
+    "is_verified": 1
+  },
+  {
+    "question": "What medical journal published the previous document on obesity and reproduction?",
+    "answer": "The previous document was published in the journal Fertility and Sterility in 2015.",
+    "is_verified": 1
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "question": "What is the purpose of the AUA/ASRM guideline part II?",
+    "answer": "The purpose of the AUA/ASRM guideline part II is to outline the appropriate management of the male in an infertile couple, including medical therapies, surgical techniques, and assisted reproductive technologies such as intrauterine insemination (IUI), in vitro fertilization (IVF), and intracytoplasmic sperm injection (ICSI).",
+    "is_verified": 1
+  },
+  {
+    "question": "What types of medical interventions are discussed in the guideline for managing male infertility?",
+    "answer": "The guideline discusses medical therapies, surgical techniques, and assisted reproductive technologies including intrauterine insemination (IUI), in vitro fertilization (IVF), and intracytoplasmic sperm injection (ICSI) for managing male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does Part I of the guideline cover?",
+    "answer": "Part I of the guideline covers the evaluation of the infertile male and discusses relevant health conditions associated with male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the updated recommendations regarding the management of male infertility?",
+    "answer": "The guideline provides updated, evidence-based recommendations for managing male infertility, including specific treatments and assisted reproductive techniques that are effective. It emphasizes the importance of evaluating male factors in infertility, as they contribute to approximately half of all infertile couples. The guideline also mentions that many male factor conditions are treatable with medical or surgical therapy, while others may require donor sperm or adoption.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of evaluating male infertility?",
+    "answer": "Evaluating male infertility is crucial to identify medically important conditions, counsel men on future health considerations, and appropriately direct therapy. This evaluation can help in determining the most effective treatment options for couples attempting to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommended surgical procedure for men with palpable varicocele and infertility?",
+    "answer": "Surgical varicocelectomy is recommended for men attempting to conceive who have palpable varicocele(s), infertility, and abnormal semen parameters. This procedure may improve fertility outcomes in these men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are abnormal semen parameters?",
+    "answer": "Abnormal semen parameters refer to deviations from the normal ranges of sperm count, motility, morphology, and other characteristics that can affect male fertility. These parameters are crucial for assessing male reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is varicocelectomy and when should it not be recommended?",
+    "answer": "Varicocelectomy is a surgical procedure to correct varicoceles, which are enlarged veins in the scrotum that can affect fertility. It should not be recommended for men with non-palpable varicoceles detected solely by imaging, as there is insufficient evidence to support its effectiveness in these cases.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between varicoceles and male fertility?",
+    "answer": "Varicoceles have been recognized as a condition that can negatively impact male fertility. Correcting a clinical varicocele may lead to significant improvements in semen parameters and increase the chances of achieving pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should couples be informed about regarding varicocele repair and ART?",
+    "answer": "Couples should be informed that there is no definitive evidence supporting the effectiveness of varicocele repair prior to assisted reproductive technology (ART) for men with clinical varicocele and non-obstructive azoospermia (NOA).",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the meta-analysis by Wang et al. report regarding pregnancy rates?",
+    "answer": "The meta-analysis by Wang et al. reported significantly higher pregnancy rates following the correction of clinical varicoceles, indicating a positive impact on fertility outcomes for men undergoing this procedure.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the pregnancy rates for men treated with varicocele repair compared to no treatment?",
+    "answer": "Pregnancy rates without treatment were assumed to be 17%. Rates with subinguinal microsurgical varicocelectomy were calculated to be 42% (95% CI 26% to 61%), with inguinal microvaricocelectomy 35% (95% CI 21% to 54%), with inguinal open (non-microsurgical) surgery 37% (95% CI 22% to 58%), and with laparoscopic surgery 37% (95% CI 19% to 61%).",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the systematic review and meta-analysis of varicocelectomy for subclinical varicocele indicate?",
+    "answer": "The systematic review and meta-analysis reported no demonstrable benefit of varicocele repair in pregnancy or bulk seminal parameters, except for a possible small numerical effect on progressive sperm motility that is unlikely to be clinically important.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of men with NOA and clinical varicoceles experienced return of adequate motile sperm after varicocele repair?",
+    "answer": "Only 9.6% of men with NOA and clinical varicoceles experienced return of adequate motile sperm to the ejaculate sufficient to avoid surgical sperm retrieval after clinical varicocele repair.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was found regarding men previously thought to be azoospermic when re-analyzing sperm in the ejaculate?",
+    "answer": "Up to 35% of men previously thought to be azoospermic had at least rare sperm detectable with a more detailed search of the centrifuged/concentrated semen pellet.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the implication of varicocele repair on ART treatment?",
+    "answer": "Varicocele repair defers treatment with ART (Assisted Reproductive Technology) for at least six months.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommended procedure for sperm retrieval in men with non-obstructive azoospermia (NOA)?",
+    "answer": "Micro-dissection testicular sperm extraction (TESE) should be performed for men with NOA undergoing sperm retrieval. This is a moderate recommendation based on evidence level Grade C.",
+    "is_verified": 1
+  },
+  {
+    "question": "What types of sperm can be used for intracytoplasmic sperm injection (ICSI) in men undergoing surgical sperm retrieval?",
+    "answer": "Either fresh or cryopreserved sperm may be used for ICSI in men undergoing surgical sperm retrieval. This is a moderate recommendation based on evidence level Grade C.",
+    "is_verified": 1
+  },
+  {
+    "question": "How can sperm be extracted in men with azoospermia due to obstruction?",
+    "answer": "In men with azoospermia due to obstruction, sperm may be extracted from either the testis or the epididymis during surgical sperm retrieval. This is a moderate recommendation based on evidence level Grade C.",
+    "is_verified": 1
+  },
+  {
+    "question": "What options are available for men with aspermia regarding sperm extraction?",
+    "answer": "For men with aspermia, surgical sperm extraction or induced ejaculation may be performed, which can include methods such as sympathomimetic stimulation, vibratory stimulations, and electroejaculation, depending on the patient's condition and the clinician's experience. This is based on expert opinion.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatments are available for infertility associated with retrograde ejaculation (RE)?",
+    "answer": "Infertility associated with retrograde ejaculation may be treated with sympathomimetics and alkalinization of urine, with or without urethral catheterization, induced ejaculation, or surgical sperm retrieval. This is based on expert opinion.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the success rate of microdissection-testicular sperm extraction (micro-TESE) compared to non-microsurgical testis sperm extraction?",
+    "answer": "In a meta-analysis, microdissection-testicular sperm extraction (micro-TESE) was observed to result in successful extraction 1.5 times more often than non-microsurgical testis sperm extraction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of micro-TESE on testosterone levels compared to conventional TESE?",
+    "answer": "Less effect on testosterone levels is seen after micro-TESE than with conventional TESE, but testosterone deficiency requiring testosterone replacement remains a risk, even after micro-TESE.",
+    "is_verified": 1
+  },
+  {
+    "question": "Are there differences in ICSI success rates when using cryopreserved versus fresh sperm for men with obstructive azoospermia?",
+    "answer": "There are no substantial differences in ICSI success rates when either cryopreserved or fresh sperm are used for men with obstructive azoospermia, allowing for sperm retrieval and cryopreservation to be done prior to ART.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the options for couples desiring conception after vasectomy?",
+    "answer": "Couples desiring conception after vasectomy should be counseled that surgical reconstruction, surgical sperm retrieval, or both reconstruction and simultaneous sperm retrieval for cryopreservation are viable options.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should clinicians advise men with obstructive azoospermia?",
+    "answer": "Clinicians should counsel men with vasal or epididymal obstructive azoospermia that microsurgical reconstruction may be successful in returning sperm to the ejaculate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What procedures may be considered for infertile men with azoospermia and Ejaculatory Duct Obstruction (EDO)?",
+    "answer": "For infertile men with azoospermia and Ejaculatory Duct Obstruction (EDO), the clinician may consider transurethral resection of ejaculatory ducts (TURED) or surgical sperm extraction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors should be considered in fertility restoration treatment for couples post-vasectomy?",
+    "answer": "Fertility restoration treatment should be provided according to the needs and characteristics of the couple as well as patient preference as a shared decision-making process for couples desiring fertility post-vasectomy.",
+    "is_verified": 1
+  },
+  {
+    "question": "When might microsurgical reconstruction be preferable to sperm retrieval and ICSI?",
+    "answer": "For most cases of acquired or congenital obstruction (excluding CBAVD), microsurgical reconstruction of the male reproductive tract may be the preferable alternative to sperm retrieval and ICSI when the female partner has normal fertility potential.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is TURED and how does it relate to fertility?",
+    "answer": "TURED refers to a treatment intervention that may restore natural fertility in individuals suspected of certain conditions based on transrectal ultrasonography findings. It is considered when there are indications of fertility issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the surgical sperm extraction methods mentioned?",
+    "answer": "The surgical sperm extraction methods mentioned include TESE (Testicular Sperm Extraction), TESA (Testicular Sperm Aspiration), and Percutaneous Epididymal Sperm Aspiration. These procedures are used to retrieve sperm for assisted reproductive technologies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some medical interventions for male infertility?",
+    "answer": "Medical interventions for male infertility include assisted reproductive technologies (ART) such as IVF and ICSI, the use of aromatase inhibitors (AIs), human chorionic gonadotropin (hCG), selective estrogen receptor modulators (SERMs), and Follicle-Stimulating Hormone (FSH) analogues. Clinicians may also evaluate and treat conditions like hypogonadotropic hypogonadism and hyperprolactinemia. Additionally, the use of supplements such as antioxidants and vitamins is considered to have questionable clinical utility in treating male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should clinicians inform men with idiopathic infertility regarding SERMs?",
+    "answer": "Clinicians should inform men with idiopathic infertility that the use of selective estrogen receptor modulators (SERMs) has limited benefits compared to the results of assisted reproductive technologies (ART).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding testosterone therapy for men interested in fertility?",
+    "answer": "For men interested in current or future fertility, testosterone monotherapy should not be prescribed, as it may negatively impact fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be considered for men with idiopathic infertility to improve fertility outcomes?",
+    "answer": "For men with idiopathic infertility, a clinician may consider treatment using a Follicle-Stimulating Hormone (FSH) analogue to improve sperm concentration, pregnancy rate, and live birth rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the clinical utility of supplements in treating male infertility?",
+    "answer": "The benefits of supplements such as antioxidants and vitamins in treating male infertility are of questionable clinical utility, and existing data are inadequate to provide specific recommendations for their use.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are SERMs and AIs used for in the context of male infertility?",
+    "answer": "SERMs (Selective Estrogen Receptor Modulators) and AIs (Aromatase Inhibitors) are pharmacologic agents used to manipulate hormonal levels in men with conditions affecting fertility. They can help increase endogenous testosterone production and improve sperm production when used in conjunction with other treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of ICSI in IVF treatment for male infertility?",
+    "answer": "ICSI (Intracytoplasmic Sperm Injection) is an intervention applied during IVF (In Vitro Fertilization) that allows for the injection of a single sperm directly into an oocyte. This technique can mitigate the adverse effects of poor sperm quality, such as low concentration, motility, and morphology, as long as there are adequate viable sperm available for injection.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is IUI and how does it relate to male fertility?",
+    "answer": "IUI (Intrauterine Insemination) is a fertility treatment that involves processing a semen specimen and placing the washed semen into the uterine cavity at the time of ovulation. Men with a low total motile sperm count (less than 5 million motile sperm after processing) have limited chances of achieving pregnancy through IUI due to insufficient sperm availability.",
+    "is_verified": 1
+  },
+  {
+    "question": "What hormonal deficiencies are associated with hypogonadotropic hypogonadism (HH) in men?",
+    "answer": "Men with hypogonadotropic hypogonadism (HH) present with deficient secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). This deficiency leads to a lack of testosterone secretion from Leydig cells in the testes, disrupting spermatogenesis.",
+    "is_verified": 1
+  },
+  {
+    "question": "How can spermatogenesis be initiated in men with idiopathic hypogonadotropic hypogonadism?",
+    "answer": "Spermatogenesis can be initiated in many men with idiopathic hypogonadotropic hypogonadism (HH) through treatment with exogenous gonadotropins or pulsatile GnRH (Gonadotropin-Releasing Hormone). This treatment can lead to the achievement of pregnancies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the typical treatment approach for men with functioning pituitary glands but low testosterone levels?",
+    "answer": "For men with functioning pituitary glands but low testosterone levels, treatments may include the use of aromatase inhibitors (AIs), hCG (human Chorionic Gonadotropin), and SERMs. These agents work through different mechanisms to increase endogenous testosterone production, and they may be used separately or in combination to improve serum testosterone concentrations and enhance sperm production.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of exogenous testosterone administration on gonadotropin secretion?",
+    "answer": "Exogenous testosterone administration provides negative feedback to the hypothalamus and pituitary gland, which can result in inhibition of gonadotropin secretion.",
+    "is_verified": 1
+  },
+  {
+    "question": "What condition may result from testosterone-induced suppression of spermatogenesis?",
+    "answer": "Depending on the degree of testosterone-induced suppression, spermatogenesis may decrease or cease altogether, resulting in azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be measured in men with decreased libido, impotence, or testosterone deficiency accompanied by low LH levels?",
+    "answer": "Men with these conditions warrant measurement of serum prolactin to investigate for hyperprolactinemia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is indicated for persistently elevated prolactin levels without an exogenous etiology?",
+    "answer": "MRI is indicated for persistently elevated prolactin levels above the normal value without an exogenous etiology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are SERMs and how are they used in men with infertility?",
+    "answer": "SERMs such as clomiphene or tamoxifen are often prescribed in infertile men who have normal serum testosterone levels with the therapeutic aim of improving semen parameters and fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of exogenous FSH in the treatment of hypogonadotropic hypogonadism (HH)?",
+    "answer": "Exogenous FSH may be used as an adjunct for treatment of HH in order to initiate and maintain spermatogenesis with good results.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the FDA approval status of FSH for use in men?",
+    "answer": "FSH is not FDA-approved for use in men at this time.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the cost-to-benefit ratio of exogenous FSH treatment in idiopathic infertility?",
+    "answer": "The cost-to-benefit ratio of exogenous FSH treatment in idiopathic infertility is questionable, as men are typically treated for 3 months or more to effect spermatogenesis, and the incremental increase in pregnancy rates using this therapy is small.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the current understanding of the use of supplements for men attempting conception?",
+    "answer": "Current data suggest that a variety of supplements, including vitamins, antioxidants, and nutritional supplement formulations, do not have clear, reliable evidence supporting their use for improving fertility outcomes in men. While they are likely not harmful, their value in enhancing fertility is considered questionable.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatments are used to optimize spermatogenesis in patients with NOA?",
+    "answer": "SERMs (Selective Estrogen Receptor Modulators), AIs (Aromatase Inhibitors), and hCG (human Chorionic Gonadotropin) have been used off-label to manipulate male reproductive hormones with the goal of inducing recovery of sperm to the ejaculate or improving surgical sperm retrieval rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the quality of data supporting medical interventions for men with NOA?",
+    "answer": "The data available to support any treatment benefit for men with NOA is limited and of low quality, with many studies being uncontrolled.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should clinicians discuss regarding gonadotoxic therapies?",
+    "answer": "Clinicians should discuss the effects of gonadotoxic therapies and the importance of fertility preservation with patients undergoing such treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of genetic testing in the context of azoospermia?",
+    "answer": "Genetic testing, including karyotype and Y microdeletion tests, is important for evaluating the underlying causes of azoospermia and guiding treatment options.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the options for sperm retrieval in cases of obstructive azoospermia?",
+    "answer": "Options for sperm retrieval in cases of obstructive azoospermia include microTESE (microsurgical testicular sperm extraction) and ICSI (intracytoplasmic sperm injection).",
+    "is_verified": 1
+  },
+  {
+    "question": "What initial evaluations are recommended for male partners in fertility assessments?",
+    "answer": "Initial evaluations for male partners should include a complete male reproductive history, hormonal evaluation (FSH and testosterone levels), and semen analysis to categorize azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is normozoospermia?",
+    "answer": "Normozoospermia refers to a condition where a male has a normal sperm count and quality, which is essential for fertility. It indicates that the sperm parameters, such as concentration, motility, and morphology, fall within the normal range as defined by medical guidelines.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does a complete male evaluation for fertility involve?",
+    "answer": "A complete male evaluation for fertility typically includes a thorough medical history, a physical examination, and semen analysis to assess sperm health and function. This evaluation helps identify potential causes of male infertility and guides treatment options.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the Male Infertility Algorithm?",
+    "answer": "The Male Infertility Algorithm is a guideline developed to assist healthcare providers in diagnosing and managing male infertility. It outlines the steps for evaluation and treatment based on the findings from the male fertility assessment, ensuring a systematic approach to care.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should clinicians inform patients undergoing chemotherapy and/or radiation therapy regarding pregnancy?",
+    "answer": "Clinicians should inform patients undergoing chemotherapy and/or radiation therapy to avoid pregnancy for a period of at least 12 months after completion of treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What recommendation is given regarding sperm banking prior to gonadotoxic therapy?",
+    "answer": "Clinicians should encourage men to bank sperm, preferably multiple specimens when possible, prior to commencement of gonadotoxic therapy or other cancer treatment that may affect fertility in men.",
+    "is_verified": 1
+  },
+  {
+    "question": "When should a semen analysis (SA) be performed after gonadotoxic therapies?",
+    "answer": "Clinicians should consider informing patients that a semen analysis (SA) performed after gonadotoxic therapies should be done at least 12 months (and preferably 24 months) after treatment completion.",
+    "is_verified": 1
+  },
+  {
+    "question": "What risk should clinicians inform patients about after undergoing a retroperitoneal lymph node dissection (RPLND)?",
+    "answer": "Clinicians should inform patients undergoing a retroperitoneal lymph node dissection (RPLND) of the risk of aspermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be obtained for men with aspermia after RPLND who are interested in fertility?",
+    "answer": "Clinicians should obtain a post-orgasmic urinalysis for men with aspermia after RPLND who are interested in fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatment option should be discussed with men who are persistently azoospermic after gonadotoxic therapies?",
+    "answer": "Clinicians should inform men seeking paternity who are persistently azoospermic after gonadotoxic therapies that testicular sperm extraction (TESE) is a treatment option.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of radiotherapy and chemotherapy on male fertility?",
+    "answer": "Radiotherapy and chemotherapy used for treatment of cancer and other medical conditions can often lead to temporary or even long-term gonadal injury in men. Patients should be informed of the short and long-term implications of these therapies on future fertility potential prior to initiation of treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the risk of long-term azoospermia for men with testicular cancer who undergo orchiectomy and chemotherapy?",
+    "answer": "Men with testicular cancer who undergo orchiectomy and chemotherapy have a 1% to 42% risk of long-term azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is recommended for azoospermic men with an intratesticular lesion?",
+    "answer": "Cryopreservation of testicular tissue should be considered during orchiectomy or excisional biopsy of the testicular lesion (Onco-TESE approach).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is a major concern regarding gonadotoxic therapies in men wishing to father children?",
+    "answer": "The induction of mutations in developing testicular germ cells is a major concern regarding the effects of gonadotoxic therapies in men wishing to father children.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is recommended regarding contraception after gonadotoxic therapy?",
+    "answer": "It is recommended to use contraception for a period of at least 12 months after completion of gonadotoxic therapy due to known mutagenic effects.",
+    "is_verified": 1
+  },
+  {
+    "question": "What do studies indicate about the health of children fathered by men exposed to chemotherapy and/or radiotherapy?",
+    "answer": "Studies on the health and genetic integrity of children fathered by men exposed to chemotherapy and/or radiotherapy more than a year prior to conception have generally been reassuring.",
+    "is_verified": 1
+  },
+  {
+    "question": "What do several societies recommend regarding fertility preservation for young men?",
+    "answer": "Several societies, including the American Society of Clinical Oncology and the American Society of Reproductive Medicine (ASRM), recommend that fertility preservation be an essential consideration for young men prior to initiating gonadotoxic therapies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of men bank sperm prior to chemotherapy?",
+    "answer": "Studies have shown that 20 to 50% of men will bank sperm prior to chemotherapy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the rates of azoospermia after chemotherapy?",
+    "answer": "Rates of azoospermia are highest within the first 12 months after completion of therapy and nadir between 2 to 6 years after chemotherapy, with most recovering sperm in the ejaculate 2 to 3 years following treatment completion.",
+    "is_verified": 1
+  },
+  {
+    "question": "When is the most valuable time to assess recovery of sperm production after chemotherapy?",
+    "answer": "SA to assess recovery of sperm production is most valuable at a time point 2 to 3 years after treatment ends.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is RPLND and its significance in testis cancer management?",
+    "answer": "RPLND is a cornerstone in the management of some patients with testis cancer, and after nerve sparing RPLND by an experienced testis cancer surgeon, it is rare to have permanent sympathetic nerve damage and long-term failure to ejaculate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the likelihood of ejaculatory dysfunction in post-chemo RPLND patients?",
+    "answer": "In the post-chemo RPLND patient, the likelihood of ejaculatory dysfunction is higher.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is Micro-TESE and its role in managing NOA?",
+    "answer": "Micro-TESE has become a mainstay in the management of the man with NOA, regardless of the etiology of azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the sperm retrieval rate reported in meta-analysis for patients undergoing sperm retrieval after chemotherapy?",
+    "answer": "Meta-analysis of published studies reported a sperm retrieval rate of 42% (95% CI 34% to 49%) per patient.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the overall sperm retrieval rate for conventional TESE and micro-TESE?",
+    "answer": "The overall sperm retrieval rate for conventional TESE is 45% (95% CI 34% to 58%) and for micro-TESE it is 40% (95% CI 32% to 49%).",
+    "is_verified": 1
+  },
+  {
+    "question": "What surgical interventions are mentioned as effective for increasing fertility in men?",
+    "answer": "Effective surgical interventions for increasing fertility in men include varicocele repair, correction of identifiable hormonal abnormalities, microsurgical reconstruction of obstructive conditions, and surgical relief of ejaculatory duct obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of ART in the context of male infertility?",
+    "answer": "The use of ART (Assisted Reproductive Technology) is an effective intervention for fertility and is critical for the treatment of some couples, particularly for men with CBAVD (Congenital Bilateral Absence of the Vas Deferens) or NOA (Non-Obstructive Azoospermia) who require surgical sperm retrieval.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is suggested about the genetic basis of male infertility?",
+    "answer": "It is suggested that most cases of apparently idiopathic severe male infertility, including NOA, may have a genetic basis that underlies the impaired sperm production seen in these men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What future directions are indicated for understanding male infertility?",
+    "answer": "Future directions include a greater understanding of the genetic basis for impaired sperm production, which could lead to treatments to enhance sperm production and fertility, as well as a deeper understanding of the interactions between infertility and other health conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the mission of the panel selected by the AUA's Guidelines Committee?",
+    "answer": "The mission of the panel was to develop recommendations that are analysis-based or consensus-based for optimal clinical practices in the treatment of early stage testicular cancer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of specialists were included in the panel's membership?",
+    "answer": "The panel's membership included specialists in urology and primary care with specific expertise on testicular cancer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What do the AUA guidelines represent in terms of medical practice?",
+    "answer": "The AUA guidelines represent evidence-based statements that are provisional proposals for treatment under specific conditions, but do not establish the standard of care.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does AUA urge regarding compliance with government regulations?",
+    "answer": "AUA urges strict compliance with all government regulations and protocols related to medical practices and treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is mentioned about drug uses in the guideline text?",
+    "answer": "The guideline text may include information or recommendations about certain drug uses ('off label') that are not approved by the Food and Drug Administration (FDA).",
+    "is_verified": 1
+  },
+  {
+    "question": "What should physicians follow when prescribing substances?",
+    "answer": "Physicians are encouraged to carefully follow all available prescribing information about indications, contraindications, precautions, and warnings.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the intended purposes of the guidelines mentioned in the excerpt?",
+    "answer": "The guidelines are intended to encourage best practices and potentially encompass available technologies with sufficient data as of the close of the specified period.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the optimal surgical management of varicocele according to the meta-analysis?",
+    "answer": "Inguinal and subinguinal micro-varicocelectomy is considered the optimal surgical management of varicocele.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the clinical significance of subclinical varicocele?",
+    "answer": "The excerpt mentions a study on the clinical significance of subclinical varicocele, indicating it is a relevant medical topic, though specific details are not provided in the excerpt.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of varicocelectomy in men with nonobstructive azoospermia?",
+    "answer": "Varicocelectomy is a surgical procedure that may improve fertility in men with nonobstructive azoospermia by addressing issues related to varicose veins in the scrotum, which can affect sperm production and quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the outcomes of microdissection testicular sperm extraction compared to conventional methods?",
+    "answer": "Microdissection testicular sperm extraction has been shown to have better outcomes in terms of sperm retrieval rates and overall success in men with nonobstructive azoospermia compared to conventional testicular sperm extraction and testicular sperm aspiration.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of transrectal ultrasonography in the diagnosis of male infertility?",
+    "answer": "Transrectal ultrasonography is a diagnostic imaging technique used to evaluate the reproductive organs in infertile men, helping to identify issues such as ejaculatory duct obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does testosterone administration affect gonadotropin secretion in men?",
+    "answer": "Testosterone administration can suppress gonadotropin secretion in men, which is important for understanding the hormonal regulation of male fertility and the effects of testosterone on reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of testosterone-induced azoospermia in normal men?",
+    "answer": "Testosterone-induced azoospermia refers to the condition where testosterone administration leads to a temporary cessation of sperm production, which has implications for male contraceptive methods and fertility management.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the diagnostic challenges associated with hyperprolactinemia?",
+    "answer": "The diagnostic evaluation of hyperprolactinemia can be complicated by various factors, including the need for accurate measurement of prolactin levels and the identification of underlying causes such as pituitary tumors or medication effects.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the clinical manifestations and evaluation methods for hyperprolactinemia?",
+    "answer": "The clinical manifestations of hyperprolactinemia can include menstrual irregularities, galactorrhea, infertility, and sexual dysfunction. Evaluation typically involves measuring serum prolactin levels, assessing for pituitary tumors via imaging studies, and ruling out other causes of elevated prolactin.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of inhibin B concentration in men treated for testicular cancer?",
+    "answer": "Inhibin B concentration is predictive for long-term azoospermia in men treated for testicular cancer, indicating that lower levels may suggest a higher risk of infertility post-treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does chemotherapy and radiotherapy affect spermatogenesis in humans?",
+    "answer": "Chemotherapy and radiotherapy can have detrimental effects on spermatogenesis, leading to reduced sperm counts and potential long-term infertility in male patients undergoing treatment for cancers such as testicular cancer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of gonadotoxic treatment on semen quality?",
+    "answer": "Gonadotoxic treatments, such as chemotherapy and radiotherapy, can adversely affect semen quality, leading to changes in sperm parameters and potential fertility issues in male patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of cisplatin-based chemotherapy on testicular function among survivors of testicular cancer?",
+    "answer": "Survivors of testicular cancer treated with cisplatin-based chemotherapy may experience altered testicular function, which can affect fertility and hormonal balance.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the fertility and sexual function outcomes following orchiectomy and chemotherapy for non-seminomatous germ cell cancer?",
+    "answer": "Patients who undergo orchiectomy and chemotherapy for stage I high-risk non-seminomatous germ cell cancer may experience varying outcomes in fertility and sexual function, with some retaining fertility while others may face challenges post-treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of testicular sperm extraction in azoo-spermic patients with gonadal germ cell tumors?",
+    "answer": "Testicular sperm extraction is a new therapy option for azoo-spermic patients with gonadal germ cell tumors prior to chemotherapy, allowing for the retrieval of viable sperm for fertility preservation before undergoing gonadotoxic treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risks associated with using sperm produced during chemotherapy or radiotherapy?",
+    "answer": "There are risks of genetic damage in offspring conceived using sperm produced during chemotherapy or radiotherapy, which raises concerns about the long-term health of children conceived in this manner.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the ASCO clinical practice guideline update on fertility preservation in cancer patients entail?",
+    "answer": "The ASCO clinical practice guideline update addresses fertility preservation strategies for patients with cancer, emphasizing the importance of counseling and options available to preserve fertility before undergoing treatments that may affect reproductive capabilities.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the barriers to sperm banking utilization in testicular cancer patients?",
+    "answer": "Barriers to sperm banking utilization in testicular cancer patients include low referral rates for fertility counseling, lack of awareness, and potential psychological factors that may prevent patients from seeking sperm banking services.",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors influence sperm banking outcomes in adolescents newly diagnosed with cancer?",
+    "answer": "Factors influencing sperm banking outcomes in adolescents newly diagnosed with cancer include the adolescent's own understanding and attitude towards fertility preservation, parental support, and the role of healthcare providers in facilitating the process.",
+    "is_verified": 1
+  }
+]

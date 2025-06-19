@@ -1,0 +1,577 @@
+[
+  {
+    "question": "What is the purpose of the AUA/ASRM guideline on infertility in men?",
+    "answer": "The purpose of the AUA/ASRM guideline is to outline the appropriate evaluation of the male in an infertile couple, including recommendations for obtaining an appropriate history, physical exam, and diagnostic testing.",
+    "is_verified": 1
+  },
+  {
+    "question": "What methods were used to gather evidence for the guidelines?",
+    "answer": "The Emergency Care Research Institute Evidence-based Practice Center team searched PubMed, Embase, and Medline from January 2000 through May 2019 to gather evidence for the guidelines.",
+    "is_verified": 1
+  },
+  {
+    "question": "How is the strength of evidence rated in the guidelines?",
+    "answer": "The body of evidence is assigned a strength rating of A (high), B (moderate), or C (low) for support of Strong, Moderate, or Conditional Recommendations based on the sufficiency of evidence.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the guideline recommend in the absence of sufficient evidence?",
+    "answer": "In the absence of sufficient evidence, the guideline provides additional information as Clinical Principles and Expert Opinions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the health implications associated with male infertility?",
+    "answer": "The detection of male infertility increases the risk of subsequent development of health problems for men. Specific medical conditions are associated with some causes of male infertility, and the presence of male infertility is crucial to the health of patients. It is important to consider its effects for the welfare of society.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the goals of evaluating male infertility?",
+    "answer": "The specific goals of the evaluation of the infertile male include identifying potentially correctable conditions, irreversible conditions amenable to assisted reproductive technologies (ART), irreversible conditions not amenable to ART for which donor insemination or adoption are options, life- or health-threatening conditions that may underlie infertility or associated medical comorbidities requiring medical attention, and genetic abnormalities or lifestyle and age factors that may affect the health of the male patient or offspring, especially if ART is to be employed.",
+    "is_verified": 1
+  },
+  {
+    "question": "What medical conditions may be associated with male infertility?",
+    "answer": "Some causes of male infertility are associated with specific medical conditions that may require medical attention. The evaluation aims to identify these conditions, which can include life- or health-threatening conditions and genetic abnormalities.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the initial evaluation process for male fertility according to the guidelines?",
+    "answer": "The initial evaluation of the male for fertility should include a reproductive history and one or more semen analyses (SAs).",
+    "is_verified": 1
+  },
+  {
+    "question": "What should men with abnormal semen parameters do according to the guidelines?",
+    "answer": "Men with one or more abnormal semen parameters or presumed male infertility should be evaluated by a male reproductive expert for a complete history and physical examination, as well as other directed tests when indicated.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be considered in couples with failed ART cycles or recurrent pregnancy losses?",
+    "answer": "Evaluation of the male should be considered in couples with failed ART cycles or recurrent pregnancy losses (RPL).",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors can contribute to couple infertility?",
+    "answer": "Couple infertility may be due to male factors, female factors, or a combination of both, therefore parallel evaluation of both partners is always required.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the strongest predictor of fertility outcome for couples?",
+    "answer": "Maternal age is the strongest predictor of fertility outcome for couples.",
+    "is_verified": 1
+  },
+  {
+    "question": "What initial evaluations should a male in an infertile couple undergo?",
+    "answer": "A male in an infertile couple should have an initial semen analysis (SA) and male reproductive history evaluation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What information does the reproductive history assessment provide?",
+    "answer": "The reproductive history assessment provides important information about functional sexual, lifestyle, and medical history including medications that can contribute to reduced fertility or sterility.",
+    "is_verified": 1
+  },
+  {
+    "question": "Why is the semen analysis (SA) important?",
+    "answer": "The SA is an important component in the initial clinical evaluation of the male and his reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should clinicians remember about semen parameters?",
+    "answer": "Clinicians should remember that semen parameters are highly variable biological measures and may vary substantially from ejaculate to ejaculate.",
+    "is_verified": 1
+  },
+  {
+    "question": "How many semen analyses (SAs) should ideally be obtained?",
+    "answer": "At least two SAs, ideally obtained at least one month apart, are important to obtain, especially if the first SA has abnormal parameters.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of men evaluated for infertility have significant undiagnosed medical pathology?",
+    "answer": "1-6% of men evaluated for infertility have significant undiagnosed medical pathology including malignancies even when they have so-called 'normal' SAs.",
+    "is_verified": 1
+  },
+  {
+    "question": "Who should evaluate infertile men?",
+    "answer": "All infertile men should be evaluated by specialists in male reproduction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What health risks are associated with abnormal sperm production in infertile men?",
+    "answer": "Clinicians should counsel infertile men or men with abnormal semen parameters about the health risks associated with abnormal sperm production, as these men may have higher rates of testicular cancer and other health conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should infertile men with identifiable causes of infertility be informed about?",
+    "answer": "Infertile men with specific, identifiable causes of male infertility should be informed of relevant, associated health conditions that may have implications beyond fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What risks are associated with advanced paternal age?",
+    "answer": "Clinicians should advise couples with advanced paternal age that there is an increased risk of adverse health outcomes for their offspring, including de novo mutations, sperm aneuploidy, and birth defects.",
+    "is_verified": 1
+  },
+  {
+    "question": "What lifestyle factors may be discussed in relation to male infertility?",
+    "answer": "Clinicians may discuss risk factors such as lifestyle, medication usage, and environmental exposures associated with male infertility, although current data on these risk factors are limited.",
+    "is_verified": 1
+  },
+  {
+    "question": "What comorbidities are associated with male infertility?",
+    "answer": "Infertile subjects are recognized to have more comorbidities compared to fertile controls, including higher rates of testicular cancer and increased mortality rates associated with abnormal semen analysis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of advanced paternal age on sperm quality?",
+    "answer": "Data indicate that advanced paternal age increases the risk of de novo intra- and inter-genic germline mutations, sperm aneuploidy, structural chromosomal aberrations, sperm DNA fragmentation, and genetically-mediated conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between advanced paternal age and genetic risks in offspring?",
+    "answer": "Advanced paternal age is associated with a low absolute risk but a high relative risk of increased genetic risks in offspring, including de novo gene mutations and multiple medical conditions such as schizophrenia and autism.",
+    "is_verified": 1
+  },
+  {
+    "question": "What dietary factors may affect male fertility?",
+    "answer": "There is low-quality evidence suggesting that a diet lower in fats and meats, with more fruits and vegetables, is preferable for male fertility compared to a higher-fat diet.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does smoking impact male fertility?",
+    "answer": "Low-quality evidence indicates that smoking may have a small impact on sperm concentration, motility, and morphology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect do anabolic steroids have on male fertility?",
+    "answer": "Ongoing use of anabolic steroids suppresses spermatogenesis and interferes with fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What hormonal evaluations should be conducted for infertile men?",
+    "answer": "Infertile men with impaired libido, erectile dysfunction, oligozoospermia, azoospermia, atrophic testes, or evidence of hormonal abnormality on physical evaluation should undergo hormonal evaluation including follicle-stimulating hormone (FSH) and testosterone.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be done for azoospermic men?",
+    "answer": "Azoospermic men should be clinically evaluated to differentiate between genital tract obstruction and impaired spermatogenesis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors are considered in sperm production assessment?",
+    "answer": "Sperm production is initially assessed based on semen volume, physical exam, and FSH (Follicle Stimulating Hormone) levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What genetic analyses are recommended for men with primary infertility and azoospermia?",
+    "answer": "Karyotype and Y-chromosome microdeletion analysis should be recommended for men with primary infertility and azoospermia or severe oligozoospermia (<5 million sperm/mL) with elevated FSH or testicular atrophy, or a presumed diagnosis of impaired sperm production as the cause of azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is recommended for men with vasal agenesis or idiopathic obstructive azoospermia?",
+    "answer": "Clinicians should recommend Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) mutation carrier testing (including assessment of the 5T allele).",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be done for men who harbor a CFTR mutation?",
+    "answer": "Genetic evaluation of the female partner should be recommended.",
+    "is_verified": 1
+  },
+  {
+    "question": "Is sperm DNA fragmentation analysis recommended in the initial evaluation of the infertile couple?",
+    "answer": "No, sperm DNA fragmentation analysis is not recommended in the initial evaluation of the infertile couple.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be done for men with increased round cells on semen analysis?",
+    "answer": "Men with increased round cells on semen analysis (>1 million/mL) should be evaluated further to differentiate white blood cells (pyospermia) from germ cells.",
+    "is_verified": 1
+  },
+  {
+    "question": "What genetic testing is suggested for congenital cases of obstruction?",
+    "answer": "Genetic (CF) testing is suggested for congenital cases of obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the initial hormonal evaluation recommended for male infertility?",
+    "answer": "The initial hormonal evaluation includes FSH and testosterone (T).",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be considered if FSH and testicular volume are normal but there is no clinical evidence of obstruction?",
+    "answer": "Consider diagnostic and therapeutic biopsy if FSH and testicular volume are normal but there is no clinical evidence of obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation for counseling regarding post-vasectomy fertility options?",
+    "answer": "Counseling regarding post-vasectomy fertility options is recommended.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should patients with pyospermia be evaluated for?",
+    "answer": "Patients with pyospermia should be evaluated for the presence of infection.",
+    "is_verified": 1
+  },
+  {
+    "question": "Should antisperm antibody (ASA) testing be done in the initial evaluation of male infertility?",
+    "answer": "No, antisperm antibody (ASA) testing should not be done in the initial evaluation of male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What evaluations should be performed for men in couples with recurrent pregnancy loss (RPL)?",
+    "answer": "Men should be evaluated with karyotype and sperm DNA fragmentation.",
+    "is_verified": 1
+  },
+  {
+    "question": "Should diagnostic testicular biopsy be routinely performed to differentiate between obstructive and non-obstructive azoospermia?",
+    "answer": "No, diagnostic testicular biopsy should not routinely be performed to differentiate between obstructive azoospermia and non-obstructive azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be obtained for all couples interested in fertility?",
+    "answer": "A male reproductive history and semen analysis (SA) should be obtained for all couples interested in fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What can compromise a man's ability to naturally impregnate his female partner?",
+    "answer": "Abnormalities in any one or more semen parameters can compromise a man's ability to naturally impregnate his female partner, except in cases of azoospermia, some types of teratozoospermia, necrozoospermia, or complete asthenozoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "Are individual sperm parameters highly predictive of fertility or diagnostic of infertility?",
+    "answer": "No, none of the individual sperm parameters (e.g., concentration, morphology, motility) are highly predictive of fertility or diagnostic of infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between the number of abnormal semen parameters and infertility?",
+    "answer": "The odds ratio for infertility increases as the number of abnormal parameters increases.",
+    "is_verified": 1
+  },
+  {
+    "question": "Is an endocrine evaluation of the infertile male with serum FSH and testosterone recommended as a primary first-line test?",
+    "answer": "No, an endocrine evaluation of the infertile male with serum FSH and testosterone is not recommended as a primary first-line test in the evaluation of male infertility, but is indicated if oligospermia is present.",
+    "is_verified": 1
+  },
+  {
+    "question": "What further evaluation is indicated for men with low serum testosterone?",
+    "answer": "Further evaluation of the male with luteinizing hormone is indicated for men with low serum testosterone, as well as prolactin evaluation for men with hypogonadotropic hypogonadism or decreased libido.",
+    "is_verified": 1
+  },
+  {
+    "question": "How is azoospermia defined?",
+    "answer": "Azoospermia is defined as the absence of sperm in the ejaculate, including the absence of sperm after examination.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the difference between obstructive azoospermia and non-obstructive azoospermia (NOA)?",
+    "answer": "Obstructive azoospermia is characterized by normal testis volume, low FSH levels, and low semen volume, often indicated by physical examination findings such as an enlarged proximal epididymis or absent vasa deferentia. In contrast, non-obstructive azoospermia (NOA) is indicated by small testis volume, elevated FSH levels, and normal semen volume, suggesting impaired sperm production.",
+    "is_verified": 1
+  },
+  {
+    "question": "What genetic conditions are associated with male infertility as mentioned in the excerpt?",
+    "answer": "The excerpt mentions Klinefelter syndrome, characterized by the presence of extra X chromosomes, as the most common abnormal karyotypic pattern associated with male infertility. It also discusses Y chromosome microdeletions, specifically noting that they are the second most common known genetic cause of male infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of karyotype and Y microdeletion studies in men with severe oligospermia?",
+    "answer": "Karyotype and Y microdeletion studies are significant in men with severe oligospermia (less than 5 million sperm per mL) because they help identify genetic causes of infertility, such as Klinefelter syndrome and Y chromosome microdeletions, which can influence treatment options and prognosis for sperm retrieval.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the likelihood of finding sperm in men with Klinefelter syndrome during testicular sperm extraction?",
+    "answer": "In men with Klinefelter syndrome (47, XXY), there may be rare foci of spermatogenesis found upon microdissection-testicular sperm extraction in at least 50%-60% of cases, indicating a possibility of retrieving sperm despite the condition.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of AZFa and AZFb microdeletions in terms of sperm retrieval?",
+    "answer": "Men with complete AZFa and/or AZFb microdeletions have not been able to retrieve sperm through testicular sperm extraction, indicating that surgical intervention is not indicated for these cases due to the absence of viable sperm.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is congenital obstructive azoospermia and its relation to cystic fibrosis?",
+    "answer": "Congenital obstructive azoospermia is a condition in men characterized by the absence of sperm due to blockages in the reproductive tract, specifically the vas deferens. Men with this condition, particularly those with congenital bilateral absence of the vas deferens (CBAVD), should undergo testing for cystic fibrosis (CF) because mutations in the CFTR gene are found in a significant percentage of these cases. Up to 80% of men with CBAVD have CFTR mutations, which can also be present in men with congenital unilateral absence of the vas deferens (CUAVD) and idiopathic epididymal obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of CFTR gene testing in men with azoospermia?",
+    "answer": "CFTR gene testing is significant for men with azoospermia as it helps identify the underlying genetic causes of their condition, which can inform counseling regarding the risk of transmitting genetic disorders to offspring. If both partners are carriers of CFTR mutations, there is a risk of having affected children, making it essential for the female partner to be screened as well, especially during pre-conception counseling.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does sperm DNA fragmentation affect fertility treatments?",
+    "answer": "Sperm DNA fragmentation can negatively impact the outcomes of assisted reproductive technology (ART) treatments and natural fertility attempts, leading to increased miscarriage rates. Although there are no definitive studies showing that testing for DNA fragmentation improves clinical management of infertile couples, it is acknowledged that certain causes of abnormal sperm DNA fragmentation, such as antidepressant use or genitourinary infections, may be reversible, potentially improving fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does an increase in round cells in semen indicate?",
+    "answer": "An increase in round cells in semen may indicate a spermatogenic problem, suggesting that spermatocytes and/or round spermatids are present in the ejaculate. This can be a sign of underlying issues with sperm production or maturation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is pyospermia and what may cause it?",
+    "answer": "Pyospermia is the presence of elevated levels of white blood cells in the semen. It may result from infection or inflammation in the proximal or distal male genital tract.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of ASA testing in male infertility?",
+    "answer": "ASA testing should only be considered if it will affect management of the patient, such as suggesting the presence of reproductive tract obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "Why is karyotype analysis important for male partners in couples with recurrent pregnancy loss (RPL)?",
+    "answer": "Karyotype analysis is important because paternal structural autosomal defects can affect the evaluation of the couple with RPL.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does increased sperm DNA fragmentation indicate for men in couples with RPL?",
+    "answer": "Increased sperm DNA fragmentation indicates a higher risk of miscarriage for men, thus testing for sperm DNA fragmentation is indicated for these males.",
+    "is_verified": 1
+  },
+  {
+    "question": "What hormonal assessments are expected in azoospermic men with severely impaired spermatogenesis?",
+    "answer": "In azoospermic men with severely impaired spermatogenesis, hormonal assessments may show elevated LH, normal or elevated FSH, and variable testosterone levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What medical comorbidities are associated with Klinefelter syndrome?",
+    "answer": "Klinefelter syndrome is associated with testosterone deficiency and increased risks of various health issues, including all-cause mortality and specific-cause mortality related to perinatal disorders, congenital anomalies, genetic disorders, respiratory diseases, cardiovascular diseases, endocrine diseases, and malignant neoplasms.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between metabolic syndrome and male reproductive health?",
+    "answer": "The excerpt indicates that metabolic syndrome is one of the medical comorbidities that may have an unclear or conflicting relationship with male reproductive health, as noted in the systematic review.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is metabolic syndrome?",
+    "answer": "Metabolic syndrome is a cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes. These conditions include increased blood pressure, high blood sugar levels, excess body fat around the waist, and abnormal cholesterol levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the dental issues mentioned in the excerpt?",
+    "answer": "The excerpt mentions several dental issues including dental caries (tooth decay), plaque, gingival bleeding (bleeding gums), and dental calculus (tartar).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is hypospadias?",
+    "answer": "Hypospadias is a congenital condition in males where the opening of the urethra is not located at the tip of the penis but rather on the underside.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is cryptorchidism?",
+    "answer": "Cryptorchidism is a condition in which one or both of the testes fail to descend into the scrotum, which can lead to complications such as infertility or testicular cancer if not treated.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is testosterone deficiency?",
+    "answer": "Testosterone deficiency, also known as hypogonadism, is a condition where the body does not produce enough testosterone, which can lead to various health issues including decreased libido, fatigue, and loss of muscle mass.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the Charlson Comorbidity Index?",
+    "answer": "The Charlson Comorbidity Index is a method of predicting mortality by classifying or weighting comorbid conditions. It is used to assess the impact of comorbidities on patient outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is periodontal disease?",
+    "answer": "Periodontal disease is a serious gum infection that damages the soft tissue and destroys the bone that supports your teeth. It can lead to tooth loss and has been linked to other health issues.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the types of cancer mentioned in the excerpt?",
+    "answer": "The excerpt mentions several types of cancer including testicular cancer, lung cancer, prostate cancer, and colorectal cancer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is ischemic heart disease?",
+    "answer": "Ischemic heart disease, also known as coronary artery disease, occurs when the blood supply to the heart is reduced, preventing it from receiving enough oxygen. This can lead to chest pain (angina) or heart attacks.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between hypertension and cardiovascular disease (CVD)?",
+    "answer": "Hypertension, or high blood pressure, is a major risk factor for cardiovascular disease (CVD). It can lead to damage of the arteries, heart failure, and other serious complications.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of Alzheimer's disease on health?",
+    "answer": "Alzheimer's disease is a progressive neurological disorder that leads to memory loss, cognitive decline, and ultimately the inability to carry out daily activities. It significantly impacts the quality of life and can lead to increased mortality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is peripheral artery disease?",
+    "answer": "Peripheral artery disease (PAD) is a common circulatory problem in which narrowed arteries reduce blood flow to the limbs, often causing leg pain during physical activities and increasing the risk of heart attack and stroke.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does intima-media thickness indicate?",
+    "answer": "Intima-media thickness is a measurement used to assess the thickness of the inner two layers of an artery, which can indicate the presence of atherosclerosis and cardiovascular risk.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is rapid bone loss?",
+    "answer": "Rapid bone loss refers to a significant decrease in bone density over a short period, which can increase the risk of fractures and is often associated with conditions such as osteoporosis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the differentiation between obstructive azoospermia and non-obstructive azoospermia (NOA)?",
+    "answer": "Differentiation of obstructive azoospermia from NOA may most frequently be predicted from clinical and laboratory results without the need for surgical diagnostic biopsy.",
+    "is_verified": 1
+  },
+  {
+    "question": "When is a testis biopsy indicated in the evaluation of male infertility?",
+    "answer": "A testis biopsy may be done primarily for diagnostic purposes in rare cases where the man has normal semen volume, normal testicular volume, and FSH% 7.6 without evidence of epididymal engorgement on exam.",
+    "is_verified": 1
+  },
+  {
+    "question": "What imaging techniques are recommended or discouraged in the evaluation of the infertile male?",
+    "answer": "Scrotal ultrasound should not be routinely performed in the initial evaluation of the infertile male. Transrectal ultrasonography (TRUS) should not be performed as part of the initial evaluation but may be recommended in men with semen analysis suggestive of ejaculatory duct obstruction. Abdominal imaging for isolated small or moderate right varicocele is also discouraged. Renal ultrasonography is recommended for patients with vasal agenesis to evaluate for renal abnormalities.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding the use of color Doppler ultrasound in examining the scrotum?",
+    "answer": "Color Doppler ultrasound may be used to examine spermatic cord veins in cases where the scrotum is difficult to examine, such as in an obese patient or when the dartos muscle remains contracted. However, routine use of ultrasonography to identify sub-clinical (non-palpable) varicocele is discouraged, as treatment of these varicoceles is not helpful.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did a recent retrospective study find regarding cancer diagnoses in men with varicoceles?",
+    "answer": "A recent retrospective study of over 4,000 men with varicoceles (8% right) reported no difference in cancer diagnoses in these men based on varicocele.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of abdominal imaging in men with varicoceles?",
+    "answer": "Routine imaging based solely on the presence of a right varicocele is unnecessary. However, abdominal imaging should be considered for men with a new onset or non-reducible varicocele, especially if the varicocele is large.",
+    "is_verified": 1
+  },
+  {
+    "question": "What clinical signs suggest distal male genital tract obstruction?",
+    "answer": "A low ejaculate volume (<1.5mL) and acidic semen (pH<7.0) suggest distal male genital tract obstruction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relevance of TRUS evaluation in men with low ejaculate volume?",
+    "answer": "TRUS evaluation should be considered to evaluate for anatomic abnormalities in men with low ejaculate volume, but it does not contribute to the diagnosis or treatment in men with congenital bilateral absence of the vas deferens (CBAVD).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the prevalence of renal anomalies in men with unilateral absence of the vas deferens?",
+    "answer": "Approximately 26-75% of men with unilateral absence of the vas deferens will have ipsilateral renal anomalies, including agenesis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be offered to men with vasal agenesis regardless of CFTR status?",
+    "answer": "Abdominal imaging should be offered to men with vasal agenesis regardless of CFTR status to allow for optimal patient counseling.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the importance of evaluating both male and female members of a couple in infertility cases?",
+    "answer": "Evaluation should proceed in parallel for both male and female members of a couple to optimize treatment success in infertility cases.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the current understanding of the causes of male infertility?",
+    "answer": "The causes of male infertility, including their genetic basis, have only been superficially explained at this time, and there is an increasing understanding of general health conditions associated with male infertility that is valuable for counseling and diagnosis.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do sperm play in embryo development and pregnancy maintenance?",
+    "answer": "Sperm affect stages of embryo development, implantation, and maintenance of pregnancy via mechanisms that are incompletely defined at this time.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of ART in understanding sperm and embryo interaction?",
+    "answer": "The use of ART (Assisted Reproductive Technology) allows unique insight into the interaction of sperm with egg and development of the resulting embryo.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges do azoospermic men face regarding spermatogenesis?",
+    "answer": "Men who are azoospermic have lost germ cells throughout the testis, and recovering spermatogenesis for them will require novel interventions with stem cell technology and additional techniques to support germ cell development.",
+    "is_verified": 1
+  },
+  {
+    "question": "Why is understanding the cause of spermatogenic dysfunction important?",
+    "answer": "Understanding the specific cause of spermatogenic dysfunction is critical for successful interventions, as men with severely impaired spermatogenesis often have underlying genetic defects responsible for their testicular dysfunction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What do the guidelines recommend regarding compliance by practitioners?",
+    "answer": "The guidelines recommend and encourage compliance by practitioners with current best practices related to the condition being treated.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the guidelines in relation to physician judgment?",
+    "answer": "The guidelines do not pre-empt physician judgment in individual cases, meaning that treating physicians must consider variations in resources, patient tolerances, needs, and preferences when making treatment decisions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does conformance with clinical guidelines guarantee?",
+    "answer": "Conformance with any clinical guideline does not guarantee a successful outcome.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of drug uses may the guideline text include information about?",
+    "answer": "The guideline text may include information or recommendations about certain drug uses that are 'off label' and not approved by the Food and Drug Administration (FDA).",
+    "is_verified": 1
+  },
+  {
+    "question": "What does AUA urge regarding government regulations?",
+    "answer": "AUA urges strict compliance with all government regulations and protocols for prescription and use of substances that may not be FDA approved.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should physicians follow regarding prescribing information?",
+    "answer": "Physicians are encouraged to carefully follow all available prescribing information about indications, contraindications, precautions, and warnings.",
+    "is_verified": 1
+  },
+  {
+    "question": "Are the guidelines intended to provide legal advice?",
+    "answer": "No, the guidelines are not intended to provide legal advice about the use and misuse of substances.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the status of technologies or management that are too new to be addressed by the guidelines?",
+    "answer": "The AUA does not regard technologies or management that are too new to be addressed by the guidelines as necessarily experimental.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some medical-related disclosures mentioned in the excerpt?",
+    "answer": "The excerpt mentions several medical-related disclosures including: Barbara Collura's involvement with WHO, COMMIT, and EMD Serono; Michael L. Eisenberg, MD's affiliations with Sandstone Diagnostics, Roman, Dadi, Gilead, Underdog, Illumesense; Dolores J. Lamb, PhD's connection with Celmatix; John P. Mulhall, MD's association with Vault; Craig S. Niederberger, MD's involvement with COMMIT; and Peter N. Schlegel, MD's relationship with Theralogix, Inc and Roman Health. Additionally, it lists scientific studies or trials associated with NIH and Ferring Pharmaceuticals.",
+    "is_verified": 1
+  },
+  {
+    "question": "What references are provided regarding male infertility evaluations?",
+    "answer": "The references provided include: 1) The optimal evaluation of the infertile male: AUA best practice statement, 2010, by the Practice Committee of the American Society for Reproductive Medicine; 2) A study by Honig SC, Lipshultz LI, Jarow J, which discusses significant medical pathology uncovered by a comprehensive male infertility evaluation published in Fertil Steril 1994; 3) A study by Kolettis PN, Sabanegh ES, which highlights significant medical pathology discovered during a male infertility evaluation published in J Urol 2001; and 4) A study by Bach PV et al. discussing changes in practice patterns in male infertility cases in the United States.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between male infertility and cancer risk?",
+    "answer": "Studies indicate that infertile men may have a higher risk of developing certain types of cancer, particularly testicular cancer. Research has shown that subfertility increases the risk of testicular cancer, and there is a notable prevalence of testicular cancer in azoospermic men who do not produce sperm. Additionally, men presenting with infertility and abnormal semen analysis have been found to have an increased incidence of testicular cancer. Overall, there is a systematic review suggesting that male infertility is associated with an increased risk of non-malignant chronic diseases as well.",
+    "is_verified": 1
+  },
+  {
+    "question": "What genetic mutations are associated with congenital absence of the vas deferens?",
+    "answer": "Mutations in the cystic fibrosis gene (CFTR) have been identified in patients with congenital absence of the vas deferens (CAVD). A systematic review and meta-analysis have shown that CFTR mutations are prevalent in men with this condition, indicating a genetic link between cystic fibrosis and certain male infertility issues. Furthermore, some mutations may not be detected by routine testing, highlighting the importance of comprehensive genetic screening in men with obstructive azoospermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the findings regarding sperm morphology, motility, and concentration in fertile versus infertile men?",
+    "answer": "Research has demonstrated significant differences in sperm morphology, motility, and concentration between fertile and infertile men. These parameters are critical in assessing male fertility and can provide insights into the underlying causes of infertility. The study published in the New England Journal of Medicine highlights the importance of these sperm characteristics in diagnosing and understanding male reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of isolated right varicocele in relation to cancer incidence?",
+    "answer": "The study by Elmer DeWitt et al. discusses the association between isolated right varicocele and the incidence of associated cancer, suggesting that there may be a link that warrants further investigation in urology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the clinical and genetic features of patients with congenital unilateral absence of the vas deferens?",
+    "answer": "Kolettis and Sandlow's research outlines the clinical and genetic characteristics of patients who have congenital unilateral absence of the vas deferens, which is a condition that can impact male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What urogenital anomalies are associated with congenital absence of the vas deferens?",
+    "answer": "The study by Schlegel et al. identifies various urogenital anomalies that may occur in men with congenital absence of the vas deferens, highlighting the importance of comprehensive evaluation in affected individuals.",
+    "is_verified": 1
+  },
+  {
+    "question": "What clinical findings are associated with congenital absence of the vasa deferentia?",
+    "answer": "Weiske et al. provide insights into the clinical findings observed in patients with congenital absence of the vasa deferentia, emphasizing the need for clinical awareness and management strategies in such cases.",
+    "is_verified": 1
+  }
+]

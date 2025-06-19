@@ -1,0 +1,382 @@
+[
+    {
+        "question": "What are exogenous gonadotropins used for in anovulatory women?",
+        "answer": "Exogenous gonadotropins are used for ovulation induction in anovulatory women who are infertile or when ovulation induction cannot be achieved with less complex methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the indications for using gonadotropins in infertility treatment?",
+        "answer": "Gonadotropins are indicated to treat infertility caused by anovulation, either as primary treatment or after failure of other medications to induce ovulation. They are also indicated for hypogonadotropic hypogonadism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the goal of gonadotropin administration in ovulatory women?",
+        "answer": "In ovulatory women, gonadotropin administration is used for ovarian stimulation with the intent of inducing the development of multiple follicles, which is distinct from ovulation induction that aims for the development of a single follicle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the document review regarding gonadotropin treatment?",
+        "answer": "The document reviews gonadotropin treatment for ovulation induction in anovulatory women, outlining the recommended pretreatment evaluation, indications, treatment regimens, and complications of gonadotropin treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is gonadotropic hypogonadism?",
+        "answer": "Gonadotropic hypogonadism is a condition characterized by low levels of gonadotropins, which are hormones that stimulate the gonads (ovaries or testes). It can lead to amenorrhea, which is the absence of menstruation. It is classified by the World Health Organization as type I amenorrhea.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is hypergonadotropic hypogonadism?",
+        "answer": "Hypergonadotropic hypogonadism, also known as primary ovarian insufficiency, is a condition where there is an elevated level of gonadotropins due to the failure of the ovaries to produce sex hormones. This condition is classified as type III amenorrhea by the World Health Organization and is generally not responsive to exogenous gonadotropins.",
+        "is_verified": 1
+    },
+    {
+        "question": "What causes hypothalamic amenorrhea?",
+        "answer": "Hypothalamic amenorrhea is usually caused by very low or absent secretion of gonadotropin-releasing hormone (GnRH) from the hypothalamus. Factors contributing to this condition include anorexia nervosa, excessive chronic physical exercise, low body mass index, poor nutritional status, and severe emotional stress. Pituitary disorders can also lead to a similar clinical presentation.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hyperprolactinemia affect menstruation?",
+        "answer": "Hyperprolactinemia can cause hypothalamic amenorrhea by disrupting the normal secretion of gonadotropin-releasing hormone (GnRH). Treatment with dopamine agonists can restore ovulation in most women affected by hyperprolactinemia.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended treatment for hypothalamic amenorrhea?",
+        "answer": "The treatment for hypothalamic amenorrhea should include gonadotropin preparations that contain both follicle-stimulating hormone (FSH) and luteinizing hormone (LH) to effectively stimulate steroidogenesis and folliculogenesis. Behavioral modifications may also be appropriate as first-line treatment for many secondary causes of this condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is polycystic ovarian syndrome (PCOS)?",
+        "answer": "Polycystic ovarian syndrome (PCOS) is the most common cause of eugonadotropic eugonadism. Women with PCOS typically have normal or low serum FSH levels and mildly increased LH concentrations. It is important to evaluate women for other causes of anovulation before diagnosing PCOS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of exogenous gonadotropins in ovulation induction for women with PCOS?",
+        "answer": "Exogenous gonadotropin treatment for ovulation induction may be indicated in women with PCOS who fail to respond to lifestyle modifications and oral agents. However, gonadotropins are associated with significantly increased risks of ovarian hyperstimulation syndrome (OHSS) and multiple-gestation pregnancy. Therefore, low-dose gonadotropin regimens are strongly advised, or other strategies such as in vitro fertilization (IVF) may be considered.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with gonadotropin treatment for ovulation induction?",
+        "answer": "Gonadotropins are associated with significantly increased risks of ovarian hyperstimulation syndrome (OHSS) and multiple-gestation pregnancy. It is recommended to use low-dose gonadotropin regimens to mitigate these risks.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be included in the pretreatment evaluation for women undergoing ovulation induction?",
+        "answer": "Pretreatment evaluation should generally exclude abnormalities of thyroid function and hyperprolactinemia, and should include evaluation of the uterine cavity, fallopian tubes, and semen analysis. Evaluation for hyperprolactinemia is indicated specifically in anovulatory women.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are gonadotropin preparations and how are they derived?",
+        "answer": "Gonadotropin products for human use derive from urinary extracts or recombinant technology, and all have similar effectiveness and safety. A systematic review found no evidence of a difference in either live-birth or OHSS rates among women with PCOS treated with urinary or recombinant gonadotropins.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of exogenous FSH in gonadotropin therapy for ovulation induction?",
+        "answer": "Exogenous FSH stimulates proliferation of granulosa cells and follicular growth, which is essential for ovulation induction in women undergoing treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of LH in the production of androgens and estrogen?",
+        "answer": "LH stimulates the production of androgens in thecal cells, which are then aromatized to estrogen by granulosa cells.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the goal of ovulation induction in women with PCOS?",
+        "answer": "The goal of ovulation induction is to promote the growth and development of a single mature follicle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What treatment may women with PCOS undergo to induce ovulation after menses?",
+        "answer": "Women with PCOS may begin ovulation induction after a menses induced by brief treatment with an exogenous progestin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of progestin withdrawal bleed on pregnancy rates in women with PCOS?",
+        "answer": "Data suggest that progestin withdrawal bleed may decrease pregnancy rates in women with PCOS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be performed to exclude ovarian cysts before ovulation induction?",
+        "answer": "Baseline ultrasonography should be performed to exclude ovarian cysts that might be confused with new follicular growth.",
+        "is_verified": 1
+    },
+    {
+        "question": "Can exogenous FSH alone induce ovulation in women with PCOS?",
+        "answer": "Yes, exogenous FSH alone can induce ovulation in women with PCOS, as endogenous LH levels are adequate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended starting dose of gonadotropin for ovulation induction?",
+        "answer": "The recommended starting dose of gonadotropin is typically 37.5–75 IU/day, increasing in small increments after 7 days if no follicle >10 mm has developed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is administered to stimulate ovulation once a mature follicle has developed?",
+        "answer": "Once a mature follicle has developed, exogenous hCG is administered to stimulate ovulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What combination of hormones is administered for optimal clinical results in women with hypothalamic amenorrhea?",
+        "answer": "For optimal clinical results in women with hypothalamic amenorrhea, a combination of FSH and LH is administered.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of LH in ovulation induction?",
+        "answer": "LH (luteinizing hormone) stimulates the production of androgens, which are substrates for estrogen production. This process enhances the development of oocytes and the endometrium. Additionally, LH activity promotes the development of larger follicles, which is crucial for ovulation induction.",
+        "is_verified": 1
+    },
+    {
+        "question": "How is gonadotropin treatment monitored during ovulation induction?",
+        "answer": "The safety and efficacy of gonadotropin treatment are monitored through serial transvaginal ultrasonography and estradiol measurements. Ultrasonography assesses follicular development and should be performed after the first 4-5 days of treatment, with subsequent evaluations every 1-3 days based on the patient's response. Endometrial thickness and appearance are also monitored as they provide indirect measures of endometrial development, which is important for implantation. Serum estradiol levels are measured alongside ultrasonography to accurately gauge the response to treatment and guide management decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of injecting hCG during ovulation induction?",
+        "answer": "Injecting human chorionic gonadotropin (hCG) induces the final stages of oocyte maturation and release. The trigger injection can be either 5,000–10,000 IU of urinary hCG or 250 mg of recombinant hCG. Ovulation is expected to occur 36-48 hours after the injection, which is critical for timing intercourse or intrauterine insemination to maximize the chances of conception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with multiple follicles during ovulation induction?",
+        "answer": "The presence of multiple follicles as small as 10-12 mm at the time of ovulation can increase the risk of multiple gestation, which is a condition where more than one fetus develops during a single pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with ovulation induction cycles?",
+        "answer": "Ovulation induction cycles can result in a robust multifollicular ovarian response, and cycle cancellation or conversion to IVF should be considered to reduce the risk of multiple gestation and ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What role do GnRH agonists play in ovulation induction?",
+        "answer": "Gonadotropin releasing hormone (GnRH) agonists can be used to trigger ovulation by stimulating a sudden release of endogenous FSH and LH. They are particularly recommended for PCOS patients who are at high risk for OHSS, but should not be used in patients with hypogonadotropic hypogonadism due to inadequate stores of endogenous LH to induce ovulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of luteal-phase progesterone support in ovulation induction?",
+        "answer": "High estradiol levels produced by ovulation induction with gonadotropins are associated with adequate progesterone levels in the luteal phase. Some clinicians recommend progesterone luteal support for all patients undergoing ovulation induction with gonadotropins, including those with hypothalamic amenorrhea. A meta-analysis indicated that luteal support with progesterone in women with unexplained infertility undergoing ovulation induction resulted in a higher live-birth rate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the systematic review on gonadotropin treatment for ovulation induction?",
+        "answer": "A systematic review of 13 studies found that ovulation induction with gonadotropins in anovulatory women resulted in pregnancy rates of 15% per cycle and 41% per patient over an average of 2.7 cycles. It was noted that women who were obese or insulin resistant required higher doses of gonadotropins, and insulin resistance (but not obesity) was associated with a lower pregnancy rate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the pregnancy rate associated with amenorrhea?",
+        "answer": "The pregnancy rate associated with amenorrhea is 25% per cycle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What complications are associated with ovulation induction?",
+        "answer": "The most frequent complication of ovulation induction is multifetal gestation, with gonadotropins being associated with a risk of multiple gestation as high as 36% when strict cancellation criteria are not in place.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the criteria for cycle cancellation during ovulation induction?",
+        "answer": "Cycle cancellation should be considered when more than two follicles greater than 16 mm develop, or when three or more follicles greater than 10 mm develop, to minimize the risk of multifollicular ovulation and multiple pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS and when can it occur?",
+        "answer": "OHSS, or Ovarian Hyperstimulation Syndrome, can occur after ovulation induction in anovulatory women, and the risk cannot be eliminated regardless of strict cancellation criteria.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is there an increased risk of cancer associated with ovulation induction?",
+        "answer": "Concerns that ovulation induction might be associated with an increased risk for cancer of the ovary and breast have not been corroborated by subsequent studies, and there is no compelling evidence to indicate that such risk is increased by ovulation induction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the goal of gonadotropin treatment for ovulation induction?",
+        "answer": "The goal of gonadotropin treatment for ovulation induction is to promote the development of a single mature follicle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with gonadotropin treatment?",
+        "answer": "The risks associated with gonadotropin treatment include multiple gestation and ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be considered if more than two follicles develop during gonadotropin treatment?",
+        "answer": "Cycle cancellation should be considered if more than two follicles measuring 16 mm or larger develop or if three or more intermediate-sized follicles develop.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended starting dose of gonadotropins for ovulation induction?",
+        "answer": "Gonadotropins should be started at a low dose of 37.5–75 IU a day and cautiously increased as needed for monofollicular development.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is luteal support beneficial following ovulation induction with gonadotropins?",
+        "answer": "Yes, luteal support is beneficial following ovulation induction with gonadotropins in women with hypothalamic amenorrhea. It may also be beneficial in women with PCOS, but there is insufficient evidence to make a recommendation for that group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the Practice Committee in the context of this document?",
+        "answer": "The Practice Committee acknowledges the special contribution of Torie Comeaux Plowden, M.D., M.P.H., in the preparation of the document and ensures that all committee members disclose any commercial and financial relationships with manufacturers or distributors of goods or services used to treat patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the references listed in the document?",
+        "answer": "The references focus on various aspects of reproductive health, including pharmacological manipulation in assisted reproduction, evaluation of amenorrhea, studies on adult-onset amenorrhea, and genetic mutations related to gonadotropic deficiency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the study mentioned regarding adult-onset amenorrhea?",
+        "answer": "The study of 262 patients with adult-onset amenorrhea provides insights into the condition, which is important for understanding reproductive health issues and potential treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the reference to GnRH receptor mutations indicate?",
+        "answer": "The reference to GnRH receptor mutations in isolated gonadotropic deficiency indicates a genetic aspect of reproductive health that can affect hormone regulation and fertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for the diagnosis and treatment of hyperprolactinemia?",
+        "answer": "The guidelines for the diagnosis and treatment of hyperprolactinemia are outlined in the publication from J Reprod Med 1999;44:1075–84.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the study by Berga SL and Loucks TL regarding stress-induced anovulation?",
+        "answer": "The study focuses on the diagnosis and treatment of stress-induced anovulation, as published in Minerva Ginecol 2005;57:45–54.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the multicenter study in Spain reveal about recombinant human LH?",
+        "answer": "The multicenter study reveals the effectiveness and safety of recombinant human LH to support follicular development induced by recombinant human FSH in WHO group I anovulation, published in Hum Reprod 2001;16:2525–32.",
+        "is_verified": 1
+    },
+    {
+        "question": "What therapeutic strategies are suggested for ovulation induction in women with polycystic ovary syndrome?",
+        "answer": "The therapeutic strategies for ovulation induction in infertile women with polycystic ovary syndrome are discussed in the publication by Cristello et al. in Gynecol Endocrinol 2005;21:340–52.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the American Society for Reproductive Medicine recommend regarding prolactin testing?",
+        "answer": "The American Society for Reproductive Medicine recommends not to perform prolactin testing as part of the routine infertility evaluation in women with regular menses, as stated in their 2015 guidelines.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the comparison made in the Cochrane Database Syst Rev regarding ovulation induction?",
+        "answer": "The Cochrane Database Syst Rev compares recombinant FSH versus urinary gonadotrophins or recombinant FSH for ovulation induction in subfertility associated with polycystic ovary syndrome, as noted in the review from 2001 (CD002121).",
+        "is_verified": 1
+    },
+    {
+        "question": "What findings are reported regarding gonadotrophins for ovulation induction in women with polycystic ovarian syndrome?",
+        "answer": "The findings regarding gonadotrophins for ovulation induction in women with polycystic ovarian syndrome are reported in the Cochrane Database Syst Rev 2015 (CD010290).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Practice Committee of the American Society for Reproductive Medicine discuss about gonadotropin preparations?",
+        "answer": "The Practice Committee discusses gonadotropin preparations, including their past, present, and future perspectives, in Fertil Steril 2008;90:S13–20.",
+        "is_verified": 1
+    },
+    {
+        "question": "What effect does endometrial shedding have on conception in women with polycystic ovary syndrome?",
+        "answer": "The study by Diamond et al. reports on the endometrial shedding effect on conception and live birth in women with polycystic ovary syndrome, published in Obstet Gynecol 2012;119:902–8.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of follicle-stimulating hormone (FSH) in ovulation induction?",
+        "answer": "Follicle-stimulating hormone (FSH) plays a crucial role in the regulation of the reproductive processes, particularly in the stimulation of ovarian follicular maturation. It is used in various therapies for ovulation induction, especially in cases of subfertility associated with conditions like polycystic ovary syndrome and chronic anovulation. FSH can be administered in different forms, including urinary FSH and recombinant FSH, to enhance folliculogenesis and support ovulation in women with hormonal deficiencies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of studies comparing different forms of FSH in ovulation induction?",
+        "answer": "Studies have compared urinary follicle-stimulating hormone (FSH) with recombinant FSH in patients resistant to clomiphene citrate, showing varying efficacy in inducing ovulation. Additionally, controlled ovarian stimulation using human menopausal gonadotropin or recombinant FSH has been evaluated, indicating that both can effectively stimulate ovarian function. The use of LH activity alongside FSH has also been explored to enhance follicular development in anovulatory women, suggesting a potential benefit in combining these hormones for better outcomes in ovulation induction therapies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of low-dose human chorionic gonadotropin therapy in patients with secondary amenorrhea?",
+        "answer": "Low-dose human chorionic gonadotropin therapy has been shown to improve sensitivity to exogenous follicle-stimulating hormone in patients with secondary amenorrhea. This therapy can help restore ovarian function and promote ovulation in women who have experienced disruptions in their menstrual cycles due to hormonal imbalances.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does recombinant human luteinizing hormone (LH) support follicular development in anovulatory women?",
+        "answer": "Recombinant human luteinizing hormone (LH) is used to support follicular development in women who are LH- and FSH-deficient and anovulatory. Studies have indicated that administering recombinant LH alongside recombinant FSH can enhance the effectiveness of ovulation induction treatments, leading to improved follicular maturation and ovulation rates in these patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of recombinant human luteinizing hormone and follicle stimulating hormone in fertility treatments?",
+        "answer": "Recombinant human luteinizing hormone (LH) and follicle stimulating hormone (FSH) are used to successfully induce ovulation and achieve completed pregnancy in women with conditions such as Kallmann's syndrome. These hormones play a crucial role in stimulating the ovaries to produce eggs and facilitate the ovulation process, which is essential for conception during in vitro fertilization (IVF) procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of a uterine ultrasonographic scoring system in embryo implantation?",
+        "answer": "A uterine ultrasonographic scoring system is utilized as a method for predicting the prognosis of embryo implantation. This scoring system assesses various uterine characteristics through ultrasound imaging to determine the likelihood of successful implantation of embryos during assisted reproductive technologies, thereby aiding in the planning and management of fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do follicle numbers and estradiol levels relate to multiple implantation in intrauterine insemination cycles?",
+        "answer": "The relationship between follicle numbers and estradiol levels is significant in determining the likelihood of multiple implantation during intrauterine insemination (IUI) cycles. Higher numbers of follicles and elevated estradiol levels are associated with increased chances of successful implantation, which can lead to multiple pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with high-order multiple pregnancies after controlled ovarian hyperstimulation?",
+        "answer": "High-order multiple pregnancies and multiple births are associated with risks following controlled ovarian hyperstimulation. Factors such as the number of follicles stimulated and the treatment protocol used can increase the likelihood of these outcomes, which may pose health risks to both the mother and the infants due to complications related to multiple gestations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the purpose of comparing two doses of recombinant human chorionic gonadotropin (rhCG) in assisted reproductive technology?",
+        "answer": "The purpose of comparing two doses of recombinant human chorionic gonadotropin (rhCG) in assisted reproductive technology was to evaluate the effectiveness of rhCG (Ovidrel) versus urinary hCG (Profasi) for the induction of final follicular maturation in in vitro fertilization-embryo transfer procedures. This comparison aimed to determine which dosage would yield better outcomes in terms of follicular development and pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of gonadotropin releasing hormone agonist in ovulation?",
+        "answer": "A gonadotropin releasing hormone agonist is used to suppress ovulation in gonadotropin-stimulated cycles, which helps in preventing ovarian hyperstimulation syndrome (OHSS). This is particularly important in fertility treatments where there is a risk of OHSS due to excessive ovarian stimulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a condition that can occur in women undergoing fertility treatments, characterized by swollen and painful ovaries. It can lead to serious complications if not managed properly, making the prevention of OHSS crucial in fertility protocols.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are gonadotrophin-releasing hormone analogues used for?",
+        "answer": "They are used for the induction of ovulation and prevention of ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of human chorionic gonadotrophin in ovulation induction?",
+        "answer": "Human chorionic gonadotrophin is compared with gonadotrophin-releasing hormone analogues for its effectiveness in inducing ovulation and preventing complications such as ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the luteal phase and how is it affected by ovulation induction?",
+        "answer": "The luteal phase is the phase of the menstrual cycle that occurs after ovulation. It can be shortened after ovulation induction with human menopausal gonadotropin and human chorionic gonadotropin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of progesterone luteal support after ovulation induction?",
+        "answer": "Progesterone luteal support is used after ovulation induction and intrauterine insemination to improve pregnancy outcomes, as indicated by systematic reviews and meta-analyses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors predict the outcome of gonadotrophin ovulation induction in women with anovulatory infertility?",
+        "answer": "Patient predictors for the outcome include various clinical and hormonal factors, as identified in meta-analyses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk associated with ovulation induction in women with polycystic ovary syndrome?",
+        "answer": "There is an increased risk of multiple gestation after ovulation induction in women with polycystic ovary syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "How can multiple pregnancies be reduced during ovulation stimulation?",
+        "answer": "Strategies to reduce multiple pregnancies include careful monitoring and adjusting treatment protocols during ovulation stimulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between ovulation induction and cancer risk?",
+        "answer": "The excerpt discusses studies that investigate the relationship between ovulation induction and cancer risk, specifically focusing on ovarian cancer risk associated with the use of ovulation-stimulating drugs. It references multiple studies and guidelines from reputable sources such as the American Society for Reproductive Medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are fertility drugs and their potential risks?",
+        "answer": "Fertility drugs are medications used to stimulate ovulation in individuals experiencing infertility. The excerpt mentions that there is a concern regarding the potential risk of ovarian cancer associated with the use of these drugs, as highlighted in various studies and guidelines.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidelines exist regarding fertility drugs and cancer risk?",
+        "answer": "The excerpt references a guideline published by the Practice Committee of the American Society for Reproductive Medicine, which addresses the relationship between fertility drugs and cancer, indicating that there are established recommendations and considerations for patients using these medications.",
+        "is_verified": 1
+    }
+]

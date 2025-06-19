@@ -1,0 +1,457 @@
+[
+    {
+        "question": "What are the uses of hormonal contraception in fertility treatments?",
+        "answer": "Hormonal contraception can aid in the timing of assisted reproductive technology cycles, reduce the risk of ovarian cysts at in vitro fertilization cycle initiation, and optimize visualization before hysteroscopy. It is also used for ovarian cyst prevention, preoperative management, and hormone replacement. Additionally, it treats reproductive disorders such as endometriosis, polycystic ovary syndrome (PCOS), and hirsutism. Noncontraceptive benefits include menstrual management for conditions like dysmenorrhea, menorrhagia, and menstrual irregularity. In infertility treatment, hormonal contraception is used for hormonal pretreatment for in vitro fertilization (IVF), which includes menstrual cycle control, synchronization of the oocyte cohort, modification of the hormonal milieu before controlled ovarian stimulation (COS) for IVF, and suppression.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hormonal contraception in fertility treatments?",
+        "answer": "Hormonal contraception is used as a pretreatment tool before hysteroscopy for fertility-related surgeries and can impact ovarian stimulation for IVF. It allows for the scheduling of IVF cycles, can help coordinate oocyte donors with recipients, and reduces the risk of cycle cancellations due to unintended pregnancies. Additionally, it may affect markers of ovarian reserve, necessitating cautious interpretation of tests while a woman is on hormonal contraception.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception affect ovarian stimulation and IVF cycles?",
+        "answer": "Hormonal contraception can influence the timing of assisted reproductive technology cycles by allowing for the scheduling of IVF cycles, which can be beneficial for both patients and clinics. It is used to batch IVF cycles and coordinate cycles in third-party reproductive scenarios. Studies have shown that hormonal contraception can impact outcomes such as oocyte yield, pregnancy rates, and live birth rates, and its effects on ovarian reserve markers should be interpreted with caution.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should be considered before placing patients on hormonal contraception for fertility treatments?",
+        "answer": "Several factors should be considered before placing patients on hormonal contraception in the context of fertility treatments, including the type of hormonal contraception, the duration of pretreatment, and the presence of any reproductive disorders. Alternatives to hormonal contraception may also need to be explored depending on the individual patient's circumstances.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hormonal contraception on the stimulation yield of an IVF cycle?",
+        "answer": "Hormonal contraception has a suppressive effect on circulating follicle-stimulating hormone (FSH) and luteinizing hormone, which may help synchronize the oocyte cohort during controlled ovarian stimulation (COS). However, this suppression can also reduce the ovarian response to gonadotropins. In a study, women who used hormonal contraception before IVF required more gonadotropins than those without pretreatment, but there was no adverse effect on oocyte yield or pregnancy outcomes. A meta-analysis showed that the ongoing pregnancy rate and oocyte yield were similar for women with and without hormonal pretreatment in gonadotropin-releasing hormone (GnRH) antagonist cycles. The hormonal pretreatment group had a significantly higher total gonadotropin dose and longer treatment duration, but overall, there is no strong evidence that hormonal contraception significantly decreases ovarian stimulation response.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of hormonal contraception on oocyte yield in assisted reproductive technology?",
+        "answer": "Studies suggest that hormonal contraception, particularly those with greater androgenic properties, may negatively affect oocyte yield. Progestins like estrane- and gonane-derived progestins are associated with decreased oocyte yield and lower antimüllerian hormone (AMH) levels compared to antiandrogenic hormonal contraceptives such as drospirenone, dienogest, and trimegestone. This effect may be due to androgens interfering with follicle-stimulating hormone (FSH) support, leading to atresia of growing follicles. A small study indicated that egg donors on androgenic hormonal contraception had a significantly lower egg yield (11.3 oocytes) compared to those without hormonal contraception (16.6 oocytes). However, a retrospective analysis found no significant difference in clinical pregnancy rates between women taking different types of hormonal contraception before controlled ovarian stimulation (COS) for in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of pretreatment with hormonal contraception on the live birth (LB) rate of IVF cycles?",
+        "answer": "Pretreatment with hormonal contraception in antagonist and agonist cycles has been associated with a reduction in the LB rate in some studies. A retrospective cohort study showed that pretreatment with hormonal contraception was associated with a reduction in the LB rate after fresh transfer (42.6% vs. 52.8%, P<.001) and the cumulative LB rate (62.8% vs. 67.6%, P=0.01). However, hormonal contraception administration for 12–30 days with a 5-day washout period does not affect clinical pregnancy, LB, or cumulative LB in patients undergoing controlled ovarian stimulation (COS) for an IVF cycle. A 2017 Cochrane Review of 29 RCTs found no clear evidence of a difference in pregnancy or LB rates. In antagonist cycles, hormonal contraception was associated with a decreased risk of pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of a levonorgestrel-releasing (LNG) intrauterine device (IUD) on ovarian stimulation in IVF?",
+        "answer": "The LNG-IUD may impact ovarian stimulation. A retrospective cohort study evaluated oocyte yield in women with a 52-mg LNG-IUD compared to those without an IUD. It was found that subjects with an LNG-IUD had a lower peak estradiol level and required a higher FSH dose per cycle. However, there were no differences in total or mature oocyte yield, blasto-cyst progression, fertilization, or clinical pregnancy rates between subjects with and without the LNG-IUD.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are LB rates in the context of donor oocytes?",
+        "answer": "LB rates refer to live birth rates observed in recipients of donor oocytes, indicating the success of fertility treatments involving donor eggs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of LNG-IUD on egg donors during ovarian stimulation?",
+        "answer": "Egg donors or patients considering fertility preservation can retain their LNG-IUD before and during ovarian stimulation. However, providers should note a potential higher dose of FSH and, thus, cost.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception pretreatment affect IVF outcomes in women with diminished ovarian reserve?",
+        "answer": "Data are limited regarding the potential impact of hormonal contraception pretreatment on IVF outcomes in women with diminished ovarian reserve. A retrospective analysis found no difference in implantation or pregnancy rates between poor responder patients pretreated with hormonal contraception versus those starting with a natural cycle in agonist-flare cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of pretreatment hormonal contraception in women with PCOS?",
+        "answer": "Pretreatment hormonal contraception in women with PCOS may significantly aid in regulating menses and synchronizing follicular development. Clinical trials have shown mixed results regarding ART outcomes. A study found improved implantation and clinical pregnancy rates in subjects using at least 3 months of hormonal contraception compared to non-OCP users and those using less than 2 months of hormonal contraception. These subjects also had a lower antral follicle count and reduced symptoms of hyperandrogenism while on hormonal contraception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of hormonal contraception pretreatment on pregnancy rates in women with PCOS?",
+        "answer": "Hormonal contraception pretreatment has been shown to adversely affect the live birth (LB) rate after fresh embryo transfer in women with PCOS. A study found that subjects with PCOS exposed to hormonal contraception for 21–25 days before IVF had lower clinical pregnancy rates (48.8% vs. 63.6%) and lower LB rates (36.1% vs. 48.1%) compared to those with spontaneous menses. Additionally, women with hormonal contraception-induced menses in frozen embryo transfer cycles had a similar pregnancy rate but a higher pregnancy loss rate (27.7% vs. 13%).",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception pretreatment affect women with endometriosis?",
+        "answer": "Women with endometriosis may benefit from hormonal contraception pretreatment, which is associated with improved pregnancy rates per retrieval. This effect may be due to ovarian suppression that inhibits inflammation-mediated aromatase expression and estradiol production, leading to morphological and functional changes in the endometrium. A study showed that a 6–8-week course of hormonal contraception pretreatment resulted in higher pregnancy rates per retrieval and fresh embryo transfer (35% vs. 12.9%) compared to controls, with even more significant effects observed when endometriomas were present.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hormonal contraception in mitigating ovarian hyperstimulation syndrome in patients with PCOS?",
+        "answer": "Hormonal contraception pretreatment has been shown to moderately reduce the risk of ovarian hyperstimulation syndrome in patients with PCOS without influencing the quality of oocytes, thereby potentially mitigating the high response of the ovaries during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the prevalence of ovarian cysts in reproductive-aged women according to the study mentioned?",
+        "answer": "Ovarian cysts with a diameter of >30 mm were noted in 4%–7% of women during ultrasound evaluation before initiating an oral contraceptive.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are functional ovarian cysts and what hormones do they secrete?",
+        "answer": "Functional ovarian cysts may be follicular or corpus luteum cysts and secrete estradiol or progesterone.",
+        "is_verified": 1
+    },
+    {
+        "question": "What symptoms can functional ovarian cysts cause?",
+        "answer": "Functional ovarian cysts may cause irregular menstrual bleeding, pain, inhibition of response to ovarian stimulation, and an increased risk of ovarian torsion.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the initial finding regarding the impact of ovarian cysts on IVF outcomes?",
+        "answer": "An early study suggested a negative impact of ovarian cyst formation on IVF outcomes, noting an increase in cycle cancellation likely due to premature luteinizing hormone surge with cysts 16–29 mm and poor response to stimulation with cysts 30–60 mm.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did subsequent studies find regarding the impact of baseline ovarian cysts on IVF outcomes?",
+        "answer": "Subsequent studies suggested no impact of baseline ovarian cysts on the number of follicles aspirated or oocytes retrieved with IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "How did nonfunctional ovarian cysts affect gonadotropin dosing and estradiol levels in patients?",
+        "answer": "Patients with nonfunctional ovarian cysts required increased gonadotropin dosing and had lower peak estradiol levels.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was observed regarding the number of follicles from the cystic ovary compared to the contralateral ovary?",
+        "answer": "Patients with unilateral cystic structures had significantly fewer follicles from the cystic ovary than from the contralateral ovary.",
+        "is_verified": 1
+    },
+    {
+        "question": "What changes do nonfunctional ovarian cysts induce in the intraovarian endocrine environment?",
+        "answer": "The findings led investigators to suggest that a nonfunctional ovarian cyst induces changes in the intraovarian endocrine environment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of hormonal contraception on ovarian cysts?",
+        "answer": "Hormonal contraception is associated with a lower prevalence of ovarian cysts. It is often initiated to hasten the resolution of functional cysts, but a Cochrane Review published in 2014 found no benefit of hormonal contraception over expectant management for cyst treatment. Most ovarian cysts resolve spontaneously within 4-6 weeks, regardless of treatment. Hormonal contraception can be protective against the development of new ovarian cysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding hormonal contraception for ovarian cyst treatment?",
+        "answer": "Based on available information, hormonal contraception should not be started to hasten the resolution of ovarian cysts, although it can help prevent the development of new cysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hysteroscopy in fertility treatments?",
+        "answer": "Hysteroscopy is frequently used in reproductive medicine to evaluate and treat uterine pathology, optimizing conditions before fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of hormonal contraception on the endometrial lining?",
+        "answer": "Hormonal contraception most reliably prevents ovulation and results in a thinner endometrium when started early in the menstrual cycle. Initiation of combination oral contraceptive pills (OCPs) on menstrual cycle days 1–3 consistently maintained a thinner endometrium (4.1 mm) compared to starting in the late follicular phase (11 mm) or late luteal phase (12 mm).",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception affect ovarian reserve markers before initiating an IVF cycle?",
+        "answer": "Ovarian reserve markers, such as AMH (Anti-Müllerian Hormone) and AFC (Antral Follicle Count), have been shown to be suppressed in response to prolonged hormonal contraception. One study suggested a decrease of 30% in both the AMH level and AFC with long-term hormonal contraception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the benefits of hormonal contraception for patients with irregular menses?",
+        "answer": "The benefits of hormonal contraception for patients with irregular menses include the prevention of pregnancy and ease of scheduling for surgery, particularly for hysteroscopic procedures which can be difficult to schedule in patients with irregular menstrual cycles or prolonged menstrual bleeding.",
+        "is_verified": 1
+    },
+    {
+        "question": "What hormonal preparations are mentioned as beneficial for rapid endometrial preparation before operative hysteroscopy?",
+        "answer": "Multiple hormonal preparations mentioned include nomegestrol acetate, oral desogestrel plus vaginal raloxifene, estradiol plus dienogest, gestrinone, and desogestrel alone, which appear to demonstrate benefit for rapid endometrial preparation before operative hysteroscopy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of cessation of hormonal contraception on the antral follicle count (AFC)?",
+        "answer": "In a longitudinal study of over 700 women, the AFC after cessation of hormonal contraception began to increase at 1 month and plateaued at 6 months, indicating that nearly 6 months are needed for recovery of the AFC to pre-hormonal exposure levels. Eighty percent of women in this study experienced an increase in AFC after stopping hormonal contraception, with 60% achieving normalization of AFC. This increase was primarily observed in women who had a low AFC while on hormonal contraception, whereas those with a normal AFC were unlikely to see an increase after cessation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should providers consider before prescribing hormonal contraception to fertility patients?",
+        "answer": "Providers should be aware of the eligibility criteria for combined hormonal contraceptive use as outlined in the US Medical Eligibility Criteria. They should also consider certain medical comorbidities such as advanced age, smoking status, a history of migraine with aura, increased risks of venous thromboembolic events, and cardiovascular disease. Specifically, a history of migraines with aura needs to be assessed before initiating combination hormonal contraception, as women with this history have a significantly higher risk of ischemic stroke when using such contraceptives.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk associated with hormonal contraception in women with a history of migraine with aura?",
+        "answer": "Women with a history of migraine who use combination hormonal contraception (containing both estrogen and progesterone) have three times higher odds of experiencing ischemic stroke compared to those with a history of migraine who are not using these contraceptives, as demonstrated by the World Health Organization Collaborative Study of Cardiovascular Disease and Steroid Hormone Contraception from 1999.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between combined hormonal contraceptives and migraines?",
+        "answer": "The excerpt indicates that there is a higher odds ratio (OR) for migraines associated with the use of combined hormonal contraceptives, specifically an OR of 3.81 for migraine with aura and an OR of 2.97 for migraine without aura. This suggests that the use of these contraceptives may increase the likelihood of experiencing migraines, particularly those with aura.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of combined hormonal contraception on the risk of venous thromboembolism (VTE)?",
+        "answer": "Short-term use of combined hormonal contraception (3 – 6 weeks) before ovarian stimulation may decrease the risk of complications such as venous thromboembolism (VTE) compared to long-term use. Evidence suggests that the risk of VTE among current oral contraceptive pill (OCP) users decreases over time, with an odds ratio (OR) of 5.1 at less than 1 year and 2.1 after more than 5 years of use. Low-dose hormonal contraception has been shown to increase levels of coagulation factors and D-dimer, indicating an impact on the coagulation system. However, pregnancy itself is a significant risk factor for VTE, and short-term use of OCPs before IVF stimulation is expected to confer a lower risk than pregnancy itself.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception affect the coagulation system?",
+        "answer": "Hormonal contraception, particularly low-dose formulations, has been shown to cause an increase in levels of coagulation factors such as factors VII and X, plasminogen, fibrinogen, and D-dimer. However, antithrombin II and protein C activities did not change over the study period. This indicates that hormonal contraception can have a significant impact on the coagulation system as early as 6 weeks of use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What changes have been made to hormonal contraception to address concerns about adverse side effects?",
+        "answer": "To address concerns about adverse side effects associated with hormonal contraceptive use, there have been substantial changes in the formulation of hormonal contraception over time. These changes include a decrease in estrogen dosage, the introduction of new progestin components, and new sequences of administration.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the common symptoms reported by women using hormonal contraception?",
+        "answer": "The common symptoms reported by women using hormonal contraception include weight gain (25.2%), painful menses (20.7%), swollen legs (20.9%), and heavy menstrual bleeding (15.6%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk associated with progestin-only pills (POP) in women with hypertension?",
+        "answer": "Women with hypertension using a progestin-only pill (POP) have a slightly increased risk of cardiovascular events compared with those not using this method.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the contraindications for using progestin-only pills (POP)?",
+        "answer": "Progestin-only pills (POP) are contraindicated in patients with active or recent (<5 years) breast cancer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the disadvantages of using progestin-only pills (POP) in reproductive medicine?",
+        "answer": "The disadvantages of using progestin-only pills (POP) in reproductive medicine include a higher risk of irregular vaginal bleeding and functional ovarian cysts, with approximately 20%–30% of users experiencing intermenstrual bleeding or spotting, which is a common reason for discontinuation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between the estrogen dosage in hormonal contraception and associated symptoms?",
+        "answer": "The investigators found no evidence to support that decreasing the estrogen dosage decreases any symptom associated with hormonal contraception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What potential adverse outcomes are associated with progestin-only pills (POP)?",
+        "answer": "Data on the potential adverse outcomes with progestin-only pills (POP) are limited, but they include a higher risk of irregular vaginal bleeding and functional ovarian cysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hormonal contraception on ovarian cysts during IVF treatment?",
+        "answer": "The use of hormonal contraception can aid in the timing of ART cycles, reduce the risk of ovarian cysts at IVF cycle initiation, and optimize visualization before hysteroscopy. However, the use of hormonal contraception for the suppression of ovarian cysts has not been substantiated.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hormonal contraception affect ovarian reserve markers?",
+        "answer": "Long-term hormonal contraception can falsely lower markers of ovarian reserve, and consideration should be given to stopping therapy to re-evaluate the baseline levels. Additionally, the use of hormonal contraception may decrease markers of ovarian reserve, but those markers may improve after cessation of hormonal contraception for some patients, especially for those women with low AFCs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of hormonal contraception pretreatment on IVF outcomes?",
+        "answer": "There are inconsistent data that pretreatment with hormonal contraception impacts ovarian stimulation, although it may increase the amount of gonadotropins required. Furthermore, there is inconsistent evidence that the formulation of hormonal contraception impacts IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hormonal contraception in the context of PCOS or endometriosis?",
+        "answer": "The use of hormonal contraception in the setting of PCOS or endometriosis is conflicting, and thus, definitive conclusions cannot be drawn regarding its effectiveness or impact in these conditions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What alternative can be used when hormonal contraception is contraindicated?",
+        "answer": "When the use of hormonal contraception is contraindicated, progestin-only pills (POP) may be used as an alternative.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the ASRM Practice Committee in reproductive medicine?",
+        "answer": "The ASRM Practice Committee develops reports and guidelines for reproductive medicine, which are approved by the Board of Directors. These documents are not intended to be the only standard of practice but rather to provide guidance while considering individual patient needs and available resources.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the Declaration of Interests in the ASRM document?",
+        "answer": "The Declaration of Interests section indicates that all members of the ASRM Practice Committee disclosed their commercial and financial relationships with manufacturers or distributors of goods or services used to treat patients. Those with conflicts of interest did not participate in the discussion or development of the document, ensuring transparency and integrity in the guidelines provided.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some references cited in the ASRM document?",
+        "answer": "The document cites ACOG Practice Bulletin No. 110 regarding noncontraceptive uses of hormonal contraceptives and a committee opinion on the treatment of pelvic pain associated with endometriosis from the Practice Committee of the American Society for Reproductive Medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of oral contraceptive pills on ovarian stimulation protocols for women undergoing assisted reproductive techniques?",
+        "answer": "The excerpt discusses various studies and guidelines related to the use of oral contraceptive pills, progestogens, and estrogens as pretreatments in ovarian stimulation protocols for women undergoing assisted reproductive techniques such as IVF/ICSI. It mentions that these pretreatments can affect hormonal profiles and the antral follicle cohort before GnRH antagonist protocols, and explores their impact on oocyte yields and live birth rates in IVF cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the ESHRE guideline mentioned in the excerpt?",
+        "answer": "The ESHRE guideline referenced in the excerpt provides recommendations for ovarian stimulation in IVF/ICSI procedures, indicating best practices and protocols to optimize outcomes for women undergoing these assisted reproductive technologies. It is a key resource for clinicians in the field of reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hormonal contraception prior to IVF on oocyte yields?",
+        "answer": "The excerpt cites a pilot study that investigates whether hormonal contraception prior to in vitro fertilization negatively affects oocyte yields, suggesting that this is an area of active research in reproductive biology and endocrinology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What molecular mechanisms are discussed regarding synthetic progestins used in HRT and contraception?",
+        "answer": "The excerpt mentions a study that explores the molecular mechanisms of steroid receptor-mediated actions by synthetic progestins used in hormone replacement therapy (HRT) and contraception, indicating the complexity of hormonal interactions in reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do different types of oral contraceptive pills affect live birth rates in IVF/ICSI cycles?",
+        "answer": "The excerpt discusses research on the effects of different types of oral contraceptive pills and the duration of their use on fresh and cumulative live birth rates in IVF/ICSI cycles, highlighting the importance of these factors in reproductive outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of oral contraceptive pretreatment on IVF outcomes in women with polycystic ovary syndrome?",
+        "answer": "Successive and cyclic oral contraceptive pill pretreatment improves IVF/ICSI outcomes of PCOS patients and ameliorates hyperandrogenism and antral follicle excess.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does oral contraceptive pretreatment improve outcomes in microdose gonadotrophin-releasing hormone agonist protocol among poor responder intracytoplasmic sperm injection patients?",
+        "answer": "Oral contraceptive pretreatment does not improve outcome in microdose gonadotrophin-releasing hormone agonist protocol among poor responder intracytoplasmic sperm injection patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of prolonged gonadotropin-releasing hormone agonist therapy on IVF outcomes in patients with endometriosis?",
+        "answer": "Prolonged gonadotropin-releasing hormone agonist therapy affects the outcome of in vitro fertilization-embryo transfer in patients with endometriosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "Could pretreatment with oral contraceptives before pituitary down regulation reduce the incidence of ovarian hyperstimulation syndrome in the IVF/ICSI procedure?",
+        "answer": "Pretreatment with oral contraceptives before pituitary down regulation could potentially reduce the incidence of ovarian hyperstimulation syndrome in the IVF/ICSI procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence is there regarding impaired endometrial receptivity after ovarian stimulation for in vitro fertilization?",
+        "answer": "There is evidence of impaired endometrial receptivity after ovarian stimulation for in vitro fertilization, as shown in a prospective randomized trial comparing fresh and frozen-thawed embryo transfer in normal responders.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of baseline ovarian cysts on in vitro fertilization outcomes?",
+        "answer": "Baseline ovarian cysts can decrease the success of controlled ovarian stimulation and in vitro fertilization, as indicated by studies showing that ovarian cysts are linked to poor IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do oral contraceptives affect women with endometriosis before assisted reproduction treatment?",
+        "answer": "The use of oral contraceptives in women with endometriosis before assisted reproduction treatment has been shown to improve outcomes, suggesting a beneficial role in managing the condition prior to IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of aromatase P450 in endometriosis?",
+        "answer": "Aromatase P450 promoter activity is stimulated in endometriosis and inhibited in the endometrium, regulated by competitive binding of specific transcription factors, which may play a role in the pathophysiology of endometriosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of ethinylestradiol dosage in oral contraceptives on follicle growth?",
+        "answer": "The dosage of ethinylestradiol in oral contraceptives influences follicle growth, which is important for understanding its effects on ovarian function and fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does baseline cyst formation after gonadotropin-releasing hormone agonist administration affect IVF outcomes?",
+        "answer": "Baseline cyst formation after luteal phase gonadotropin-releasing hormone agonist administration is linked to poor in vitro fertilization outcomes, indicating that the presence of cysts can negatively impact fertility treatment success.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of stimulation in in vitro fertilization?",
+        "answer": "Stimulation in in vitro fertilization (IVF) is used to induce the ovaries to produce multiple eggs, which increases the chances of successful fertilization and embryo development. This process typically involves the administration of hormonal medications to promote ovarian response.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of baseline ovarian cysts on in vitro fertilization cycles?",
+        "answer": "Baseline ovarian cysts can affect the outcomes of in vitro fertilization and gamete intrafallopian transfer cycles, as indicated by the study by Goldberg et al. (1991).",
+        "is_verified": 1
+    },
+    {
+        "question": "How do baseline ovarian cysts influence controlled ovarian hyperstimulation?",
+        "answer": "Baseline ovarian cysts can impact the clinical response to controlled ovarian hyperstimulation in an in vitro fertilization program, according to Hornstein et al. (1989).",
+        "is_verified": 1
+    },
+    {
+        "question": "Do non-functional ovarian cysts affect ovarian performance during in vitro fertilization?",
+        "answer": "Non-functional ovarian cysts do not affect ipsilateral or contralateral ovarian performance during in vitro fertilization, as reported by Karande et al. (1990).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are functional ovarian cysts and their relevance in gynecologically healthy women?",
+        "answer": "Functional ovarian cysts are common in premenopausal and gynecologically healthy women, as discussed by Christensen et al. (2002).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of oral contraceptives in managing functional ovarian cysts?",
+        "answer": "Oral contraceptives can be used for the treatment of functional ovarian cysts, as reviewed by Grimes et al. (2014).",
+        "is_verified": 1
+    },
+    {
+        "question": "How do oral contraceptives affect ovarian follicular development?",
+        "answer": "Oral contraceptives influence ovarian follicular development during their cycles, as noted by Killick et al. (1987).",
+        "is_verified": 1
+    },
+    {
+        "question": "What effect do oral contraceptives have on the endometrium before operative hysteroscopy?",
+        "answer": "Oral contraceptives maintain a very thin endometrium prior to operative hysteroscopy, according to Grow and Iromloo (2006).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is nomegestrol acetate used for in pre-menopausal women?",
+        "answer": "Nomegestrol acetate is used for the rapid preparation of the endometrium before operative hysteroscopy in pre-menopausal women, as indicated by Florio et al. (2010).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of endometrial preparation with oral desogestrel and vaginal raloxifene?",
+        "answer": "Endometrial preparation with oral desogestrel plus vaginal raloxifene is aimed at facilitating hysteroscopic surgery, as shown in a study by Cicinelli et al. (2007).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of estradiol plus dienogest in endometrial preparation?",
+        "answer": "Estradiol plus dienogest (Qlaira) is used for endometrial preparation for office hysteroscopic polypectomy, as demonstrated in a randomized pilot study by Cicinelli et al. (2012).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of long-term hormonal contraceptive use on ovarian reserve?",
+        "answer": "Long-term hormonal contraceptive use is associated with a reversible suppression of antral follicle count, and a break from hormonal contraception may improve oocyte yield.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the U.S. Medical Eligibility Criteria for Contraceptive Use?",
+        "answer": "The U.S. Medical Eligibility Criteria for Contraceptive Use provides guidelines for the safe use of contraceptives based on various health conditions and risk factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between oral contraceptives and venous thromboembolism?",
+        "answer": "Oral contraceptives have been associated with an increased risk of venous thromboembolism, as demonstrated in case-control studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the type of progestogen affect haemostatic changes in women taking oral contraceptives?",
+        "answer": "The effect of oestrogen dose and progestogen type can influence haemostatic changes in women taking low dose oral contraceptives, impacting their risk of thrombotic events.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the link between migraine and stroke in young women using steroid hormone contraception?",
+        "answer": "A case-control study indicated a potential link between migraine and stroke in young women using steroid hormone contraception, highlighting the need for careful consideration in prescribing these medications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between progestin-only contraception and thromboembolism?",
+        "answer": "A systematic review indicated that there is a potential association between progestin-only contraception and thromboembolism, suggesting that women using this type of contraception may have an increased risk of developing blood clots.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are functional ovarian cysts and how are they related to progestogen-only oral contraception?",
+        "answer": "Functional ovarian cysts are fluid-filled sacs that develop on the ovaries. The excerpt mentions a study that demonstrated an increased frequency of these cysts in women using progestogen-only oral contraception, indicating a possible side effect of this contraceptive method.",
+        "is_verified": 1
+    },
+    {
+        "question": "¿Cuáles son las indicaciones de la anticoncepción hormonal en ginecología?",
+        "answer": "La anticoncepción hormonal tiene varias indicaciones en ginecología, incluyendo la prevención de quistes de ovario, manejo preoperatorio, terapia de reemplazo hormonal, y el manejo de desórdenes reproductivos como endometriosis, síndrome de ovario poliquístico (SOPC) e hirsutismo. También se utiliza para el manejo de desórdenes menstruales como dismenorrea, menorragia e irregularidades menstruales.",
+        "is_verified": 1
+    },
+    {
+        "question": "¿Cómo se utiliza la anticoncepción hormonal en el tratamiento de la infertilidad?",
+        "answer": "En el tratamiento de la infertilidad, la anticoncepción hormonal se utiliza como pretratamiento hormonal en la fecundación in vitro (FIV). Esto incluye el control del ciclo menstrual, sincronización de la cohorte de ovocitos, modificación del medio hormonal antes de la estimulación ovárica controlada (COS) para FIV, y supresión de la formación de quistes ováricos. También puede ser utilizada como herramienta pretratamiento antes de la histeroscopia en cirugías ginecológicas.",
+        "is_verified": 1
+    },
+    {
+        "question": "¿Qué beneficios no anticonceptivos tiene la anticoncepción hormonal?",
+        "answer": "Los beneficios no anticonceptivos de la anticoncepción hormonal incluyen el manejo de desórdenes menstruales, como dismenorrea, menorragia e irregularidades menstruales.",
+        "is_verified": 1
+    },
+    {
+        "question": "¿Qué se ha estudiado sobre el impacto de la anticoncepción hormonal en la estimulación ovárica?",
+        "answer": "El impacto de la anticoncepción hormonal en la estimulación ovárica ha sido extensamente estudiado, enfocándose en el tipo de hormona contraceptiva utilizada, el efecto de la duración del pretratamiento anticonceptivo hormonal, y su uso en el contexto de la estimulación ovárica controlada.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effects of hormonal contraception on ovarian reserve markers?",
+        "answer": "Hormonal contraception can affect ovarian reserve markers, which are important for assessing fertility potential. Therefore, analyses of these markers should be interpreted with caution while a woman is undergoing hormonal contraceptive treatment, and counseling may need to be adjusted accordingly.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should be considered before prescribing hormonal contraceptives in fertility treatments?",
+        "answer": "Several factors must be considered before prescribing hormonal contraceptives in the context of fertility treatments, including the woman's individual health status, the potential impact on fertility outcomes, and the possibility of using alternative contraceptive methods if necessary.",
+        "is_verified": 1
+    },
+    {
+        "question": "What outcomes have studies focused on regarding reproductive disorders?",
+        "answer": "Studies have focused on outcomes such as oocyte performance, gestation rates, and live birth rates (LB) in relation to reproductive disorders.",
+        "is_verified": 1
+    }
+]

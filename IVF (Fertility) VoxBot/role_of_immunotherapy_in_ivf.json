@@ -1,0 +1,1127 @@
+[
+  {
+    "question": "What is the role of immunotherapy in in vitro fertilization (IVF)?",
+    "answer": "Immunotherapy in IVF aims to improve the outcomes of assisted reproductive technology (ART) for both the general ART population and specific subgroups, such as patients with recurrent miscarriage or implantation failure. The guideline evaluates the role of immunomodulating therapy in ART, although many therapies lack robust evidence from well-designed randomized controlled trials to support their use. Some immunotherapies reviewed are not associated with improved live-birth outcomes or have been insufficiently studied for definitive recommendations.",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors influence successful outcomes in assisted reproductive technology (ART) cycles?",
+    "answer": "Successful outcomes in ART cycles depend on the developmental competence of transferred embryos and endometrial receptivity. Factors believed to influence endometrial receptivity include hormonal preparation of the endometrium, contractility of the myometrium, and the interaction between the embryo and endometrium, which involves immunological mechanisms. Adjuvant immunotherapies have been introduced to improve outcomes in ART cycles, particularly for patients with recurrent implantation failure and/or pregnancy loss.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the rationale behind using adjuvant immunotherapies in IVF treatment cycles?",
+    "answer": "The rationale for using adjuvant immunotherapies in IVF treatment cycles is to correct immunological imbalances that may hinder successful implantation, thereby potentially improving and sustaining implantation rates in patients undergoing assisted reproductive technology.",
+    "is_verified": 1
+  },
+  {
+    "question": "What medications are mentioned in relation to adjuvant immunotherapy for ART treatments?",
+    "answer": "The medications mentioned include aspirin, corticosteroids, intravenous fat emulsions, and granulocyte colony-stimulating factor (G-CSF).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the importance of understanding the risks and benefits of adjuvant immunotherapy in ART?",
+    "answer": "It is imperative for physicians providing ART treatments to have a full understanding of the potential risks and benefits associated with adjuvant immunotherapy in order to appropriately counsel patients regarding their use.",
+    "is_verified": 1
+  },
+  {
+    "question": "What challenges exist in interpreting the literature related to immunotherapy and IVF outcomes?",
+    "answer": "Challenges include the existence of few well-designed randomized studies, many cited investigations being over 20 years old, underpowered studies, and the focus on surrogate outcomes rather than live birth rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the present guideline aim to achieve regarding immunotherapy in IVF?",
+    "answer": "The present guideline aims to inform practitioners about how to provide evidence-based care regarding immunotherapy in IVF based on a systematic review of the literature.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some therapies mentioned in the excerpt?",
+    "answer": "The excerpt mentions aspirin as one of the investigated therapies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is a challenge in attributing changes in outcomes to treatments?",
+    "answer": "It is difficult to attribute any change in outcome to a given treatment due to the presence of multiple therapies and mechanisms of action.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of populations were included in the cited studies?",
+    "answer": "The cited studies include narrowly defined populations based on immunological testing.",
+    "is_verified": 1
+  },
+  {
+    "question": "What medical subject headings were used in the study?",
+    "answer": "The medical subject headings used in the study include: abdominal pain/chemically induced; acetylsalicylic acid; adalimumab; adjuvants, immunologic; adrenocorticotropic hormone; adverse; adrenal cortex hormones; allogenic leukocyte immunization; alloimmunization; antibodies, anticardiolipin; antibodies, antinuclear; antibodies, antiphospholipid; anti-cardiolipin antibody; antigens; anti-nuclear antibodies; anti-nuclear antibody; antinuclear antibodies; antinuclear antibody; antiphospholipid antibody; antiphospholipid antibodies; antithyroid antibody; antithyroid antibodies; aspirin; assisted reproduction; autoantibodies; corticosteroid/s; corticotropin-releasing hormone; cost; cytokine; cytokines; dexamethasone; drug costs; embryo implantation; embryo transfer; Enbrel; estrogen/s; etanercept; fertility agents, female/adverse effects; fertilization in vitro/methods; filgrastim; G-CSF; glucocorticoid/s; GM-CSF; granulocyte colony-stimulating factor; harm; HLA; HLA antigens; human leukocyte antigen; Humira; ICSI; IL-10; IL-17; IL-27; immune modulatory; immune therapy; immunoglobulins, intravenous; immunoglobulins/therapeutic use; immunologic tests; immunomodulation; immunomodulatory; immunosuppression; immunotherapy; in vitro fertilisation; in vitro fertilization; interleukin-10; interleukin-17; interleukin-27; intracytoplasmic sperm injection; intralipid; intralipid infusion; intrauterine insemination; intravenous immunoglobulin; intravenous immunoglobulins, human; intravenous lipids; irritable bowel syndrome/chemically induced; IVF; IUI; killer cells, natural; leukocyte antigens.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some medical terms mentioned in the excerpt?",
+    "answer": "The excerpt includes several medical terms such as leukocyte antibody, lupus anticoagulant, methylprednisolone, natural killer cells, nausea, ovulation induction, prednisone, progesterone, regulatory T cells, tacrolimus, tumor necrosis factor, and thyroid peroxidase antibodies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What types of studies were included in the analysis according to the excerpt?",
+    "answer": "The analysis included Level I and II studies, systematic reviews, meta-analyses, and human studies with a comparison group that focused on IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the exclusion criteria for studies in the analysis?",
+    "answer": "Studies were excluded if they were Level III studies (such as series, case reports, reviews, opinions), animal studies, non-English studies, studies without a comparison group, or those that did not focus primarily on IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the progestational effects mentioned in the excerpt?",
+    "answer": "The excerpt does not provide specific details about the progestational effects, but it indicates that they are relevant in the context of reproductive health and treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do corticosteroids play during ovarian stimulation?",
+    "answer": "Corticosteroids are mentioned in relation to ovarian stimulation, particularly in the context of their peri-implantation effects and potential impact on IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of anticardiolipin studies in the context of recurrent pregnancy loss?",
+    "answer": "Anticardiolipin studies are focused on understanding the relationship between autoimmune factors and recurrent pregnancy loss, suggesting a potential area of investigation for improving pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do G-CSF and GM-CSF relate to embryo development and IVF outcomes?",
+    "answer": "G-CSF (granulocyte colony-stimulating factor) and GM-CSF (granulocyte/macrophage colony-stimulating factor) are mentioned as factors that may influence embryo development, aneuploidy, endometrial thickness, and overall IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relevance of antithyroid antibodies in reproductive health?",
+    "answer": "The presence of antithyroid antibodies may indicate autoimmune thyroid conditions that could affect reproductive health and fertility, although specific details are not provided in the excerpt.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is DHEA and its significance in IVF outcomes?",
+    "answer": "DHEA (dehydroepiandrosterone) is mentioned as a substance that may have implications for IVF outcomes, potentially influencing ovarian function and embryo quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of intravenous fat emulsions in IVF outcomes?",
+    "answer": "Intravenous fat emulsions are mentioned in the context of IVF outcomes, suggesting they may play a role in providing essential fatty acids or energy during treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of IVIG in IVF outcomes?",
+    "answer": "IVIG (intravenous immunoglobulin) is noted as a treatment that may have implications for IVF outcomes, possibly related to immune modulation during pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does Metformin relate to reproductive health?",
+    "answer": "Metformin is mentioned, indicating its potential use in managing conditions like PCOS (polycystic ovary syndrome) that can affect fertility and reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of adalimumab on IVF outcomes?",
+    "answer": "Adalimumab is mentioned in relation to IVF outcomes, suggesting it may have effects on reproductive health, particularly in patients with autoimmune conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does OHSS stand for and its relevance in reproductive health?",
+    "answer": "OHSS stands for ovarian hyperstimulation syndrome, a condition that can occur during fertility treatments and is significant for patient safety and treatment planning.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the connection between PCOS and IVF outcomes?",
+    "answer": "PCOS (polycystic ovary syndrome) is mentioned, indicating its relevance to IVF outcomes, as it is a common condition that can affect fertility and response to treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are uterine relaxants and their potential role in reproductive health?",
+    "answer": "Uterine relaxants are mentioned, suggesting they may be used to manage uterine contractions during fertility treatments or pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of immunomodulation therapy in patients with autoimmune conditions?",
+    "answer": "Patients on immunomodulation therapy for known autoimmune conditions, such as rheumatoid arthritis, may require special consideration during fertility treatments to optimize outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of progesterone in reproductive health?",
+    "answer": "Progesterone is noted for its mixed hormonal and immunological properties, indicating its importance in preparing the uterus for implantation and maintaining pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does aspirin relate to reproductive health therapies?",
+    "answer": "Aspirin is mentioned as being used in combination with other therapies, suggesting it may have a role in improving reproductive outcomes, possibly through its effects on blood flow or inflammation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the potential role of aspirin in improving reproductive outcomes during IVF?",
+    "answer": "Aspirin has been investigated as a means to increase blood flow to the ovaries and uterus, which may improve oocyte yield, quality, endometrial thickness, and receptivity. It has been considered as a potential adjuvant to IVF due to its anti-inflammatory and anti-platelet activity. However, studies have shown mixed results regarding its effectiveness on implantation and pregnancy rates during IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of randomized controlled trials (RCTs) regarding aspirin's effect on implantation rates in IVF?",
+    "answer": "Out of five RCTs investigating aspirin's use in ART, four did not show a benefit for implantation rates, while one trial indicated a significantly improved implantation rate with aspirin use. Additionally, a retrospective cohort study found a higher fertilization rate in the non-aspirin group, suggesting no advantage of aspirin for implantation rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "How did aspirin affect pregnancy rates in IVF according to the studies?",
+    "answer": "Nine RCTs reported on the association between aspirin and pregnancy rates in IVF, with varying definitions of clinical pregnancy. One RCT showed a significantly improved pregnancy rate among women receiving low-dose aspirin (45% vs. 28%), while eight RCTs indicated no benefit of aspirin use for pregnancy rates. Furthermore, three cohort studies also found no benefit of aspirin for pregnancy rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of aspirin on pregnancy rates according to the studies mentioned?",
+    "answer": "Two cohort studies indicated a higher pregnancy rate with aspirin use. However, multiple randomized controlled trials (RCTs) failed to demonstrate a benefit of aspirin for live-birth rate or ongoing pregnancy rate in assisted reproductive technology (ART). There are three retrospective analyses that suggest an association between aspirin use and higher live-birth rates, but two other retrospective analyses did not find such an association. Additionally, more recent studies have shown no benefit for ongoing pregnancy rates with aspirin use.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the meta-analysis of six RCTs find regarding the effect of aspirin on pregnancy during IVF/ICSI?",
+    "answer": "The meta-analysis found no beneficial effect of aspirin on pregnancy (risk ratio [RR] 1.09; 95% CI 0.92–1.29), live-birth rate per cycle (RR 0.87; 95% CI 0.57–1.34), or live-birth rate per embryo transfer (ET) (RR 1.08; 95% CI 0.83–1.40).",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the meta-analysis that included seven trials of participants undergoing controlled ovarian stimulation, IVF, or ICSI?",
+    "answer": "This meta-analysis found no benefit of aspirin compared to placebo or no treatment for clinical pregnancy rate (RR 1.11; 95% CI 0.95–1.31) or live-birth rate (RR 0.94; 95% CI 0.64–1.39), although it lacked power when studies were pooled.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did a meta-analysis of 10 RCTs reveal about aspirin's effect on clinical pregnancy rates?",
+    "answer": "The meta-analysis showed that aspirin may increase clinical pregnancy rates (fixed effects RR 1.15; 95% CI 1.03–1.27), although there was a large variation in results among included studies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the results of a later meta-analysis of 10 RCTs regarding clinical pregnancy rate and ongoing pregnancy rate?",
+    "answer": "This meta-analysis found no improvement in clinical pregnancy rate (pooled OR 0.86; 95% CI 0.69–1.1) or ongoing pregnancy rate (pooled OR 0.85; 95% CI 0.65–1.1).",
+    "is_verified": 1
+  },
+  {
+    "question": "What did a more recent meta-analysis of 17 RCTs find about aspirin's effect on pregnancy rate and live-birth rate in IVF/ICSI couples?",
+    "answer": "The meta-analysis showed a higher pregnancy rate (OR 1.19; 95% CI 1.01–1.39) but did not show a benefit for live-birth rate (OR 1.08; 95% CI 0.90–1.29).",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the Cochrane systematic review of 13 trials conclude about aspirin's benefit in IVF for pregnancy and live-birth rates?",
+    "answer": "The review showed no benefit of aspirin in IVF for pregnancy (RR 1.03; 95% CI 0.91–1.17) or live-birth rates (RR 0.91; 95% CI 0.72–1.15).",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect did low-dose aspirin have among recipients of oocyte donation with a thin endometrium?",
+    "answer": "Low-dose aspirin improved implantation rate but not live-birth rate in patients with a thin endometrium.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding the use of low-dose aspirin in IVF?",
+    "answer": "The use of low-dose aspirin is not recommended for the general IVF population due to a lack of evidence supporting improved IVF outcomes. Studies indicate that it does not improve the success of IVF, and therefore, its routine use to enhance live birth outcomes in ART cycles is advised against.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are corticosteroids and how are they related to ovarian stimulation in IVF?",
+    "answer": "Corticosteroids are steroid hormones produced in the adrenal cortex in response to adrenocorticotropic hormone from the anterior pituitary. They have been investigated for their potential to improve ovarian response to controlled ovarian stimulation (COS), reduce the amount of exogenous gonadotropins required, and optimize the intrauterine environment to increase the likelihood of implantation after IVF. Synthetic forms such as dexamethasone, hydrocortisone, and prednisolone have been studied for these effects.",
+    "is_verified": 1
+  },
+  {
+    "question": "What mechanisms are proposed for corticosteroids to improve ovarian function during IVF?",
+    "answer": "Corticosteroids may improve ovarian function through several mechanisms, including mediating proper folliculogenesis by acting as a substrate for the enzyme 11-beta-hydroxysteroid dehydrogenase type I, which is found in luteinized granulosa cells and oocytes. They can also suppress elevated androgen levels that are detrimental to normal folliculogenesis by acting on the ovaries, adrenals, and pituitary glands, and may sensitize the ovaries to the actions of exogenous gonadotropins.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do corticosteroids play in oocyte maturation and ovulation?",
+    "answer": "Corticosteroids may play an important role in oocyte maturation and ovulation, as indicated by a significant rise in follicular cortisol observed prior to ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of administering dexamethasone during controlled ovarian stimulation (COS) in normo-ovulatory women?",
+    "answer": "The administration of dexamethasone during COS did not lead to an improvement in implantation rates or pregnancy rates compared to controls, with rates being 13% for controls, 11% for 0.5 mg dexamethasone, and 12% for 1 mg dexamethasone.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the trials reveal about the effectiveness of low-dose dexamethasone in patients with unexplained or anovulatory infertility?",
+    "answer": "The trials found no benefit of treatment with low-dose dexamethasone in patients with unexplained or anovulatory infertility who had a history of poor response in prior IVF cycles.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding the use of prednisolone during ovarian stimulation?",
+    "answer": "The trial that randomized patients to receive 10 mg daily oral prednisolone or no treatment found no difference in ongoing pregnancy or deliveries between the treatment groups, with rates of 39.6% for prednisolone and 37.1% for controls.",
+    "is_verified": 1
+  },
+  {
+    "question": "Did corticosteroids significantly affect the number of developing follicles, oocyte yield, fertilization, or clinical pregnancy rate during COS?",
+    "answer": "The results of the trials consistently demonstrated that treatment with corticosteroids during COS did not significantly affect the number of developing follicles, oocyte yield, fertilization, or clinical pregnancy rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the hypothesis evaluated in the study regarding corticosteroids?",
+    "answer": "The hypothesis evaluated was whether corticosteroids improve ovarian response to controlled ovarian stimulation (COS).",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the recent two-center, double-blinded RCT regarding dexamethasone?",
+    "answer": "The study found that the treatment group receiving 1 mg dexamethasone had a reduced rate of cycle cancellation for poor response (2.8%) compared to the control group (12.4%), with a statistically significant difference (P<.002).",
+    "is_verified": 1
+  },
+  {
+    "question": "Did the study find significant differences in fertilization, implantation, or clinical pregnancy rates?",
+    "answer": "No, the study found no significant differences in fertilization, implantation, or clinical pregnancy rates per cycle start between the treatment and control groups.",
+    "is_verified": 1
+  },
+  {
+    "question": "How many patients were involved in the RCT that included first-time IVF patients?",
+    "answer": "The RCT included 395 first-time IVF patients with normal ovarian reserve.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of low-dose aspirin and prednisone on ovarian response during IVF treatment?",
+    "answer": "The combination of low-dose aspirin (100 mg) and prednisone (10 mg/day) during ovarian stimulation resulted in significantly improved ovarian response, with higher estradiol levels on the day of hCG trigger and more oocytes retrieved compared to control patients. Specifically, the treatment group had estradiol levels of 2,082/C6 741 vs. 1,728/C6 672 (P<.001) and retrieved 14.0 /C6 6.5 oocytes vs. 10.5 /C6 5.1 in the control group (P<.001).",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding pregnancy rates in women undergoing IVF/ICSI treated with prednisolone?",
+    "answer": "Despite the improved ovarian response, the study found no significant differences in fertilization, implantation, clinical pregnancy, and early pregnancy loss rates between the treatment group receiving prednisolone and the control group. A meta-analysis indicated no difference in pregnancy rate (RR 1.02, 95% CI 0.84–1.24), clinical pregnancy rate (RR 1.01, 95% CI 0.82–1.24), or implantation rate (RR 1.04, 95% CI 0.85–1.28).",
+    "is_verified": 1
+  },
+  {
+    "question": "How did prednisolone affect clinical pregnancy rates in hyperandrogenemic infertile patients?",
+    "answer": "In a randomized controlled trial involving hyperandrogenemic infertile patients, treatment with 7.5 mg of oral prednisolone daily from cycle day 1 until pregnancy or menstrual bleeding resulted in a clinical pregnancy rate of 21.9% in the prednisolone group compared to 8.2% in the control group (P=0.037). This suggests that prednisolone positively impacted clinical pregnancy rates in this patient population.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of prednisolone on patients with endometriosis and/or tubal factor infertility?",
+    "answer": "Another randomized controlled trial included patients with endometriosis and/or tubal factor infertility who received daily prednisolone (10 mg from cycle day 3). The specific outcomes of this treatment on clinical pregnancy rates or other fertility metrics were not detailed in the excerpt, but it indicates that prednisolone was part of the treatment regimen for these patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of corticosteroid treatment on pregnancy rates in patients with endometriosis and tubal factor infertility?",
+    "answer": "Corticosteroid treatment significantly improved the pregnancy rate in patients with endometriosis and tubal factor infertility, while it did not have a benefit in patients with tubal factor infertility alone.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the pregnancy rate for patients who tested positive for autoantibodies and received corticosteroids?",
+    "answer": "Patients who tested positive for autoantibodies and received corticosteroids had a pregnancy rate of 40.9%, compared to 14.8% for those who did not receive corticosteroids.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the most recent meta-analysis published in 2017 conclude about the impact of daily corticosteroids on clinical pregnancy or live-birth rates?",
+    "answer": "The meta-analysis concluded that daily corticosteroids (10 mg prednisolone or 0.5 mg dexamethasone during ovarian stimulation up until oocyte retrieval) did not impact clinical pregnancy or live-birth rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are some limitations of the studies reporting on corticosteroid treatment and IVF success rates?",
+    "answer": "The studies are limited by significant methodological flaws, including a lack of power analysis, heterogeneity in treatment protocols, and limited generalizability to current IVF treatment paradigms.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do natural killer (NK) cells play in uterine receptivity?",
+    "answer": "Natural killer (NK) cells play an important role in mediating immunological and non-immunological activity within the endometrium, which is regulated by locally acting growth factors and cytokines.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do cytokines and NK cells play in pregnancy?",
+    "answer": "Cytokines and NK (natural killer) cells play a crucial role in maintaining maternal-fetal immune tolerance and regulating trophoblast invasion. Aberrant cytokine activity and overactivity of NK cells have been associated with implantation failure and early pregnancy loss.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the proposed treatment for normalizing NK cell activity during implantation?",
+    "answer": "The administration of corticosteroids around the time of implantation has been proposed as a strategy to normalize NK cell activity and cytokine expression, and suppress inflammatory mediators to improve endometrial receptivity and the odds of successful implantation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What have randomized controlled trials (RCTs) shown about the effect of peri-implantation corticosteroids on implantation outcomes?",
+    "answer": "Several RCTs have failed to demonstrate any effect of peri-implantation corticosteroids on embryo transfer (ET) outcomes. For instance, one RCT with 99 normo-ovulatory women reported no improvement in implantation, clinical pregnancy, or live-birth rates after administering 0.5 mg dexamethasone for 5 days from ovulation to ET. Another trial with 75 IVF patients showed no difference in implantation or clinical pregnancy rates between those receiving 60 mg prednisone and those on placebo. A larger study of 206 patients also reported no difference in outcomes between those receiving methylprednisone and those receiving placebo.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did a systematic review conclude about peri-implantation corticosteroid administration?",
+    "answer": "A recent, large systematic review that included 14 RCTs involving 1,879 patients who received either corticosteroids or no treatment prior to transfer reiterated the lack of effect of peri-implantation corticosteroid administration on clinical outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of steroid treatment on patients with serum autoantibodies in relation to fertility outcomes?",
+    "answer": "Steroid treatment, specifically 5 mg of prednisolone daily from the day of oocyte retrieval to the pregnancy test, improved clinical pregnancy and live-birth rates in patients with anti-thyroglobulin and thyroid peroxidase antibodies. The treatment group had a clinical pregnancy rate of 46.6% compared to 16.6% in the control group, and a live birth rate of 46.6% compared to 20% in the control group, indicating a significant positive effect of the treatment on fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What autoimmune thyroid disorders are mentioned in the excerpt?",
+    "answer": "The excerpt mentions autoimmune thyroid disorders characterized by the presence of antithyroid antibodies, specifically antithyroid peroxidase and/or thyroglobulin antibodies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What complications are associated with thyroid autoimmunity according to the excerpt?",
+    "answer": "Thyroid autoimmunity has been associated with recurrent pregnancy loss, preterm birth, and recurrent IVF failure.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the sample size and age range of the patients in the study mentioned in the excerpt?",
+    "answer": "The study randomized 60 patients with anti-thyroglobulin and thyroid peroxidase antibodies, with an average age of approximately 38 years.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of prednisolone on implantation and clinical pregnancy rates in ANA-positive women?",
+    "answer": "Patients who received prednisolone had significantly higher implantation and clinical pregnancy rates compared to ANA-positive women who did not receive corticosteroids.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the conclusion regarding live-birth rates in the study of ANA-positive women receiving corticosteroids?",
+    "answer": "There was no significant difference in live-birth rate between those who received corticosteroids and those who did not.",
+    "is_verified": 1
+  },
+  {
+    "question": "What limitations were noted in the retrospective cohort studies regarding corticosteroid treatment?",
+    "answer": "The studies were confounded by co-administration of corticosteroids with aspirin and had limitations such as small sample sizes and inappropriate statistical analyses.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the Level-I study find regarding the efficacy of corticosteroids for autoimmune-mediated male infertility?",
+    "answer": "The study found that randomization of men with antisperm antibodies to prednisolone did not reduce the amount of sperm-bound antibody and did not improve IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What evidence is there regarding the routine use of corticosteroids during stimulation for improving outcomes?",
+    "answer": "There is good evidence to recommend against the routine use of corticosteroids during stimulation to improve outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the evidence regarding the use of corticosteroids during the implantation window in ART cycles?",
+    "answer": "There is good evidence to recommend against the routine use of corticosteroids during the implantation window to improve the outcome of live birth in ART cycles in the general population, based on principally Level-I studies of good quality. (Grade A)",
+    "is_verified": 1
+  },
+  {
+    "question": "What cytokines are discussed in relation to reproductive tissues and fertility?",
+    "answer": "Granulocyte Colony–stimulating Factor (G-CSF) and Granulocyte/Macrophage Colony–stimulating Factor (GM-CSF) are discussed in relation to their production and receptors in reproductive tissues and their potential impact on fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of studies evaluating the clinical use of GM-CSF/G-CSF in IVF?",
+    "answer": "The studies evaluated showed mixed results: one Level-I study indicated no benefit to the euploidy rate of developing embryos (34.8% treatment vs. 33.3% controls), and a large multicenter RCT demonstrated no improvement in embryo development with GM-CSF treatment compared to controls (OR 0.98 [0.91–1.05]). However, one investigation found that GM-CSF improved the yield of implantation-competent blastocysts in human IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of G-CSF on endometrial thickness according to the studies mentioned?",
+    "answer": "G-CSF was associated with increased endometrial thickness in one Level-I study focused on women with a thin endometrium. However, it showed inconsistent associations with increased thickness in Level-II studies. Overall, the studies suggest that G-CSF might benefit patients with recurrent implantation failure or those with an unresponsive endometrium more than unselected populations.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding GM-CSF and embryo development rates?",
+    "answer": "A single RCT suggested that GM-CSF, when used with unfertilized oocytes activated by the calcium ionophore A23187, improved activated embryo development rates and quality. However, the generalizability of these findings is unclear as calcium ionophores are not used in regular clinical practice and focus on abnormal fertilization events only.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the systematic review indicate about G-CSF and IVF outcomes?",
+    "answer": "The impact of G-CSF on IVF outcomes has been evaluated in multiple studies, with three out of five RCTs indicating that G-CSF is associated with improved implantation rate and clinical pregnancy rate. However, live-birth rate was not assessed in any of the included RCTs that evaluated G-CSF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the results of the cohort studies regarding clinical outcomes and embryo quality?",
+    "answer": "A cohort study directly investigating clinical outcomes failed to demonstrate improvement in embryo quality, clinical pregnancy rate, or live-birth rate. Additionally, a systematic review found no improvement in implantation rate and pregnancy rate outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of CSF treatment on implantation rates in women undergoing IVF?",
+    "answer": "CSF treatment demonstrated an improved implantation rate of 23% compared to 18.7% in the control group, with a statistical significance of P=0.02.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of CSF treatment on live-birth rates per transfer?",
+    "answer": "CSF treatment resulted in a live-birth rate per transfer of 28.9% compared to 24.1% in the control group, with a statistical significance of P=0.03.",
+    "is_verified": 1
+  },
+  {
+    "question": "Was there a specific benefit of CSF treatment for women with a history of recurrent miscarriage?",
+    "answer": "Yes, sub-analysis suggested a specific benefit regarding live birth in women with a history of recurrent miscarriage, showing a rate of 29.6% compared to 23.1% in the control group, with a statistical significance of P=0.02.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of G-CSF in IVF outcomes according to the excerpt?",
+    "answer": "G-CSF (Granulocyte-Colony Stimulating Factor) has shown improvement in implantation rates and clinical pregnancy rates in two Level-II meta-analyses, particularly in subgroups of patients with a thin endometrium or repeated IVF failure. However, there is insufficient evidence to recommend its use for improving endometrial thickness or clinical pregnancy rates in women with normal endometrial thickness. The studies show a high level of heterogeneity and inconsistent findings, indicating that further investigations are needed to evaluate its role in selected subgroups.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the excerpt say about the use of intravenous fat emulsions?",
+    "answer": "The excerpt mentions intravenous fat emulsions in the context of parental nutrition but does not provide detailed information about their use or effects. Therefore, specific medical information regarding intravenous fat emulsions is not elaborated upon in the provided text.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of intravenous fat emulsions on spontaneous abortion rates in murine models?",
+    "answer": "Intravenous fat emulsions have been shown to significantly reduce the rate of spontaneous abortion in an early murine model.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the RCT evaluating intravenous fat emulsions in women with unexplained secondary infertility?",
+    "answer": "The RCT showed that the infusion of intravenous fat emulsions on the day of oocyte retrieval was associated with a statistically significant increase in ongoing pregnancy rate (37.5% in treatment group vs. 22.4% in controls, P=0.005) and live-birth rate, although there was a nonsignificant increase in chemical pregnancy rate and a nonsignificant reduction in spontaneous abortion rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the prospective cohort study on intravenous fat emulsions for women aged 40-42 undergoing IVF-ET?",
+    "answer": "The study was terminated early because preliminary data showed no live births in the intravenous fat emulsion group, while the untreated controls had a 30% live-birth rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding the use of intravenous fat emulsions for infertile women pursuing IVF?",
+    "answer": "There is insufficient evidence to routinely recommend intravenous fat emulsions for infertile women pursuing IVF, based on one Level-I study of high quality and one Level-II study of low quality (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "What potential role does intravenous immunoglobulin (IVIG) play in treating failed IVF and recurrent pregnancy loss?",
+    "answer": "IVIG has anti-inflammatory and immune-modulating properties and has been considered as a potential treatment for failed IVF and recurrent pregnancy loss due to the hypothesized role of inflammatory bias in these conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "How many randomized trials have assessed the effect of IVIG administration on IVF outcomes?",
+    "answer": "Only two small randomized trials have assessed the effect of IVIG administration on IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is IVIG and how is it related to IVF outcomes?",
+    "answer": "IVIG (Intravenous Immunoglobulin) is a treatment that has been studied for its effects on IVF (In Vitro Fertilization) outcomes. The excerpt indicates that IVIG was associated with an improved implantation rate in one randomized controlled trial (RCT) but did not show a significant improvement in pregnancy rates. Additionally, several Level-II studies showed some improvement in live-birth rates with IVIG, although there was a high level of heterogeneity among the studies. The use of IVIG is suggested to be considered only in well-designed prospective trials due to its expense and associated risks.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding the live-birth rates in studies involving IVIG?",
+    "answer": "The findings indicated that in a more recent Level-I study involving women with repeat unexplained IVF failure, there was no significant improvement in live-birth rates (15% in the treatment group vs. 12% in controls). However, seven Level-II studies showed improvement in live-birth rates in at least some parameters, with six studies demonstrating improved live-birth rates. One observational study reported a very high live-birth rate in a recurrent implantation failure group (80% vs. 17.9%) and in a recurrent miscarriage group (96.3% vs. 30.8%).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the Th1:Th2 ratio in relation to IVIG treatment?",
+    "answer": "The Th1:Th2 ratio is significant in the context of IVIG treatment as it was used for immune stratification of treatment and response in some studies. One retrospective study demonstrated an improvement in implantation rates specifically in patients with an elevated Th1:Th2 ratio, showing a 45% implantation rate with IVIG compared to 22% in the control group. This suggests that the immune profile may play a role in the effectiveness of IVIG treatment for improving IVF outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the conclusion regarding the use of IVIG in IVF based on the studies mentioned?",
+    "answer": "The conclusion drawn from the studies is that there is insufficient evidence to recommend the routine administration of IVIG as part of IVF treatment to improve IVF outcomes. This conclusion is based on two Level-I studies that were underpowered, one of good quality and one of low quality, leading to a Grade C recommendation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is adalimumab and how is it used in treatment?",
+    "answer": "Adalimumab is a tumor necrosis factor alpha (TNFa) blocking antibody used in the treatment of autoimmune diseases. It has shown considerable success and raises hope that patients with abnormally high TNF secretion may benefit from treatment in conjunction with in vitro fertilization (IVF).",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the study involving adalimumab and IVIG?",
+    "answer": "The study found a statistically significant elevation in live-birth rates among patients treated with adalimumab or IVIG compared to controls, with 50% of patients receiving adalimumab achieving live births compared to 0% in the control group. This study involved 75 subfertile women with Th1/Th2 cytokine elevation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatments were administered to the patients in the study?",
+    "answer": "Patients in the study received various combinations of treatments: Group I received both IVIG and adalimumab, Group II received IVIG alone, Group III received adalimumab alone, and Group IV received neither treatment. All patients also received low molecular-weight heparin (LMWH) and low-dose aspirin.",
+    "is_verified": 1
+  },
+  {
+    "question": "What methods were used to stratify patients in the study?",
+    "answer": "Patients were stratified using a Th1:Th2 ratio assessment by flow cytometry and an NK cell cytotoxicity assay to identify a high-TNFa group for treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What correlation was found in the different report from the same group?",
+    "answer": "The different report correlated the degree of correction of Th1:Th2 'abnormality' with implantation rate and live-birth rate, particularly in patients with 'inadequate cytokine suppression' who received optimal treatment outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is adalimumab and what are its potential risks?",
+    "answer": "Adalimumab is a TNF inhibitor used in various treatments, including autoimmune diseases. The potential risks associated with its short-term use are unknown, but long-term use (greater than 12 weeks) has been associated with an increased risk of serious infections and malignancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the Th1:Th2 ratio and NK cytotoxicity assays in the context of the studies mentioned?",
+    "answer": "The stability and meaning of clinical Th1:Th2 ratio or NK cytotoxicity assays are poorly defined and not in routine clinical use, which poses challenges in interpreting the studies that examined these factors in relation to implantation rates in IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the recommendations regarding the use of adalimumab in IVF treatments based on the studies?",
+    "answer": "There is insufficient evidence to recommend adalimumab treatment to improve IVF outcomes, as indicated by the studies which are of low quality and suggest the need for further validation and prospective randomized trials.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of peripheral blood mononuclear cells (PBMC) in embryo implantation?",
+    "answer": "Peripheral blood mononuclear cells (PBMC) are investigated as a potential therapy for patients with recurrent implantation failure, as they are believed to be necessary for achieving immune tolerance to embryonic implantation and placentation. Intrauterine infusion of PBMCs has been studied to see if it can improve clinical pregnancy rates in patients with a history of repeated implantation failure.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings of the randomized controlled trial (RCT) regarding the use of PBMCs in IVF?",
+    "answer": "The RCT found that patients who received autologous PBMCs cultured and instilled into the endometrial cavity prior to embryo transfer experienced a significantly increased clinical pregnancy rate (P<.05) compared to those who received standard embryo transfer without pretreatment. However, the early pregnancy loss rate was reduced but not significantly. The study's findings are limited by a small sample size and potential selection bias.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the summary statement conclude about the use of PBMCs prior to embryo transfer?",
+    "answer": "The summary statement concludes that there is insufficient evidence to recommend the intrauterine infusion of autologous peripheral mononuclear cells prior to embryo transfer to improve IVF outcomes, based on one Level-I study of low quality and one Level-II study of low quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is seminal plasma instillation in the context of IVF?",
+    "answer": "Seminal plasma instillation refers to the process of introducing seminal plasma into the uterus and/or cervix during the ovum pickup procedure for in vitro fertilization (IVF). This technique has been investigated to assess its potential benefits in the IVF process.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of seminal plasma insemination on pregnancy rates?",
+    "answer": "Seminal plasma insemination has shown a statistically nonsignificant increase in pregnancy rates compared to placebo or no intervention. However, a meta-analysis of seven RCTs indicated a statistically significant improvement in clinical pregnancy rates, but no significant improvement in ongoing pregnancy or live-birth rates. Overall, there is fair evidence that seminal plasma insemination as part of IVF improves clinical pregnancy rates but does not improve ongoing pregnancy or live-birth rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are antisperm antibodies and how do they affect fertilization?",
+    "answer": "Antisperm antibodies are immune proteins that can be present in some individuals, particularly in about 10% of infertile couples. These antibodies may impair fertilization by affecting sperm transport or zona penetration, which are critical processes for successful fertilization. Techniques such as antibody-free preparation of spermatozoa have been investigated to mitigate the impact of these antibodies on fertilization rates, especially in couples with antisperm antibody-positive male partners.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between IgG and IgA antibodies and fertilization rates in IVF?",
+    "answer": "IgG and immunoglobulin A (IgA) antibodies are associated with lower fertilization rates in IVF. One randomized controlled trial (RCT) of 36 patients found that chymotrypsin-galactose treatment of sperm improved fertilization rates (46.7% vs. 27.3%, P<.05) in patients with over 50% antisperm antibodies, although it did not reduce the percentage of sperm bound with antibodies. Additionally, another study showed that an antibody-free preparation of sperm did not improve fertilization rates compared to untreated sperm.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role does tacrolimus play in treating recurrent implantation failure?",
+    "answer": "Tacrolimus is an immunosuppressive drug that inhibits antigen-induced lymphocytic proliferation, cytotoxic T-cell formation, IL-2 receptor expression, and the production of IL-2 and interferon-gamma. It was evaluated in a prospective study for its effect on patients with recurrent implantation failure, as a healthy pregnancy requires maternal immune tolerance to the invading trophoblast for successful implantation and adequate placentation and fetal growth.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between Th1/Th2 ratio and recurrent implantation failure?",
+    "answer": "Recurrent implantation failure is associated with a high peripheral blood Th1/Th2 ratio. A Th1 immune response is linked to the rejection of allografts and embryos, indicating that an imbalance in this ratio may contribute to difficulties in achieving a successful pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of tacrolimus on IVF outcomes in patients with a history of failed IVF cycles?",
+    "answer": "In a study comparing treated patients who received 1 to 3 mg tacrolimus prior to embryo transfer (ET) with untreated controls, the treated cohort showed significantly higher clinical pregnancy rates (64% vs. 0%) and live-birth rates (60% vs. 0%), with a p-value of less than 0.0001. However, the study's results should be interpreted with caution due to selection bias and a small sample size, leading to insufficient evidence to recommend tacrolimus for improving IVF-ET outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the known risks associated with IVIG use?",
+    "answer": "IVIG use has been associated with several risks, including fever, hypotension, tachycardia, thromboembolic complications, and anaphylactic reactions. Additionally, as a pooled blood product, IVIG carries an inherent risk of infectious disease.",
+    "is_verified": 1
+  },
+  {
+    "question": "What side effects are associated with intravenous fat emulsion infusions?",
+    "answer": "Intravenous fat emulsion infusions are generally well tolerated, but there have been reports of side effects such as jaundice and hyperthermia.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the common side effects of G-CSF in healthy donors during blood and marrow transplantation?",
+    "answer": "Common side effects associated with systemic administration of G-CSF in healthy donors include bone pain and myalgias.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the known side effects of tacrolimus when used as an immunosuppressant?",
+    "answer": "When used as an immunosuppressant to prevent organ rejection, tacrolimus is associated with side effects such as nephrotoxicity, neurotoxicity, and hypertension.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential risks associated with the use of low-dose aspirin in IVF treatment?",
+    "answer": "In a trial comparing low-dose aspirin to untreated controls, the aspirin group required a higher dose of follicle-stimulating hormone prior to oocyte retrieval and had a higher number of immature oocytes. Additionally, the ratio of good quality embryos per retrieved oocytes was significantly better in the untreated group compared to the treated group at lower doses of low-dose aspirin.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the findings regarding intravenous fat emulsion treatment in IVF?",
+    "answer": "The study investigating the effectiveness of intravenous fat emulsions on outcomes of women aged 40–42 years undergoing IVF-ET was cancelled due to no live births in the intravenous fat emulsion group, while the untreated controls had a 30% live-birth rate.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the conclusion regarding the use of immunotherapies in IVF treatment?",
+    "answer": "Immunotherapies aimed at improving the likelihood of live birth in IVF treatment have largely proven to be ineffective or insufficiently investigated to make definitive recommendations for their use. Some studies have shown improved surrogate outcomes such as clinical pregnancy, but these often involve narrowly defined subgroups of patients identified through immunological testing, which is not widely available or reproducible.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential benefits and risks associated with immunotherapy in ART treatment?",
+    "answer": "The excerpt discusses the uncertain benefits and meaningful risks of immunotherapy, emphasizing the need for careful assessment of risks associated with therapy in the design of adequately powered randomized controlled trials (RCTs) investigating immunotherapies as adjuvants in ART treatment. It suggests that future studies should focus on well-defined subgroups where potential for benefit exists but is not consistently demonstrated.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should future studies of adjuvant immunotherapy in IVF focus on?",
+    "answer": "Future studies of adjuvant immunotherapy in IVF should be adequately powered for the primary outcome of live birth and should focus on populations where the potential for benefit exists but has not been conclusively demonstrated, including conditions such as implantation failure and recurrent miscarriage.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is recommended regarding the routine use of low-dose aspirin in ART cycles?",
+    "answer": "The excerpt states that there is good evidence to recommend against the routine use of low-dose aspirin to improve the outcome of live birth in ART cycles in the general population, based on Level-I studies of good and high quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should be documented in subsequent RCTs investigating immunotherapies?",
+    "answer": "Side-effect profiles for immunotherapies should be carefully documented in subsequent RCTs to ensure comprehensive understanding of the treatment's impact.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding G-CSF/GM-CSF in ART?",
+    "answer": "G-CSF/GM-CSF should be reserved for investigational trials in selected subpopulations, indicating that its use should be limited to research settings rather than routine clinical practice.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the current stance on routine immunological testing in the general ART population?",
+    "answer": "Until clear and consistent relationships are demonstrated between immunophenotypes and ART outcomes, routine immunological testing in the general ART population cannot be recommended.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the evidence regarding the use of corticosteroids during stimulation in ART cycles?",
+    "answer": "There is good evidence to recommend against the routine use of corticosteroids during the implantation window to improve the outcome of live birth in ART cycles in the general population. (Grade A).",
+    "is_verified": 1
+  },
+  {
+    "question": "Is there evidence for the use of local G-CSF to improve endometrial thickness in women with thin endometrium?",
+    "answer": "There is insufficient evidence to recommend for or against local G-CSF to improve endometrial thickness in women with thin endometrium or clinical pregnancy rates with IVF. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the evidence say about the use of G-CSF or GM-CSF for improving IVF outcomes?",
+    "answer": "There is insufficient evidence to recommend for or against G-CSF or GM-CSF administered locally or systemically to improve IVF outcomes. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding intravenous fat emulsions for infertile women pursuing IVF?",
+    "answer": "There is insufficient evidence to routinely recommend intravenous fat emulsions for infertile women pursuing IVF. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "Is there evidence supporting the use of IVIG administration as part of IVF?",
+    "answer": "There is insufficient evidence to recommend IVIG administration as part of IVF to improve IVF outcomes. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the evidence indicate about adalimumab treatment for improving IVF outcomes?",
+    "answer": "There is insufficient evidence to recommend adalimumab treatment to improve IVF outcome. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "Is there evidence for the intrauterine infusion of autologous peripheral mononuclear cells prior to ET to improve IVF outcomes?",
+    "answer": "There is insufficient evidence to recommend intrauterine infusion of autologous peripheral mononuclear cells prior to ET to improve IVF outcome. (Grade C).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the evidence regarding seminal plasma insemination as part of IVF?",
+    "answer": "There is fair evidence that seminal plasma insemination as part of IVF improves clinical pregnancy rate. (Grade not specified).",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the evidence suggest about the improvement of ongoing pregnancy or live-birth rates?",
+    "answer": "There is fair evidence that it does not improve ongoing pregnancy or live-birth rates, based on underpowered Level-I studies of good quality. (Grade B)",
+    "is_verified": 1
+  },
+  {
+    "question": "Is there sufficient evidence to support antibody-free preparation of spermatozoa in improving IVF outcomes?",
+    "answer": "There is insufficient evidence to support the recommendation either for or against antibody-free preparation of spermatozoa in improving IVF outcomes, based on one Level-I study of low quality and one Level-II study of low quality. (Grade C)",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the recommendation regarding the use of tacrolimus to improve IVF-ET outcomes?",
+    "answer": "There is insufficient evidence to recommend tacrolimus to improve IVF-ET outcomes, based on a single Level-II study of low quality. (Grade C)",
+    "is_verified": 1
+  },
+  {
+    "question": "What do the reviewed immunotherapies indicate regarding live-birth outcomes in IVF?",
+    "answer": "Immunotherapies reviewed are either not associated with improved live-birth outcomes in IVF or have been insufficiently studied to make definitive conclusions regarding benefits and risks. Patients must be informed of uncertain benefits and risks associated with immunotherapy in the absence of well-designed adequately powered RCTs.",
+    "is_verified": 1
+  },
+  {
+    "question": "Is there evidence to suggest screening for certain conditions in an asymptomatic population?",
+    "answer": "There is no evidence to suggest screening for these conditions in an asymptomatic population.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of immunologic tests in IVF according to the excerpt?",
+    "answer": "The excerpt references a study titled \"Immunologic Tests Ivf: 'please, Enough already'\" which suggests a critical view on the use of immunologic tests in IVF, indicating that there may be concerns about their necessity or effectiveness.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the focus of the study involving low-dose aspirin and uterine hemodynamics?",
+    "answer": "The study titled \"Low-dose aspirin and uterine hemodynamics on the day of embryo transfer in women undergoing IVF/ICSI\" aimed to assess the effects of low-dose aspirin on uterine blood flow during the embryo transfer process in IVF/ICSI procedures.",
+    "is_verified": 1
+  },
+  {
+    "question": "What imaging technique is mentioned in relation to IVF and what is its purpose?",
+    "answer": "The excerpt mentions the use of transvaginal color flow imaging after in vitro fertilization to identify ovarian responses or conditions that may affect the success of the IVF process.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of low-dose aspirin on in vitro fertilization success?",
+    "answer": "Several studies have investigated the role of low-dose aspirin in improving in vitro fertilization (IVF) outcomes. For instance, a randomized controlled trial indicated that low-dose aspirin and/or steroid treatment in nonselected intracytoplasmic sperm injection cycles did not significantly improve IVF success rates. Another study focused on non-tubal IVF patients with previous failed conceptions found that low-dose aspirin did not enhance implantation rates. However, one study suggested that low-dose aspirin treatment may improve ovarian responsiveness, uterine and ovarian blood flow velocity, implantation, and pregnancy rates in patients undergoing IVF. Conversely, other research indicated that low-dose aspirin use does not improve IVF outcomes in poor responders. Overall, the evidence is mixed, and further research is needed to clarify the role of low-dose aspirin in IVF protocols.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the findings regarding low-dose aspirin therapy in women undergoing IVF cycles?",
+    "answer": "Research has shown varying effects of low-dose aspirin therapy on women undergoing in vitro fertilization (IVF) cycles. One study reported that low-dose aspirin therapy positively affected the implantation rate in women undergoing IVF. However, another study found that low-dose aspirin did not increase implantation rates in patients undergoing intracytoplasmic sperm injection. Additionally, a matched study examined whether low-dose aspirin without heparin improved pregnancy rates following frozen embryo transfer, but the results were inconclusive. Overall, while some studies suggest potential benefits of low-dose aspirin in IVF, others indicate no significant improvement in outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of low-dose aspirin on pregnancy rates in IVF/ICSI according to the studies mentioned?",
+    "answer": "The studies indicate mixed results regarding the effect of low-dose aspirin on pregnancy rates in IVF/ICSI. One study suggests that low-dose aspirin may improve pregnancy rates, while another study concludes that it does not improve ovarian responsiveness or pregnancy rates in IVF and ICSI patients. Additionally, another study explores the use of low-dose acetylsalicylic acid plus prednisolone as an adjuvant treatment in IVF, and another study examines its use for oocyte donation recipients with a thin endometrium.",
+    "is_verified": 1
+  },
+  {
+    "question": "What type of studies were conducted to assess the impact of low-dose aspirin on IVF/ICSI outcomes?",
+    "answer": "The studies mentioned are randomized, double-blind, placebo-controlled trials, which are considered high-quality evidence in clinical research. These designs help to minimize bias and ensure that the results are reliable.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the findings related to low-dose aspirin in IVF treatments?",
+    "answer": "The findings suggest that while low-dose aspirin may have potential benefits in certain contexts of IVF treatments, such as in patients with specific conditions like a thin endometrium, overall, its effectiveness in improving pregnancy rates remains inconclusive based on the studies referenced. This highlights the need for further research to clarify its role in assisted reproductive technologies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of low-dose aspirin on ovarian stimulation and pregnancy rates for in vitro fertilization?",
+    "answer": "Low-dose aspirin does not improve ovarian stimulation, endometrial response, or pregnancy rates for in vitro fertilization, as indicated by a study published in J Exp Clin Assist Reprod in 2005.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does adjuvant therapy affect endometrial receptivity in assisted reproduction?",
+    "answer": "Adjuvant therapy enhances endometrial receptivity in patients undergoing assisted reproduction, according to a study published in Reprod Biomed Online in 2006.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the randomized study on low-dose aspirin as standard treatment in in vitro fertilization?",
+    "answer": "A randomized, prospective study published in Fertil Steril in 2004 found that low-dose aspirin in a short regimen did not improve outcomes in in vitro fertilization.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the focus of the study regarding low-dose aspirin therapy and hypertensive pregnancy complications?",
+    "answer": "A study published in Hum Reprod in 2010 investigated the effects of low-dose aspirin therapy on hypertensive pregnancy complications in unselected IVF and ICSI patients, indicating its potential impact on these complications.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the systematic review and meta-analysis say about low-dose aspirin for in vitro fertilization?",
+    "answer": "A systematic review and meta-analysis published in Hum Reprod Update in 2007 evaluated the effects of low-dose aspirin for in vitro fertilization, suggesting its relevance in this context.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the systematic review and meta-analysis conclude about aspirin in women undergoing in vitro fertilization treatment?",
+    "answer": "A systematic review and meta-analysis published in Fertil Steril in 2007 assessed the use of aspirin in women undergoing in vitro fertilization treatment, indicating its effects on treatment outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the purpose of the reanalysis regarding low-dose aspirin in in vitro fertilization?",
+    "answer": "The reanalysis published in Fertil Steril in 2008 aimed to evaluate the evidence of the effects of low-dose aspirin in in vitro fertilization, questioning the evidence of its effectiveness.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is in vitro fertilization (IVF)?",
+    "answer": "In vitro fertilization (IVF) is a medical procedure in which an egg is fertilized by sperm outside the body, in a laboratory setting. It is commonly used to treat infertility and involves several steps, including ovarian stimulation, egg retrieval, fertilization, and embryo transfer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of low-dose aspirin in IVF?",
+    "answer": "Low-dose aspirin has been studied for its potential benefits in in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI). Systematic reviews and meta-analyses have been conducted to evaluate its effectiveness in improving outcomes during these procedures.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does low-dose dexamethasone affect ovarian response in IVF?",
+    "answer": "Low-dose dexamethasone has been shown to augment the ovarian response to exogenous gonadotrophins, which can lead to a reduction in cycle cancellation rates in standard IVF programs. This suggests that glucocorticoids may play a role in enhancing fertility treatment outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of glucocorticoid supplementation during ovarian stimulation for IVF or ICSI?",
+    "answer": "Glucocorticoid supplementation during ovarian stimulation for IVF or ICSI has been reviewed in systematic studies, indicating its potential impact on improving the success rates of these fertility treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What changes occur in cortisol levels during the luteinizing hormone surge?",
+    "answer": "During the luteinizing hormone surge, there is an increase in both total and free cortisol levels in follicular fluid. This hormonal change is significant as it may influence the processes involved in ovulation and fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of glucocorticoid administration during embryo transfer?",
+    "answer": "Glucocorticoid administration during the transfer of frozen-thawed embryos has been studied in randomized trials, suggesting that it may have beneficial effects on implantation and pregnancy outcomes in IVF treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of low dose prednisolone administration in routine ICSI patients?",
+    "answer": "Low dose prednisolone administration in routine ICSI patients does not improve pregnancy and implantation rates, as indicated by a study published in 2002.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the focus of the meta-analysis regarding prednisolone administration?",
+    "answer": "The meta-analysis focused on the effect of prednisolone administration on patients with unexplained recurrent miscarriage and in routine intracytoplasmic sperm injection, published in 2015.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the study on prednisolone supplementation to Clomid and/or gonadotrophin stimulation for in-vitro fertilization?",
+    "answer": "The study found that prednisolone supplementation to Clomid and/or gonadotrophin stimulation for in-vitro fertilization was evaluated in a prospective randomized trial, published in 1986.",
+    "is_verified": 1
+  },
+  {
+    "question": "What treatment was successful for patients with abnormal autoimmunity undergoing in vitro fertilization?",
+    "answer": "Successful glucocorticoid treatment was reported for patients with abnormal autoimmunity undergoing in vitro fertilization and embryo transfer, as published in 1996.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the purpose of corticosteroids in patients with antiovarian antibodies undergoing in vitro fertilization?",
+    "answer": "Corticosteroids were used in a prospective pilot study to evaluate their effects on patients with antiovarian antibodies undergoing in vitro fertilization, published in 2006.",
+    "is_verified": 1
+  },
+  {
+    "question": "What combination of medications improved pregnancy rates in patients with reproductive failure and autoimmune antibodies?",
+    "answer": "A prospective study found that prednisone and aspirin improved pregnancy rates in patients with reproductive failure and autoimmune antibodies, published in 2000.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of combining prednisolone with low-dose aspirin?",
+    "answer": "The combination of prednisolone plus low-dose aspirin was found to improve the implantation rates in a study, although the excerpt does not provide the complete details of the study's findings.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of methylprednisolone plus low-dose aspirin on IVF outcomes in patients with anticardiolipin antibody?",
+    "answer": "A retrospective study indicated that this combination treatment may have positive effects on IVF outcomes in patients with anticardiolipin antibody.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of prednisone plus low-dose aspirin in IVF/ICSI outcomes for patients with anti-nuclear antibodies?",
+    "answer": "A retrospective study found that this treatment may improve IVF/ICSI outcomes in patients with anti-nuclear antibodies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of peri-implantation glucocorticoid administration in assisted reproductive technology cycles?",
+    "answer": "The Cochrane Database review suggests that glucocorticoid administration during the peri-implantation period may have beneficial effects in assisted reproductive technology cycles.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do cytokines play in implantation according to the literature?",
+    "answer": "Cytokines are suggested to have a significant role in the implantation process, influencing reproductive outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of growth factors and growth modulators in human uterine endometrium for reproductive medicine?",
+    "answer": "Growth factors and modulators in the endometrium may be relevant for improving reproductive medicine practices and outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do natural killer cells and interleukins relate to repeated implantation failure after IVF?",
+    "answer": "Research indicates that natural killer cells and interleukins such as IL-12 and IL-18 may contribute to repeated implantation failure in IVF patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of prednisolone on endometrial natural killer cells in women with recurrent IVF failure?",
+    "answer": "Prednisolone has been shown to reduce preconceptual endometrial natural killer cells in women who have experienced recurrent IVF failure, potentially improving implantation rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the immunological mechanisms of pregnancy maintenance and failure?",
+    "answer": "The excerpt references a critique of theories and therapy regarding immunological mechanisms of pregnancy maintenance and failure, indicating that there are various theories and therapeutic approaches to understanding how the immune system interacts with pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of prednisolone treatment on lymphocyte subsets?",
+    "answer": "The excerpt discusses a study comparing the effects of a single dose versus three days of prednisolone treatment on circulating lymphocyte subsets in healthy volunteers, suggesting that different durations of glucocorticoid treatment can have contrasting effects on immune cell populations.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of low-dose glucocorticoids after in vitro fertilization?",
+    "answer": "The excerpt mentions a study on the use of low-dose glucocorticoids following in vitro fertilization and embryo transfer, implying that glucocorticoids may have a role in the success of these reproductive technologies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of immunosuppression on pregnancy rates in IVF/ET patients?",
+    "answer": "Immunosuppression by corticosteroids has no effect on the pregnancy rate in routine in-vitro fertilization/embryo transfer patients, according to a study published in Hum Reprod 1994;9:1832–5 (Level II). However, another study suggests that immunosuppression may support implantation of zona pellucida dissected human embryos (Fertil Steril 1990;53:662–5, Level II).",
+    "is_verified": 1
+  },
+  {
+    "question": "Does low-dose prednisolone improve IVF outcomes in women with thyroid autoimmunity?",
+    "answer": "A study published in J Obstet Gynaecol Res 2015;41:722–8 (Level I) investigated whether low-dose prednisolone administration improves in vitro fertilization clinical results in women with thyroid autoimmunity, indicating that it may have a beneficial effect compared to no adjuvant therapy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the findings regarding the use of methylprednisone in IVF patients?",
+    "answer": "The use of methylprednisone has been shown to improve the clinical pregnancy rate and implantation rate of in-vitro fertilization-embryo transfer patients, as reported in Hum Reprod 1993;8:393–5 (Level II).",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of GM-CSF in embryo development and pregnancy?",
+    "answer": "GM-CSF (Granulocyte-Macrophage Colony-Stimulating Factor) is involved in the regulation of embryo development and pregnancy, as discussed in Cytokine Growth Factor Rev 2007;18:287–98 (Background).",
+    "is_verified": 1
+  },
+  {
+    "question": "Does the culture of human oocytes with GM-CSF affect embryonic chromosomal constitution?",
+    "answer": "A study published in Reprod Biomed Online 2010;20:477–84 (Level I) found that the culture of human oocytes with granulocyte-macrophage colony-stimulating factor has no effect on embryonic chromosomal constitution.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of granulocyte-macrophage colony-stimulating factor (GM-CSF) in assisted reproduction technologies?",
+    "answer": "Granulocyte-macrophage colony-stimulating factor (GM-CSF) is used in assisted reproduction technologies to improve embryo culture conditions. Studies have shown that GM-CSF supplementation in culture media can enhance embryo quality, promote blastocyst development, and potentially improve pregnancy outcomes, particularly in women undergoing in vitro fertilization (IVF).",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of granulocyte colony-stimulating factor (G-CSF) on IVF outcomes?",
+    "answer": "Granulocyte colony-stimulating factor (G-CSF) has been investigated for its effects on IVF outcomes, particularly in cases of repeated IVF failure. Research indicates that G-CSF supplementation may positively influence endometrial thickness and clinical pregnancy rates, suggesting its potential benefit in improving reproductive outcomes for infertile women undergoing assisted reproduction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of granulocyte colony-stimulating factor (G-CSF) on thin endometrium in women undergoing in vitro fertilization?",
+    "answer": "Granulocyte colony-stimulating factor (G-CSF) has been shown to increase endometrial thickness and improve implantation rates in women with thin endometrium undergoing in vitro fertilization (IVF) cycles. Several studies, including randomized clinical trials, have demonstrated that G-CSF administration can enhance pregnancy outcomes for infertile women with this condition. Specifically, G-CSF has been used in both fresh and frozen embryo transfer programs to treat thin endometrium, leading to improved reproductive success rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of using G-CSF for women with thin endometrium?",
+    "answer": "The use of G-CSF for women with thin endometrium has significant implications for reproductive medicine. It provides a potential therapeutic option for improving endometrial receptivity and increasing the chances of successful implantation during IVF and embryo transfer cycles. Clinical trials have indicated that G-CSF can effectively treat resistant thin endometrium, thereby enhancing fertility outcomes for women who previously faced challenges in conceiving due to this condition.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of G-CSF in recurrent implantation failure?",
+    "answer": "G-CSF (Granulocyte Colony-Stimulating Factor) has been studied for its potential role in improving outcomes for patients experiencing recurrent implantation failure. A randomized double-blind placebo-controlled trial indicated its effectiveness in this context.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the efficacy of intrauterine infusion of granulocyte colony-stimulating factor on patients with a history of implantation failure?",
+    "answer": "A randomized control trial demonstrated that intrauterine infusion of granulocyte colony-stimulating factor can be effective for patients with a history of implantation failure, suggesting a potential treatment option for these individuals.",
+    "is_verified": 1
+  },
+  {
+    "question": "How is granulocyte-colony stimulating factor used in patients with recurrent miscarriage?",
+    "answer": "Granulocyte-colony stimulating factor has been proposed as a treatment option for patients experiencing recurrent miscarriage, with studies indicating its potential benefits in improving pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of GM-CSF on embryo cultivation in patients with failed ART attempts?",
+    "answer": "Research has shown that cultivating embryos in a medium containing granulocyte macrophage colony-stimulating factor (GM-CSF) may positively influence clinical pregnancy and implantation rates in patients who have previously experienced failed attempts at assisted reproductive technology (ART).",
+    "is_verified": 1
+  },
+  {
+    "question": "Does G-CSF administration have a beneficial effect on the outcomes after assisted reproductive technology?",
+    "answer": "A systematic review and meta-analysis have evaluated the beneficial effects of G-CSF administration on outcomes following assisted reproductive technology, indicating potential positive impacts on success rates.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of Intralipid in treating recurrent unexplained abortion?",
+    "answer": "Intralipid has been investigated as a treatment for recurrent unexplained abortion, with some studies suggesting it may help improve outcomes in affected women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of Intralipid supplementation in women with recurrent spontaneous abortion and elevated levels of natural killer cells?",
+    "answer": "Intralipid supplementation has been studied in women with recurrent spontaneous abortion and elevated natural killer cell levels, showing potential benefits in managing these conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of intravenous intralipid therapy in women aged 40-42 with a history of miscarriage?",
+    "answer": "Intravenous intralipid therapy is not beneficial in having a live delivery in women aged 40-42 years with a previous history of miscarriage or failure to conceive despite embryo transfer undergoing in vitro fertilization-embryo transfer.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the focus of the randomized trial involving intravenous immunoglobulin for repeated IVF failures?",
+    "answer": "The randomized, placebo-controlled Canadian trial focused on the treatment of repeated unexplained in vitro fertilization failure with intravenous immunoglobulin.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of intravenous immunoglobulin (IVIG) in preventing implantation failures?",
+    "answer": "Intravenous immunoglobulin (IVIG) has been studied for its role in the prevention of implantation failures, as indicated in the research published in the Annals of the New York Academy of Sciences.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the potential benefits of intravenous immunoglobulin (IVIG) therapy in relation to IVF failure?",
+    "answer": "Intravenous immunoglobulin (IVIG) therapy may serve as a treatment option for women experiencing recurrent reproductive failure and has been associated with increased live birth rates in certain cohorts. Studies suggest that IVIG treatment can improve pregnancy rates in women undergoing in-vitro fertilization (IVF) and may be beneficial for those with specific immune deviations or elevated levels of certain immune cells, such as CD56(+) cells. Additionally, IVIG therapy has been explored as a potential treatment for unexplained infertility and repeated IVF/ICSI failures.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between adalimumab (Humira) and IVF outcomes?",
+    "answer": "Adalimumab (Humira) has been studied in conjunction with intravenous immunoglobulin (IVIG) therapy and has shown to improve pregnancy rates in women undergoing IVF. However, there are concerns regarding the birth defect rates associated with its use in immunologic-based infertility treatments in IVF patients. Further research is needed to fully understand the implications of using adalimumab in this context.",
+    "is_verified": 1
+  },
+  {
+    "question": "What markers might predict the benefit from IVIG therapy in subfertile women undergoing IVF?",
+    "answer": "Elevated preconception levels of CD56+ 16+ cells and/or a Th1:Th2 ratio may predict the benefit from IVIG therapy in subfertile women undergoing IVF. These immune markers could help identify patients who are more likely to respond positively to IVIG treatment, potentially improving their chances of successful pregnancy outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What interventions can improve reproductive outcomes in women with elevated natural killer cells undergoing assisted reproduction techniques?",
+    "answer": "A systematic review of literature suggests various interventions aimed at improving reproductive outcomes for these women, specifically in the context of assisted reproduction techniques.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does TNF-alpha/IL-10 cytokine elevation correlate with IVF success rates?",
+    "answer": "The degree of TNF-alpha/IL-10 cytokine elevation has been found to correlate with IVF success rates in women undergoing treatment with Adalimumab (Humira) and IVIG.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of intrauterine insemination of cultured peripheral blood mononuclear cells prior to embryo transfer?",
+    "answer": "Intrauterine insemination of cultured peripheral blood mononuclear cells prior to embryo transfer has been shown to improve clinical outcomes for patients with repeated implantation failures.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of hCG-activated autologous human peripheral blood mononuclear cells on live birth rates?",
+    "answer": "Intrauterine administration of hCG-activated autologous human peripheral blood mononuclear cells promotes live birth rates in frozen/thawed embryo transfer cycles of patients with repeated implantation failure.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the contribution of seminal fluid in early pregnancy according to Robertson et al.?",
+    "answer": "Robertson SA et al. discuss the activation of T regulatory cells for tolerance in early pregnancy, highlighting the contribution of seminal fluid.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does seminal plasma affect inflammatory cytokine gene expression in human cervical and vaginal epithelial cells?",
+    "answer": "Sharkey DJ et al. found that seminal plasma differentially regulates inflammatory cytokine gene expression in human cervical and vaginal epithelial cells.",
+    "is_verified": 1
+  },
+  {
+    "question": "What method was studied to increase pregnancy rates in IVF/ICSI procedures?",
+    "answer": "Chicea R et al. studied the method of seminal plasma insemination during ovum-pickup to increase pregnancy rates in IVF/ICSI procedures in a pilot randomized trial.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of seminal plasma application to the vaginal vault in IVF or ICSI treatment cycles?",
+    "answer": "Friedler S et al. conducted a double-blind, placebo-controlled, randomized study and found the effect of seminal plasma application to the vaginal vault in IVF or ICSI treatment cycles.",
+    "is_verified": 1
+  },
+  {
+    "question": "Did intrauterine instillation of diluted seminal plasma at oocyte pick-up increase the IVF pregnancy rate?",
+    "answer": "von Wolff M et al. found that intrauterine instillation of diluted seminal plasma at oocyte pick-up does not increase the IVF pregnancy rate in their double-blind, placebo-controlled, randomized study.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the study on intravaginal and intracervical application of seminal plasma in IVF or ICSI treatment cycles?",
+    "answer": "von Wolff M et al. conducted a double-blind, placebo-controlled, randomized pilot study on intravaginal and intracervical application of seminal plasma in IVF or ICSI treatment cycles, which is reported in Fertil Steril.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the review by Crawford et al. discuss regarding seminal plasma and IVF treatment outcomes?",
+    "answer": "Crawford G et al. reviewed the literature and conducted a meta-analysis on the role of seminal plasma for improved outcomes during in vitro fertilization treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What were the conception rates in couples with autoimmunity to sperm according to Ayvaliotis et al.?",
+    "answer": "Ayvaliotis B et al. reported on conception rates in couples where autoimmunity to sperm is detected, providing insights into fertility challenges related to this condition.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of sperm-specific isoantibodies and autoantibodies on human sperm?",
+    "answer": "Sperm-specific isoantibodies and autoantibodies inhibit the binding of human sperm to the human zona pellucida, which is crucial for fertilization.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the focus of the study by Junk et al. regarding antispermatozoal antibodies?",
+    "answer": "The study focused on the fertilization of human oocytes by spermatozoa from men with antispermatozoal antibodies present in their semen.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the outcome of the in-vitro processing of sperm with autoantibodies according to de Almeida et al.?",
+    "answer": "The study investigated the in-vitro processing of sperm with autoantibodies and its results on in-vitro fertilization outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How did chymotrypsin-galactose treatment affect pregnancy rates in women undergoing IVF?",
+    "answer": "Chymotrypsin-galactose treatment of sperm with antisperm antibodies resulted in improved pregnancy rates following in vitro fertilization.",
+    "is_verified": 1
+  },
+  {
+    "question": "What did the prospective clinical trial by Grundy et al. investigate?",
+    "answer": "The trial investigated the efficacy of a method for preparing subpopulations of antibody-free spermatozoa from the ejaculates of antibody-positive patients.",
+    "is_verified": 1
+  },
+  {
+    "question": "What immune response was observed in women with recurrent pregnancy losses according to Kwak-Kim et al.?",
+    "answer": "Increased T helper 1 cytokine responses by circulating T cells were present in women with recurrent pregnancy losses and in infertile women with multiple implantation failures after IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What cytokine expressions were studied in women with recurrent spontaneous abortion?",
+    "answer": "The study examined the expression of intracellular Th1 and Th2 cytokines in women with recurrent spontaneous abortion, implantation failures after IVF-ET, or normal pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What was the effect of tacrolimus on women with repeated implantation failure?",
+    "answer": "Immunosuppression with tacrolimus improved the reproductive outcome of women with repeated implantation failure and elevated peripheral blood immune responses.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the safety of intravenous immunoglobulin (IVIG) therapy?",
+    "answer": "The safety of intravenous immunoglobulin (IVIG) therapy was discussed in the Autoimmun Rev 2007;6:257–9, indicating that it is generally considered safe for use in various autoimmune conditions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the clinical experiences with fat emulsion for intravenous administration?",
+    "answer": "The clinical experience with intralipid 10% fat emulsion for intravenous administration was documented in Ann Surg 1976;184:80–8, detailing its application in clinical settings.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the pediatric blood and marrow transplant consortium experience indicate about allogeneic PBSC collection?",
+    "answer": "The safety and efficacy of allogeneic PBSC collection in normal pediatric donors were evaluated in the Bone Marrow Transplant 2005;35:361–7, highlighting the outcomes from the pediatric blood and marrow transplant consortium experience from 1996-2003.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do tacrolimus whole blood concentrations relate to side effects in renal transplant recipients?",
+    "answer": "Research published in Br J Clin Pharmacol 1999;48:445–8 indicates that tacrolimus whole blood concentrations correlate closely with side effects experienced by renal transplant recipients, suggesting a need for careful monitoring of drug levels.",
+    "is_verified": 1
+  }
+]

@@ -1,0 +1,1017 @@
+[
+    {
+        "question": "What is preimplantation genetic testing for aneuploidy (PGT-A)?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) is a technique used in reproductive medicine to analyze embryos for chromosomal abnormalities before implantation during in vitro fertilization (IVF). It involves assessing the number of chromosomes in embryos to identify euploid embryos (those with the correct number of chromosomes) for transfer, potentially improving pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recent findings regarding the effectiveness of PGT-A?",
+        "answer": "Recent multicenter, randomized control trials have shown that the overall pregnancy outcomes via frozen embryo transfer are similar between PGT-A and conventional in vitro fertilization. This suggests that the routine use of PGT-A as a screening test for all patients undergoing IVF has not been demonstrated to provide significant benefits in terms of live-birth rates or reducing the risk of clinical miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What technologies are being developed to assist in embryo selection during IVF?",
+        "answer": "Technologies being developed to assist in embryo selection during IVF include genomics, transcriptomics, proteomics, metabolomics, time-lapse imaging, and artificial intelligence. These advancements aim to improve the evaluation and selection of the most competent embryos for transfer, with a primary focus on analyzing 24-chromosome copy number to identify euploid embryos for implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some molecular techniques used during IVF cycles to determine ploidy?",
+        "answer": "Several molecular techniques used during IVF cycles to determine ploidy include fluorescence in situ hybridization (FISH), comparative genomic hybridization (CGH), array CGH (aCGH), digital polymerase chain reaction, single-nucleotide polymorphism (SNP) array, real-time quantitative PCR (qPCR), and next-generation sequencing (NGS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of Preimplantation Genetic Testing for Aneuploidy (PGT-A) in IVF?",
+        "answer": "The purpose of Preimplantation Genetic Testing for Aneuploidy (PGT-A) in IVF is to evaluate embryos for chromosomal abnormalities (aneuploidy) before transfer, with the hypothesis that excluding aneuploid embryos should improve IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What has been the trend in the use of PGT among patients undergoing IVF in the United States from 2014 to 2019?",
+        "answer": "The use of PGT among patients undergoing IVF in the United States has increased from 14% in 2014 to 44% in 2019, according to national data from the Society for Assisted Reproductive Technology (SART).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the randomized controlled trials regarding the initial approach of using FISH for PGT-A?",
+        "answer": "All but one randomized controlled trial (RCT) of the initial approach using FISH to evaluate a subset of chromosomes failed to demonstrate a benefit in improving IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of patients were included in the 2012 pilot study on PGT-A?",
+        "answer": "The 2012 pilot study randomized 112 favorable-prognosis patients, specifically those under age 35 years with tubal or male factor infertility and no prior IVF treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was compared in the 2012 pilot study regarding embryo selection?",
+        "answer": "The 2012 pilot study compared day-5 aCGH after trophectoderm biopsy plus morphology assessment against traditional morphology assessment alone for the selection of the single best embryo on day 6.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding pregnancy rates after fresh D6 single-embryo transfer (SET)?",
+        "answer": "Pregnancy rates after fresh D6 single-embryo transfer (SET) were significantly higher in the aCGH group compared with the traditional group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the blasto-cyst aneuploidy rate found in the study group?",
+        "answer": "The blasto-cyst aneuploidy rate found in the study group was 44.9% (191 out of 425 biopsied blastocysts).",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the overall rate of aneuploidy in the study group?",
+        "answer": "The overall rate of aneuploidy in the study group was 31% (162 out of 521).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of aCGH testing in elective single-embryo transfer (eSET)?",
+        "answer": "The addition of aCGH testing to the traditional screening methodology substantially improved outcomes with elective single-embryo transfer (eSET).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the primary and secondary outcomes of the study regarding pregnancy rates?",
+        "answer": "The primary outcome of ongoing pregnancy beyond 20 weeks per transfer was similar between the study and control groups (60.7% vs. 65.1%). The secondary outcome of clinical miscarriage was also similar between the groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the multiple pregnancy rate for patients in the study group compared to the control group?",
+        "answer": "The multiple pregnancy rate for patients in the study group was 0% (0/54) compared to 53.4% (31/56) in the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the clinical implantation rates for the PGT-A group compared to the control group?",
+        "answer": "The clinical implantation rates were significantly higher in the PGT-A group at 79.8% (107/134) compared to 63.2% (103/163) in the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the calculated spontaneous abortion rates for the PGT-A and control groups?",
+        "answer": "The calculated spontaneous abortion rates were 8.9% for the PGT-A group and 21.1% for the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the delivery rate per cycle for the PGT-A group compared to the control group?",
+        "answer": "The delivery rate per cycle was 84.7% (61/72) for the PGT-A group compared to 67.5% (56/83) for the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the proportion of PGT-A screened embryos that progressed to delivery compared to control group embryos?",
+        "answer": "The proportion of PGT-A screened embryos that progressed to delivery was significantly higher at 66.4% (89/134) compared to 47.9% (78/163) for control group embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how is it relevant to embryo selection?",
+        "answer": "PGT-A stands for Preimplantation Genetic Testing for Aneuploidy, which is a genetic test performed on embryos created through in vitro fertilization (IVF) to identify chromosomal abnormalities. It is relevant to embryo selection as it helps in selecting embryos that are more likely to result in a successful pregnancy, thereby improving implantation and delivery rates compared to traditional embryo selection methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the limitations of the RCTs mentioned in the excerpt?",
+        "answer": "The limitations of the RCTs include: 1) Randomization was only for patients with good-quality blastocyst embryos, which may not represent the general population; 2) The studies may not reflect current clinical practices as most clinics now biopsy embryos on days 5 and 6; 3) The use of different technologies (qPCR or aCGH vs. NGS) may affect the outcomes; 4) The studies were conducted at a high-volume clinic, limiting generalizability to smaller programs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of vitrification and thawing in embryo transfer cycles?",
+        "answer": "Vitrification is a rapid freezing process used to preserve embryos, while thawing is the process of warming them for transfer. The significance lies in the potential benefits of vitrified and thawed cycles, although there is a risk that some embryos may not survive the thawing process, which can impact the success rates of embryo transfers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the objective of the STAR trial mentioned in the excerpt?",
+        "answer": "The objective of the STAR trial was to evaluate the impact of PGT-A using Next Generation Sequencing (NGS) on frozen embryo transfers (FETs). It aimed to determine if the use of PGT-A would improve outcomes compared to morphology alone in a randomized cohort of patients aged 25 to 40 years with at least two blastocysts available for biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the inclusion criteria for the STAR trial?",
+        "answer": "The inclusion criteria for the STAR trial included patients aged 25 to 40 years who had at least two blastocysts that could be biopsied. The trial excluded patients over 40 years of age, those who had multiple miscarriages, and those who had multiple IVF failures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the outcomes measured in the STAR trial?",
+        "answer": "The outcomes measured in the STAR trial included the ongoing pregnancy rate (OPR) at 20 weeks’ gestation, comparing the PGT-A group with the control group that used morphology alone. The results indicated that there was no significant difference in OPR per embryo transfer between the two groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of PGT-A in embryo transfer outcomes?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) showed a difference in outcomes compared to control, with a post hoc analysis indicating a significant increase in OPR (Ongoing Pregnancy Rate) per embryo transfer for women aged 35-40 years (51% vs. 37%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of embryos were found to be aneuploid in women under 35 years of age?",
+        "answer": "52.0% of embryos were aneuploid for women under 35 years of age.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the percentage of aneuploid embryos for women aged 35-40 years?",
+        "answer": "For women aged 35-40 years, 64.5% of embryos were found to be aneuploid.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mosaic aneuploidy and what percentage of abnormal embryos were found to have it?",
+        "answer": "Mosaic aneuploidy refers to embryos that have a mixture of normal and abnormal chromosomes. In the study, 31.0% of the abnormal embryos were found to have whole or partial chromosome mosaic aneuploidy for one or more chromosomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the impact of excluding mosaic embryos from embryo transfer in the study?",
+        "answer": "Excluding mosaic embryos from embryo transfer resulted in the exclusion of 25 patients who had one or more mosaic embryo results, potentially affecting the overall outcomes of the study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how does it relate to pregnancy outcomes?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is a genetic testing procedure used in conjunction with in vitro fertilization (IVF) to analyze embryos for chromosomal abnormalities before implantation. The excerpt discusses a study that concluded PGT-A did not improve pregnancy outcomes compared to conventional IVF, as evidenced by similar live birth rates and cumulative pregnancy loss rates between the two groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the live birth rates in the PGT-A and conventional IVF groups?",
+        "answer": "In the study, live births occurred in 468 women (77.2%) in the PGT-A group and in 496 women (81.8%) in the conventional IVF group, indicating that the cumulative live-birth rate was noninferior between the two methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the cumulative frequency of clinical pregnancy loss in the study?",
+        "answer": "The cumulative frequency of clinical pregnancy loss was 8.7% in the PGT-A group and 12.6% in the conventional IVF group, showing a difference of 3.9 percentage points between the two groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of embryos analyzed were euploid, aneuploid, and mosaic?",
+        "answer": "Of the embryos analyzed in the study, 69.8% were euploid, 17.2% were aneuploid, 11.7% were mosaic, and 1.4% did not yield an interpretable result.",
+        "is_verified": 1
+    },
+    {
+        "question": "What conclusion did the investigators reach regarding the effectiveness of PGT-A?",
+        "answer": "The investigators concluded that conventional IVF resulted in a cumulative live-birth rate that was noninferior to that with PGT-A, and although the frequency of pregnancy loss appeared lower in the PGT-A group, it did not lead to a higher cumulative live-birth rate or shorter time until a live birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how does it affect implantation and miscarriage rates?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is associated with higher implantation rates and lower miscarriage rates, particularly in older age groups. For example, implantation rates with PGT-A compared to without PGT-A in various age groups are: <35 years: 62.7% vs. 54%; 35–37 years: 60.7% vs. 44.9%; 38–40 years: 59.5% vs. 30.0%; 41–42 years: 56.1% vs. 17.9%; and 43+ years: 53.7% vs. 7.4%. Miscarriage rates with PGT-A compared to without are: <35 years: 11.2% vs. 15.4%; 35–36 years: 13.0% vs. 20.3%; 38–40 years: 13.6% vs. 27.7%; 41–42 years: 13.9% vs. 37.9%; and 43 years: 18.3% vs. 51.5%. PGT-A appears to improve the likelihood of having a live birth among women over 37 years, with studies indicating that it takes 21 cycles (or 35 embryo transfers) to achieve one additional live birth. However, for women aged 37 years and younger, there was no significant difference in clinical pregnancy, miscarriage, or live-birth rates between PGT-A and non-PGT-A cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of PGT-A on live-birth rates in women of advanced maternal age?",
+        "answer": "In women aged 38–41 years, the live-birth rate was significantly higher in the PGT-A group compared to the control group, with rates of 52.9% vs. 24.2% per transfer and 36% vs. 21.9% per cycle. Additionally, the miscarriage rate was significantly lower in the PGT-A group at 2.7% compared to 39% in the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding aneuploidy rates in embryos biopsied during the study?",
+        "answer": "Of all cleavage embryos that were biopsied, results were obtained for 97.2%, and 78.6% of those embryos were found to be aneuploid.",
+        "is_verified": 1
+    },
+    {
+        "question": "How did the time to pregnancy compare between the PGT-A group and the control group?",
+        "answer": "The time to pregnancy resulting in live birth was estimated at 7.7 weeks for the PGT-A group compared to 14.9 weeks for the control group, indicating a shorter time to pregnancy with PGT-A.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the implantation rate of euploid embryos compared to unscreened fresh and FET cycles?",
+        "answer": "The implantation rate was 50.9% in euploid embryos compared with 23.8% in unscreened fresh cycles and 25.4% in frozen embryo transfer (FET) cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the limitations mentioned regarding the studies on implantation rates?",
+        "answer": "The limitations include the retrospective nature of the studies, inclusion criteria, and small sample sizes, particularly in older age cohorts where only 8 cycles were compared. Additionally, only women with euploid embryos were included in the PGT-A group, which could introduce bias as only good-prognosis patients who could undergo a biopsy were selected.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of patients had euploid blastocysts available for transfer in the study?",
+        "answer": "Only 52.4% of patients (76 out of 145) had euploid blastocysts available for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how does it relate to pregnancy success?",
+        "answer": "PGT-A, or Preimplantation Genetic Testing for Aneuploidy, is a genetic testing procedure used during in vitro fertilization (IVF) to assess the chromosomal status of embryos before implantation. The excerpt indicates that PGT-A may be beneficial for patients of advanced maternal age, as it is associated with higher per transfer live-birth rates and lower rates of multiple pregnancies and miscarriages compared to controls. However, the study methodologies raise questions about these conclusions due to potential selection bias.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding donor oocyte IVF cycles and PGT-A?",
+        "answer": "In a cohort study comparing PGT-A cycles with control cycles in donor oocyte IVF, there was no statistically significant difference in ongoing/live-birth rates (64.4% for PGT-A vs. 54% for controls) or in miscarriage rates (19.2% for PGT-A vs. 9.5% for controls). Additionally, a retrospective cohort study suggested that the use of PGT-A in donor oocyte cycles is associated with reduced live-birth rates, with an odds ratio of 0.65, indicating a significant decrease in success rates when PGT-A tested embryos were used.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of aneuploidy rates in PGT-A tested embryos?",
+        "answer": "The excerpt mentions that a study found a 15% aneuploidy rate in PGT-A tested embryos from donor oocyte cycles. Aneuploidy refers to an abnormal number of chromosomes in an embryo, which can lead to implantation failure, miscarriage, or genetic disorders. The presence of aneuploidy in embryos can significantly impact clinical pregnancy rates, as the excerpt notes that these rates decreased when PGT-A tested embryos were used.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding pregnancy and live-birth rates in the study comparing euploid SET to fresh and frozen untested embryo transfers?",
+        "answer": "The study found no difference in pregnancy and live-birth rates between euploid single embryo transfer (SET) and fresh or frozen untested embryo transfers. Fresh embryo transfers showed higher implantation rates, which is consistent with evidence that fresh embryo transfers from fresh donor eggs are associated with higher live-birth rates compared to frozen and thawed embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of cryopreservation on embryos derived from donor oocytes according to the study?",
+        "answer": "The study indicates that the potential impact of freezing and thawing on embryos derived from donor oocytes needs to be considered in decision-making, especially since most preimplantation genetic testing for aneuploidy (PGT-A) cycles require cryopreservation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the retrospective paired cohort study reveal about the outcomes of PGT-A tested versus untested embryos from the same donor?",
+        "answer": "The retrospective paired cohort study showed no difference in live-birth rates after the first embryo transfer between PGT-A tested embryos (53.8%) and untested embryos (55.8%). Additionally, when analyzing all transfers from the same egg lot, the live-birth rates were similar (48.4% for PGT-A group and 47.2% for non-PGT-A group).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the transfer of embryos derived from donor oocytes?",
+        "answer": "Given the high probability of multiple pregnancies when transferring more than one embryo (with or without PGT-A testing), single embryo transfer (SET) should be the approach in most cases, especially when a gestational carrier is used.",
+        "is_verified": 1
+    },
+    {
+        "question": "What conclusion does the evidence suggest about the routine use of PGT-A in donor egg cycles?",
+        "answer": "The totality of evidence argues against the routine use of PGT-A in donor egg cycles, indicating that it does not appear to be cost-effective.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mentioned about the impact of advanced paternal age on semen parameters?",
+        "answer": "The excerpt mentions that the impact of advanced age on semen parameters is well established, although specific details are not provided in the excerpt.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the associations of advanced paternal age (APA) with pregnancy outcomes?",
+        "answer": "Advanced paternal age (APA) has been associated with stillbirth, congenital anomalies, single gene defects, and adverse neurodevelopmental outcomes. Approximately 10% of Down syndrome cases are paternal in origin, although the impact of APA on the incidence of trisomy 21 and other aneuploidies is controversial due to the lack of controls for maternal age in most cases. Studies have shown no significant association between paternal age and embryo aneuploidy when donor oocytes are used, although age over 50 years was linked to increased segmental aneuploidy rates. The evidence suggests that routine preimplantation genetic testing for aneuploidy (PGT-A) should not be performed solely based on paternal age.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does ASRM recommend regarding embryo transfer in relation to maternal age?",
+        "answer": "The American Society for Reproductive Medicine (ASRM) recommends the transfer of a single euploid embryo (eSET) regardless of maternal age to promote singleton pregnancies and reduce the risk of multiple gestations. Live-birth rates after eSET of a euploid embryo from women across the reproductive aging spectrum are similar or only slightly decreased with advancing age, remaining above 50%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is eSET and how does it compare to DET in terms of live-birth rates?",
+        "answer": "eSET stands for elective single embryo transfer, while DET refers to double embryo transfer. In a study of 382 embryo transfers, live-birth rates for good-prognosis patients (<38 years old, with at least 2 frozen blastocysts) showed similar outcomes with eSET of a euploid embryo (56%) compared to DET of 2 euploid embryos (57%). However, the multiple pregnancy rates were significantly higher with DET (65%) compared to eSET (0%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the live-birth rates for untested blastocysts compared to euploid embryos?",
+        "answer": "The live-birth rates following DET of untested blastocysts were not significantly different from eSET of a euploid embryo, with rates of 66% for DET of untested blastocysts and 56% for eSET of a euploid embryo. However, the multiple pregnancy rate was significantly higher for DET of untested blastocysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of PGT-A in IVF success rates?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is significant in IVF as it helps identify euploid embryos, which are more likely to result in successful pregnancies. The excerpt indicates that there was a higher live-birth rate for couples undergoing PGT-A compared to those not using it, especially in older age groups. However, only 43.6% of PGT-A cycles had at least one euploid embryo to transfer, highlighting the importance of embryo selection in improving outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between aneuploidy and first-trimester pregnancy loss?",
+        "answer": "The excerpt states that the mechanism of first-trimester pregnancy loss is largely due to aneuploidy, which provides a biological basis for the use of PGT-A. This suggests that many early pregnancy losses are linked to chromosomal abnormalities in embryos, which PGT-A aims to identify and mitigate by selecting viable embryos for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the live-birth rate compare between PGT-A and expectant management in couples with recurrent pregnancy loss?",
+        "answer": "The analysis of couples with recurrent pregnancy loss showed a significantly higher live-birth rate for those undergoing PGT-A compared to those receiving expectant management. The adjusted odds ratios indicate that the benefits of PGT-A increase with maternal age, suggesting that older couples may particularly benefit from this testing in terms of live-birth outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between ovarian reserve and the likelihood of obtaining a euploid embryo in women with recurrent pregnancy loss (RPL)?",
+        "answer": "In women younger than 38 years with recurrent pregnancy loss (RPL), decreased ovarian reserve, defined as a cycle day-3 follicle-stimulating hormone level greater than 10 mIU/mL and/or anti-mullerian hormone less than 1 ng/mL, results in a significantly lower likelihood of having a euploid embryo to transfer compared to women with normal ovarian reserve testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the benefits of frozen embryo transfer cycles compared to fresh embryo transfers?",
+        "answer": "Data from a retrospective cohort study suggest that frozen euploid blastocyst transfers have equal or superior reproductive potential compared to fresh euploid blastocyst transfers, with higher implantation and live-birth rates, and lower miscarriage rates. Additionally, using elective single embryo transfer (eSET) may lower the incidence of ovarian hyperstimulation syndrome and multiple gestations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations are associated with the studies on PGT-A and ovarian reserve?",
+        "answer": "The studies are limited by their retrospective design, which makes it difficult to interpret the clinical prognoses for those who did or did not pursue preimplantation genetic testing for aneuploidy (PGT-A). Furthermore, definitive evidence of the benefit of PGT-A in the recurrent pregnancy loss (RPL) population is lacking.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the ongoing pregnancy rates for the freeze-all group compared to the fresh day 6 embryo transfer group?",
+        "answer": "The ongoing pregnancy rate (PR) for the freeze-all group was 62.2%, while for the fresh day 6 embryo transfer group it was 50.9%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the live birth rates for the freeze-all group compared to the fresh day 6 embryo transfer group?",
+        "answer": "The live birth rate (LBR) for the freeze-all group was 61.5%, compared to 39.8% for the fresh day 6 embryo transfer group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What potential risks are associated with a freeze-all strategy?",
+        "answer": "Potential risks of a freeze-all strategy include an increased risk of maternal hypertensive disorders of pregnancy and having a large-for-gestational-age infant.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the aneuploidy rate for blastocysts biopsied on day 5 compared to day 6?",
+        "answer": "The aneuploidy rate was 69.9% for day 6 blastocysts and 61.9% for day 5 blastocysts, but this difference was not statistically significant.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study suggest about the developmental rate of euploid blastocysts formed on day 6 compared to those formed on day 5?",
+        "answer": "The study suggests that the developmental rate of euploid blastocysts that form on day 6 may be approximately as likely to result in live birth as those that form on day 5, although day-6 blastocysts may require cryopreservation for future transfer in a frozen embryo transfer (FET) cycle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of culturing embryos through day 7 in FET cycles?",
+        "answer": "Culturing embryos through day 7 in FET cycles increases the pool of transferable embryos for patients who may otherwise have no usable embryos if culture was terminated on day 6. This practice allows for the selection of embryos that may have a better chance of successful implantation, although there is a noted risk of aneuploidy and lower implantation potential for those that reach the blastocyst stage on day 7.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with embryos reaching blastocyst stage on day 7?",
+        "answer": "Embryos that reach blastocyst stage on day 7 may have a higher risk of aneuploidy, which is an abnormal number of chromosomes, and lower implantation potential if they are euploid, meaning they have the normal number of chromosomes. This can affect the success rates of implantation and pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the pregnancy rates for day 7 euploid blastocysts compared to day 5 and day 6 blastocysts?",
+        "answer": "The pregnancy rates for day 7 euploid blastocysts were slightly but not significantly reduced compared to day 5 and day 6 blastocysts, with sustained implantation rates of 52.6% for day 7 compared to 68.9% for day 5 and 66.8% for day 6.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the euploidy rate for day 7 blastocysts compared to day 5 and day 6 blastocysts?",
+        "answer": "The euploidy rate for day 7 blastocysts was 40.5%, compared to 54.7% for day 5 blastocysts and 52.9% for day 6 blastocysts, with a statistically significant difference (P<.0001).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the outcomes of transferring day 7 euploid blastocysts in terms of implantation, clinical pregnancy, and live birth rates?",
+        "answer": "The transfer of 116 day 7 euploid blastocysts resulted in a significant decrease in implantation (OR, 0.32; P<.001), clinical pregnancy (OR, 0.28; P<.001), and live birth rates (OR, 0.28; P<.001).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT-A stand for and what is its purpose?",
+        "answer": "PGT-A stands for Preimplantation Genetic Testing for Aneuploidy, which is used to assess embryos for chromosomal abnormalities before implantation during in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of performing simultaneous PGT-M and PGT-A?",
+        "answer": "Performing simultaneous PGT-M (Preimplantation Genetic Testing for Monogenic Disorders) and PGT-A allows for a better assessment of embryos, as it was found that 50% of PGT-M-unaffected embryos were aneuploid. This testing can lead to higher implantation rates and lower miscarriage rates compared to PGT-M alone, although fewer embryos may remain for transfer after testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how does it relate to embryo testing?",
+        "answer": "PGT-A, or Preimplantation Genetic Testing for Aneuploidy, is a genetic testing procedure used to analyze embryos created through in vitro fertilization (IVF) for chromosomal abnormalities before they are implanted in the uterus. The excerpt discusses a study that highlights the potential for false-positive results in PGT-A, particularly in cases of mosaicism, where embryos may be incorrectly classified as aneuploid and discarded, despite having reproductive potential.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of using cryopreserved embryos for PGT-A?",
+        "answer": "The excerpt mentions that patients may choose to thaw or warm previously cryopreserved unbiopsied embryos for biopsy and testing, which can be influenced by factors such as previous miscarriages or the desire to utilize new technologies. It also notes that while fresh biopsies are preferred, studies indicate that reproductive outcomes, including implantation rates and clinical pregnancy rates, are not significantly compromised when embryos undergo thawing, warming, biopsy, and re-cryopreservation processes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of embryo warming and biopsy according to the studies mentioned?",
+        "answer": "The studies referenced in the excerpt indicate that while the survival rate of embryos may decrease with subsequent thawing and warming (87.5% for second warming compared to 98.3% for first), the implantation rates for embryos that underwent initial biopsy and subsequent warming were not significantly affected. However, embryos that were warmed for a second biopsy did not perform well, with none implanting in the study. Additionally, a small sample study reported an ongoing pregnancy rate of 35.3% for blastocysts that were warmed, biopsied, and transferred within 2 days.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of warming embryos for preimplantation screening?",
+        "answer": "Warming embryos for preimplantation screening may benefit some patients, but it can lead to a reduction in the number of embryos available for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the reported rate of inconclusive results after biopsy for PGT-A?",
+        "answer": "Inconclusive results after biopsy for PGT-A are reported to occur in 0.86% to 3.8% of cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the clinical pregnancy rates for embryos that underwent double vitriﬁcation with a single biopsy compared to controls?",
+        "answer": "The clinical pregnancy rates for embryos that underwent double vitriﬁcation with a single biopsy were 44%, compared to 46% for controls that underwent single vitriﬁcation and single biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the trend observed in clinical pregnancy rates for the double vitriﬁcation and double biopsy group?",
+        "answer": "There was a trend toward lower clinical pregnancy rates in the double vitriﬁcation and double biopsy group (35%), although this was not statistically significant.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the ongoing pregnancy and clinical loss rates for embryos that underwent 2 vitriﬁcations and 1 biopsy?",
+        "answer": "Embryos that underwent 2 vitriﬁcations and 1 biopsy had an ongoing pregnancy rate of 63.2% and a clinical loss rate of 9.8%.",
+        "is_verified": 1
+    },
+    {
+        "question": "How did the clinical pregnancy rates compare between double vitriﬁcated and double biopsied embryos versus single vitriﬁcation single biopsy embryos?",
+        "answer": "Double vitriﬁcated and double biopsied embryos had a significantly reduced clinical pregnancy rate of 31% compared to 54.3% for single vitriﬁcation single biopsy embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "Can blastocysts tolerate a second round of biopsy without compromising clinical pregnancy and live-birth rates?",
+        "answer": "Yes, at least two studies found that blastocysts can tolerate a second round of biopsy without compromising clinical pregnancy and live-birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of euploid blastocysts in relation to PGT-A results?",
+        "answer": "The implantation of euploid blastocysts is important as it should be balanced against the necessity of obtaining a Preimplantation Genetic Testing for Aneuploidy (PGT-A) result, which helps in identifying chromosomal abnormalities before implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the finding of the study comparing blastocyst aneuploidy rates between men with normal semen analyses and those with oligozoospermia?",
+        "answer": "The study found that men with oligozoospermia had a threefold increase in sex chromosome abnormalities compared to men with normal semen analyses, regardless of the age of the oocyte.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and its relevance in the context of male factor infertility?",
+        "answer": "ICSI, or Intracytoplasmic Sperm Injection, is a fertility treatment that involves injecting a single sperm directly into an egg. It is particularly relevant in cases of male factor infertility, such as oligozoospermia, where sperm quality may be compromised.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of ICSI on aneuploidy rates in oligozoospermic men?",
+        "answer": "In oligozoospermic men, ICSI did not increase the overall aneuploidy compared to conventional fertilization methods, but it did increase aneuploidy specifically in chromosomes 1, 2, 11, and 18.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does male factor infertility affect embryo aneuploidy rates?",
+        "answer": "According to available studies, male factor infertility does not appear to be associated with increased embryo aneuploidy, and PGT-A should not be used solely for this purpose.",
+        "is_verified": 1
+    },
+    {
+        "question": "What concerns are there regarding conventional insemination of oocytes during PGT?",
+        "answer": "There is a theoretical concern that conventional insemination may produce a higher risk of genetic contamination during PGT due to the presence of lysed DNA from granulosa cells and excess sperm adhering to the zona pellucida.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the evidence suggest about the use of PGT-A for severe male factor infertility?",
+        "answer": "Two retrospective cohort studies did not demonstrate improved pregnancy and/or live-birth rates with the use of PGT-A for severe male factor infertility, and the euploidy rates do not appear to be affected in these cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the implication of using testicular sperm from azoospermic patients in terms of embryo chromosomal abnormalities?",
+        "answer": "Very limited evidence suggests that the rate of embryo chromosomal abnormalities may be increased when testicular sperm from azoospermic patients is used, particularly in patients with a high rate of karyotypic abnormalities or when FISH is used for aneuploidy analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does recent research suggest about the use of ICSI in PGT-M?",
+        "answer": "Data reassure that the use of ICSI for non-male factor infertility in PGT-M does not increase the risk of birth defects.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do IVF outcomes vary according to ethnicity?",
+        "answer": "Although IVF outcomes have been reported to vary by ethnicity, a 2016 study found no difference in aneuploidy rates based on maternal ethnicity as defined by ancestry informative markers (AIMs).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes for kindergarten-aged PGT-M offspring compared to their peers?",
+        "answer": "Kindergarten-aged PGT-M offspring perform as well as their IVF, ICSI, and naturally conceived peers on measures of cognition, motor skills, psychosocial development, body composition, and blood pressure measurements.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding neurological optimality scores in PGT-A and non-PGT-A offspring?",
+        "answer": "The investigators found no difference in neurological optimality score (Touwen test), global cognition (Wechsler Abbreviated Scale of Intelligence), behavior (Child Behavior Checklist and Teacher Report Form), blood pressure, and anthropometrics (total body fat, BMI, and head circumference) between PGT-A and non-PGT-A offspring. However, the prevalence of minor neurological dysfunction was judged as high across both groups, with 40% in the PGT-A group and 34% in the control group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What adverse outcomes were associated with PGT-M pregnancies compared to spontaneously conceived pregnancies?",
+        "answer": "PGT-M pregnancies tested for monogenic disorders demonstrated more low birth weight, preterm premature rupture of membranes, placenta previa, cesarean delivery, and neonatal intensive care unit stays than both IVF or ICSI and spontaneously conceived pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "Were there any differences in maternal and neonatal outcomes between cycles with embryo biopsy and those without?",
+        "answer": "There were no differences in preeclampsia, pregnancy-induced hypertension, placental disorders, preterm birth, low birthweight, cesarean delivery, gestational diabetes mellitus, or prolonged hospitalization for mothers or infants between cycles having embryo biopsy and those having no embryo biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the odds of preeclampsia in pregnancies with trophectoderm biopsy compared to those without?",
+        "answer": "The odds of preeclampsia in pregnancies with trophectoderm biopsy are threefold higher, with rates of 10.5% compared to 4.1% in those without the biopsy, resulting in an adjusted odds ratio (aOR) of 3.02 (95% CI 1.1, 8.29).",
+        "is_verified": 1
+    },
+    {
+        "question": "What other outcomes were measured in the study besides preeclampsia?",
+        "answer": "Other measured outcomes included placenta previa, gestational diabetes mellitus, preterm premature rupture of membranes, and post-partum hemorrhage, which were not statistically significantly different between the groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the obstetric and neonatal outcomes associated with PGT-A compared to conventional IVF?",
+        "answer": "Most studies do not show a negative impact of PGT on obstetric, neonatal, and childhood outcomes. Specifically, no differences in pregnancy or newborn complications were found between the two groups in a prospective RCT studying PGT-A versus conventional IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does PGT-A affect miscarriage rates compared to expectant management?",
+        "answer": "PGT-A decreased miscarriage rates (7% vs. 24%) when compared with expectant management, although the live-birth rate was not improved (40% vs. 55%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does PGT-A have on the time in treatment and failed embryo transfers?",
+        "answer": "PGT-A reduced time in treatment by 4 months and patients experienced fewer failed embryo transfers and clinical miscarriages compared to conventional methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "In what clinical settings can PGT-A be considered cost-effective?",
+        "answer": "Theoretical models suggest that PGT-A can be cost-effective in specific clinical settings and population groups, particularly with considerations of female age and the number of available blastocysts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mosaicism in the context of embryos?",
+        "answer": "Mosaicism refers to the presence of two or more cell populations with different chromosomal complements within the same embryo. It is diagnosed using Preimplantation Genetic Testing for Aneuploidy (PGT-A) based on intermediate copy number results.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does mosaicism affect embryo implantation and success rates?",
+        "answer": "Mosaic embryos can implant and generate apparently euploid offspring; however, they may implant at a lower success rate compared to non-mosaic embryos. This suggests a need for further investigation into the validity and accuracy of mosaic diagnoses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some factors that can influence the diagnosis of mosaicism in embryos?",
+        "answer": "Factors influencing the diagnosis of mosaicism include the specific Next Generation Sequencing (NGS) platform used, the cutoffs for classifying results as mosaic, technician and software interpretation, and the classification schemes of individual PGT-A testing laboratories.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some potential explanations for intermediate copy number results in embryos aside from mosaicism?",
+        "answer": "Other proposed explanations for intermediate copy number results include statistical variation, amplification bias, contamination, mitotic state, variation in embryo biopsy technique, and embryology laboratory conditions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the advantages of qPCR in comprehensive chromosome screening?",
+        "answer": "qPCR has the advantages of low cost and quick turnaround time; however, it is not able to detect segmental aneuploidies or mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of SNP microarray in PGT-A?",
+        "answer": "SNP microarray has the ability to indicate if the source of aneuploidy is from the sperm or egg and reliably detect triploidy and tetraploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why has NGS become increasingly used in PGT-A?",
+        "answer": "NGS has become increasingly used in PGT-A because of its high throughput, ability to detect mosaicism and segmental mutation, and capability of concomitant PGT-A and PGT-M.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the positive predictive value in PGT-A?",
+        "answer": "The positive predictive value indicates the chance that an aneuploid embryo will not produce a pregnancy, which is crucial for understanding the effectiveness of PGT-A.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the positive predictive value of PGT-A utilizing SNP microarray found in one study?",
+        "answer": "The positive predictive value of PGT-A utilizing SNP microarray was found to be 96%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is aCGH?",
+        "answer": "aCGH stands for array Comparative Genomic Hybridization, a technique used to analyze the genomic content of embryos, particularly to identify aneuploidy (abnormal number of chromosomes).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does NGS stand for in a medical context?",
+        "answer": "NGS stands for Next-Generation Sequencing, a modern DNA sequencing technology that allows for the rapid sequencing of large amounts of DNA, often used in genetic testing and research.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is aneuploidy?",
+        "answer": "Aneuploidy refers to the presence of an abnormal number of chromosomes in a cell, which can lead to various genetic disorders and is a common cause of infertility and pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the clinical error rate of aneuploid diagnosis indicate?",
+        "answer": "The clinical error rate of aneuploid diagnosis indicates the likelihood of misdiagnosis when determining whether embryos are aneuploid. In this excerpt, the error rate was calculated to be between 0% and 2.43%, suggesting a very low likelihood of misdiagnosis in the study mentioned.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of trophectoderm biopsy on embryo viability compared to cleavage-stage biopsy?",
+        "answer": "Trophectoderm biopsy is generally accepted to have less impact on embryo viability than cleavage-stage biopsy. This is because trophectoderm biopsy removes only trophectoderm cells, which do not have any fetal fate, and represents a smaller percentage of the embryo mass. In contrast, cleavage-stage biopsy occurs when cell lineage has not yet been established, and the removal of cells at this stage could potentially affect the viability of the embryo and the fate of the fetus. Studies have shown that cleavage-stage embryo biopsy is associated with significant developmental insults and trauma to the developing embryo, leading to a relative reduction in embryo implantation and progression to delivery.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of transferring abnormal embryos in the study?",
+        "answer": "In the study, among 141 abnormal embryos, 76 were aneuploid, resulting in 4 first-trimester miscarriages and 1 live birth. Of the 30 embryos transferred with complex (>2 chromosomal abnormalities), 28 had no evidence of implantation, and 2 resulted in a first-trimester loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of understanding the reproductive potential of embryos with mosaicism and chromosomal abnormalities?",
+        "answer": "As new technologies evolve that allow for the diagnosis of conditions such as mosaicism, segmental duplications, and deletions, it is important to understand the reproductive potential of embryos assigned these results before widespread utilization. This understanding can help inform clinical decisions regarding embryo transfer and the management of patients undergoing assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of biopsy of the trophectoderm on implantation?",
+        "answer": "The impact of biopsy of the trophectoderm is not well understood, but it is suggested that damage to the trophectoderm may affect the critical event of implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and what are its implications for genetic testing?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) involves genetic testing of embryos before implantation. Informed consent for PGT-A should include discussions about risks, benefits, limitations, and possible outcomes such as no result, mosaicism, or misdiagnosis. It is important for patients to understand these factors before proceeding with testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does genetic counseling play in the process of PGT-A?",
+        "answer": "Genetic counseling is crucial at various points in the decision-making process regarding PGT-A. It helps patients understand the implications of test results, including the disposition of abnormal embryos, and supports informed decision-making about the use of PGT-A tested embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does PGT-A relate to sex selection in embryos?",
+        "answer": "PGT-A allows patients the option to select the sex of their embryo, potentially leading to elective sex selection. This raises concerns about gender bias and skewing of the sex ratio, as data has shown that IVF cycles with PGT are more likely to result in male offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the sex ratio in IVF live births with PGT?",
+        "answer": "The sex ratio in IVF live births using PGT for sex selection was found to be significantly higher at 164 compared to 105 in IVF live births without PGT use, indicating a preference for male births. This finding raises concerns about the implications of sex selection practices in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential advantages of PGT-A?",
+        "answer": "PGT-A may lower the risk of aneuploidy detected during pregnancy or after birth, and identifying euploid embryos can decrease the time to pregnancy by focusing on transferring only euploid embryos. This is particularly beneficial for older women or those using gestational carriers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential disadvantages of using PGT-A?",
+        "answer": "Disadvantages of PGT-A include the need for increased resources, significant labor hours for the embryology team, and the possibility that not all embryos will survive to the blastocyst stage for biopsy. Additionally, patients may face dilemmas regarding excess mosaic embryos and the timing of pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A?",
+        "answer": "PGT-A stands for Preimplantation Genetic Testing for Aneuploidy, a procedure used to screen embryos for chromosomal abnormalities before implantation during in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the concerns related to PGT-A results?",
+        "answer": "Concerns include the possibility of false-positive results, uncertainty about self-correction of embryos, and the accuracy of diagnosing mosaic embryos, which may lead to the discarding of embryos that could potentially result in healthy neonates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and how does it relate to aneuploidy in pregnancy?",
+        "answer": "PGT-A, or Preimplantation Genetic Testing for Aneuploidy, is a technology used in conjunction with in vitro fertilization (IVF) to screen embryos for chromosomal abnormalities, specifically aneuploidy, which is an abnormal number of chromosomes. The excerpt discusses the increasing use of PGT-A to help reduce the risk of miscarriage and improve pregnancy outcomes, particularly in older patients who are at a higher risk for aneuploid pregnancies. It highlights the importance of counseling patients about the potential benefits and limitations of PGT-A, as well as the need for further investigation into its effectiveness and the factors influencing its adoption.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential benefits of PGT-A for older patients?",
+        "answer": "Older patients may benefit from PGT-A as it can help identify euploid embryos, which have the correct number of chromosomes, thereby reducing the likelihood of miscarriage and the risk of ongoing aneuploid pregnancies. The excerpt notes that older women may be motivated to use PGT-A to increase their chances of achieving a successful pregnancy and to limit the recurrence of aneuploid conceptions, especially when the anticipated embryo yield is high.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors influence the decision to use PGT-A in IVF treatments?",
+        "answer": "Factors influencing the decision to use PGT-A include insurance coverage policies that may mandate the use of all embryos before additional retrievals, the desire to bank extra embryos with a high likelihood of success, and the need to achieve an ideal family size. Additionally, patients' concerns regarding the risk of having fewer transferrable embryos or losing viable embryos during the PGT-A process also play a role in their decision-making.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the current status of PGT-A in the context of IVF treatments in the United States?",
+        "answer": "The excerpt indicates that the adoption and use of PGT-A as part of IVF treatment have been increasing in the United States. However, it also notes that the value of PGT-A as a universal screening test for all patients undergoing IVF has not been conclusively demonstrated, and further research is needed to establish its effectiveness.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of PGT-A in reproductive medicine?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is used to assess the genetic health of embryos created through in vitro fertilization (IVF) to increase the chances of a successful pregnancy and minimize the incidence of multiple gestations. It aims to lower the risk of clinical miscarriage by selecting embryos that are more likely to result in a healthy pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some considerations regarding PGT-A that require further research?",
+        "answer": "Further research is needed to address several important considerations regarding PGT-A, including cost-effectiveness, the use of mosaic embryos, the risk of false-positive results, potential embryo damage, the role of cryopreservation, time to pregnancy, utility in specific subgroups (such as those with recurrent pregnancy loss, prior implantation failure, and advanced maternal age), and the implications of sex selection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations were noted in the recent studies on PGT-A?",
+        "answer": "The recent multicenter randomized control trials on PGT-A noted limitations such as the selection of favorable-prognosis patients who had produced blastocysts for biopsy, the need for broader patient selection, and the fact that the trials were conducted in centers with extensive experience in embryo biopsy and specimen preparation, which may not be applicable to less experienced centers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of conducting large, prospective studies in the context of embryo selection technologies?",
+        "answer": "Large, prospective, well-controlled studies are significant as they aim to evaluate the combination of multiple approaches (such as genomics, time-lapse imaging, and artificial intelligence) for enhanced embryo selection. These studies are essential to determine not only the effectiveness of these technologies but also their safety and potential risks, especially in a more inclusive patient population.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of blastocyst biopsy with aneuploidy testing in infertile patients undergoing IVF treatment?",
+        "answer": "The routine use of blastocyst biopsy with aneuploidy testing in all infertile patients undergoing IVF treatment cannot be recommended at present.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the systematic review and meta-analysis mentioned in the excerpt?",
+        "answer": "The systematic review and meta-analysis focuses on preimplantation genetic screening, as indicated by the reference to Mastenbroek et al. in the context of human reproduction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing for aneuploidy?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) is a procedure used in conjunction with in vitro fertilization (IVF) to screen embryos for chromosomal abnormalities before implantation. This testing helps identify embryos that are euploid (having the correct number of chromosomes) and may increase the chances of a successful pregnancy and live birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the benefits of using fluorescence in situ hybridization in preimplantation genetic screening?",
+        "answer": "Fluorescence in situ hybridization (FISH) is a technique used in preimplantation genetic screening to detect specific chromosomal abnormalities in embryos. The benefits include the ability to quickly assess the chromosomal status of embryos, which can help in selecting the most viable embryos for transfer, potentially reducing the risk of implantation failure and increasing the chances of a successful pregnancy, especially in patients with advanced maternal age or repeated implantation failures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does state-mandated insurance coverage have on preimplantation genetic testing?",
+        "answer": "State-mandated insurance coverage for preimplantation genetic testing can increase access to these services for patients undergoing in vitro fertilization. This coverage can lead to higher utilization rates of genetic testing, which may improve outcomes by allowing for the selection of genetically normal embryos for transfer, thus potentially increasing live birth rates and reducing the incidence of miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of selecting single blastocysts for transfer in IVF?",
+        "answer": "Selecting single blastocysts for transfer in IVF is significant because it can reduce the risk of multiple pregnancies, which are associated with higher health risks for both the mother and the babies. Additionally, transferring a single euploid blastocyst (an embryo with the correct number of chromosomes) has been shown to improve implantation rates and overall success rates of IVF compared to transferring multiple embryos or those with chromosomal abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does comprehensive chromosome screening affect IVF outcomes?",
+        "answer": "Comprehensive chromosome screening (CCS) involves analyzing embryos for chromosomal abnormalities before transfer. Studies have shown that using CCS can significantly increase implantation and delivery rates in IVF by ensuring that only genetically normal embryos are selected for transfer, thus improving the chances of a successful pregnancy and reducing the likelihood of miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the application of next-generation sequencing technology in preimplantation genetic screening?",
+        "answer": "Next-generation sequencing technology is applied for comprehensive aneuploidy screening of blastocysts in clinical preimplantation genetic screening cycles, which helps in identifying chromosomal abnormalities before implantation during in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of in vitro fertilization with preimplantation genetic diagnosis according to the United States Assisted Reproductive Technology Surveillance Data?",
+        "answer": "The outcomes of in vitro fertilization with preimplantation genetic diagnosis indicate that this approach can lead to improved success rates in achieving pregnancy and live births, as analyzed from the United States Assisted Reproductive Technology Surveillance Data for the years 2011-2012.",
+        "is_verified": 1
+    },
+    {
+        "question": "How effective is in vitro fertilization with preimplantation genetic screening?",
+        "answer": "In vitro fertilization with preimplantation genetic screening has been shown to be effective, particularly in improving clinical outcomes such as implantation rates and live birth rates, especially in women of advanced maternal age.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of preimplantation genetic testing for aneuploidies in in vitro fertilization?",
+        "answer": "Preimplantation genetic testing for aneuploidies is significant as it allows for the selection of embryos with the correct number of chromosomes, potentially leading to higher success rates in IVF and better clinical outcomes for patients, particularly those of advanced maternal age.",
+        "is_verified": 1
+    },
+    {
+        "question": "What improvements in outcomes are associated with preimplantation genetic testing for aneuploidy in advanced maternal age patients?",
+        "answer": "Preimplantation genetic testing for aneuploidy in advanced maternal age patients has been associated with improved clinical, gestational, and neonatal outcomes without compromising the cumulative live-birth rate, thereby enhancing the chances of successful pregnancies in this demographic.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of aneuploidy screening in human blastocysts?",
+        "answer": "Aneuploidy screening in human blastocysts is significant because it helps assess the chromosomal abnormalities in embryos, which can impact the success rates of pregnancies. The studies mentioned indicate that there are differences in euploidy rates among fertility centers and that preimplantation genetic testing for aneuploidy may not improve pregnancy outcomes for donor oocyte recipients.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the use of donor eggs affect pregnancy outcomes?",
+        "answer": "The use of donor eggs can influence pregnancy outcomes, as indicated by studies comparing pregnancy rates in patients undergoing single embryo transfers with and without preimplantation genetic testing. Additionally, the association of fresh versus cryopreserved embryo transfers shows varying live birth rates among women using donor eggs for assisted reproduction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does preimplantation genetic testing have on donor oocyte-recipient cycles?",
+        "answer": "Preimplantation genetic testing has been shown to impact donor oocyte-recipient cycles by potentially affecting the rates of euploid blastocysts and live births. However, some studies suggest that it may not provide significant benefits in improving pregnancy outcomes for recipients of donor eggs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of single-embryo transfer and preimplantation genetic testing on multiple pregnancy rates in donor oocyte-recipient gestational carrier IVF cycles?",
+        "answer": "There is a reduction in multiple pregnancy rates in donor oocyte-recipient gestational carrier IVF cycles in the USA when single-embryo transfer and preimplantation genetic testing are utilized.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the differences in pregnancy outcomes in donor egg frozen embryo transfer cycles following preimplantation genetic screening?",
+        "answer": "The study indicates that there are differences in pregnancy outcomes in donor egg frozen embryo transfer cycles that follow preimplantation genetic screening, as shown in a single center retrospective study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the cost-effectiveness of preimplantation genetic testing for aneuploidy in fresh donor oocyte cycles?",
+        "answer": "The cost-effectiveness of preimplantation genetic testing for aneuploidy in fresh donor oocyte cycles has been analyzed, indicating its economic viability in such procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is advanced paternal age a health risk for offspring?",
+        "answer": "The research discusses whether advanced paternal age poses a health risk for offspring, indicating that this is a topic of investigation in reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does advanced paternal age affect embryo aneuploidy following blastocyst biopsy in egg donor cycles?",
+        "answer": "The findings suggest that advanced paternal age does not affect embryo aneuploidy following blastocyst biopsy in egg donor cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is there a correlation between paternal age and aneuploidy rate?",
+        "answer": "The analysis indicates that there is a correlation between paternal age and aneuploidy rate, based on a study of embryos derived from young egg donors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence is there regarding the association between paternal age and aneuploidy?",
+        "answer": "Evidence from a systematic review and individual patient data meta-analysis suggests there is an association between paternal age and aneuploidy in embryos derived from young donor oocytes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the implantation potential of euploid blastocysts?",
+        "answer": "The implantation potential of euploid blastocysts is influenced by various factors, including maternal age and the quality of the embryo. Studies have shown that age can significantly impact the success rates of embryo transfers, even when the embryos are euploid, meaning they have the correct number of chromosomes. This information is derived from research published in the American Journal of Obstetrics and Gynecology and the Journal of Assisted Reproduction and Genetics, which analyzed data from numerous embryo transfers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of euploid single embryo transfers based on age?",
+        "answer": "The outcomes of euploid single embryo transfers can vary based on the age of the patient. A study that analyzed data from 8175 euploid single embryo transfers found that as maternal age increases, the success rates of implantation and live birth decrease, even when the embryos are genetically normal (euploid). This highlights the importance of considering maternal age in fertility treatments and embryo transfer decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the guidance on the limits to the number of embryos to transfer according to the American Society for Reproductive Medicine?",
+        "answer": "The American Society for Reproductive Medicine provides guidance on the limits to the number of embryos to transfer, emphasizing the importance of reducing multiple pregnancies and optimizing outcomes in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of elective single-embryo transfer in frozen embryo transfer cycles?",
+        "answer": "Elective single-embryo transfer is significant as it aims to reduce the risks associated with multiple pregnancies while maintaining high success rates in frozen embryo transfer cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the implementation of an elective single embryo transfer policy affect multiple pregnancies in advanced maternal age populations?",
+        "answer": "The implementation of an elective single embryo transfer policy, coupled with enhanced embryo selection, has been shown to reduce the incidence of multiple pregnancies in the advanced maternal age population.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of in vitro fertilization with preimplantation genetic screening compared to expectant management in patients with recurrent pregnancy loss?",
+        "answer": "In vitro fertilization combined with preimplantation genetic screening has been analyzed for its effectiveness compared to expectant management in patients experiencing recurrent pregnancy loss, showing differing outcomes in terms of pregnancy success rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between aneuploidy rates in blastocysts and recurrent pregnancy loss patients with diminished ovarian reserve?",
+        "answer": "There is a higher rate of aneuploidy in blastocysts and an increased risk of no embryo transfer in recurrent pregnancy loss patients who have diminished ovarian reserve undergoing in vitro fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do abnormal ovarian reserve parameters relate to the incidence of aneuploid blastocysts?",
+        "answer": "Abnormal ovarian reserve parameters are associated with a higher incidence of aneuploid blastocysts, indicating a potential impact on reproductive outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of genomic embryo screening in reproductive outcomes?",
+        "answer": "Genomic embryo screening optimizes reproductive outcomes by ensuring that only embryos with the correct number of chromosomes (euploid embryos) are selected for transfer, which can enhance the chances of successful implantation and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the randomized controlled trial by Coates et al. compare?",
+        "answer": "The trial compares the optimal strategy for euploid embryo transfer, specifically looking at the differences between fresh and frozen embryo transfers after preimplantation genetic screening using next generation sequencing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Cochrane Database Systematic Review by Zaat et al. analyze?",
+        "answer": "It analyzes the outcomes of fresh versus frozen embryo transfers in assisted reproduction, providing evidence on which method may be more effective for achieving pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between slow embryo development and aneuploidy rates according to Piccolomini et al.?",
+        "answer": "The study investigates whether slow embryo development can predict a higher rate of aneuploidy in embryos, which is important for understanding embryo viability and selection in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings regarding day 7 blastocysts as reported by Tiegs et al.?",
+        "answer": "The findings indicate that day 7 blastocysts have lower euploidy rates compared to day 5 and day 6 blastocysts, but they have similar sustained implantation rates, which is crucial for clinical decision-making in embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the research by Hernandez-Nieto et al. explore regarding day 7 euploid embryos?",
+        "answer": "The research explores the reproductive potential of day 7 euploid embryos, contributing to the understanding of their viability and success rates in achieving pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of preimplantation genetic diagnosis (PGD) according to Goldman et al.?",
+        "answer": "PGD is used for identifying monogenic disorders in embryos, and the study highlights the importance of concurrent aneuploidy screening to improve outcomes in genetic counseling and reproductive planning.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study by Shen et al. evaluate regarding NGS-based PGT-A?",
+        "answer": "The study evaluates the application value of next generation sequencing-based preimplantation genetic testing for aneuploidy (PGT-A) by screening cryopreserved embryos from cycles with known transfer outcomes, which aids in optimizing embryo selection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What outcomes are compared in the study by Taylor et al. regarding blastocyst transfer?",
+        "answer": "The study compares the outcomes of blastocysts that were biopsied and vitrified once versus those that were cryopreserved twice, focusing on the success rates of euploid blastocyst transfers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of multiple blastocyst biopsy and vitrification-warming procedures on pregnancy outcomes?",
+        "answer": "The impact of multiple blastocyst biopsy and vitrification-warming procedures on pregnancy outcomes was studied, revealing significant effects on the success rates of pregnancies following these procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of using suboptimal sperm in preimplantation blastocyst embryos?",
+        "answer": "Using suboptimal sperm increases the risk of aneuploidy of the sex chromosomes in preimplantation blastocyst embryos, which can affect the viability and health of the embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of inconclusive results in preimplantation genetic testing?",
+        "answer": "Inconclusive results in preimplantation genetic testing may lead to decisions regarding a second biopsy, and the clinical outcomes can vary based on the subsequent actions taken.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of next-generation sequencing-based preimplantation genetic testing for aneuploidy (PGT-A)?",
+        "answer": "Next-generation sequencing-based preimplantation genetic testing for aneuploidy (PGT-A) is significant as it helps in diagnosing chromosomal abnormalities in embryos, although inconclusive reports may necessitate further biopsies and can influence clinical outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do aneuploidy rates compare between conventional IVF and ICSI?",
+        "answer": "A study comparing aneuploidy rates between conventional in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) found differences in rates, which can inform choices in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of preimplantation genetic testing for aneuploidy in severe male infertility?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) is significant in severe male infertility as it helps identify chromosomal abnormalities in embryos before implantation, increasing the chances of a successful pregnancy and reducing the risk of miscarriage or genetic disorders in offspring. Studies have shown that PGT-A can improve clinical outcomes in assisted reproductive technologies such as intracytoplasmic sperm injection (ICSI).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of high rates of aneuploidy and mosaicism in cases with low sperm concentration?",
+        "answer": "High rates of aneuploidy and mosaicism in cases with low sperm concentration indicate a potential risk for reduced embryo viability and increased chances of miscarriage. This suggests that men with low sperm counts may face challenges in achieving successful pregnancies through assisted reproductive technologies, and highlights the importance of genetic testing to select the healthiest embryos for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the male factor affect the clinical outcome of intracytoplasmic sperm injection combined with preimplantation aneuploidy testing?",
+        "answer": "The male factor significantly affects the clinical outcome of intracytoplasmic sperm injection (ICSI) when combined with preimplantation aneuploidy testing (PGT-A). Studies have shown that the quality of sperm, including chromosomal integrity, can influence embryo development and implantation rates. Therefore, assessing the male factor through genetic testing can help optimize treatment strategies and improve success rates in assisted reproduction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with paternal cell contamination in preimplantation genetic testing?",
+        "answer": "Paternal cell contamination in preimplantation genetic testing (PGT) poses risks such as inaccurate genetic analysis of embryos, leading to potential misdiagnosis and inappropriate embryo selection. This contamination can occur during the sperm injection process in ICSI, emphasizing the need for careful handling and testing protocols to ensure the reliability of genetic results and the health of the resulting embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relevance of chromosomal abnormalities in embryos derived from testicular sperm extraction?",
+        "answer": "Chromosomal abnormalities in embryos derived from testicular sperm extraction (TESE) are relevant as they can affect embryo viability and the likelihood of successful implantation. Understanding the frequency and types of chromosomal abnormalities can guide treatment decisions and inform patients about potential risks associated with using sperm obtained through TESE in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the disparities in ART (DART) hypothesis?",
+        "answer": "The disparities in ART (DART) hypothesis focuses on racial and ethnic disparities in access and outcomes of IVF treatment in the USA.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does embryonic aneuploidy refer to in the context of genetic ancestry?",
+        "answer": "Embryonic aneuploidy refers to the presence of an abnormal number of chromosomes in embryos, and the study mentioned indicates that it does not differ among genetic ancestry according to continental origin as determined by ancestry informative markers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic diagnosis (PGD)?",
+        "answer": "Preimplantation genetic diagnosis (PGD) is a reproductive technology used to identify genetic defects in embryos created through in vitro fertilization (IVF) before pregnancy. It allows for the selection of embryos that do not carry specific genetic disorders, thereby reducing the risk of genetic diseases in offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the developmental outcomes associated with children born after preimplantation genetic testing?",
+        "answer": "Studies have shown that children born after preimplantation genetic testing, such as PGD and preimplantation genetic screening (PGS), generally have favorable developmental outcomes. Research indicates that these children can have normal body composition, blood pressure, and overall health comparable to their peers, although ongoing monitoring and studies are essential to assess long-term effects.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the maternal and neonatal outcomes associated with embryo biopsy?",
+        "answer": "Embryo biopsy, a procedure used in preimplantation genetic testing, has been associated with various maternal and neonatal outcomes. Research indicates that while embryo biopsy can be safe, it may have implications for maternal health and pregnancy outcomes, including potential risks during embryo transfer and the health of the newborn. Studies aim to evaluate these outcomes to ensure the safety and effectiveness of the procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the cost-effectiveness of preimplantation genetic screening in patients with recurrent pregnancy loss?",
+        "answer": "Cost-effectiveness analyses have shown that preimplantation genetic screening (PGS) combined with in vitro fertilization (IVF) can be more cost-effective compared to expectant management in patients experiencing unexplained recurrent pregnancy loss. This approach may lead to higher success rates and reduced costs associated with multiple unsuccessful pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of preimplantation genetic testing for aneuploidies (PGT-A) in assisted reproductive technology?",
+        "answer": "Preimplantation genetic testing for aneuploidies (PGT-A) is significant as it helps in identifying chromosomal abnormalities in embryos before implantation, which can reduce the risk of failed embryo transfer and clinical miscarriage. It is particularly important for women of advanced maternal age, as it can improve the chances of successful pregnancies by selecting genetically normal embryos for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of mosaicism in human embryos for preimplantation genetic testing?",
+        "answer": "Mosaicism in human embryos refers to the presence of two or more genetically different cell lines within the same embryo. The implications for preimplantation genetic testing are significant, as the accuracy of preimplantation genetic screening (PGS) can be compromised by the degree of mosaicism. This means that embryos classified as normal may still have some abnormal cells, which can affect their developmental potential and the success of implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of cost-effectiveness analysis in preimplantation genetic testing for aneuploidy?",
+        "answer": "Cost-effectiveness analysis in preimplantation genetic testing for aneuploidy evaluates the economic viability of implementing PGT-A in assisted reproductive technology cycles. It helps determine whether the benefits of improved pregnancy outcomes justify the costs associated with the testing, particularly for women of advanced maternal age who may have a higher risk of chromosomal abnormalities in embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the clinical management of mosaic results from preimplantation genetic testing for aneuploidy impact reproductive outcomes?",
+        "answer": "The clinical management of mosaic results from preimplantation genetic testing for aneuploidy involves making informed decisions about embryo transfer based on the degree of mosaicism. This management can significantly impact reproductive outcomes, as it guides clinicians in selecting embryos with the best potential for successful implantation and healthy pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of next generation sequencing in embryo screening?",
+        "answer": "Next generation sequencing is validated for comprehensive chromosome screening of embryos, allowing for the diagnosis of aneuploidy prior to implantation, which can significantly impact reproductive potential.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study by Scott RT Jr et al. indicate about comprehensive chromosome screening?",
+        "answer": "The study indicates that comprehensive chromosome screening is highly predictive of the reproductive potential of human embryos, suggesting its importance in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does cleavage-stage embryo biopsy have on implantation potential according to Scott RT Jr et al.?",
+        "answer": "Cleavage-stage biopsy significantly impairs human embryonic implantation potential, while blastocyst biopsy does not, as shown in a randomized and paired clinical trial.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of preimplantation genetic testing for aneuploidy (PGT-A)?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) is used to evaluate embryos for chromosomal abnormalities before implantation, which can improve IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Committee Opinion No. 693 from the American College of Obstetricians discuss?",
+        "answer": "It discusses counseling about genetic testing and the communication of genetic test results, highlighting the importance of informed decision-making in reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of pre-implantation genetic testing on sex ratio according to the study by Shaia et al.?",
+        "answer": "The study by Shaia et al. analyzed 91,805 embryo transfer cycles and found that pre-implantation genetic testing alters the sex ratio.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study by Alikani et al. evaluate regarding assisted reproduction technology?",
+        "answer": "The study by Alikani et al. provides a comprehensive evaluation of contemporary assisted reproduction technology laboratory operations to determine staffing levels that promote patient safety and quality care.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and its relevance in medical practice?",
+        "answer": "PGT-A, or preimplantation genetic testing for aneuploidy, is a genetic test used in the context of in vitro fertilization (IVF) to analyze embryos for chromosomal abnormalities before implantation. Its use has been increasing in the United States, although the effectiveness of PGT-A as a routine detection test for all IVF patients has not been conclusively demonstrated. Some single-center studies reported higher live birth rates after PGT-A in patients with favorable prognosis, but multicenter randomized controlled trials indicated that pregnancy outcomes through frozen embryo transfer were similar between PGT-A and conventional IVF. The role of PGT-A in reducing the risk of clinical miscarriage remains uncertain, highlighting the need for further research.",
+        "is_verified": 1
+    }
+]

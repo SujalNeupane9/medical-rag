@@ -1,0 +1,1167 @@
+[
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome is a serious complication associated with assisted reproductive technology, characterized by an exaggerated response to ovarian stimulation, leading to enlarged ovaries and fluid accumulation in the abdomen.",
+        "is_verified": 1
+    },
+    {
+        "question": "Who is at increased risk for developing OHSS?",
+        "answer": "Patients with elevated antimüllerian hormone levels, polycystic ovary syndrome (PCOS), and those with anticipated high oocyte yields are at increased risk for developing ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some recommended strategies to prevent OHSS?",
+        "answer": "Recommended strategies to prevent OHSS include counseling at-risk patients, employing ovarian stimulation protocols using gonadotropin-releasing hormone (GnRH) antagonists, dosing gonadotropins based on individualized ovarian reserve testing, and considering lower starting doses of gonadotropins or supplementing with oral ovulation-inducing medications like clomiphene citrate or letrozole.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the strength of evidence for the recommendations regarding OHSS prevention?",
+        "answer": "The strength of evidence for counseling patients at risk and employing GnRH antagonists is classified as 'A' (strong), while the recommendations for dosing gonadotropins and considering lower doses or supplements are classified as 'B' (moderate).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended strategy to reduce the risk of moderate-to-severe OHSS?",
+        "answer": "It is recommended to use a GnRH agonist to trigger oocyte maturation as a first-line strategy to reduce the risk of moderate-to-severe OHSS. Additionally, adequate luteal support should be added when using a GnRH agonist as a trigger and planning a fresh embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of cabergoline in managing the risk of OHSS?",
+        "answer": "In patients at risk for moderate-to-severe OHSS, it is recommended to start a dopamine agonist such as cabergoline on the day of the hCG trigger or soon thereafter and continue for several days.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is not recommended as a strategy to reduce the risk of moderate-to-severe OHSS?",
+        "answer": "It is not recommended to use a lower dose for the human chorionic gonadotropin (hCG)-only trigger, administer letrozole, or administer a luteal GnRH antagonist alone as interventions to reduce rates of moderate-to-severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence supports the use of coasting in managing OHSS risk?",
+        "answer": "Coasting is generally not recommended as a primary strategy to reduce the risk of moderate-to-severe OHSS. However, when other more effective strategies are not available, coasting in combination with cabergoline and a freeze-only strategy may mitigate the risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Ovarian Hyperstimulation Syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is an uncommon but serious complication associated with controlled ovarian stimulation during assisted reproductive technology (ART).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations regarding the use of medications to reduce the incidence of OHSS?",
+        "answer": "It is not recommended to use aspirin, metformin (for the sole purpose of reducing OHSS in GnRH antagonist cycles), mifepristone, myoinositol, D-chiro-inositol, or glucocorticoids to reduce rates of OHSS, as studies have shown these interventions to be ineffective. However, metformin may be considered for OHSS risk reduction among women with PCOS using a GnRH-agonist protocol.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended strategy for patients at risk for OHSS?",
+        "answer": "It is recommended to consider a freeze-only cycle and subsequent frozen embryo transfer in patients at risk for OHSS based on a high ovarian response or elevated serum estradiol levels, as this strategy has been shown to significantly reduce rates of moderate or severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of moderate-to-severe OHSS in IVF cycles?",
+        "answer": "Historically, moderate-to-severe OHSS has been reported to occur in approximately 1%–5% of in vitro fertilization (IVF) cycles, although the true incidence is difficult to delineate due to the lack of a strict, consensus definition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations regarding the use of volume expanders in patients at high risk of developing OHSS?",
+        "answer": "It is not recommended to use volume expanders such as albumin, hydroxyethyl starch, or mannitol in patients who are at high risk of developing moderate or severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the symptoms associated with ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "The symptoms associated with ovarian hyperstimulation syndrome (OHSS) include abdominal distention and discomfort, dyspnea, nausea/vomiting, diarrhea, and enlarged ovaries. Depending on the severity, additional symptoms may include severe hemoconcentration, clinical evidence of ascites, hydrothorax, severe dyspnea, oliguria/anuria, intractable nausea/vomiting, elevated liver enzymes, low blood/central venous pressure, rapid weight gain, syncope, severe abdominal pain, and venous thrombosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What laboratory features are indicative of moderate and severe OHSS?",
+        "answer": "Laboratory features indicative of moderate OHSS include hemoconcentration (Hct > 41%), ultrasonographic evidence of ascites, and elevated white blood cell count (WBC > 15,000 mL). For severe OHSS, laboratory features include severe hemoconcentration (Hct > 45%), WBC > 25,000 mL, creatinine clearance (CrCl < 50 mL/min), elevated creatinine (Cr > 1.6 mg/dL), sodium (Na+ < 135 mEq/L), potassium (K+ > 5 mEq/L), and elevated liver enzymes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the classic physiologic changes associated with OHSS?",
+        "answer": "The classic physiologic changes associated with ovarian hyperstimulation syndrome (OHSS) include arteriolar vasodilation and an increase in capillary permeability, which results in fluid shifting from intravascular to extravascular spaces, leading to intravascular volume depletion and hyponatremia.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the critical complications that can arise from severe OHSS?",
+        "answer": "Critical complications that can arise from severe ovarian hyperstimulation syndrome (OHSS) include anuria/acute renal failure, worsening of clinical findings, arrhythmia, thromboembolism, pericardial effusion, massive hydrothorax, arterial thrombosis, adult respiratory distress syndrome, and sepsis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a medical condition that can occur in women undergoing fertility treatments, particularly those involving hormone injections to stimulate the ovaries. It is characterized by swollen and painful ovaries and can lead to serious complications if not managed properly.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of individualized treatment for OHSS?",
+        "answer": "The excerpt emphasizes the importance of individualized treatment for OHSS rather than a standardized approach, suggesting that tailored strategies may be more effective in preventing and managing the condition based on the unique circumstances of each patient.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does vascular endothelial growth factor (VEGF) play in ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "VEGF is integral to the development of ovarian hyperstimulation syndrome (OHSS) and is involved in follicular growth, corpus luteum function, angiogenesis, and vascular endothelial stimulation. It mediates the vascular permeability of OHSS in response to human chorionic gonadotropin (hCG), with systemic hCG levels positively correlating with the severity of the disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the classifications of ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is staged as mild, moderate, severe, or critical based on the severity of symptoms and laboratory findings. It is further classified by the timing of onset into early-onset (occurring after controlled ovarian hyperstimulation and an ovulatory dose of hCG) and late-onset (beginning at least 9 days after the hCG trigger in response to rising hCG levels during pregnancy).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential complications of severe ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Severe ovarian hyperstimulation syndrome (OHSS) can lead to life-threatening complications, including pleural effusion, acute renal insufficiency, and venous thromboembolism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the purpose of the systematic search of the literature regarding OHSS?",
+        "answer": "The systematic search of the literature aimed to answer three questions about ovarian hyperstimulation syndrome (OHSS): who is at high risk, how can it be prevented, and what is the treatment for it. The findings contribute to the guidelines for the prevention of moderate and severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS?",
+        "answer": "OHSS stands for Ovarian Hyperstimulation Syndrome, a condition that can occur in women undergoing fertility treatments, characterized by swollen and painful ovaries due to overstimulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some treatments mentioned for OHSS?",
+        "answer": "The excerpt mentions treatments related to OHSS, including the use of acetylsalicylic acid (aspirin), enoxaparin, and prednisolone, among others.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of studies were included in the systematic review for the clinical practice guideline?",
+        "answer": "The studies included were randomized controlled trials (RCTs), systematic reviews or meta-analyses of RCTs, controlled trials without randomization, cohort studies, and case-control studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the exclusion criteria for the studies in the guideline?",
+        "answer": "Excluded studies included descriptive studies, case series, case reports, letters, nonsystematic reviews, opinions based on clinical experience, and reports of expert committees.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the systematic review conducted on June 12, 2020?",
+        "answer": "The systematic review provided the basis for the clinical practice guideline on OHSS, ensuring that the recommendations were grounded in evidence from the literature.",
+        "is_verified": 1
+    },
+    {
+        "question": "What medical subject headings were used in the literature search?",
+        "answer": "The medical subject headings included acetylsalicylic acid, albumin, ASA, ascites, aspirin, BMI, calcium, clinical trial, clomiphene, enoxaparin, heparin, metformin, OHSS, paracentesis, prednisolone, and treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does OHSS stand for?",
+        "answer": "OHSS stands for Ovarian Hyperstimulation Syndrome, a condition that can occur in women undergoing fertility treatments such as in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some studies mentioned that address clinical risk factors related to OHSS?",
+        "answer": "The excerpt mentions randomized controlled trials (RCTs) that address clinical risk factors, as well as observational studies that report on moderate-to-severe cases of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different fertility treatments abbreviated in the excerpt?",
+        "answer": "The excerpt refers to several fertility treatments: IUI (intrauterine insemination), IVF (in vitro fertilization), and IVM (in vitro maturation).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Ovarian Hyperstimulation Syndrome (OHSS)?",
+        "answer": "Ovarian Hyperstimulation Syndrome (OHSS) is a condition that can occur in women undergoing controlled ovarian stimulation with gonadotropins, characterized by enlarged ovaries and fluid accumulation in the abdomen. It can range from mild to severe and is associated with fertility treatments such as in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "Who is at high risk for moderate and severe OHSS?",
+        "answer": "Women at higher risk for moderate and severe OHSS include those who are younger, of Black race, and those with infertility due to disorders of ovulation, tubal factors, or unexplained infertility. Identifying these risk factors is crucial for implementing strategies to mitigate the incidence of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is it important to identify individuals at increased risk for OHSS?",
+        "answer": "Identifying individuals at increased risk for OHSS is important to facilitate the implementation of strategies to mitigate or eliminate its incidence. Early identification allows for appropriate counseling regarding risks and helps in planning treatment to minimize complications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are considered when assessing risk for OHSS?",
+        "answer": "Factors considered when assessing risk for OHSS include demographics, baseline patient characteristics, and specific infertility factors such as age, race, and the underlying cause of infertility. These factors help in early counseling and risk mitigation before treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS and what factors influence its risk?",
+        "answer": "OHSS, or Ovarian Hyperstimulation Syndrome, is a condition that can occur in women undergoing fertility treatments. The risk of developing OHSS is influenced by several factors, including race (increased risk for Black women and decreased risk for Hispanic women), age (younger age associated with increased risk, but age over 40 linked to life-threatening complications), and ovulation disorders such as polycystic ovary syndrome (PCOS). Women with PCOS and metabolic syndrome appear to have a lower risk of OHSS. Body mass index (BMI) has mixed associations with OHSS risk. Genetic factors, such as the FSH receptor N680S variant and variants in the FLT4 gene, have also been explored as predictors of OHSS risk. Additionally, markers of ovarian reserve, such as antimüllerian hormone (AMH) levels and antral follicle count (AFC), are better predictors of OHSS risk, with elevated AMH levels indicating a higher risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of AMH levels in relation to OHSS risk?",
+        "answer": "An AMH level of >10 ng/mL is associated with a more than three-fold risk for Ovarian Hyperstimulation Syndrome (OHSS) compared to women whose AMH levels are elevated to a lesser extent at >5 ng/mL.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of AMH levels in predicting OHSS?",
+        "answer": "AMH (Anti-Müllerian Hormone) levels are used as a predictive marker for Ovarian Hyperstimulation Syndrome (OHSS). A cutoff of 6.95 ng/mL was found to predict OHSS with 75% sensitivity and 84% specificity. Additionally, a lower cutoff of 3.36 ng/mL showed a sensitivity of 90.5% and specificity of 81.3%, indicating that AMH levels can be a reliable indicator of risk for OHSS during IVF treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does antral follicle count relate to OHSS risk?",
+        "answer": "Antral follicle count (AFC) is closely related to AMH levels and serves as a marker of ovarian reserve. In a study involving 1,012 women undergoing their first IVF cycle, an AFC greater than 24 was associated with an 8.6% risk of developing OHSS, compared to a 2.2% risk in women with an AFC less than 24. This indicates that higher AFC is predictive of increased risk for OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What stimulation-related factors increase the risk of OHSS?",
+        "answer": "Stimulation-related factors that increase the risk of OHSS include a greater number of mature follicles at the ovulatory trigger, elevated peak estradiol levels, and a higher number of oocytes retrieved. Studies have shown a positive correlation between the number of oocytes retrieved and the development of OHSS, with a significant risk noted when at least 15-18 oocytes are retrieved. Additionally, an increased total number of large follicles is consistently predictive of OHSS risk, with a total follicle number greater than 17 being an independent risk factor.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between the number of follicles and the risk of OHSS?",
+        "answer": "The total number of follicles measuring R11 mm was associated with a heightened risk for moderate-to-severe Ovarian Hyperstimulation Syndrome (OHSS). A cutoff of 15 or greater follicles measuring R10 mm was also associated with OHSS risk in another retrospective cohort study.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does serum estradiol concentration relate to OHSS risk?",
+        "answer": "A higher serum estradiol concentration at the time of the ovulatory trigger has been associated with an increased risk for OHSS. In a case-control study evaluating risk factors for OHSS after IVF, higher serum estradiol was associated with an Incidence Rate Ratio (IRR) of 1.43 for OHSS, indicating a significant correlation between elevated estradiol levels and OHSS risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What baseline characteristics are associated with an increased risk for OHSS?",
+        "answer": "Factors associated with a robust response to ovarian stimulation that predispose individuals to OHSS include younger age, the diagnosis of Polycystic Ovary Syndrome (PCOS), and elevated ovarian reserve markers such as an Antral Follicle Count (AFC) greater than 24 and Anti-Müllerian Hormone (AMH) levels greater than 3.4 ng/mL.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations are made for patients at risk of OHSS?",
+        "answer": "It is recommended to counsel patients with elevated AMH levels, PCOS, and anticipated high oocyte yields about their increased risk for OHSS. Strategies to reduce OHSS risk should be implemented in this patient population.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS?",
+        "answer": "OHSS stands for Ovarian Hyperstimulation Syndrome, a condition that can occur in women undergoing fertility treatments, particularly those involving hormone stimulation. It is characterized by swollen and painful ovaries and can lead to serious complications if not managed properly.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are GnRH agonist and antagonist protocols?",
+        "answer": "GnRH agonist and antagonist protocols are types of stimulation protocols used in assisted reproductive technology. GnRH agonists stimulate the release of hormones that promote ovarian function, while GnRH antagonists inhibit this release to prevent premature ovulation during treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the strength of evidence grading system indicate?",
+        "answer": "The strength of evidence grading system categorizes the confidence in research findings. Grade A indicates high confidence based on strong randomized controlled trials (RCTs), Grade B indicates moderate confidence with potential weaknesses, and Grade C indicates low confidence due to significant methodological flaws in the evidence.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of GnRH antagonists on the incidence of OHSS compared to GnRH agonists?",
+        "answer": "GnRH antagonists reduce the incidence of OHSS compared to protocols that use a GnRH agonist. A large randomized controlled trial (RCT) showed a significant reduction in severe OHSS (5.1% vs. 8.9%) and moderate OHSS (10.2% vs. 15.6%) with the use of the GnRH antagonist protocol, with no significant differences in live birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Cochrane systematic review and meta-analysis reveal about the use of GnRH antagonists?",
+        "answer": "The largest Cochrane systematic review and meta-analysis, which included 73 RCTs with 12,212 participants, demonstrated a statistically significant reduction in the incidence of any grade of OHSS (OR 0.61, 95% CI 0.51–0.72) with the use of GnRH antagonists compared to GnRH agonists, with no significant differences in live birth and miscarriage rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the timing of GnRH antagonist administration affect the incidence of early-onset moderate and severe OHSS?",
+        "answer": "An RCT of 194 patients found that administering GnRH antagonists twice in the day before the hCG trigger significantly reduced the incidence of early-onset moderate and severe OHSS (0% vs. 12.37%) compared to administering it once, with no difference in pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the design of the trial comparing individualized gonadotropin dosing with fixed gonadotropin dosing?",
+        "answer": "A randomized, controlled, assessor-blind, international, multicenter trial was conducted over 37 sites in 11 countries comparing fixed individualized dosing with follitropin delta based on serum AMH levels and BMI to standard dosing using follitropin alpha, which started at 150 units for the first 5 days and adjusted thereafter.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of moderate and severe OHSS in the individualized follitropin delta arm compared to the conventional follitropin alpha arm?",
+        "answer": "The individualized, fixed-dose follitropin delta arm demonstrated a 50% lower incidence of moderate and severe OHSS compared to the conventional follitropin alpha arm, with an odds ratio (OR) of 0.50 (95% CI 0.26–0.97, P=0.036).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the results regarding the occurrence of any grade of OHSS between the low FSH dose and standard FSH dose groups?",
+        "answer": "The occurrence of any grade of OHSS was lower after a lower FSH dose (5.2%) compared to the standard FSH dose (11.8%), with a risk ratio (RR) of 0.44 (95% CI 0.28–0.71, P=0.001).",
+        "is_verified": 1
+    },
+    {
+        "question": "Was there a significant difference in the cumulative live birth rates between the low dose and standard dose groups?",
+        "answer": "There was no significant difference in the cumulative live birth rates between the low dose (66.3%) and standard dose (69.5%) groups, with a risk ratio (RR) of 0.95 (95% CI 0.85–1.07).",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the systematic review evaluating individualized gonadotropin dosing find regarding the incidence of moderate or severe OHSS?",
+        "answer": "The systematic review found that lower gonadotropin dosing based on ovarian reserve testing (ORT) decreased the incidence of moderate or severe OHSS, with an odds ratio (OR) of 0.58 (95% CI 0.34–1.0), with no significant differences in live birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of GnRH antagonist cycles in ovarian stimulation protocols?",
+        "answer": "GnRH antagonist cycles are supported by strong evidence to decrease the risk of ovarian hyperstimulation syndrome (OHSS) compared to GnRH agonist cycles in controlled ovarian stimulation protocols.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of individualized gonadotropin dosing on the risk of OHSS?",
+        "answer": "There is moderate evidence that individualized gonadotropin dosing based on ovarian response testing (ORT) decreases the risk of OHSS compared to standardized dosing.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does lowering the starting dose of gonadotropins affect the risk of OHSS?",
+        "answer": "There is moderate evidence that lowering the starting dose of gonadotropins and/or supplementing with oral ovulation-inducing agents can help decrease the risk of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk factors for ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Risk factors for OHSS include having polycystic ovary syndrome (PCOS), a history of previous OHSS, and an antral follicle count (AFC) greater than 24 during ovarian stimulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What findings were reported in the retrospective cohort study comparing different FSH dosing protocols?",
+        "answer": "The study found that a reduced FSH dosing protocol (225 IU from days 1-3, followed by 150 IU from days 4-6, and 75 IU from days 7-8) alongside low-dose hCG resulted in lower rates of OHSS (1.3% vs. 6.7%, P=0.025) compared to a fixed dose of 225 IU daily until trigger.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Cochrane meta-analysis reveal about oral ovulation-inducing medications?",
+        "answer": "The meta-analysis revealed a significant decrease in the incidence of OHSS with oral ovulation-inducing medications (OR 0.21, 95% CI 0.11–0.41) compared to gonadotropins alone, without a significant difference in live birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does AFC stand for in the context of fertility?",
+        "answer": "AFC stands for antral follicle count, which is a measure of the number of follicles in the ovaries that can potentially develop into eggs during a menstrual cycle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is AMH and what does a level greater than 3.4 ng/mL indicate?",
+        "answer": "AMH stands for antimüllerian hormone, which is a hormone produced by the ovaries. A level greater than 3.4 ng/mL is often associated with a higher ovarian reserve, indicating a greater number of available eggs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PCOS and how is it related to fertility?",
+        "answer": "PCOS stands for polycystic ovary syndrome, a hormonal disorder that can affect ovulation and fertility. Women with PCOS may have irregular menstrual cycles and may struggle with infertility due to hormonal imbalances.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does elevated estradiol at trigger (>3,500 pg/mL) indicate in fertility treatments?",
+        "answer": "Elevated estradiol levels at the time of trigger injection in fertility treatments can indicate a strong ovarian response and a higher likelihood of retrieving multiple oocytes during egg retrieval.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the retrieval of more than 15 oocytes suggest in the context of fertility treatments?",
+        "answer": "Retrieving more than 15 oocytes is generally considered a good outcome in fertility treatments, suggesting a strong ovarian response and increasing the chances of successful fertilization and embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What medications are recommended to decrease the risk of OHSS?",
+        "answer": "Clomiphene citrate and/or letrozole are recommended to decrease the risk of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding ovarian stimulation protocols in relation to OHSS?",
+        "answer": "It is recommended to employ ovarian stimulation protocols using GnRH antagonists over protocols using GnRH agonists when there is concern for OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "How should gonadotropins be dosed to minimize the risk of OHSS?",
+        "answer": "Gonadotropins should be dosed on the basis of individualized ovarian response testing (ORT) to decrease the risk of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is 'coasting' and how does it relate to OHSS?",
+        "answer": "Coasting is used when there is a high risk of OHSS based on estrogen levels and the number of follicles. It involves withholding gonadotropins until estradiol levels and follicle sizes are appropriate for triggering the final maturation of oocytes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What have studies shown about the effectiveness of coasting in reducing OHSS?",
+        "answer": "Limited cohort studies suggest that coasting for 4 days decreases implantation rates, but a randomized controlled trial found a significant reduction in the incidence of early moderate-to-severe OHSS with a combination approach of coasting and cabergoline. Early cohort studies indicated a reduction in OHSS without compromising pregnancy rates, and other studies showed comparable reductions in OHSS to methods like cryopreservation and albumin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is coasting and its role in preventing OHSS?",
+        "answer": "Coasting is a strategy that is generally not recommended as a primary method to reduce the risk of moderate-to-severe Ovarian Hyperstimulation Syndrome (OHSS). It is suggested only when other more effective strategies are not available. Coasting, when combined with cabergoline and a freeze-only strategy, may help mitigate the risk of OHSS, but the evidence supporting its effectiveness is weak (Grade C).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of human chorionic gonadotropin (hCG) in oocyte maturation?",
+        "answer": "Human chorionic gonadotropin (hCG) is used to activate the luteinizing hormone (LH) receptor to induce final oocyte maturation before egg retrieval. It has a longer half-life than LH, providing sustained stimulation of the LH receptor. The standard practice for decades has been to administer hCG, but the introduction of GnRH agonists has provided alternative methods to induce an endogenous LH surge.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings regarding the dosage of hCG in relation to OHSS?",
+        "answer": "Studies have examined the reduction of hCG dosage from 10,000 IU to lower doses, such as 4,000 IU, to determine its effect on the rate of OHSS. However, these randomized controlled trials (RCTs) have not found consistent or statistically significant differences in the rates of OHSS between different hCG dosages.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS and how is it related to hCG doses?",
+        "answer": "OHSS stands for Ovarian Hyperstimulation Syndrome, a condition that can occur in women undergoing fertility treatments. The excerpt discusses the incidence of moderate-severe OHSS cases across different hCG doses, indicating that higher doses of hCG are associated with varying rates of OHSS. Specifically, it mentions that 14% of moderate-severe OHSS cases were in the 10,000 IU hCG group, while other doses had different percentages: 36% in the 5,000 IU group, 29% in the 4,000 IU group, and 21% in the 3,300 IU group.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the use of GnRH agonist trigger compare to hCG trigger in terms of OHSS incidence?",
+        "answer": "The excerpt highlights that the use of a GnRH agonist trigger for final oocyte maturation results in a significant reduction in the development of OHSS compared to the hCG trigger. In a randomized controlled trial (RCT) involving women at high risk for OHSS, none of the patients in the GnRH agonist trigger group developed OHSS, while 31% of those who received the hCG trigger did. Further studies in oocyte donor populations also confirmed that the GnRH agonist trigger eliminated the risk of OHSS, contrasting with a 7% to 16% risk associated with the hCG trigger.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of the studies mentioned regarding the management of patients at high risk for OHSS?",
+        "answer": "The studies mentioned in the excerpt suggest that for patients at high risk for OHSS, particularly those undergoing fertility treatments such as oocyte donation or those with conditions like PCOS, using a GnRH agonist trigger instead of hCG can significantly reduce the incidence of OHSS. This finding has important implications for clinical practice, as it provides evidence for a safer approach to trigger oocyte maturation in susceptible populations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of GnRH agonist triggers compared to hCG triggers on the incidence of OHSS?",
+        "answer": "GnRH agonist triggers result in a lower incidence of OHSS compared to hCG triggers. Multiple cohort studies and a Cochrane review have shown that using GnRH agonists significantly reduces the risk of OHSS in both fresh autologous cycles and oocyte donor-recipient cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the finding regarding ovarian torsion risk in the study comparing GnRH agonist and hCG triggers?",
+        "answer": "The study found a statistically significant lower risk of ovarian torsion in the GnRH agonist trigger cohort compared to the hCG trigger cohort in antagonist freeze-all cycles over 16 years.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the impact of GnRH agonist triggers on live birth rates in fresh autologous cycles?",
+        "answer": "The use of GnRH agonist triggers was associated with a lower live birth rate in fresh autologous cycles, with a reported odds ratio of 0.47, indicating a significant decrease in live births compared to hCG triggers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is hypothesized to cause the lower live birth rate associated with GnRH agonist triggers?",
+        "answer": "The lower live birth rate is hypothesized to be due to rapid luteolysis caused by insufficient duration of LH receptor activation of the corpora luteal cysts, leading to insufficient endometrial receptivity.",
+        "is_verified": 1
+    },
+    {
+        "question": "What modifications have been investigated to reduce the risk of OHSS while maintaining live birth rates?",
+        "answer": "Studies have investigated more aggressive luteal support with GnRH agonist triggers and the use of dual triggers (low-dose hCG and GnRH agonist) to reduce the risk of OHSS without compromising live birth rates in fresh autologous cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of GnRH agonist trigger compared to hCG trigger on pregnancy rates?",
+        "answer": "GnRH agonist trigger (triptorelin 0.4 mg) and hCG trigger (5,000 IU) found comparable pregnancy rates of 51.6% vs. 52.6% respectively, with a P-value of .88 indicating no significant difference.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of OHSS in patients using GnRH agonist trigger compared to hCG trigger?",
+        "answer": "The incidence of OHSS was significantly reduced in the GnRH agonist trigger group at 5% compared to 14% in the hCG trigger group, with a P-value of .047 indicating statistical significance.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding miscarriage rates in the dual trigger group compared to the hCG trigger group?",
+        "answer": "The dual trigger group had a lower miscarriage rate of 16.7% compared to 50% in the hCG trigger group, indicating a significant difference in outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of adding supplemental hCG at the trigger on the risk of OHSS?",
+        "answer": "The addition of supplemental hCG at the trigger may increase the risk of moderate-to-severe OHSS, as indicated by a retrospective study showing 0% in the GnRH-agonist-only trigger group compared to 12% in the dual trigger group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the RCT comparing dual trigger to adjuvant hCG at oocyte retrieval?",
+        "answer": "The RCT found no significant differences between the dual trigger and adjuvant hCG groups in terms of mild and moderate OHSS, miscarriage rates, and live birth rates, indicating similar outcomes between the two methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the correlation between LH levels and the response to GnRH agonists for oocyte maturation?",
+        "answer": "The study reported a 5.2% rate of suboptimal response to GnRH agonists overall, which was correlated with lower FSH and LH levels at baseline, as well as lower LH levels on the day of the GnRH agonist trigger. Specifically, there was a 25% chance of suboptimal response when the LH level was undetectable on the day of the trigger.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are associated with a suboptimal response to GnRH agonist triggers?",
+        "answer": "Irregular menses and prolonged oral contraceptive pill use were reported to be associated with a suboptimal response to a GnRH agonist trigger or cotrigger. Patients showing significant suppression of the hypothalamic-pituitary axis may not be good candidates for GnRH agonists for final maturation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of GnRH agonists for oocyte maturation?",
+        "answer": "There is strong evidence to recommend the use of a GnRH agonist to trigger oocyte maturation before oocyte retrieval to reduce the risk of ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "How do pregnancy rates compare between different trigger methods in fresh autologous cycles?",
+        "answer": "There is strong evidence that live birth rates are lower in fresh autologous cycles after GnRH-only triggers compared to donor-recipient cycles. However, there is moderate evidence that pregnancy rates in fresh autologous transfer cycles are not compromised when a GnRH agonist trigger is used in combination with low-dose hCG (dual trigger) compared to a traditional hCG-only trigger.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the evidence regarding luteal hCG supplementation in autologous fresh transfer cycles?",
+        "answer": "There is weak evidence that repeated luteal hCG supplementation in autologous fresh transfer cycles improves pregnancy rates but increases the rate of ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation for triggering oocyte maturation to reduce the risk of OHSS?",
+        "answer": "It is recommended to use a GnRH agonist to trigger oocyte maturation as a first-line strategy to reduce the risk of moderate-to-severe OHSS. This recommendation is based on strong evidence (Strength of evidence: A; strength of recommendation: strong).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of hCG administration in the context of oocyte retrieval?",
+        "answer": "hCG administration is used to trigger oocyte maturation before oocyte retrieval to reduce the risk of ovarian hyperstimulation syndrome (OHSS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is recommended for luteal support when using a GnRH agonist for embryo transfer?",
+        "answer": "It is recommended to add adequate luteal support if using a GnRH agonist for trigger and planning a fresh embryo transfer. (Strength of evidence: A; strength of recommendation: strong).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is not recommended as a strategy to reduce the risk of moderate-to-severe OHSS?",
+        "answer": "It is not recommended to use a lower dose for the hCG-only trigger as a strategy to reduce the risk of moderate-to-severe OHSS. (Strength of evidence: C; strength of recommendation: weak).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the pathophysiology of OHSS attributed to?",
+        "answer": "The pathophysiology of OHSS is largely attributed to an increased vascular permeability of the ovarian and peritoneal capillaries caused by ovarian hypersecretion of VEGF.",
+        "is_verified": 1
+    },
+    {
+        "question": "How may cabergoline help in the treatment of OHSS?",
+        "answer": "Treatment with a dopamine-receptor agonist such as cabergoline may result in a reduction of VEGF production and a subsequent reduction in OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the results of the study comparing cabergoline to placebo in terms of moderate OHSS incidence?",
+        "answer": "In the study, the incidence of moderate OHSS was 20.0% in the cabergoline group and 43.8% in the placebo group (P=.04).",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome regarding ascites in women treated with cabergoline compared to those who did not receive treatment?",
+        "answer": "The study found a lower rate of a fluid pocket >9 cm2 in women treated with cabergoline (25.7%) compared with those who did not receive treatment (59.4%, P=.005).",
+        "is_verified": 1
+    },
+    {
+        "question": "What did another prospective randomized trial find regarding the incidence of moderate OHSS in cabergoline-treated women at high risk?",
+        "answer": "The trial found that the incidence of moderate OHSS was reduced in the cabergoline-treated group (15%) compared to controls (50%, P=.04).",
+        "is_verified": 1
+    },
+    {
+        "question": "Was there a significant difference in the incidence of severe OHSS between the cabergoline-treated group and the control group?",
+        "answer": "The incidence of severe OHSS was not significantly different between the treated and control groups (0% and 10%, respectively).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is cabergoline used for in the context of OHSS?",
+        "answer": "Cabergoline is a dopamine agonist that has been shown to reduce the incidence of ovarian hyperstimulation syndrome (OHSS) when administered near the time of the hCG trigger. A review of studies indicated that it significantly lowers the risk of moderate-to-severe OHSS without affecting pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation for administering cabergoline to patients at risk for OHSS?",
+        "answer": "It is recommended to start cabergoline on the day of the hCG trigger or soon thereafter and continue for several days in patients at risk for moderate-to-severe OHSS. This recommendation is based on strong evidence that its administration can reduce the incidence of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does elevated serum estradiol relate to OHSS?",
+        "answer": "Elevated serum estradiol levels are strongly associated with an increased risk of developing moderate to severe OHSS. High levels of estradiol can suppress the expression of the KISS1 receptor and increase the secretion of VEGF and nitric oxide, contributing to the condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does letrozole play in reducing the risk of OHSS?",
+        "answer": "Letrozole, an aromatase inhibitor, may help reduce the incidence of OHSS by decreasing serum estradiol levels after the hCG trigger injection. A study showed that women who received letrozole had a lower incidence of moderate or severe OHSS compared to those who received aspirin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of letrozole on the incidence of OHSS in women with PCOS?",
+        "answer": "A retrospective cohort study involving 181 women with PCOS at high risk for OHSS showed that letrozole did not significantly reduce the incidence of OHSS. Similarly, a prospective cohort study with 281 women at high risk for OHSS also found no statistically significant difference in the rates of severe OHSS between patients who received letrozole and those who did not. Therefore, the evidence suggests that letrozole does not prevent moderate-to-severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of letrozole to reduce OHSS rates?",
+        "answer": "It is not recommended to administer letrozole as an intervention to reduce rates of moderate-to-severe OHSS, based on weak evidence from studies with contradictory findings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What potential intervention has been proposed after the hCG trigger injection to address OHSS?",
+        "answer": "The administration of a GnRH antagonist during the luteal phase has been proposed as a potential intervention to accelerate luteolysis, reduce ovarian VEGF secretion, and promote regression of symptoms associated with OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did a prospective cohort study find regarding the incidence of moderate and severe OHSS in patients receiving GnRH antagonist?",
+        "answer": "A prospective cohort study investigating 105 patients at high risk for OHSS undergoing cryopreservation of all embryos found that the incidence of moderate and severe OHSS was significantly lower in patients receiving a GnRH antagonist during the luteal phase compared to those who did not receive it.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of GnRH antagonists on OHSS rates?",
+        "answer": "The administration of a GnRH antagonist after the hCG trigger does not lead to a statistically significant reduction in rates of moderate to severe OHSS. Most studies report no reduction in rates of moderate-to-severe OHSS or in signs or symptoms associated with OHSS. Some low-quality evidence suggests modest symptomatic improvement in women with OHSS who received a GnRH antagonist after the hCG trigger.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the randomized controlled trial regarding GnRH antagonists?",
+        "answer": "A small randomized controlled trial evaluating 48 women at high risk for OHSS demonstrated that administration of a GnRH antagonist for 3 days starting after oocyte retrieval reduced serum estradiol levels, pain scores, gastrointestinal symptoms, and severity of ascites, although not all outcomes met statistical significance.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the prospective cohort study reveal about GnRH antagonists?",
+        "answer": "A prospective cohort study evaluating 39 patients at high risk for OHSS who received GnRH antagonists for 5 days in the luteal phase found no significant differences in rates of moderate OHSS (33.3% vs. 27.5%) or severe OHSS (18.0% vs. 18.3%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of luteal GnRH antagonists?",
+        "answer": "It is not recommended to administer a luteal GnRH antagonist alone to reduce rates of moderate-to-severe OHSS, as most studies report no reduction in rates or symptoms associated with OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does aspirin play in relation to OHSS?",
+        "answer": "Aspirin has been considered for the treatment of OHSS based on the theory that increased platelet activation due to VEGF levels may lead to the release of substances that can potentiate the physiological cascade of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of aspirin in the prevention of OHSS?",
+        "answer": "Aspirin has been studied for its potential to reduce the incidence of ovarian hyperstimulation syndrome (OHSS). In randomized trials, patients receiving low-dose aspirin (100 mg daily) combined with prednisolone showed a lower incidence of severe OHSS compared to controls. However, a recent trial indicated no significant reduction in moderate-to-severe OHSS rates when comparing aspirin to placebo, suggesting weak evidence for its effectiveness in this context.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is metformin and how is it related to PCOS and IVF?",
+        "answer": "Metformin is an insulin-sensitizing drug primarily used to treat type 2 diabetes. It has been studied in patients with polycystic ovary syndrome (PCOS) to determine its effects on ovarian response during IVF. It is theorized that metformin may reduce the number of non-periovulatory follicles and decrease estradiol secretion, potentially impacting the risk of OHSS during ovarian stimulation in patients with PCOS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of metformin on the incidence of OHSS in patients with PCOS during GnRH agonist protocols?",
+        "answer": "Metformin decreases the incidence of OHSS in patients with PCOS during GnRH agonist down-regulation protocols, with a reported incidence of 3.8% compared to 20.4% in controls (P=0.023).",
+        "is_verified": 1
+    },
+    {
+        "question": "What did subsequent randomized controlled trials (RCTs) find regarding metformin and OHSS in PCOS patients?",
+        "answer": "Subsequent RCTs supported the finding that metformin reduces the risk of OHSS in patients with PCOS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did a meta-analysis of 12 studies reveal about metformin's effect on OHSS risk in PCOS patients?",
+        "answer": "The meta-analysis demonstrated that the risk of OHSS was significantly lower in patients with PCOS who were given metformin (RR 0.44, 95% CI 0.26–0.77) compared with controls.",
+        "is_verified": 1
+    },
+    {
+        "question": "How did metformin perform in reducing OHSS incidence during GnRH antagonist stimulation protocols?",
+        "answer": "In a recent randomized, placebo-controlled trial, metformin did not lead to a significant reduction in the incidence of moderate-to-severe OHSS (16.0%) compared with placebo (12.2%) (P=0.66).",
+        "is_verified": 1
+    },
+    {
+        "question": "What did a large retrospective study find regarding metformin and OHSS incidence in GnRH antagonist protocols?",
+        "answer": "The large retrospective study assessing 496 patients with PCOS found no significant reduction in the incidence of OHSS after IVF stimulation with a GnRH antagonist protocol when metformin was given (3.6% compared with controls at 7.5%, P=0.421).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the summary statement regarding the use of metformin for reducing OHSS in patients with PCOS?",
+        "answer": "There is moderate evidence that metformin reduces the incidence of OHSS in patients with PCOS who are at high risk for OHSS in the setting of GnRH agonists but not antagonist stimulation protocols (Grade B).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommendation regarding the use of metformin in GnRH antagonist cycles for reducing OHSS?",
+        "answer": "It is not recommended to administer metformin for the sole purpose of reducing the incidence of OHSS in GnRH antagonist cycles, as most studies do not report a significant reduction in rates of OHSS in women with PCOS who were given metformin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is OHSS and what are the proposed interventions to reduce its risk?",
+        "answer": "OHSS stands for Ovarian Hyperstimulation Syndrome, a condition that can occur in women undergoing fertility treatments. Proposed interventions to reduce the risk of OHSS include the administration of mifepristone, myoinositol, D-chiro-inositol, and glucocorticoids. However, the evidence supporting these treatments is of varying quality and strength.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the evidence say about the effectiveness of mifepristone in preventing OHSS?",
+        "answer": "A prospective cohort study involving 51 patients who received mifepristone after the hCG trigger injection showed no significant differences in the rates of moderate or severe OHSS compared to controls who received no intervention. The rates were 29.4% and 19.6% for the mifepristone group versus 27.5% and 18.3% for the control group, with a p-value greater than 0.05, indicating no statistically significant difference.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the evidence suggest about the use of myoinositol and D-chiro-inositol for OHSS risk reduction?",
+        "answer": "The data surrounding the use of myoinositol and D-chiro-inositol for reducing the risk of OHSS is generally of low quality and limited, indicating insufficient evidence to support their effectiveness in this context.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding the use of methylprednisolone for preventing OHSS?",
+        "answer": "A randomized controlled trial evaluating the use of methylprednisolone for the prevention of OHSS compared to placebo found no statistically significant reduction in the incidence of OHSS, with rates of 19.4% in the glucocorticoid group versus 16.5% in the placebo group (p=0.61).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the overall recommendation regarding the use of mifepristone, myoinositol, D-chiro-inositol, or glucocorticoids for OHSS?",
+        "answer": "The recommendation is that it is not advised to administer medications such as mifepristone, myoinositol, D-chiro-inositol, or glucocorticoids to reduce rates of OHSS due to insufficient evidence supporting their effectiveness.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between cryopreservation and the risk of OHSS?",
+        "answer": "Cryopreservation significantly reduces the risk of moderate-to-severe ovarian hyperstimulation syndrome (OHSS) compared to fresh embryo transfer cycles. Studies have shown that patients undergoing cryopreservation have a lower incidence of OHSS, with one RCT showing 0 events in the cryopreservation group versus 4 events in the fresh transfer group. A larger multicenter RCT demonstrated a risk of OHSS of 0.6% in the cryopreservation group compared to 2.0% in the fresh transfer group. A meta-analysis also concluded that a 'freeze-only' strategy reduces the risk of OHSS (OR 0.26).",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations are made for patients at risk for OHSS?",
+        "answer": "It is recommended that patients at risk for OHSS, based on high ovarian response or elevated serum estradiol levels, consider a freeze-only cycle followed by a frozen embryo transfer. This strategy has been shown to significantly reduce rates of moderate or severe OHSS according to multiple high-quality studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence supports the use of cryopreservation to prevent OHSS?",
+        "answer": "There is strong evidence from multiple studies that cryopreservation (freeze-only cycles) significantly reduces the risk of moderate-to-severe OHSS compared to fresh embryo transfer cycles. The recommendation is based on high-quality studies that consistently report a significant reduction in OHSS rates when this strategy is employed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is albumin and what role does it play in OHSS prevention?",
+        "answer": "Albumin is a blood-derived product with a low molecular weight and an average half-life of 20 days. It is hypothesized to play a role in the prevention of ovarian hyperstimulation syndrome (OHSS) by increasing plasma oncotic pressure, which may counteract the permeability effect of angiotensin II. Additionally, albumin may bind to vasoactive substances related to the renin-angiotensin system and VEGF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential risks associated with albumin administration?",
+        "answer": "The administration of albumin may lead to allergic reactions, anaphylaxis, and the transmission of viral or unidentified diseases due to it being a blood-derived product.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the evidence say about the efficacy of albumin in preventing OHSS?",
+        "answer": "The data evaluating the efficacy of albumin in preventing OHSS are mixed. Early randomized controlled trials (RCTs) suggested that 20% human albumin administered around the time of oocyte retrieval decreased the incidence of moderate-to-severe OHSS compared to no treatment. However, further studies and systematic reviews concluded that albumin does not effectively prevent OHSS, with some evidence indicating a detrimental effect on pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What alternative treatments have shown beneficial effects on OHSS?",
+        "answer": "Hydroxyethyl starch (HES) and mannitol have shown beneficial effects on OHSS in studies, with HES demonstrating an odds ratio of 0.27 and mannitol showing an odds ratio of 0.38 in reducing the incidence of OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a known complication of controlled ovarian stimulation, characterized by an exaggerated response of the ovaries to stimulation, leading to symptoms such as abdominal pain, bloating, and in severe cases, fluid accumulation in the abdomen and chest.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for preventing OHSS?",
+        "answer": "It is recommended to identify women at risk for OHSS before stimulation and to select stimulation protocols that minimize this risk. The use of GnRH antagonist protocols with a GnRH agonist to trigger final oocyte maturation is particularly effective and should be considered first-line for OHSS prevention. Other strategies that may provide some benefit include the use of cabergoline and cryopreservation of embryos instead of fresh transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the evidence regarding the use of volume expanders in OHSS?",
+        "answer": "There is weak evidence that the use of volume expanders such as albumin, HES, and mannitol can reduce rates of moderate-to-severe OHSS. However, it is not recommended to use these volume expanders in patients who are at high risk of developing moderate or severe OHSS, as the strength of evidence and recommendation is weak.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the ASRM Practice Committee in the development of medical documents?",
+        "answer": "The ASRM Practice Committee is involved in the development of medical documents related to reproductive health, ensuring that the input from various medical professionals is considered in the final document. Members include medical doctors and researchers who contribute their expertise to the preparation of guidelines and recommendations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a condition that can occur in women undergoing fertility treatments, particularly in vitro fertilization (IVF). It is characterized by swollen and painful ovaries due to the overstimulation of the ovaries, often as a result of hormonal medications used during the IVF process.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does oocyte number relate to ovarian hyperstimulation syndrome and live birth rates?",
+        "answer": "Research indicates that the number of oocytes retrieved during IVF cycles can be a predictor for the risk of developing ovarian hyperstimulation syndrome (OHSS) and may also correlate with live birth rates. A study analyzed a large number of IVF cycles to establish this relationship, highlighting the importance of monitoring oocyte numbers during treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are associated with ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Factors associated with ovarian hyperstimulation syndrome (OHSS) include the number of oocytes retrieved, the hormonal treatment protocols used, and individual patient characteristics. Studies have explored these factors to understand their impact on assisted reproductive technology (ART) outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of antral follicle count in predicting IVF outcomes?",
+        "answer": "Antral follicle count is a measure used to assess ovarian reserve and can help predict the outcomes of in vitro fertilization (IVF) treatments. Research has shown that different thresholds of antral follicle count can influence the likelihood of successful IVF outcomes, making it an important factor in fertility assessments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a condition that can occur in women undergoing in vitro fertilization (IVF) treatment, characterized by swollen and painful ovaries due to excessive stimulation. It can lead to various complications, including fluid accumulation in the abdomen and chest, and in severe cases, it can be life-threatening.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors contribute to the prediction of ovarian hyperstimulation syndrome?",
+        "answer": "Factors that contribute to the prediction of ovarian hyperstimulation syndrome include the type of hormonal treatment used, individual patient characteristics, and the response of the ovaries to stimulation. Studies have shown that certain hormonal profiles and the presence of specific biomarkers can help predict the likelihood of developing OHSS during IVF cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does vascular endothelial growth factor (VEGF) play in ovarian hyperstimulation syndrome?",
+        "answer": "Vascular endothelial growth factor (VEGF) plays a critical role in ovarian hyperstimulation syndrome by increasing capillary permeability, which can lead to fluid leakage and the development of symptoms associated with OHSS. Elevated levels of VEGF have been observed in women experiencing OHSS, indicating its involvement in the pathophysiology of the condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential complications of ovarian hyperstimulation syndrome?",
+        "answer": "Potential complications of ovarian hyperstimulation syndrome include abdominal pain, nausea, vomiting, diarrhea, and in severe cases, ascites, pleural effusion, and thromboembolic events. Severe OHSS can lead to hospitalization and may require medical intervention to manage fluid balance and other symptoms.",
+        "is_verified": 1
+    },
+    {
+        "question": "What cytokines are involved in the pathogenesis of ovarian hyperstimulation syndrome?",
+        "answer": "Cytokines such as interleukin-1b and interleukin-6 have been implicated in the pathogenesis of ovarian hyperstimulation syndrome, as they may contribute to the inflammatory response and vascular changes that occur during the condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a medical condition that can occur in women undergoing fertility treatments, particularly those involving the use of gonadotropins. It is characterized by swollen and painful ovaries, and can lead to serious complications if not managed properly. The condition can range from mild to severe, with symptoms including abdominal pain, bloating, nausea, vomiting, and in severe cases, fluid accumulation in the abdomen and chest, and blood clots.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the predictive factors for early moderate/severe ovarian hyperstimulation syndrome?",
+        "answer": "Predictive factors for early moderate/severe ovarian hyperstimulation syndrome include various clinical and biochemical parameters, such as the patient's age, body mass index (BMI), hormone levels (like estradiol), and the number of follicles developed during stimulation. Statistical models have been developed to identify patients at higher risk for developing this condition during assisted reproductive technology (ART) cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does human chorionic gonadotropin (hCG) serum levels relate to ovarian hyperstimulation syndrome?",
+        "answer": "Research has shown that higher serum levels of human chorionic gonadotropin (hCG) are associated with an increased risk of developing ovarian hyperstimulation syndrome (OHSS). Monitoring hCG levels can help in assessing the risk and managing the treatment protocols to minimize the occurrence of OHSS in patients undergoing fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the clinical report on ovarian hyperstimulation syndrome involving 4894 ART treatment cycles?",
+        "answer": "The clinical report on 4894 consecutive ART treatment cycles provides valuable insights into the incidence and management of ovarian hyperstimulation syndrome (OHSS) in a large patient population. Such studies help in understanding the risk factors, outcomes, and effectiveness of different treatment protocols, ultimately contributing to improved patient care and safety in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the distinctions between early and late ovarian hyperstimulation syndrome?",
+        "answer": "Early ovarian hyperstimulation syndrome typically occurs within a week after the administration of gonadotropins and is characterized by symptoms such as abdominal pain and bloating. Late ovarian hyperstimulation syndrome, on the other hand, may develop after the hCG trigger and can lead to more severe complications, including fluid shifts and thromboembolic events. Understanding these distinctions is crucial for timely diagnosis and management.",
+        "is_verified": 1
+    },
+    {
+        "question": "What risk factors have been identified for ovarian hyperstimulation syndrome in Thai patients using gonadotropins for IVF?",
+        "answer": "Risk factors for ovarian hyperstimulation syndrome (OHSS) in Thai patients using gonadotropins for in vitro fertilization (IVF) include younger age, lower body weight, and higher baseline hormone levels. Identifying these factors can help clinicians tailor treatment protocols to minimize the risk of OHSS in this population.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the retrospective multivariate logistic regression analysis reveal about moderate-to-severe ovarian hyperstimulation syndrome in Chinese patients?",
+        "answer": "The retrospective multivariate logistic regression analysis in Chinese patients provides statistical evidence on the prevalence and risk factors associated with moderate-to-severe ovarian hyperstimulation syndrome (OHSS). Such analyses help in identifying specific patient characteristics that may predispose individuals to OHSS, allowing for better risk assessment and management strategies in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a medical condition that can occur in women undergoing fertility treatments, particularly in vitro fertilization (IVF). It is characterized by swollen and painful ovaries due to excessive stimulation, often caused by hormonal medications used to induce ovulation. Symptoms can range from mild to severe and may include abdominal pain, bloating, nausea, vomiting, and in severe cases, life-threatening complications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk factors associated with ovarian hyperstimulation syndrome?",
+        "answer": "Risk factors for ovarian hyperstimulation syndrome include a history of OHSS, younger age, low body mass index (BMI), polycystic ovary syndrome (PCOS), and high levels of estradiol on the day of trigger injection. Studies have investigated these factors to better understand and predict the likelihood of developing OHSS during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does metabolic syndrome influence female fertility and IVF outcomes in women with PCOS?",
+        "answer": "Metabolic syndrome can negatively impact female fertility and IVF outcomes, particularly in women with polycystic ovary syndrome (PCOS). It is associated with insulin resistance, obesity, and hormonal imbalances, which can affect ovulation and the quality of oocytes, leading to lower success rates in assisted reproductive technologies such as IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of serum anti-Mullerian hormone and estradiol levels in predicting ovarian hyperstimulation syndrome?",
+        "answer": "Serum anti-Mullerian hormone (AMH) and estradiol levels are significant predictors of ovarian hyperstimulation syndrome (OHSS) in assisted reproduction technology cycles. Elevated levels of these hormones can indicate a higher risk of developing OHSS, allowing for better management and prevention strategies during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What novel approach has been suggested to decrease the incidence of ovarian hyperstimulation syndrome in IVF protocols?",
+        "answer": "A novel approach suggested to decrease the incidence of ovarian hyperstimulation syndrome (OHSS) involves using a combination of human chorionic gonadotropin (hCG) and follicle-stimulating hormone (FSH) as an oocyte maturation trigger. This method aims to reduce the risk of OHSS across various IVF stimulation protocols by optimizing hormonal balance during treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the N680S variant in the follicle-stimulating hormone receptor gene?",
+        "answer": "The N680S variant in the follicle-stimulating hormone receptor gene identifies hyperresponders to controlled ovarian stimulation, indicating its potential role in predicting ovarian response during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the rare genetic variants mentioned in relation to ovarian hyperstimulation syndrome?",
+        "answer": "The excerpt discusses rare genetic variants that may be involved in ovarian hyperstimulation syndrome, which is a complication that can occur during assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the optimal cutoff value of basal anti-Mullerian hormone for predicting ovarian hyperstimulation syndrome?",
+        "answer": "The optimal cutoff value of basal anti-Mullerian hormone in Iranian infertile women is used for predicting ovarian hyperstimulation syndrome and poor response to stimulation during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How is elevated serum Mullerian-inhibiting substance related to ovarian hyperstimulation syndrome?",
+        "answer": "Elevated serum Mullerian-inhibiting substance may serve as a marker for ovarian hyperstimulation syndrome in normal women undergoing in vitro fertilization, suggesting its potential use in monitoring treatment outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What correlation exists between anti-Mullerian hormone levels and polycystic ovarian syndrome?",
+        "answer": "There is a correlation between elevated anti-Mullerian hormone levels and polycystic ovarian syndrome phenotypes, as well as assisted reproductive technology outcomes, indicating its relevance in fertility assessments.",
+        "is_verified": 1
+    },
+    {
+        "question": "Can AMH levels predict the need for increased medication during IVF/ICSI in PCOS women?",
+        "answer": "Yes, AMH levels can predict the need for increased medication during IVF/ICSI in women with polycystic ovarian syndrome, highlighting its importance in treatment planning.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the predictive markers of ovarian hyperstimulation syndrome in ART cycles?",
+        "answer": "Serum anti-Mullerian hormone and antral follicle count are identified as predictive markers of ovarian hyperstimulation syndrome in assisted reproductive technology cycles, aiding in risk assessment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the number of oocytes retrieved during IVF according to Magnusson et al.?",
+        "answer": "The number of oocytes retrieved during IVF is a balance between efficacy and safety, as discussed by Magnusson et al. in their 2018 study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with ovarian hyperstimulation syndrome (OHSS) in egg donation for research?",
+        "answer": "Jayaprakasan et al. estimated the risks of ovarian hyperstimulation syndrome (OHSS) and its implications for egg donation for research in their 2007 study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors predict the risk of ovarian hyperstimulation syndrome in IVF patients?",
+        "answer": "The prediction of ovarian hyperstimulation syndrome in patients treated with corifollitropin alfa or rFSH in a GnRH antagonist protocol was studied by Griesinger et al. in 2016, while Tarlatzi et al. in 2017 identified predictors of severe ovarian hyperstimulation syndrome in IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does polycystic ovary syndrome affect in vitro fertilization outcomes?",
+        "answer": "Lin et al. in 2019 discussed the role of the proportion of dominant follicles in patients with polycystic ovary syndrome undergoing in vitro fertilization-embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of serum estradiol measurements in predicting hyperresponse to ovarian stimulation?",
+        "answer": "Hendriks et al. in 2004 explored the use of stimulated serum estradiol measurements for predicting hyperresponse to ovarian stimulation in in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What effect does letrozole have on ovarian hyperstimulation syndrome in high-risk women?",
+        "answer": "Mai et al. conducted a prospective randomized trial in 2017 to assess the effect of letrozole on moderate and severe early-onset ovarian hyperstimulation syndrome in high-risk women.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of severe ovarian hyperstimulation syndrome in different protocols of IVF?",
+        "answer": "Toftager et al. examined the risk of severe ovarian hyperstimulation syndrome in GnRH antagonist versus other protocols in their study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of GnRH agonist protocol in IVF/ICSI cycles?",
+        "answer": "The GnRH agonist protocol is used in assisted reproductive technology to regulate hormone levels and improve the outcomes of in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are gonadotrophin-releasing hormone antagonists used for in assisted reproductive technology?",
+        "answer": "Gonadotrophin-releasing hormone antagonists are used to prevent premature ovulation during assisted reproductive technology procedures, thereby improving the chances of successful fertilization and embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of administering GnRH antagonist before hCG trigger in IVF/ICSI cycles?",
+        "answer": "Administering GnRH antagonist before the hCG trigger may help prevent ovarian hyperstimulation syndrome (OHSS) in IVF/ICSI cycles at risk for OHSS, without negatively impacting reproductive outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does individualized ovarian stimulation compare to conventional methods in IVF?",
+        "answer": "Individualized ovarian stimulation aims to tailor the hormone doses based on individual patient characteristics, potentially leading to better outcomes compared to conventional, standardized stimulation protocols.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of follitropin delta in reducing OHSS risk?",
+        "answer": "Follitropin delta, when individualized in dosing, has been shown to reduce the overall risk of ovarian hyperstimulation syndrome (OHSS) and the need for additional preventive interventions during IVF cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the benefit of individualized gonadotropin dose selection in IVF/ICSI?",
+        "answer": "Individualized gonadotropin dose selection using markers of ovarian reserve can optimize treatment outcomes and minimize the risk of complications such as OHSS in women undergoing IVF/ICSI.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hCG during the late follicular phase in ovarian stimulation?",
+        "answer": "hCG (human chorionic gonadotropin) is used during the late follicular phase to trigger ovulation and support the maturation of ovarian follicles in controlled ovarian stimulation for intracytoplasmic sperm injection (ICSI) cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What oral medications are mentioned for controlled ovarian stimulation in women undergoing in vitro fertilization?",
+        "answer": "The oral medications mentioned include clomiphene citrate and aromatase inhibitors, which are used in conjunction with gonadotropins for controlled ovarian stimulation in women undergoing in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the coasting protocol in the context of ovarian stimulation?",
+        "answer": "The coasting protocol refers to a strategy used in ovarian stimulation where the administration of gonadotropins is paused for a certain period to reduce the risk of ovarian hyperstimulation syndrome (OHSS) in women at risk, allowing for the natural regulation of hormone levels before triggering ovulation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a condition that can occur in women undergoing fertility treatments such as in vitro fertilization (IVF). It is characterized by swollen and painful ovaries due to the overstimulation of the ovaries, often as a result of hormonal medications used to induce ovulation. Symptoms can range from mild to severe and may include abdominal pain, bloating, nausea, vomiting, and in severe cases, fluid accumulation in the abdomen and chest, and blood clots.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies are mentioned for preventing ovarian hyperstimulation syndrome during IVF?",
+        "answer": "Several strategies are mentioned for preventing ovarian hyperstimulation syndrome (OHSS) during IVF, including: 1. Coasting: Withholding gonadotropins to reduce the risk of OHSS. 2. Use of cabergoline: A medication that may help prevent OHSS when combined with coasting. 3. Ultrasound monitoring: Identifying high-risk patients for OHSS and modifying treatment accordingly. 4. Triggering oocyte maturation with reduced doses of hCG: This approach aims to minimize the risk of OHSS while still achieving successful fertilization. 5. Early unilateral follicular aspiration: A technique compared to coasting for preventing severe OHSS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hCG in IVF treatments?",
+        "answer": "Human chorionic gonadotropin (hCG) is commonly used in IVF treatments to trigger final oocyte maturation. It mimics the natural luteinizing hormone surge that occurs in a normal menstrual cycle, leading to the release of mature eggs from the ovaries. The dosage of hCG can affect the outcome of procedures like intracytoplasmic sperm injection (ICSI), and studies have explored the impact of different doses on success rates and the risk of ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of using a sliding scale HCG trigger in IVF–ICSI cycles?",
+        "answer": "The sliding scale HCG trigger yields equivalent pregnancy outcomes and reduces the risk of ovarian hyperstimulation syndrome, based on an analysis of 10,427 IVF–ICSI cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the use of GnRH agonist affect oocyte maturation in high-risk patients undergoing IVF?",
+        "answer": "The use of gonadotropin-releasing hormone (GnRH) agonist to induce oocyte maturation after cotreatment with GnRH antagonist prevents the risk of ovarian hyperstimulation syndrome in high-risk patients undergoing in vitro fertilization, according to a prospective randomized controlled study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the complications associated with ovarian stimulation and oocyte retrieval?",
+        "answer": "Complications related to ovarian stimulation and oocyte retrieval were documented in 4052 oocyte donor cycles, highlighting the risks involved in these procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the reproductive outcome of fresh versus frozen-thawed embryo transfer in high-risk patients?",
+        "answer": "The reproductive outcome of fresh or frozen-thawed embryo transfer is similar in high-risk patients for ovarian hyperstimulation syndrome when using GnRH agonist for final oocyte maturation and intensive luteal support.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of GnRH agonists in fertility treatments?",
+        "answer": "GnRH agonists are used to trigger final follicular maturation in ovarian stimulation protocols, which can enhance the outcomes of assisted reproductive technologies such as IVF. They may also be compared with human chorionic gonadotropin (HCG) for oocyte triggering, influencing pregnancy outcomes and the incidence of ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with using GnRH agonists in IVF cycles?",
+        "answer": "Using GnRH agonists for triggering oocyte maturation can be associated with a higher risk of severe ovarian hyperstimulation syndrome, especially when combined with low-dose HCG as a dual trigger. Additionally, the risk of ovarian torsion may be reduced in freeze-all cycles triggered by GnRH agonists.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the size of oocyte cohorts affect IVF outcomes?",
+        "answer": "Larger oocyte cohorts are associated with maximizing fresh IVF cycle birth rates and increasing the availability of surplus high-quality blastocysts for cryopreservation, which can improve the chances of successful pregnancies in future cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of luteal phase support in IVF cycles?",
+        "answer": "Luteal phase support is critical in IVF cycles, particularly in agonist-triggered cycles, as it can influence pregnancy outcomes. Different modalities of luteal support are being studied to determine the optimal approach for enhancing success rates in these cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk factors for a suboptimal response to gonadotropin-releasing hormone agonist trigger during in vitro fertilization cycles?",
+        "answer": "The study by Meyer et al. (2015) identifies various risk factors that can lead to a suboptimal response to gonadotropin-releasing hormone agonist trigger during IVF cycles, although specific factors are not detailed in the excerpt provided.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of low dose human chorionic gonadotropin administration during IVF cycles?",
+        "answer": "Engmann et al. (2019) conducted a study to compare the timing of low dose human chorionic gonadotropin administration at the time of gonadotropin releasing-hormone agonist trigger versus 35 hours later, specifically in women at high risk of developing ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of the study comparing cabergoline and intravenous albumin in preventing ovarian hyperstimulation syndrome?",
+        "answer": "Tehraninejad et al. (2012) conducted a randomized clinical trial comparing cabergoline and intravenous albumin for the prevention of ovarian hyperstimulation syndrome, indicating that both treatments were evaluated for their effectiveness in this context.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does cabergoline affect women undergoing assisted reproduction?",
+        "answer": "Alvarez et al. (2007) found that dopamine agonist cabergoline reduces hemoconcentration and ascites in hyperstimulated women undergoing assisted reproduction, suggesting its beneficial effects in managing ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of cabergoline in reducing ovarian hyperstimulation syndrome in assisted reproductive technology?",
+        "answer": "Amir et al. (2015) conducted a prospective randomized controlled trial that demonstrated the effectiveness of cabergoline in reducing ovarian hyperstimulation syndrome during assisted reproductive technology treatment cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the results of the study on cabergoline's effect on the early onset of ovarian hyperstimulation syndrome?",
+        "answer": "Carizza et al. (2008) reported that cabergoline reduces the early onset of ovarian hyperstimulation syndrome in their prospective randomized study, indicating its potential as a preventive treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ovarian hyperstimulation syndrome?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a complication that can occur in women undergoing fertility treatments, particularly in in vitro fertilization (IVF) cycles. It is characterized by swollen and painful ovaries, and can lead to serious health issues if not managed properly.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are GnRH agonists and their role in IVF?",
+        "answer": "Gonadotropin-releasing hormone (GnRH) agonists are medications used in IVF to control hormone levels and stimulate the ovaries to produce multiple eggs. They help prevent premature ovulation and improve the chances of successful fertilization and implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of cabergoline in IVF cycles?",
+        "answer": "Cabergoline is a medication used to prevent ovarian hyperstimulation syndrome (OHSS) in patients undergoing IVF. It works by reducing the levels of certain hormones that can lead to OHSS, thereby improving clinical outcomes for patients at risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is hydroxyethyl starch and its use in IVF?",
+        "answer": "Hydroxyethyl starch is a volume-expanding agent used in medical settings, including IVF, to manage fluid balance and prevent complications such as ovarian hyperstimulation syndrome. It helps maintain blood volume and improve circulation during treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of dopamine agonists in relation to ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Dopamine agonists at a low dose may reduce the incidence of ovarian hyperstimulation syndrome in women at risk undergoing ICSI treatment cycles, as suggested by a randomized controlled study.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does vascular endothelial growth factor (VEGF) relate to ovarian hyperstimulation syndrome?",
+        "answer": "A vascular endothelial growth factor antagonist has been shown to reduce the early onset and severity of ovarian hyperstimulation syndrome, indicating that VEGF plays a significant role in the condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of cabergoline in preventing ovarian hyperstimulation syndrome?",
+        "answer": "Cabergoline has been evaluated in a systematic review and meta-analysis of randomized controlled trials for its effectiveness in preventing ovarian hyperstimulation syndrome, suggesting its potential as a preventive treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What effect does kisspeptin-10 have on ovarian hyperstimulation syndrome?",
+        "answer": "Kisspeptin-10 inhibits ovarian hyperstimulation syndrome by suppressing the secretion of vascular endothelial growth factor (VEGF), which is involved in the pathophysiology of the syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does letrozole treatment affect women with polycystic ovary syndrome undergoing IVF?",
+        "answer": "A retrospective study indicated that letrozole treatment prior to human chorionic gonadotropin administration may help manage the risk of ovarian hyperstimulation syndrome in women with polycystic ovary syndrome undergoing in vitro fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of steroidal ovarian suppression during the luteal phase on OHSS risk?",
+        "answer": "Steroidal ovarian suppression during the luteal phase after oocyte retrieval may reduce the risk of severe ovarian hyperstimulation syndrome, as indicated by research findings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of luteal GnRH antagonist on ovarian hyperstimulation syndrome?",
+        "answer": "The use of a luteal GnRH antagonist has been studied for its effect on moderate and severe early ovarian hyperstimulation syndrome during in vitro fertilization treatment, suggesting a potential benefit in managing the condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What correlation was found regarding sequential E2 levels and ovarian hyperstimulation syndrome management?",
+        "answer": "A study found that sequential E2 levels, rather than ovarian maximal diameter estimates, were correlated with the outcomes of Cetrotide therapy for managing women at high risk of ovarian hyperstimulation syndrome, indicating the importance of hormonal monitoring in treatment efficacy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of low-dose aspirin therapy in preventing ovarian hyperstimulation syndrome?",
+        "answer": "Low-dose aspirin therapy is used to prevent ovarian hyperstimulation syndrome, particularly in women undergoing assisted reproductive techniques. Studies have shown its effectiveness in reducing the incidence of this syndrome during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does metformin affect women with PCOS undergoing IVF treatment?",
+        "answer": "Metformin is used in women with polycystic ovary syndrome (PCOS) undergoing in vitro fertilization (IVF) treatment to improve outcomes and reduce the risk of ovarian hyperstimulation syndrome. It has been shown to enhance ovarian response and improve pregnancy rates in these patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of the randomized controlled trial regarding metformin and ovarian hyperstimulation syndrome?",
+        "answer": "A randomized controlled trial found that metformin reduces the risk of ovarian hyperstimulation syndrome in patients with polycystic ovary syndrome during gonadotropin-stimulated IVF cycles, indicating its beneficial role in managing this condition during fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of using metformin in clomiphene citrate-resistant women with PCOS?",
+        "answer": "Using metformin in clomiphene citrate-resistant women with PCOS undergoing IVF treatment is significant as it may improve ovulation rates and overall fertility outcomes, providing an alternative treatment option for those who do not respond to standard fertility medications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the systematic review and meta-analysis reveal about metformin and assisted reproductive technology in PCOS patients?",
+        "answer": "The systematic review and meta-analysis indicate that metformin is beneficial for patients with polycystic ovary syndrome undergoing assisted reproductive technology procedures, suggesting improved reproductive outcomes and reduced complications associated with fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of Methylprednisolone in patients with polycystic ovarian syndrome undergoing in-vitro fertilization?",
+        "answer": "Methylprednisolone is used for the prevention of ovarian hyperstimulation syndrome in patients with polycystic ovarian syndrome undergoing in-vitro fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of the study comparing intravenous albumin and embryo transfer methods in preventing ovarian hyperstimulation syndrome?",
+        "answer": "The study compares the effectiveness of intravenous albumin and the transfer of fresh embryos with cryopreservation of all embryos for subsequent transfer in preventing ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of elective cryopreservation of embryos in women at risk of ovarian hyperstimulation syndrome?",
+        "answer": "Elective cryopreservation of all pronucleate embryos in women at risk of ovarian hyperstimulation syndrome is evaluated for its efficiency and safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the Cochrane Database Systematic Review conclude about fresh versus frozen embryo transfers in assisted reproduction?",
+        "answer": "The review analyzes the outcomes of fresh versus frozen embryo transfers in assisted reproduction, providing insights into their effectiveness and safety.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does intravenous albumin affect the incidence of ovarian hyperstimulation syndrome in IVF patients?",
+        "answer": "Intravenous albumin has been shown to prevent moderate to severe ovarian hyperstimulation syndrome in in-vitro fertilization patients, as indicated by various studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the prospective study on intravenous albumin for preventing severe ovarian hyperstimulation syndrome?",
+        "answer": "The prospective study found a decreased incidence of severe ovarian hyperstimulation syndrome in high-risk in-vitro fertilization patients receiving intravenous albumin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of study was conducted to assess the effectiveness of intravenous albumin in preventing severe ovarian hyperstimulation syndrome?",
+        "answer": "A prospective, randomized, placebo-controlled study was conducted to assess the effectiveness of intravenous albumin in preventing severe ovarian hyperstimulation syndrome in an in vitro fertilization program.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of intravenous albumin on ovarian hyperstimulation syndrome in IVF patients?",
+        "answer": "Intravenous albumin does not prevent moderate-severe ovarian hyperstimulation syndrome in high-risk IVF patients, as indicated by multiple studies including randomized controlled trials and systematic reviews.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings regarding the use of albumin in IVF programs?",
+        "answer": "The use of albumin for the prevention of ovarian hyperstimulation syndrome in IVF programs is questionable, with studies showing it does not effectively prevent the condition and may even reduce pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the conclusion of the systematic review regarding intravenous albumin administration?",
+        "answer": "The systematic review and meta-analysis concluded that intravenous albumin administration does not prevent severe ovarian hyperstimulation syndrome and may have adverse effects on pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What alternative treatments are suggested for preventing ovarian hyperstimulation syndrome?",
+        "answer": "Volume expanders have been reviewed as potential treatments for the prevention of ovarian hyperstimulation syndrome, as indicated in the Cochrane Database Systematic Review.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the ovarian hyperstimulation syndrome (OHSS)?",
+        "answer": "Ovarian hyperstimulation syndrome (OHSS) is a serious complication associated with assisted reproductive technology. It occurs when the ovaries become swollen and painful due to excessive stimulation, often as a result of fertility medications. Symptoms can range from mild to severe and may include abdominal pain, bloating, nausea, vomiting, and in severe cases, fluid accumulation in the abdomen or chest, and blood clots.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk factors for developing ovarian hyperstimulation syndrome?",
+        "answer": "Risk factors for developing ovarian hyperstimulation syndrome include a history of OHSS, polycystic ovary syndrome (PCOS), younger age, and higher body mass index (BMI). Women undergoing fertility treatments, particularly those using injectable gonadotropins, are at increased risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies can be used to prevent ovarian hyperstimulation syndrome?",
+        "answer": "Preventive strategies for ovarian hyperstimulation syndrome include careful monitoring of hormone levels during fertility treatments, adjusting medication dosages, using a lower dose of gonadotropins, and considering the use of a GnRH antagonist protocol. Additionally, the use of a freeze-all strategy for embryos may be recommended to reduce the risk of OHSS in high-risk patients.",
+        "is_verified": 1
+    }
+]

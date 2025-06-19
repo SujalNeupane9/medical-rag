@@ -1,0 +1,722 @@
+[
+    {
+        "question": "What is the role of tubal surgery in assisted reproductive technology?",
+        "answer": "Tubal surgery plays a significant role in the management of tubal-factor infertility, which accounts for 25%–35% of female infertility cases. Surgical options are available for reparative tubal surgery, particularly for cases of obstructed fallopian tubes. The decision between surgical repair and in vitro fertilization (IVF) is influenced by various factors, including the patient's medical history and the presence of conditions such as ectopic pregnancy, pelvic inflammatory disease, or endometriosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the common causes of tubal-factor infertility?",
+        "answer": "The most common causes of tubal-factor infertility include salpingitis, which accounts for more than half of the cases. Other risk factors include a history of ectopic pregnancy, pelvic inflammatory disease, endometriosis, and prior pelvic surgery. A negative chlamydia antibody test can indicate a low likelihood of tubal pathology in patients without risk factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of tubal ligation on fertility?",
+        "answer": "Studies indicate that up to 20%–30% of women who undergo tubal ligation may regret the procedure, highlighting the importance of understanding the implications of sterilization on future fertility. This regret underscores the need for optimal treatment methods for patients who experience tubal-factor infertility after having a tubal ligation.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does chlamydia antibody testing relate to tubal-factor infertility?",
+        "answer": "Chlamydia antibody testing can help assess the likelihood of tubal pathology. A negative test indicates less than a 15% chance of tubal issues in patients without risk factors. However, the test has limitations, including the potential for false positives due to cross-reactivity.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is hysterosalpingography (HSG) used for?",
+        "answer": "Hysterosalpingography (HSG) is the standard first-line test to evaluate tubal patency, especially if reparative surgery is planned. It helps determine whether the fallopian tubes are open or blocked.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of patients with proximal tubal blockage showed patency on repeat HSG?",
+        "answer": "In 60% of patients in whom HSG showed proximal tubal blockage, repeat HSG 1 month later showed tubal patency.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is considered the gold standard for determining tubal patency?",
+        "answer": "Laparoscopy is considered the gold standard for determining tubal patency, although it is not perfect, as some patients with bilateral tubal occlusion may still conceive spontaneously.",
+        "is_verified": 1
+    },
+    {
+        "question": "What therapeutic effect may hysterosalpingography have?",
+        "answer": "Hysterosalpingography may have a therapeutic effect, with higher fecundity rates reported for several months after the procedure when tubal flushing was performed with oil-based contrast media.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the sensitivity and specificity ranges for hysterosalpingo-contrast sonography?",
+        "answer": "The sensitivity of hysterosalpingo-contrast sonography for determining tubal patency ranges from 76% to 96%, while the specificity ranges from 67% to 100%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the sensitivity and specificity of transvaginal hydrolaparoscopy in detecting tubal abnormalities?",
+        "answer": "The sensitivity of transvaginal hydrolaparoscopy in detecting tubal abnormalities was 100%, while the specificity was 22.2%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the sensitivity and specificity of the hysteroscopy flow technique?",
+        "answer": "The hysteroscopy flow technique was associated with a sensitivity of 73.7% and specificity of 70.7%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the outcome of interest for infertile patients considering tubal surgery or IVF?",
+        "answer": "The outcome of interest for infertile patients faced with the option of tubal surgery or IVF is the birth of healthy child or children, born 1 at a time.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes after tubal surgery reported in the medical literature?",
+        "answer": "Outcomes after tubal surgery are generally reported on a per-patient basis, highlighting cumulative experience over follow-up intervals such as 6 months, 12 months, 2 years, 3 years, or more.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do IVF outcomes differ from tubal surgery outcomes in reporting?",
+        "answer": "IVF outcomes are often reported on a per-cycle basis with cumulative outcomes after several treatment cycles, which may not occur over an identical length of time, unlike tubal surgery outcomes which are reported per patient over specific follow-up periods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should be considered when counseling patients with tubal infertility?",
+        "answer": "Factors to consider include the age of the patient, ovarian reserve, prior fertility, desired number of children, site and extent of tubal disease, presence of other infertility factors, experience of the surgeon, and success rates of the IVF program.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the live-birth rate per cycle for patients with tubal infertility according to the 2017 national assisted reproductive technology registry data?",
+        "answer": "The live-birth rate per cycle initiated in patients with tubal infertility was noted to be 31.2%, which is similar to the overall rate of 34.1%.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is a semen analysis important in the infertility investigation?",
+        "answer": "A semen analysis should be performed early in the infertility investigation as the results may influence the management decision between tubal surgery and IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the advantages of IVF?",
+        "answer": "The main advantages of IVF include good per-cycle success rates and the fact that it is less surgically invasive.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the disadvantages of IVF?",
+        "answer": "The disadvantages of IVF include cost (especially if more than one cycle is required), the need for frequent injections and monitoring for several weeks, and the risks of multiple pregnancy and ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies can minimize the risk of multiple pregnancy in IVF?",
+        "answer": "Current practice protocols can alleviate the risk of multiple pregnancy via single-embryo transfer, and there are evidence-based strategies to minimize the risk of ovarian hyperstimulation syndrome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some adverse perinatal outcomes associated with IVF?",
+        "answer": "IVF has been associated with a slightly higher incidence than unassisted conceptions of adverse perinatal outcomes in singleton infants, such as perinatal mortality, preterm delivery, low and very low birth weights, intrauterine growth restriction, and congenital malformations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the advantages of tubal surgery?",
+        "answer": "The advantages of tubal surgery include that it is a one-time, usually minimally invasive outpatient procedure, allowing patients to attempt conception every month without further intervention and the possibility of conceiving more than once.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the disadvantages of tubal surgery?",
+        "answer": "The disadvantages of tubal surgery include risks for surgical complications such as bleeding, infection, organ damage, and reaction to anesthesia, as well as postoperative discomfort during the short recovery phase.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of ectopic pregnancy associated with IVF?",
+        "answer": "The risk of ectopic pregnancy is increased in patients having IVF for tubal disease, and it is higher after IVF compared to other methods of conception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is tubal surgery and its success rate compared to IVF?",
+        "answer": "Tubal surgery is a medical procedure aimed at correcting issues with the fallopian tubes. The success rate after tubal surgery may be significantly lower than that for in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should be considered when choosing tubal surgery as a treatment strategy?",
+        "answer": "Factors to consider include the experience of the surgeon in laparoscopic and microsurgical techniques, the patient's age, the presence of other infertility factors, and the condition of the tubal anatomy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is proximal tubal blockage and its causes?",
+        "answer": "Proximal tubal blockage accounts for 10%–25% of tubal disease and can be caused by obstruction from mucus plugs, spasm of the uterotubal ostium, or true anatomic blockage due to conditions like salpingitis isthmica nodosa, pelvic inflammatory disease, or endometriosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is tubal cannulation and how is it performed?",
+        "answer": "Tubal cannulation is a procedure to address tubal blockage, performed using a coaxial catheter system under fluoroscopic guidance or hysteroscopy with laparoscopic confirmation. It involves directing a catheter to the uterotubal ostium and performing a selective salpingogram to confirm blockage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of confirming distal tubal anatomy before tubal cannulation?",
+        "answer": "Confirming normal distal tubal anatomy is crucial before performing tubal cannulation to ensure that the procedure is appropriate and to avoid complications. This confirmation can be done through laparoscopy or ultrasonography if the cannulation is performed via radiologic access.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the preferred treatment for proximal tubal blockage in cases of failed tubal cannulation?",
+        "answer": "In cases of failed tubal cannulation, in vitro fertilization (IVF) is preferred over resection and microsurgical anastomosis. IVF is also the preferred treatment for proximal tubal blockage in older women and in the presence of significant male factor infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What conditions were revealed upon excision of the proximal tubes in patients with failed tubal cannulation?",
+        "answer": "Excision of the proximal tubes in cases of failed tubal cannulation revealed salpingitis isthmica nodosa, chronic salpingitis, or obliterative fibrosis in 93% of patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the cumulative clinical pregnancy rate after tubal cannulation at 6 months?",
+        "answer": "The cumulative clinical pregnancy rate after tubal cannulation at 6 months is 22.3% (95% confidence interval [CI]: 17.8%–27.8%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the pooled live-birth rate after tubal cannulation?",
+        "answer": "The pooled live-birth rate after tubal cannulation is 22% (95% CI: 18%–26%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the ectopic pregnancy rate associated with tubal cannulation?",
+        "answer": "The pooled ectopic pregnancy rate associated with tubal cannulation is 4% (95% CI: 3%–5%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of tubal perforation during tubal cannulation?",
+        "answer": "The incidence of tubal perforation during tubal cannulation has been reported to be 3%–11%, without any clinical consequences.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the pregnancy rates for women with bilateral obstruction after tubal cannulation?",
+        "answer": "In women with bilateral obstruction, the clinical pregnancy rate after tubal cannulation is 27% (95% CI: 23%–32%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the pregnancy rates for hysteroscopic vs. fluoroscopic techniques for tubal patency?",
+        "answer": "The pooled pregnancy rates for the hysteroscopic approach is 31% compared to 26% for the fluoroscopic approach, with no statistically significant difference (P=0.596).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of tubal cannulation in treating distal tubal disease?",
+        "answer": "Tubal cannulation is a minor procedure that has results comparable to those of microsurgical resection and anastomosis, making it the treatment of choice for distal tubal disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What conditions are included in distal tubal disease?",
+        "answer": "Distal tubal disease includes hydrosalpinges, fimbrial phimosis, and peritubal adhesions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are hydrosalpinges and how do they affect fertility?",
+        "answer": "Hydrosalpinges are completely occluded fallopian tubes, which can impair fertility by preventing the passage of the oocyte and sperm, thus affecting the chances of intrauterine pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors contribute to a good prognosis for patients with distal tubal disease?",
+        "answer": "Patients with a good prognosis typically have limited filmy adnexal adhesions, mildly dilated tubes with thin and pliable walls, and a lush endosalpinx with preserved mucosal folds.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of peritubal adhesions on fertility?",
+        "answer": "Peritubal adhesions can mechanically interfere with the anatomical relationship between the distal fallopian tube and the ovary, impairing the ability of normal tubes to capture an oocyte, thus affecting fertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the cumulative pregnancy rates after adhesiolysis for patients with peritubal adhesions?",
+        "answer": "A study reported a cumulative pregnancy rate of 40% at 12 months after adhesiolysis compared to 8% in an untreated group of patients with peritubal adhesions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are laparoscopic neosalpingostomy and fimbrial plasty?",
+        "answer": "Laparoscopic neosalpingostomy involves opening a hydrosalpinx, while fimbrial plasty increases the opening for fimbrial phimosis. Both procedures aim to improve fertility by restoring tubal function.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the pregnancy rates after neosalpingostomy for mild hydrosalpinges?",
+        "answer": "Pregnancy rates after neosalpingostomy for mild hydrosalpinges range from 58% to 77%, with ectopic pregnancy rates ranging from 2% to 8%.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the degree of tubal disease affect pregnancy rates after surgical procedures?",
+        "answer": "Pregnancy rates after procedures like neosalpingostomy depend on the degree of tubal disease, with better outcomes observed in patients with mild disease compared to those with severe disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the clinical pregnancy rates based on the stage of tubal disease in the study?",
+        "answer": "The clinical pregnancy rates were 43% in stage 1, 33.6% in stage 2, 19.5% in stage 3, and 13.8% in stage 4.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the range of ectopic pregnancy rates reported in the study?",
+        "answer": "The ectopic pregnancy rate ranged from 5.6% to 11.4%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the likely cause of the discrepancy between patency rates and pregnancy rates after neosalpingostomy?",
+        "answer": "Irreversible deciliation of the endosalpinx after an episode of salpingitis is likely responsible for the discrepancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommended surgical procedures for patients with tubal disease?",
+        "answer": "Neosalpingostomy and fimbrioplasty should be done only by laparoscopy, as they have comparable results to laparotomy but with less risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "When is IVF preferred over salpingostomy?",
+        "answer": "IVF is preferred over salpingostomy for mild hydrosalpinges in older women and for those with male factor infertility or other infertility factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should patients be consented for preoperatively regarding tubal surgery?",
+        "answer": "Patients should be consented preoperatively for both salpingostomy and salpingectomy so that the most appropriate procedure can be performed based on the extent of tubal disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the characteristics of patients with poor prognosis for distal tubal blockage?",
+        "answer": "Patients with poor prognosis have extensive dense peritubal adhesions, largely dilated tubes with thick fibrotic walls, and/or sparse or absent luminal mucosa.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hydrosalpinges on IVF success rates?",
+        "answer": "Hydrosalpinges of poor prognosis have a detrimental effect on IVF success rates, with two meta-analyses indicating that pregnancy, implantation, and delivery rates are approximately 50% lower in the presence of hydrosalpinges. This may be due to mechanical flushing of embryos from the uterine cavity, decreased endometrial receptivity, or a direct embryotoxic effect.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of salpingectomy on pregnancy rates for women with hydrosalpinges?",
+        "answer": "Salpingectomy restores the rates of pregnancy and live birth to levels similar to those of women without hydrosalpinx. Even unilateral salpingectomy has shown a significant improvement in IVF pregnancy rates for patients with unilateral hydrosalpinx.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the meta-analysis conclude regarding laparoscopic salpingectomy or tubal occlusion?",
+        "answer": "The meta-analysis concluded that laparoscopic salpingectomy or tubal occlusion should be considered before IVF for women with communicating hydrosalpinges.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings regarding spontaneous pregnancy after salpingectomy for unilateral hydrosalpinx?",
+        "answer": "Several case reports indicated spontaneous pregnancy after salpingectomy for unilateral hydrosalpinx, with a study showing that 88% of patients conceived spontaneously within a mean of 5.6 months postoperatively, with no ectopic pregnancies reported.",
+        "is_verified": 1
+    },
+    {
+        "question": "Did salpingectomy affect ovarian reserve or IVF parameters according to the studies?",
+        "answer": "The studies indicated that salpingectomy and tubal ligation have been implicated as causes of subsequent diminished ovarian reserve, but a study found no significant differences in gonadotropin dosage, duration, peak estradiol levels, number of oocytes retrieved, or embryo quality between cycles before and after salpingectomy for ectopic pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is proximal tubal obstruction and how does it relate to salpingectomy?",
+        "answer": "Proximal tubal obstruction may be an alternative to salpingectomy, and in two randomized clinical trials, it was reported to be effective in improving pregnancy rates, similar to salpingectomy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hydrosalpinx on IVF pregnancy rates?",
+        "answer": "Hydrosalpinx is associated with lower IVF pregnancy rates. The literature suggests that removing the hydrosalpinx before IVF can improve pregnancy outcomes, as the presence of hydrosalpinx is linked to higher surgical risks due to pelvic infections and adhesive disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the proposed methods for managing hydrosalpinx in relation to IVF?",
+        "answer": "New research has focused on minimally invasive methods such as ultrasound-guided aspiration and sclerotherapy to relieve the negative effects of hydrosalpinx on IVF outcomes. Aspiration at the time of oocyte retrieval has shown conflicting results, with some studies indicating higher biochemical pregnancy rates compared to controls.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the randomized study comparing ultrasound-guided aspiration with a nontreated control find?",
+        "answer": "The randomized study found that ultrasound-guided aspiration resulted in significantly higher biochemical pregnancy rates (31.3%) compared to the nontreated control group (17.6%), although the increase in clinical pregnancy rates was not statistically significant (P=0.20).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the retrospective study evaluating IVF embryo transfer cycles for tubal disease?",
+        "answer": "The retrospective study evaluated 598 IVF embryo transfer cycles and found that aspiration was beneficial for patients diagnosed with hydrosalpinx during stimulation, but not for those with hydrosalpinx present prior to the procedure. This suggests that timing of aspiration may influence its effectiveness.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is sclerotherapy and how is it used in the treatment of hydrosalpinx?",
+        "answer": "Sclerotherapy is a medical procedure that involves the instillation of ethanol to contract, sclerose, and decrease the secretory function of the tube. It has been postulated to help prevent the recurrence of toxic hydrosalpinx fluid.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the meta-analysis regarding hydrosalpinx aspiration and sclerotherapy?",
+        "answer": "The meta-analysis of 10 studies found a similar recurrence rate of fluid collection between hydrosalpinx aspiration and sclerotherapy, which was approximately 20% to 30%.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hydrosalpinx sclerotherapy compare to salpingectomy in terms of clinical pregnancy and miscarriage rates?",
+        "answer": "Hydrosalpinx sclerotherapy showed no difference in clinical pregnancy or miscarriage rates when compared with salpingectomy, whereas aspiration alone had lower clinical pregnancy and higher miscarriage rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended intervention for managing hydrosalpinx before IVF?",
+        "answer": "The recommended intervention for managing hydrosalpinx before IVF is ultrasound-guided aspiration, which is superior to no intervention at all. Sclerotherapy may also be a superior option, while salpingectomy remains the gold standard to optimize reproductive options.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the advantages of minimally invasive methods over open tubal surgery?",
+        "answer": "Minimally invasive methods have advantages over open tubal surgery, including shorter recovery time, less blood loss, fewer complications, and similar completion rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is tubal anastomosis and when is it considered?",
+        "answer": "Tubal anastomosis is a surgical procedure performed for women who have had a prior tubal ligation and wish to conceive. It involves reconnecting the occluded ends of the fallopian tubes to restore fertility. The decision to pursue tubal anastomosis versus in vitro fertilization (IVF) should be individualized based on factors such as patient age, partner semen quality, the surgical technique used for the original sterilization, cost, chances of success, and reproductive preferences.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the success rates of tubal anastomosis compared to IVF for women with prior tubal ligation?",
+        "answer": "Women with prior tubal ligation generally have better success rates after tubal anastomosis compared to patients with tubal pathology. Additionally, when compared with national IVF success rates by age, women who have had a tubal ligation may have a better prognosis with IVF as well.",
+        "is_verified": 1
+    },
+    {
+        "question": "What surgical techniques are used for tubal ligation reversal?",
+        "answer": "The reversal of tubal ligation is achieved by opening the occluded ends of the proximal and distal segments of the fallopian tubes and anastomosing them using fine monofilament sutures with magnification and microsurgical techniques. The anastomosis is typically performed using a 2-layer technique, which includes placing 4 interrupted sutures in the muscularis followed by reapproximating the overlying serosa.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different surgical approaches for tubal anastomosis?",
+        "answer": "The surgical approaches for tubal anastomosis include laparotomic surgery, which has largely been replaced by minimally invasive techniques such as outpatient minilaparotomy microsurgical anastomosis, laparoscopic, and robotic approaches. Case series and retrospective cohort studies have shown equivalent pregnancy rates among these minimally invasive methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors influence the success of tubal anastomosis?",
+        "answer": "The success of tubal anastomosis is most significantly associated with patient age and the method of prior tubal ligation, which appears to predict successful anastomosis outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the pregnancy rates associated with different methods of sterilization reversal?",
+        "answer": "Pregnancy rates are higher for sterilization performed with rings or clips compared to those performed via ligation/resection or coagulation. In a series of over 6,500 women undergoing tubal anastomosis, women under 30 years at the time of the reversal had a pregnancy rate of 88%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the challenges associated with laparoscopic anastomosis procedures?",
+        "answer": "The main challenge in laparoscopic anastomosis procedures is the technical demands of laparoscopic suturing, which requires surgeons to be very skilled and experienced in laparoscopic suturing and tubal microsurgery.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does robotic assistance impact laparoscopic tubal reversal procedures?",
+        "answer": "Robotic assistance lessens the technical challenges of a laparoscopic approach, but it comes with notable tradeoffs in cost and operative time. Although pregnancy rates with robotic assistance are similar to those achieved with open tubal anastomosis, robotic cases have shown shorter recovery times but significantly higher costs and operative times.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors influence the success of sterilization reversal?",
+        "answer": "Patient age is consistently the most significant prognostic factor in the chance for successful sterilization reversal. Women under 30 years at the time of the reversal have significantly higher pregnancy rates compared to older women.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the pregnancy rates after tubal reversal for women under 40?",
+        "answer": "Cumulative intrauterine pregnancy rates of over 90% within 2 years of microsurgical reversal of tubal sterilization have been reported for women under 40 years of age.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the reported miscarriage rate for women aged 40-45 after tubal reversal?",
+        "answer": "The reported miscarriage rate for women aged 40-45 years after tubal reversal is 26%, likely related to the advanced age of the women in the study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors may predict success after tubal reversal?",
+        "answer": "Prognostic factors that may predict success after tubal reversal include final tubal length and the site of tubal reapproximation, with isthmic-isthmic reversals potentially having greater success than ampullary or cornual segments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended action if no pregnancy occurs within 6 months after tubal reversal?",
+        "answer": "If no pregnancy occurs within 6 months after tubal reversal, an assessment of tubal patency is suggested.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the ectopic pregnancy rates after tubal reversal compared to IVF?",
+        "answer": "The rate of ectopic pregnancy after tubal anastomosis is reported as 4%-8% compared to 1.4% for IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the cumulative delivery rates for women under 37 undergoing tubal anastomosis versus IVF?",
+        "answer": "For women under 37 years of age, cumulative delivery rates were higher for those undergoing tubal anastomosis (72%) compared to those undergoing IVF (52%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the cost comparison between tubal anastomosis and IVF for women over 40?",
+        "answer": "The average cost per pregnancy is only higher for tubal anastomosis compared with IVF in women over 40 years old.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is anastomosis in the context of reproductive surgery?",
+        "answer": "Anastomosis refers to the surgical connection between two structures, often used in the context of tubal anastomosis, which is a procedure to reconnect the fallopian tubes after they have been blocked or severed. This procedure is significant in reproductive surgery as it can impact fertility outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What challenges do trainees face in performing tubal anastomosis?",
+        "answer": "Trainees in minimally invasive gynecology and reproductive endocrinology may lack adequate instruction and experience in laparoscopic and microsurgical techniques necessary for performing tubal anastomosis. This can lead to a lower number of procedures performed by fellows, as indicated by the 43% of reproductive endocrinology fellows who reported not having performed the procedure as the primary surgeon.",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does the lack of training in tubal anastomosis have on reproductive outcomes?",
+        "answer": "The lack of training and experience in performing tubal anastomosis can lead to variability in predicted ectopic and live-birth rates, affecting the overall success of reproductive surgeries and fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should be considered when counseling patients with tubal infertility?",
+        "answer": "Factors to be considered include the age of the woman and ovarian reserve, number and quality of sperm in the ejaculate, number of children desired, site and extent of tubal disease, presence of other infertility factors, risk of ectopic pregnancy and other complications, experience of the surgeon, success rates of the IVF program, cost, and patient preference.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the time frame for most IVF pregnancies?",
+        "answer": "Most IVF pregnancies, even in cumulative studies, happen within 1 year, while surgical studies may show high cumulative numbers but with a substantially longer time to delivery.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does IVF compare to tubal surgery in terms of pregnancy rates?",
+        "answer": "IVF has a higher per-cycle pregnancy rate compared to tubal surgery, and tubal anastomosis for the reversal of tubal sterilization has a significantly higher cumulative pregnancy rate than that of IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of laparoscopic salpingectomy or proximal tubal ligation in IVF?",
+        "answer": "Laparoscopic salpingectomy or proximal tubal ligation overcomes the detrimental effect of hydrosalpinges on IVF pregnancy rates in patients who are not candidates for corrective tubal surgery.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the standard first-line test to assess tubal patency?",
+        "answer": "HSG (hysterosalpingography) should be considered the standard first-line test to assess tubal patency, although it is limited by false-positive diagnoses of proximal tubal blockage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What treatment is recommended for proximal tubal obstruction in young women?",
+        "answer": "Tubal cannulation for proximal tubal obstruction in young women with no other significant infertility factors is recommended.",
+        "is_verified": 1
+    },
+    {
+        "question": "What surgical procedures are recommended for treating mild hydrosalpinges?",
+        "answer": "Laparoscopic fimbrioplasty or neosalpingostomy is recommended for the treatment of mild hydrosalpinges in young women with no other significant infertility factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done for surgically irreparable hydrosalpinges?",
+        "answer": "Laparoscopic salpingectomy should be used for proximal tubal occlusion in cases of surgically irreparable hydrosalpinges to improve IVF pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended technique for tubal ligation reversal?",
+        "answer": "Microsurgical anastomosis is the recommended technique for tubal ligation reversal.",
+        "is_verified": 1
+    },
+    {
+        "question": "What organization developed the report on reproductive medicine practices?",
+        "answer": "The report was developed under the direction of the Practice Committee of the American Society for Reproductive Medicine (formerly The American Fertility Society).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the document reflect regarding the management of reproductive medicine problems?",
+        "answer": "The document reflects appropriate management of a problem encountered in the practice of reproductive medicine, but it is not intended to be the only approved standard of practice or to dictate an exclusive course of treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the pathophysiology and management of proximal tubal blockage?",
+        "answer": "The pathophysiology of proximal tubal blockage involves the obstruction of the fallopian tubes, which can be caused by various factors including infections, scarring, or anatomical abnormalities. Management typically includes diagnostic procedures such as hysterosalpingography and laparoscopy to assess the blockage, followed by potential treatments such as tubal flushing or surgical interventions to restore patency. Evidence-based approaches are emphasized in the literature to guide treatment decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the immunogenetic aspects and serological screening related to Chlamydia trachomatis-associated tubal factor subfertility?",
+        "answer": "Chlamydia trachomatis is a common sexually transmitted infection that can lead to tubal factor subfertility due to scarring and blockage of the fallopian tubes. Immunogenetic aspects involve the body's immune response to the infection and its potential impact on fertility. Serological screening for Chlamydia can help identify women at risk for tubal factor infertility, allowing for early intervention and management strategies to improve reproductive outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of a second hysterosalpingography in the treatment of proximal tubal obstruction?",
+        "answer": "A second hysterosalpingography can provide additional diagnostic information that may reduce the need for more invasive selective techniques in treating proximal tubal obstruction. This imaging procedure helps to confirm the presence and extent of the blockage, guiding clinicians in determining the most appropriate treatment options for improving fertility outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings regarding tubal flushing for subfertility?",
+        "answer": "Tubal flushing is a procedure used to clear blockages in the fallopian tubes and has been studied for its effectiveness in improving fertility in women with subfertility. The Cochrane review indicates that tubal flushing may enhance the chances of conception, particularly in cases where there is evidence of tubal blockage. The procedure is often performed as part of a fertility workup and can be a less invasive option compared to surgical interventions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of hysterosalpingography in infertile women?",
+        "answer": "Hysterosalpingography (HSG) is a medical imaging technique used to examine the inside of the uterus and fallopian tubes. It is often performed in infertile women to assess whether the fallopian tubes are open (patent) and to evaluate the uterine cavity for any abnormalities that could affect fertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the two types of contrast agents compared in the study by Dreyer et al.?",
+        "answer": "The study by Dreyer et al. compares oil-based contrast and water-based contrast agents used during hysterosalpingography in infertile women to determine their effectiveness and outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the findings from Robertshaw et al. regarding hysterosalpingo-contrast sonography?",
+        "answer": "The findings from Robertshaw et al. indicate that hysterosalpingo-contrast sonography (HyCoSy) using a saline-air device is equivalent to hysterosalpingography (HSG) in terms of assessing tubal patency, but only when the tubes are confirmed to be open. This suggests that HyCoSy can be a viable alternative to HSG for evaluating female infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the study by Tros R et al. regarding transvaginal hydrolaparoscopy and laparoscopy?",
+        "answer": "The study focuses on the use of transvaginal hydrolaparoscopy and laparoscopy in reproductive medicine, specifically examining its effectiveness and outcomes in patients undergoing these procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What techniques were compared in the study by Hager M et al. for assessing tubal patency?",
+        "answer": "The study compared the Flow technique and the Parryscope technique for hysteroscopic assessment of tubal patency in a randomized manner.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the guideline from the Practice Committee of the American Society for Reproductive Medicine address?",
+        "answer": "The guideline addresses the prevention and treatment of moderate and severe ovarian hyperstimulation syndrome, providing recommendations for managing this condition in patients undergoing fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the conclusion of the systematic review by Hansen M et al. regarding assisted reproductive technologies and birth defects?",
+        "answer": "The systematic review concluded that there is a potential increased risk of birth defects associated with assisted reproductive technologies, highlighting the need for careful monitoring and further research in this area.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the meta-analysis by McDonald SD et al. regarding perinatal outcomes of singleton pregnancies achieved by in vitro fertilization?",
+        "answer": "The meta-analysis found that singleton pregnancies achieved through in vitro fertilization had specific perinatal outcomes that may differ from those of naturally conceived pregnancies, indicating the importance of understanding these outcomes for clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What risk is associated with ovarian stimulating drugs for infertility according to the Cochrane Database review?",
+        "answer": "The review indicates that there is a risk of ovarian cancer in women who have been treated with ovarian stimulating drugs for infertility, suggesting the need for awareness and monitoring of long-term health effects in these patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of proximal tubal obstruction in fertility treatments?",
+        "answer": "Proximal tubal obstruction can hinder the passage of sperm and eggs, affecting fertility. Treatments such as fallopian tube catheterization aim to restore patency and improve pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of using oil-based versus water-soluble contrast agents in fallopian tube recanalization?",
+        "answer": "Pregnancy outcomes can vary based on the type of contrast agent used during fallopian tube recanalization, with studies comparing the efficacy of oil-based versus water-soluble agents.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does ovarian stimulation and intrauterine insemination impact women with unilateral tubal occlusion?",
+        "answer": "Ovarian stimulation and intrauterine insemination can improve pregnancy rates in women diagnosed with unilateral tubal occlusion, as indicated by hysterosalpingography.",
+        "is_verified": 1
+    },
+    {
+        "question": "What classifications does the American Fertility Society provide regarding tubal conditions?",
+        "answer": "The American Fertility Society classifies various conditions related to tubal health, including adnexal adhesions, distal tubal occlusion, and tubal pregnancies, which are crucial for understanding and treating infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of hydrosalpinx in in vitro fertilization?",
+        "answer": "Hydrosalpinx can negatively affect the success rates of in vitro fertilization, making its significance important in fertility assessments and treatment planning.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors affect pregnancy rates after laparoscopic treatment of hydrosalpinx?",
+        "answer": "Factors such as the extent of the hydrosalpinx, the patient's age, and the presence of other fertility issues can influence pregnancy rates following laparoscopic treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What lessons have been learned from historical series of laparoscopic surgery for distal tubal occlusions?",
+        "answer": "Historical series of laparoscopic surgery for distal tubal occlusions provide insights into surgical techniques, patient outcomes, and factors influencing success rates in restoring fertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hydrosalpinx on pregnancy rates after in vitro fertilization?",
+        "answer": "Hydrosalpinx adversely affects pregnancy rates after in vitro fertilization-embryo transfer, as indicated by studies showing reduced implantation and pregnancy rates in cases with hydrosalpinx compared to those without it.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of salpingectomy prior to in vitro fertilization?",
+        "answer": "Salpingectomy is performed prior to in vitro fertilization to improve implantation and pregnancy rates in patients with hydrosalpinx, as it is associated with better outcomes in such cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the meta-analysis of pregnancy rates after in vitro fertilization reveal about tubal infertility with hydrosalpinx?",
+        "answer": "The meta-analysis indicates that pregnancy rates after in vitro fertilization are significantly affected by the presence of hydrosalpinx in cases of tubal infertility, highlighting the need for surgical intervention in these patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of the prospective randomized multicentre trial regarding hydrosalpinx and IVF outcome?",
+        "answer": "The trial found that salpingectomy prior to IVF improves outcomes for patients with hydrosalpinx, suggesting that surgical management can enhance the chances of successful pregnancy in these cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of hydrosalpinx on in vitro fertilization pregnancy rates?",
+        "answer": "Hydrosalpinx adversely affects in vitro fertilization (IVF) pregnancy rates, and surgical correction such as salpingectomy can improve these rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What surgical treatment is suggested for women with hydrosalpinx undergoing IVF?",
+        "answer": "Salpingectomy is suggested as a surgical treatment for women with hydrosalpinx to improve pregnancy outcomes in IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between salpingectomy and spontaneous pregnancy in patients with hydrosalpinx?",
+        "answer": "Salpingectomy for unilateral hydrosalpinx increases the potential for spontaneous pregnancy following the procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does laparoscopic salpingectomy affect ovarian blood flow and antral follicle count?",
+        "answer": "Laparoscopic salpingectomy for ectopic pregnancy can impair ovarian blood flow and reduce the antral follicle count.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does prophylactic salpingectomy impair ovarian response in IVF treatment?",
+        "answer": "Prophylactic salpingectomy does not impair the ovarian response in IVF treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of surgical treatment before in vitro fertilization?",
+        "answer": "Surgical treatment before in vitro fertilization is associated with improved pregnancy rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does spontaneous or surgical drainage of a hydrosalpinx affect in-vitro fertilization outcomes?",
+        "answer": "The outcome of in-vitro fertilization and embryo transfer treatment may be improved by spontaneous or surgical drainage of a hydrosalpinx.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the benefit of ultrasound-guided aspiration of hydrosalpinges in in-vitro fertilization cycles?",
+        "answer": "Ultrasound-guided aspiration of hydrosalpinges is associated with improved pregnancy and implantation rates after in-vitro fertilization cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of ultrasound-guided hydrosalpinx aspiration during oocyte collection on pregnancy outcomes in IVF?",
+        "answer": "Ultrasound-guided hydrosalpinx aspiration during oocyte collection improves pregnancy outcomes in IVF, as demonstrated in a randomized controlled trial.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does ultrasound-guided aspiration of hydrosalpinx during controlled ovarian hyperstimulation affect clinical outcomes in IVF?",
+        "answer": "Ultrasound-guided aspiration of hydrosalpinx occurring during controlled ovarian hyperstimulation could improve clinical outcomes of in vitro fertilization-embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of ultrasound sclerotherapy pretreatment on IVF outcomes for patients with hydrosalpinx?",
+        "answer": "Ultrasound sclerotherapy pretreatment could obtain a similar effect to surgical intervention on improving the outcomes of in vitro fertilization for patients with hydrosalpinx.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the systematic review and meta-analysis say about hydrosalpinx sclerotherapy before in vitro fertilization?",
+        "answer": "The systematic review and meta-analysis indicate that hydrosalpinx sclerotherapy before in vitro fertilization is effective in improving outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings regarding tubal anastomosis by robotic compared with outpatient minilaparotomy?",
+        "answer": "The study compares the effectiveness of tubal anastomosis by robotic surgery with outpatient minilaparotomy, indicating differences in outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the systematic review reveal about tubal anastomosis after previous sterilization?",
+        "answer": "The systematic review discusses the effectiveness of tubal anastomosis after previous sterilization, providing insights into the success rates and clinical implications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effectiveness of bilateral tubotubal anastomosis in an outpatient population?",
+        "answer": "The study evaluates the effectiveness of bilateral tubotubal anastomosis in a large outpatient population, showing positive fertility outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the novel route for tubal surgery described in the report on transvaginal natural orifice transluminal endoscopic surgery?",
+        "answer": "The report describes transvaginal natural orifice transluminal endoscopic surgery as a novel route for performing tubal reanastomosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the details of the robotic tubal anastomosis surgical technique and its cost-effectiveness?",
+        "answer": "The study outlines the surgical technique for robotic tubal anastomosis and discusses its cost-effectiveness compared to traditional methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the fertility outcomes in laparoscopic single tube reanastomosis?",
+        "answer": "The study reports on fertility outcomes following laparoscopic single tube reanastomosis, providing data on success rates and implications for patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of tubal reversals in fertility treatments?",
+        "answer": "Tubal reversals are surgical procedures that reconnect the fallopian tubes after they have been surgically blocked or cut, allowing for the possibility of natural conception. Studies such as those referenced in the excerpt indicate that tubal reversals can be an option for women who have undergone tubal sterilization and wish to conceive again. The effectiveness and outcomes of these procedures can vary based on factors such as the woman's age and the method of sterilization used.",
+        "is_verified": 1
+    },
+    {
+        "question": "What trends have been observed in ectopic pregnancy rates following assisted reproductive technologies?",
+        "answer": "The excerpt mentions a study analyzing trends in ectopic pregnancy rates following assisted reproductive technologies in the UK, indicating that there has been a significant analysis involving a large number of pregnancies (160,000). This suggests that assisted reproductive technologies may have implications for the rates of ectopic pregnancies, which occur when a fertilized egg implants outside the uterus, often in a fallopian tube, and can pose serious health risks to the mother.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the cost and efficacy of in vitro fertilization compare to tubal anastomosis for women after tubal ligation?",
+        "answer": "The excerpt references a study that compares the cost and efficacy of in vitro fertilization (IVF) and tubal anastomosis for women who have had a tubal ligation. This comparison is important for women considering their options for conception after sterilization, as it provides insights into which method may be more effective or cost-efficient based on individual circumstances.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does fallopian tube anastomosis play in reproductive endocrinology training?",
+        "answer": "The excerpt discusses a survey regarding the role of fallopian tube anastomosis in the training of reproductive endocrinology fellows. This indicates that understanding and performing this surgical procedure is considered an important skill in the field of reproductive medicine, as it may be necessary for managing cases of infertility related to previous tubal sterilization.",
+        "is_verified": 1
+    }
+]

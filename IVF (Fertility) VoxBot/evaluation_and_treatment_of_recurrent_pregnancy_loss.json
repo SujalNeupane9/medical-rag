@@ -1,0 +1,652 @@
+[
+    {
+        "question": "What is recurrent pregnancy loss (RPL)?",
+        "answer": "Recurrent pregnancy loss (RPL) is defined by two or more failed clinical pregnancies. It is a distinct disorder, and up to 50% of cases of RPL will not have a clearly defined etiology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the common causes of miscarriages before 10 weeks' gestation?",
+        "answer": "The majority of sporadic losses before 10 weeks' gestation result from random numeric chromosome errors, specifically, trisomy, monosomy, and polyploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of women experience two consecutive miscarriages?",
+        "answer": "It is estimated that fewer than 5% of women will experience two consecutive miscarriages, and only 1% experience three or more.",
+        "is_verified": 1
+    },
+    {
+        "question": "How is a clinical pregnancy defined for evaluating recurrent pregnancy loss?",
+        "answer": "For the purposes of determining whether evaluation for RPL is appropriate, pregnancy is defined as a clinical pregnancy documented by ultrasonography or histopathological examination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are related to recurrent pregnancy loss (RPL)?",
+        "answer": "Factors related to recurrent pregnancy loss (RPL) include genetics, age, antiphospholipid syndrome, uterine anomalies, thrombophilias, hormonal or metabolic disorders, infection, autoimmunity, sperm quality, and lifestyle issues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of karyotypic abnormalities in products of conception for early pregnancy losses?",
+        "answer": "Approximately 60% of early pregnancy losses are associated with sporadic chromosomal anomalies, primarily trisomies that are, in part, age related.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of sporadic miscarriage between 6 and 12 weeks of gestation in women less than 35 years of age?",
+        "answer": "The risk of sporadic miscarriage between 6 and 12 weeks of gestation in women less than 35 years of age is 9% to 12%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of patients with recurrent pregnancy loss (RPL) may have a putative diagnosis made and treated?",
+        "answer": "A putative diagnosis will be made and treated in approximately 50% of patients with recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the current state of clinical genetic testing for pregnancy loss?",
+        "answer": "Clinical genetic testing remains rudimentary and rarely includes molecular studies, which show promise in helping to elucidate mechanisms for recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of trisomic pregnancies in women over 35 years of age?",
+        "answer": "The risk of trisomic pregnancies in women over 35 years of age is between 9% to 12%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the miscarriage rate for women older than 40 years of age?",
+        "answer": "The sporadic miscarriage rate for women older than 40 years of age approaches 50%.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the risk of aneuploidy compare between women with recurrent pregnancy loss (RPL) and those with sporadic miscarriages?",
+        "answer": "The risk of aneuploidy at each age is lower in women with recurrent pregnancy loss (RPL) than in those who undergo sporadic miscarriages.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the suspected causes of recurrent pregnancy loss (RPL)?",
+        "answer": "The suspected causes of recurrent pregnancy loss (RPL) include cytogenetic factors, antiphospholipid (aPL) syndrome, anatomical issues, hormonal or metabolic disorders, infectious factors, male factors, psychological factors, alloimmune factors, and environmental or personal habits. Each cause has a different contribution percentage to RPL and recommended screenings for diagnosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What screening is recommended for antiphospholipid syndrome in relation to recurrent pregnancy loss?",
+        "answer": "Recommended screening for antiphospholipid syndrome includes testing for lupus anticoagulant, anticardiolipin IgG or IgM antibodies, anti-beta-2-glycoprotein I IgG and IgM antibodies, and other phospholipid antibodies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What anatomical issues can contribute to recurrent pregnancy loss?",
+        "answer": "Anatomical issues that can contribute to recurrent pregnancy loss include congenital uterine abnormalities, uterine fibroids, polyps, and cervical incompetence. Recommended screenings for these issues include hysterosalpingography and sonohysterography.",
+        "is_verified": 1
+    },
+    {
+        "question": "What hormonal or metabolic factors are associated with recurrent pregnancy loss?",
+        "answer": "Hormonal or metabolic factors associated with recurrent pregnancy loss include elevated prolactin levels, thyroid-stimulating hormone (TSH) abnormalities, uncontrolled diabetes, thyroid disease, polycystic ovary syndrome, insulin resistance, and luteal phase progesterone levels.",
+        "is_verified": 1
+    },
+    {
+        "question": "What infectious factors are noted in relation to recurrent pregnancy loss?",
+        "answer": "Infectious factors noted in relation to recurrent pregnancy loss include bacterial vaginosis and endocervical infections, although no specific contribution percentage is provided for these factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of peripheral karyotyping in parents with recurrent pregnancy loss (RPL)?",
+        "answer": "Peripheral karyotyping is performed to detect any balanced structural chromosomal abnormalities that may contribute to recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of chromosomal abnormalities are observed in couples with recurrent miscarriage?",
+        "answer": "Balanced reciprocal translocations and Robertsonian translocations are observed in about 2%–5% of couples with recurrent miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does genetic counseling play when a structural genetic factor is identified in parents with RPL?",
+        "answer": "Genetic counseling is important to help parents understand the implications of the identified structural genetic factor and the likelihood of a subsequent healthy live birth based on the chromosome(s) involved and the type of rearrangement.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some options for detecting genetic abnormalities in offspring when one partner has a structural genetic abnormality?",
+        "answer": "Options include preimplantation genetic testing (PGT), amniocentesis, or chorionic villus sampling to detect genetic abnormalities in the offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the treatment options for couples with RPL carrying a structural genetic abnormality?",
+        "answer": "Treatment options include preimplantation genetic diagnosis (PGD) for specific translocations, with transfer of unaffected embryos, or the use of donor gametes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the estimated live birth rates for IVF/PGD compared to natural conception/medical management in couples with RPL?",
+        "answer": "Live birth rates were estimated to be between 31%–35% per cycle for IVF/PGD, while cumulative live birth rates were 55%–74% for natural conception/medical management.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of miscarriages in couples with recurrent pregnancy loss associated with a structural genetic factor have an unbalanced structural rearrangement?",
+        "answer": "Based on limited cytogenetic data, 36%–39% of miscarriages in couples with recurrent pregnancy loss associated with a structural genetic factor have an unbalanced structural rearrangement.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should treatment options be based on in cases of repeated miscarriages?",
+        "answer": "Treatment options should be based on whether repeated miscarriages are euploid, aneuploid, or due to an unbalanced structural rearrangement, rather than exclusively on the parental carrier status.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is aneuploidy screening and its relevance in recurrent pregnancy loss (RPL)?",
+        "answer": "Aneuploidy screening is a genetic test used to identify chromosomal abnormalities in embryos. In the context of recurrent pregnancy loss (RPL), it is suggested that if a remediable cause of RPL is identified, cytogenetic analysis of subsequent losses can be performed to determine if the loss was random or due to a treatment failure. However, there are potential pitfalls such as maternal tissue contamination and the possibility of non-cytogenetic embryonic abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Antiphospholipid Syndrome and its association with pregnancy loss?",
+        "answer": "Antiphospholipid Syndrome (APS) is an autoimmune disorder that is linked to recurrent pregnancy loss. It is characterized by the presence of antiphospholipid antibodies (aPLs) in the blood. The diagnostic criteria for APS include specific clinical and laboratory criteria, and studies suggest that between 5% and 20% of patients with recurrent pregnancy loss may test positive for these antibodies, with reported ranges varying from 8% to 42%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the diagnostic criteria for Antiphospholipid Syndrome (APS)?",
+        "answer": "The diagnostic criteria for Antiphospholipid Syndrome (APS) include one clinical criterion and one laboratory criterion. The clinical criteria involve vascular thrombosis or pregnancy morbidity, which includes unexplained deaths of morphologically normal fetuses after the 10th week of gestation as determined by ultrasound.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the criteria for recurrent pregnancy loss mentioned in the excerpt?",
+        "answer": "The criteria for recurrent pregnancy loss include: 1) One or more premature births of a morphologically normal neonate before the 34th week of gestation due to eclampsia, severe pre-eclampsia, or placental insufficiency; 2) Three or more unexplained consecutive spontaneous abortions before the 10th week of gestation with maternal anatomic or hormonal abnormalities and paternal and maternal chromosomal causes excluded.",
+        "is_verified": 1
+    },
+    {
+        "question": "What laboratory criteria are used to diagnose conditions related to recurrent pregnancy loss?",
+        "answer": "The laboratory criteria include: 1) Presence of lupus anticoagulant in plasma on two or more occasions at least 12 weeks apart; 2) Presence of anticardiolipin antibody of IgG or IgM isotype in serum or plasma at medium or high titer on two or more occasions at least 12 weeks apart; 3) Presence of anti-b2 glycoprotein-I antibody of IgG and/or IgM isotype in serum or plasma in titer greater than the 99th percentile on two or more occasions at least 12 weeks apart.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are antiphospholipid antibodies and their effects during pregnancy?",
+        "answer": "Antiphospholipid antibodies (aPLs) have various effects on the trophoblast during pregnancy, including inhibiting villous cytotrophoblast differentiation, preventing extravillous cytotrophoblast invasion into the decidua, inducing syncytiotrophoblast apoptosis, and initiating maternal inflammatory pathways on the syncytiotrophoblast surface.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of identifying antiphospholipid antibodies in pregnancy?",
+        "answer": "The identification of antiphospholipid antibodies is crucial in evaluating autoimmune pregnancy loss, as these antibodies are diverse and can react with various cellular phospholipids and phospholipid-binding proteins, potentially leading to complications such as recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for testing antiphospholipid antibodies in pregnant women?",
+        "answer": "Testing for antiphospholipid antibodies is recommended in cases of three or more unexplained spontaneous abortions before the 10th week of gestation, provided that maternal anatomical or hormonal abnormalities and paternal and maternal chromosomal causes have been excluded.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is routine screening for certain antiphospholipid antibodies not recommended?",
+        "answer": "Routine screening for antiphospholipid antibodies, except for anticardiolipin, lupus anticoagulant, anti-ß2-glycoprotein I, and antiphosphatidylserine, is not recommended due to the lack of standardization in clinical assays and the low level of evidence supporting its necessity, which may lead to false positives that do not reflect true causes of recurrent pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the standard treatment for documented antiphospholipid syndrome?",
+        "answer": "The standard treatment for documented antiphospholipid syndrome consists of low-dose aspirin and heparin, which has shown a live-born rate of 74.3% compared to 42.9% with aspirin alone.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential risks associated with the administration of prednisone during pregnancy?",
+        "answer": "Administration of prednisone does not improve pregnancy rates and may be associated with an increased risk of gestational hypertension and gestational diabetes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of testing for antiphospholipid antibodies (aPLs) in pregnancies with severe preeclampsia?",
+        "answer": "A history of a morphologically normal fetus delivered before 34 weeks due to severe preeclampsia/eclampsia or placental insufficiency warrants testing for aPLs, as 17.9% of patients with severe preeclampsia had moderate to high levels of aPLs in a study analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What complications are associated with congenital uterine abnormalities during pregnancy?",
+        "answer": "Congenital uterine abnormalities are associated with second trimester pregnancy loss, preterm labor, fetal malpresentation, and increased rates of cesarean delivery.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some examples of congenital Müllerian tract anomalies?",
+        "answer": "Examples of congenital Müllerian tract anomalies include unicornuate, didelphic, bicornuate, septate, or arcuate uteri.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are suitable screening tests mentioned in the excerpt?",
+        "answer": "Partial thromboplastin time and dilute Russell’s viper venom time are suitable screening tests.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is related to recurrent false-positive tests for syphilis?",
+        "answer": "Recurrent false-positive tests for syphilis are related to aPLs against cardiolipin, which is used in most screening tests for syphilis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of antibodies are detected by ELISAs mentioned in the excerpt?",
+        "answer": "ELISAs detect IgG, IgM, or IgA antibodies using purified antigens.",
+        "is_verified": 1
+    },
+    {
+        "question": "What phospholipids are individually tested according to the excerpt?",
+        "answer": "The individually tested phospholipids include Cardiolipin (CL), Phosphatidylserine (PS), Phosphatidylethanolamine (PE), Phosphatidylinositol (PI), Phosphatidylglycerol (PG), Phosphatidylcholine (PC), and Phosphatidic acid (PA).",
+        "is_verified": 1
+    },
+    {
+        "question": "What phospholipid-binding proteins are mentioned in the excerpt?",
+        "answer": "The phospholipid-binding proteins mentioned are b2-glycoprotein I (b2-GPI), Activated protein C, Annexin A5, Clotting factors Xa, XII, and Va, Protein S, Prothrombin, and Thrombomodulin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the low and high molecular weight kininogens mentioned in the excerpt?",
+        "answer": "The excerpt refers to low and high molecular weight kininogens as part of the medical content discussed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is hysterosalpingography and its relevance in uterine anomalies?",
+        "answer": "Hysterosalpingography is a medical imaging technique used to examine the uterus and fallopian tubes. It is relevant in identifying congenital uterine anomalies, which can affect fertility and pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the types of congenital uterine anomalies mentioned in the excerpt?",
+        "answer": "The excerpt mentions septate uterus, unicornuate uterus, and didelphic uterus as types of congenital uterine anomalies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of correcting a septate uterus?",
+        "answer": "Correcting a septate uterus has been shown to have beneficial effects on live birth rates, particularly in women with recurrent pregnancy loss, with a reported live birth rate of 83.2%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Asherman syndrome and its impact on pregnancy loss?",
+        "answer": "Asherman syndrome is a condition characterized by intrauterine adhesions that can lead to complications such as recurrent pregnancy loss. The management of patients with this condition is controversial, and there is no conclusive evidence that surgical treatment reduces the risk of pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are inherited thrombophilias and when should they be screened?",
+        "answer": "Inherited thrombophilias are genetic conditions that increase the risk of blood clots. Screening for these conditions may be clinically justified in patients with a personal history of venous thromboembolism in the presence of a non-recurrent risk factor.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between hereditary thrombophilias and fetal loss?",
+        "answer": "An association between hereditary thrombophilias and fetal loss has been suggested, but prospective cohort studies have failed to confirm this. Routine testing of women with recurrent pregnancy loss (RPL) for inherited thrombophilias is not currently recommended.",
+        "is_verified": 1
+    },
+    {
+        "question": "What endocrine disorders should be evaluated and treated in pregnant women?",
+        "answer": "Maternal endocrine disorders such as diabetes and thyroid dysfunction should be evaluated and treated. However, well-controlled diabetes is not a risk factor for recurrent pregnancy loss (RPL), while uncontrolled diabetes is associated with increased pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of thyroid-stimulating hormone (TSH) levels in pregnancy?",
+        "answer": "TSH levels should be in the normal range, but there is insufficient evidence to recommend routine thyroxine (T4) testing or screening for anti-thyroid antibodies as long as TSH levels are normal. A consensus is emerging that TSH values above 2.5 mIU/L are outside the normal range.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hyperprolactinemia affect pregnancy outcomes?",
+        "answer": "Elevated prolactin levels are associated with ovulatory dysfunction and may be linked to recurrent pregnancy loss through alterations in the hypothalamic-pituitary-ovarian axis. Normalization of prolactin levels with a dopamine agonist, such as bromocriptine, has improved subsequent pregnancy outcomes in patients with recurrent pregnancy loss, resulting in an 85.7% live-born rate compared to 52.4% in untreated cohorts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the association between a shortened luteal phase and pregnancy loss?",
+        "answer": "A shortened luteal phase has been associated with pregnancy loss, but the assessment and interpretation of a putative luteal phase defect is problematic. Routine endometrial biopsy for dating is not recommended due to the unreliability of traditional histological criteria or other biochemical approaches.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is the administration of progesterone effective for women with sporadic miscarriages?",
+        "answer": "Administration of progesterone to women with sporadic miscarriages is ineffective. However, in patients with three or more consecutive miscarriages immediately preceding their current pregnancy, empiric progestogen administration may be of some potential benefit.",
+        "is_verified": 1
+    },
+    {
+        "question": "What infections have been identified more frequently in women with sporadic miscarriages?",
+        "answer": "Infections such as Ureaplasma urealyticum, Mycoplasma hominus, chlamydia, Listeria monocytogenes, Toxoplasma gondii, rubella, cytomegalovirus, and herpes virus have been identified more frequently in vaginal and cervical cultures and serum from women with sporadic miscarriages.",
+        "is_verified": 1
+    },
+    {
+        "question": "Are there clear indications for routinely testing for infections in recurrent pregnancy loss evaluation?",
+        "answer": "There are no convincing data that infections cause recurrent pregnancy loss, and therefore, there are no clear indications for routinely testing for these organisms in the recurrent pregnancy loss evaluation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors may affect sperm quality in couples with recurrent pregnancy loss?",
+        "answer": "Standard semen parameters, including sperm morphology, do not appear to be predictive of recurrent pregnancy loss. However, sperm aneuploidy and DNA fragmentation have been studied, with abnormal DNA fragmentation potentially linked to advanced paternal age or correctable environmental factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are varicoceles and their potential impact on fertility?",
+        "answer": "Varicoceles are enlarged veins within the scrotum that can affect sperm production and quality, potentially leading to infertility. They are associated with increased reactive oxygen species in semen, which can damage sperm DNA and affect fertility outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between sperm DNA fragmentation and pregnancy loss in IVF cycles?",
+        "answer": "There is currently contradictory data regarding the causal effect between sperm DNA fragmentation and pregnancy loss in IVF cycles. Some studies suggest that higher levels of DNA fragmentation in sperm may be linked to lower pregnancy rates and increased risk of miscarriage, while other studies do not find a significant correlation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of increased rates of sex chromosome disomy in sperm from male partners of couples with recurrent miscarriage?",
+        "answer": "Increased rates of sex chromosome disomy in sperm from male partners in couples with recurrent miscarriage suggest that these cytogenetically abnormal sperm may be selected against during fertilization, as cytogenetic analysis of the products of conception does not show an increased rate of sex chromosome aneuploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is routine testing for spermploidy recommended in cases of recurrent pregnancy loss?",
+        "answer": "Routine testing for spermploidy, such as fluorescence in situ hybridization (FISH) or DNA fragmentation, is not recommended for couples experiencing recurrent pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What psychological factors are associated with recurrent pregnancy loss?",
+        "answer": "Recurrent pregnancy loss can lead to significant psychological effects, including heightened anger, depression, anxiety, and feelings of grief and guilt among affected couples.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the trial comparing routine obstetrical care and tender-loving care (TLC) for couples with recurrent pregnancy loss?",
+        "answer": "The trial showed a significant difference in live births, with 36% in the control group receiving routine obstetrical care and 85% in the TLC group, which included psychological support and regular medical examinations. However, the results should be interpreted with caution due to the non-randomized nature of the groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What psychological factors are associated with pregnancy loss?",
+        "answer": "A psychological component in pregnancy loss was suggested by a study of 45 pregnancies in patients with histories of 2 consecutive first-trimester miscarriages. The study found that the degree of baseline depressive symptoms significantly predicted the likelihood of miscarriage in subsequent pregnancies. It is advisable to offer psychological support and counseling to these patients, as two non-randomized studies showed significant improvement in subsequent pregnancy outcomes with close monitoring and support at a dedicated recurrent pregnancy loss clinic.",
+        "is_verified": 1
+    },
+    {
+        "question": "What immunological factors have been studied in relation to recurrent pregnancy loss (RPL)?",
+        "answer": "Studies have examined human leukocyte antigen (HLA) typing, embryo-toxic factors, decidual cytokine profiles, blocking or anti-paternal antibody levels, and HLA-G polymorphism in relation to RPL. However, the data from these studies have been inconsistent and generally not reproducible across laboratories. Proposed immunomodulatory treatments based on these findings have not been proven effective, and a meta-analysis concluded that paternal white blood cell immunization had no beneficial effect. Additionally, treatment with intravenous immunoglobulin (IVIG) has been proposed for unexplained pregnancy loss, but several trials and meta-analyses have concluded that IVIG is ineffective for primary recurrent pregnancy loss, leading to its non-recommendation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What lifestyle factors are linked to pregnancy loss?",
+        "answer": "Cigarette smoking has been suggested to adversely affect trophoblastic function and is linked to an increased risk of sporadic pregnancy loss. Obesity is also mentioned as a factor that may impact pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What lifestyle habits are associated with an increased risk of miscarriage?",
+        "answer": "Cocaine use, alcohol consumption (3 to 5 drinks per week), and increased caffeine consumption (more than 3 cups of coffee) have been associated with an increased risk of miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the definition of recurrent pregnancy loss (RPL)?",
+        "answer": "Recurrent pregnancy loss is defined by two or more failed clinical pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of couples with unexplained recurrent pregnancy loss (RPL) have no apparent causative factor identified?",
+        "answer": "No apparent causative factor is identified in 50% to 75% of couples with recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors are evaluated in the assessment of recurrent pregnancy loss (RPL)?",
+        "answer": "The assessment of RPL focuses on screening for genetic factors and antiphospholipid syndrome, assessment of uterine anatomy, hormonal and metabolic factors, and lifestyle variables.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of screenings are included in the evaluation of recurrent pregnancy loss?",
+        "answer": "Screenings include peripheral karyotypic analysis of the parents, screening for lupus anticoagulant, anticardiolipin antibodies, and anti-b2 glycoprotein I, as well as sonohysterogram, hysterosalpingogram, and/or hysteroscopy, and screening for thyroid or prolactin abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is karyotypic analysis and its relevance in reproductive medicine?",
+        "answer": "Karyotypic analysis of products of conception can be useful in the setting of ongoing therapy for recurrent pregnancy loss (RPL).",
+        "is_verified": 1
+    },
+    {
+        "question": "How can women with antiphospholipid syndrome be treated?",
+        "answer": "Women with persistent, moderate-to-high titers of circulating antiphospholipid antibodies can be treated with a combination of prophylactic doses of unfractionated heparin and low-dose aspirin.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some causes of recurrent miscarriage according to the references?",
+        "answer": "The references discuss various factors associated with recurrent miscarriage, including chromosome abnormalities, maternal age, and specific diagnostic factors identified in women with recurrent pregnancy losses. Studies have shown that certain genetic and cytogenetic analyses can help identify underlying causes of habitual abortion.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of maternal age in relation to chromosome abnormalities?",
+        "answer": "The excerpt mentions that maternal age-specific rates of numerical chromosome abnormalities, particularly trisomy, are significant, indicating that as maternal age increases, the likelihood of chromosomal issues during pregnancy also increases, which can lead to miscarriages.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidelines are available for the investigation and treatment of recurrent miscarriage?",
+        "answer": "The Royal College of Obstetricians and Gynaecologists published guidelines for the investigation and treatment of couples experiencing recurrent miscarriage, which emphasize evidence-based investigations and treatments to address this issue.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of studies are referenced regarding recurrent pregnancy loss?",
+        "answer": "The references include various studies such as case-control studies, diagnostic factor analyses, and evaluations of management strategies for recurrent pregnancy loss, highlighting the importance of systematic investigation into the causes of miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the incidence of early loss of pregnancy according to Wilcox et al. (1988)?",
+        "answer": "The incidence of early loss of pregnancy is discussed in the study by Wilcox et al. published in the New England Journal of Medicine in 1988, which reported on the frequency of early pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the reproductive outcomes after preimplantation genetic diagnosis (PGD) in couples with recurrent miscarriage?",
+        "answer": "Franssen et al. (2011) conducted a systematic review on reproductive outcomes after PGD in couples with recurrent miscarriage carrying a structural chromosome abnormality, indicating that PGD can influence reproductive outcomes in these cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the management approach for recurrent pregnancy loss associated with a parental carrier of a reciprocal translocation?",
+        "answer": "Hirshfeld-Cytron et al. (2011) provided a systematic review on the management of recurrent pregnancy loss associated with a parental carrier of a reciprocal translocation, highlighting the complexities involved in treatment and management.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the prognosis for recurrent aborters with either maternal or paternal reciprocal translocations?",
+        "answer": "Sugiura-Ogasawara et al. (2004) discussed the poor prognosis for recurrent aborters with either maternal or paternal reciprocal translocations, emphasizing the genetic factors that can affect pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the genetics of recurrent pregnancy loss?",
+        "answer": "Sierra and Stephenson (2006) explored the genetics of recurrent pregnancy loss, detailing how genetic abnormalities can contribute to repeated miscarriages.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is there a role for assisted reproductive technology in recurrent miscarriage?",
+        "answer": "Vissenberg and Goddijn (2011) examined the potential role of assisted reproductive technology in cases of recurrent miscarriage, discussing its implications and effectiveness.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did Jarrett et al. (2001) find regarding maternal cell contamination in products of conception?",
+        "answer": "Jarrett et al. (2001) revealed through microsatellite analysis a high incidence of maternal cell contamination in 46, XX products of conception, which has implications for understanding early pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is antiphospholipid syndrome (APS)?",
+        "answer": "Antiphospholipid syndrome (APS) is an autoimmune disorder characterized by the presence of antiphospholipid antibodies, which can lead to increased risk of blood clots, recurrent pregnancy loss, and other complications. It is often associated with conditions such as systemic lupus erythematosus (SLE).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of antiphospholipid antibodies in pregnancy?",
+        "answer": "Antiphospholipid antibodies have been linked to recurrent fetal loss in women without autoimmune disease, indicating their potential role in pregnancy complications. Studies have shown that these antibodies can affect trophoblast function and hormone production, which are critical for successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do antiphospholipid antibodies affect trophoblast function?",
+        "answer": "Antiphospholipid antibodies can inhibit trophoblast hormone production and invasion, which are essential for implantation and placental development. This can lead to complications such as recurrent pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between autoimmune disease and reproductive failure?",
+        "answer": "Autoimmune diseases, including those associated with antiphospholipid antibodies, can lead to reproductive failure due to their effects on the immune system and reproductive processes. They can interfere with normal implantation and placental development, resulting in pregnancy complications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of monoclonal anti-annexin V antibody in trophoblasts?",
+        "answer": "Monoclonal anti-annexin V antibody inhibits trophoblast gonadotropin secretion and induces syncytiotrophoblast apoptosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effect of antiphosphatidylserine antibody in trophoblast differentiation?",
+        "answer": "Antiphosphatidylserine antibody removes annexin V and facilitates the binding of prothrombin at the surface of a choriocarcinoma model of trophoblast differentiation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the pathogenic role of annexin-V in the antiphospholipid syndrome?",
+        "answer": "Annexin-V plays a pathogenic role in the antiphospholipid syndrome, which is a disorder characterized by the presence of antiphospholipid antibodies leading to increased risk of thrombosis and pregnancy complications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the systematic review regarding recurrent pregnancy loss with antiphospholipid antibody?",
+        "answer": "The systematic review focuses on therapeutic trials for recurrent pregnancy loss associated with antiphospholid antibody.",
+        "is_verified": 1
+    },
+    {
+        "question": "What treatments are reviewed for preventing recurrent miscarriage in women with antiphospholipid antibody?",
+        "answer": "The review discusses the prevention of recurrent miscarriage for women with antiphospholipid antibody or lupus anticoagulant.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of heparin treatment in antiphospholipid syndrome?",
+        "answer": "Heparin treatment is significant in managing antiphospholipid syndrome with recurrent pregnancy loss, as indicated by systematic reviews and meta-analyses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the study on prednisone and aspirin in women with autoantibodies?",
+        "answer": "The study found that prednisone and aspirin were used in women with autoantibodies and unexplained recurrent fetal loss, suggesting a potential therapeutic approach.",
+        "is_verified": 1
+    },
+    {
+        "question": "What association was found between antiphospholipid antibodies and severe preeclampsia?",
+        "answer": "The association of antiphospholipid antibodies with severe preeclampsia was noted, indicating a potential link between these antibodies and pregnancy complications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What relation was observed between antiphospholipid antibodies in preeclamptic women and neonatal outcomes?",
+        "answer": "A relation was observed between antiphospholipid antibodies in preeclamptic women and growth retardation and neonatal outcomes, suggesting implications for fetal health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of antiphospholipid antibodies in preeclampsia?",
+        "answer": "Antiphospholipid antibodies are associated with severe early onset preeclampsia, indicating a potential immunological component in the pathophysiology of this condition. Studies have shown that these antibodies can affect placental function and contribute to adverse pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the underlying disorders associated with severe early-onset preeclampsia?",
+        "answer": "Underlying disorders associated with severe early-onset preeclampsia include various immunological and hematological abnormalities, such as the presence of antiphospholipid antibodies, which can lead to complications during pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the hemostatic abnormalities found in women with a history of severe preeclampsia?",
+        "answer": "Women with a history of severe preeclampsia often exhibit high prevalence of hemostatic abnormalities, which may include issues related to blood clotting and coagulation factors, potentially increasing the risk of thrombotic events during and after pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role do genetic factors like Factor V Leiden and prothrombin G20210A polymorphisms play in pregnancy loss?",
+        "answer": "Factor V Leiden and prothrombin G20210A polymorphisms are genetic risk factors that can increase the likelihood of miscarriage during a first intended pregnancy, highlighting the importance of genetic screening in women with recurrent pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between the factor V Leiden mutation and pregnancy outcomes?",
+        "answer": "The factor V Leiden mutation is associated with adverse pregnancy outcomes for both the mother and fetus, as indicated in the study published in Obstetrics & Gynecology in 2005.",
+        "is_verified": 1
+    },
+    {
+        "question": "What complications are associated with the prothrombin gene G20210A mutation during pregnancy?",
+        "answer": "The prothrombin gene G20210A mutation is linked to obstetric complications, as discussed in a study published in Obstetrics & Gynecology in 2010.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of testing for inherited thrombophilia in cases of recurrent miscarriage?",
+        "answer": "Testing for inherited thrombophilia is important in recurrent miscarriage cases, as it can help identify underlying causes that may contribute to pregnancy loss, as noted in a study published in Seminars in Reproductive Medicine in 2011.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does hemoglobin A1C levels in early diabetic pregnancy relate to spontaneous abortion and fetal malformation?",
+        "answer": "There is a relationship between hemoglobin A1C levels in early type 1 diabetic pregnancies and the occurrence of spontaneous abortion and fetal malformation, as reported in Diabetologia in 1990.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the complications of overt and subclinical hypothyroidism during pregnancy?",
+        "answer": "Overt and subclinical hypothyroidism can complicate pregnancy, affecting both maternal and fetal health, as discussed in a study published in Thyroid in 2002.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidelines exist for managing thyroid dysfunction during pregnancy and postpartum?",
+        "answer": "The Endocrine Society has published clinical practice guidelines for the management of thyroid dysfunction during pregnancy and postpartum, providing recommendations for care, as outlined in the Journal of Clinical Endocrinology & Metabolism in 2007.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence suggests a protective adaptation in diabetes regarding pregnancy losses?",
+        "answer": "Research indicates that there are elevated pregnancy losses at both high and low extremes of maternal glucose levels in early normal and diabetic pregnancies, suggesting a protective adaptation in diabetes, as reported in Diabetes Care in 2005.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of prolactinemic recurrent miscarriage?",
+        "answer": "Prolactinemic recurrent miscarriage refers to pregnancy loss associated with elevated levels of prolactin, a hormone that can affect reproductive functions. The excerpt mentions randomized trials of bromocriptine treatment, which is used to lower prolactin levels and potentially improve pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the clinical relevance of luteal phase deficiency?",
+        "answer": "Luteal phase deficiency is a condition where the luteal phase of the menstrual cycle is shorter than normal, which can lead to difficulties in maintaining a pregnancy. The excerpt references a publication by the American Society for Reproductive Medicine discussing its clinical implications.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does histologic endometrial dating involve?",
+        "answer": "Histologic endometrial dating is a method used to assess the timing of the endometrial lining's development in relation to ovulation and implantation. The excerpt discusses studies analyzing its accuracy and clinical utility in fertile women, indicating its relevance in reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of progestogen in preventing miscarriage?",
+        "answer": "Progestogen is a hormone that supports the uterine lining and is used in treatments aimed at preventing miscarriage, particularly in women with a history of recurrent pregnancy loss. The excerpt cites several Cochrane reviews and meta-analyses evaluating its efficacy in this context.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between sperm DNA fragmentation and recurrent pregnancy loss?",
+        "answer": "The excerpt mentions a study indicating that sperm DNA fragmentation is increased in couples experiencing unexplained recurrent pregnancy loss, suggesting that male fertility factors may play a role in pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What infectious agents are associated with spontaneous abortions in the first trimester?",
+        "answer": "The excerpt references a study that investigates the presence of infectious agents in tissues from spontaneous abortions during the first trimester of pregnancy, highlighting the potential impact of infections on pregnancy loss.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of sperm deoxyribonucleic acid fragmentation in assisted reproductive technology?",
+        "answer": "Sperm deoxyribonucleic acid (DNA) fragmentation is considered a prognostic indicator of the outcome of assisted reproductive technology (ART). Higher levels of DNA fragmentation in sperm may be associated with lower success rates in ART procedures, such as in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between sperm chromosomal abnormalities and ICSI outcomes?",
+        "answer": "The incidence of sperm chromosomal abnormalities has been studied in relation to sperm quality and the outcomes of intracytoplasmic sperm injection (ICSI). Poor sperm quality, characterized by chromosomal abnormalities, can negatively impact the success rates of ICSI, leading to lower fertilization rates and poorer embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the emotional reactions to miscarriage and their management?",
+        "answer": "Emotional reactions to miscarriage can include grief, anxiety, and depression. Understanding these reactions is crucial for healthcare providers to offer appropriate support and management strategies to individuals experiencing miscarriage, which may include counseling and psychological support.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of anxiety after miscarriage on clinical practice?",
+        "answer": "Anxiety following a miscarriage can have significant implications for clinical practice. It is important for healthcare providers to recognize and address the psychological impact of miscarriage on patients, as this can affect their future reproductive choices and overall mental health. Providing adequate support and resources is essential for improving patient outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential causes of recurrent miscarriage according to the studies mentioned?",
+        "answer": "The studies mention several potential causes of recurrent miscarriage, including psychological factors such as depression, immunological factors, and unexplained reasons. Specific treatments discussed include immunotherapy and intravenous immunoglobulin for recurrent miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What treatments are suggested for recurrent miscarriage in the provided excerpt?",
+        "answer": "The excerpt suggests treatments such as immunotherapy and intravenous immunoglobulin for the treatment of recurrent miscarriage. It also references a placebo-controlled trial of intravenous immunoglobulin for unexplained secondary recurrent spontaneous abortions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the studies on recurrent miscarriage mentioned in the excerpt?",
+        "answer": "The studies highlight the importance of understanding the etiological factors and potential treatments for recurrent miscarriage, indicating that psychological and immunological factors may play a role in reproductive performance and outcomes in couples with a history of habitual abortion.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of intravenous immunoglobulin in treating recurrent miscarriage?",
+        "answer": "Intravenous immunoglobulin has been reviewed as a treatment option for unexplained recurrent miscarriage, suggesting it may have a therapeutic role in such cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does environmental tobacco smoke affect reproductive health?",
+        "answer": "Exposure to environmental tobacco smoke has been shown to have negative effects on reproductive health, potentially impacting fertility and pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does obesity increase the risk of miscarriage?",
+        "answer": "Obesity has been identified as a factor that may increase the risk of miscarriage in spontaneous conception, according to systematic reviews.",
+        "is_verified": 1
+    },
+    {
+        "question": "What substances are associated with an increased risk of spontaneous abortion?",
+        "answer": "Cocaine and tobacco use have been linked to an increased risk of spontaneous abortion, highlighting the importance of avoiding these substances during pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between moderate alcohol intake during pregnancy and spontaneous abortion?",
+        "answer": "Moderate alcohol intake during pregnancy has been associated with an increased risk of spontaneous abortion, indicating that alcohol consumption should be approached with caution during this period.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does maternal age affect fetal loss?",
+        "answer": "Maternal age has been shown to have a significant impact on fetal loss, with older maternal age being associated with higher rates of miscarriage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors contribute to the prognosis for live birth in women with recurrent miscarriage?",
+        "answer": "The prognosis for live birth in women with recurrent miscarriage can depend on various factors, including the definition of success used in studies and individual patient circumstances.",
+        "is_verified": 1
+    }
+]

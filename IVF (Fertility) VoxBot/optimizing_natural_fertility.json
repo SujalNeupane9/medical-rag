@@ -1,0 +1,862 @@
+[
+  {
+    "question": "What is the definition of fertility according to the excerpt?",
+    "answer": "Fertility is defined as the capacity to produce a child.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the likelihood of conception in the first few months of unprotected intercourse?",
+    "answer": "The likelihood of conception is generally highest in the first few months of unprotected intercourse and declines gradually thereafter.",
+    "is_verified": 1
+  },
+  {
+    "question": "What percentage of couples will conceive in the first 6 months of attempting pregnancy?",
+    "answer": "Approximately 80% of couples will conceive in the first 6 months of attempting pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is monthly fecundability?",
+    "answer": "Monthly fecundability is the probability of pregnancy per month, which is greatest in the first 3 months of attempting to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does age affect fertility in women?",
+    "answer": "Relative fertility is decreased by about half at age 40 compared with women in their late 20s and early 30s, which is the time of peak fertility. There is an age-related decline in the chances of pregnancy and live birth, with an increased risk of aneuploidy and miscarriage as maternal age increases.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is infertility defined as?",
+    "answer": "Infertility is defined as the failure to achieve a successful pregnancy after 12 months or more of regular unprotected vaginal intercourse. Earlier evaluation and treatment may be warranted after 6 months without conception for women aged 35 years and older due to the age-related decline in fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the fertile window?",
+    "answer": "The fertile window is best defined as the 6-day interval ending on the day of ovulation, during which the viability of both oocytes and sperm is maximal. Peak fecundability is observed when intercourse occurs within 2 days before ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does male fertility change with age?",
+    "answer": "Semen parameters in men decline detectably after 35 years of age, but male fertility does not appear to be appreciably affected before the age of approximately 50.",
+    "is_verified": 1
+  },
+  {
+    "question": "What happens to markers of ovarian reserve with age?",
+    "answer": "Markers of ovarian reserve decline with increasing age, but they are poor predictors of fecundity in noninfertile women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What methods are used to determine the likely time of ovulation?",
+    "answer": "The methods used include monitoring and analysis of urinary estrogen and progesterone metabolites.",
+    "is_verified": 1
+  },
+  {
+    "question": "When is the likelihood of pregnancy greatest in relation to ovulation?",
+    "answer": "The likelihood of pregnancy is greatest when intercourse occurs the day before ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the likelihood of conception change with intercourse timing relative to ovulation?",
+    "answer": "The likelihood of conception declines when intercourse occurs on the day of ovulation compared to the day before ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of describing menstrual cycles as 'generally regular'?",
+    "answer": "Among women who describe their menstrual cycles as 'generally regular,' the likelihood of conception is affected by the timing of intercourse in relation to ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the probability of clinical pregnancy on cycle days 8, 12, and 21?",
+    "answer": "The probability of clinical pregnancy increases from 3.2% on cycle day 8 to 9.4% on cycle day 12 and decreases to less than 2% on cycle day 21.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does age affect the likelihood of success in achieving pregnancy?",
+    "answer": "Although it is thought that age does not affect the length or timing of the fertile window in relationship to ovulation, the likelihood of success decreases with increasing age.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of abstinence intervals on sperm counts?",
+    "answer": "Abstinence intervals greater than 5 days may adversely affect sperm counts, while abstinence intervals as short as 2 days are associated with normal sperm densities.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does frequent ejaculation affect male fertility?",
+    "answer": "A widely held misconception is that frequent ejaculations decrease male fertility. However, a study observed that in men with normal semen quality, sperm concentrations and motility remained normal, even with daily ejaculation. In men with oligozoospermia, sperm concentration and motility may be highest with daily ejaculation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What happens to semen parameters after longer abstinence intervals?",
+    "answer": "After longer abstinence intervals of 10 days or more, semen parameters begin to deteriorate.",
+    "is_verified": 1
+  },
+  {
+    "question": "Do abstinence intervals affect sperm morphology?",
+    "answer": "Abstinence intervals generally do not appear to affect sperm morphology, as judged by 'strict' criteria.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the probability of pregnancy related to a woman's age and cycle day?",
+    "answer": "The excerpt mentions a figure that illustrates the probability of pregnancy resulting from recurrent intercourse by a woman's age and cycle day, based on data from Stanford and Dunson.",
+    "is_verified": 1
+  },
+  {
+    "question": "Who published the guidelines on reproductive endocrinology and infertility?",
+    "answer": "The guidelines were published by the Practice Committee of the American Society for Reproductive Medicine and the Society for Reproductive Endocrinology and Infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between frequency of intercourse and fertility?",
+    "answer": "Evidence suggests that reproductive efficiency increases with the frequency of intercourse, being highest when intercourse occurs every 1 to 2 days during the fertile window. Intercourse more frequently than every 1 to 2 days is not associated with lower fecundity, and couples should not limit the frequency of intercourse when trying to achieve pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are fertility-tracking methods mentioned in the excerpt?",
+    "answer": "Fertility-tracking methods include the calendar method (with or without the assistance of a smartphone app), cervical mucus monitoring, ovulation detection devices, and basal body temperature tracking. These methods help determine the fertile window and appropriately time intercourse, which is associated with an increased probability of conceiving in an ovulatory cycle.",
+    "is_verified": 1
+  },
+  {
+    "question": "How is the fertile window determined using the calendar method?",
+    "answer": "The calendar method is based on the length of the menstrual cycle. For all women, the length of the luteal phase is presumed to be approximately 14 days. The day of ovulation is set at cycle day 14 for a woman with a 28-day cycle, day 16 for a woman with a 30-day cycle, etc. The fertile window is set as the presumed day of ovulation and the 5 days prior to ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of urinary luteinizing hormone (LH) testing in predicting ovulation?",
+    "answer": "Urinary luteinizing hormone (LH) testing is used to determine the day of ovulation by monitoring the excretion of LH in urine. Studies have shown that these tests can accurately detect the midcycle LH surge, which indicates that ovulation is likely to occur within the next two days. However, false-positive results can occur in approximately 7% of cycles, and the overall accuracy of predicting ovulation using calendar apps in conjunction with LH testing has been found to be low, with a maximum accuracy of only 21%.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do ovulation detection devices work?",
+    "answer": "Ovulation detection devices work by monitoring urinary LH excretion to determine the day of ovulation. Some devices also measure urinary estrone glucuronide levels to identify other days within the fertile window, specifically days of 'high' fertility that are not peak fertility. These devices have been validated in numerous studies for their accuracy in detecting the LH surge, which is critical for predicting ovulation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of cervical mucus in ovulation detection?",
+    "answer": "The quality of cervical mucus, as observed through vaginal secretions, serves as an inexpensive and private indicator of when ovulation may be expected. Changes in cervical mucus characteristics can provide insights into a woman's fertile window and the probability of conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between cervical mucus and ovulation?",
+    "answer": "Cervical mucus volume increases with plasma estrogen concentrations over the 5 to 6 days preceding ovulation, reaching its peak within 2 to 3 days before ovulation. The probability of conception is highest when the mucus is slippery and clear, particularly on the day of peak mucus (day 0).",
+    "is_verified": 1
+  },
+  {
+    "question": "How does cervical mucus monitoring affect conception rates?",
+    "answer": "Cervical mucus monitoring in retrospective cohort studies is associated with a higher probability of conceiving in a given cycle. Studies have shown that changes in cervical mucus characteristics can predict the time of peak fertility more accurately than a menstrual calendar, and they can predict the day-specific probability of conception as well as or better than basal body temperature or urinary LH monitoring.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the findings of studies regarding the timing of intercourse and conception rates?",
+    "answer": "A retrospective cohort study found that pregnancy rates were highest (approximately 38%) when intercourse occurred on the day of peak mucus (day 0) and lower (approximately 15% to 20%) on the day before or the day after the peak. A prospective study also confirmed that changes in cervical mucus characteristics correlate closely with basal body temperature and can predict peak fertility accurately.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between coital position and fecundability?",
+    "answer": "There is no evidence that coital position affects fecundability. Sperm can be found in the cervical canal seconds after ejaculation, regardless of coital position.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does female orgasm relate to sperm transport and fertility?",
+    "answer": "Although female orgasm may promote sperm transport, there is no known relationship between orgasm and fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the timing of sperm transport to the fallopian tubes after intercourse?",
+    "answer": "Sperm deposited at the cervix at midcycle are found in the fallopian tubes within 15 minutes. Studies have shown that particles placed in the posterior vaginal fornix can be transported into the fallopian tubes within as little as 2 minutes during the follicular phase.",
+    "is_verified": 1
+  },
+  {
+    "question": "Do postcoital routines affect sperm transport?",
+    "answer": "Many women believe that remaining supine after intercourse facilitates sperm transport and prevents leakage of semen, but this belief has no scientific foundation.",
+    "is_verified": 1
+  },
+  {
+    "question": "What factors influence the transport of particles to the fallopian tubes?",
+    "answer": "The number of transported particles increased with the size of the dominant follicle and after administration of oxytocin, which simulates the increase in oxytocin observed in women during intercourse and orgasm.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do vaginal lubricants affect sperm motility?",
+    "answer": "Some vaginal lubricants may decrease fertility based on their observed effects on sperm survival in vitro. Commercially available water-based lubricants can inhibit sperm motility by 60% to 100% within 60 minutes of incubation. In contrast, canola oil does not have a detrimental effect on sperm motility. Other lubricants, such as olive oil and saliva diluted to low concentrations, adversely affect sperm motility and velocity, while mineral oil and hydroxyethylcellulose-based lubricants do not negatively impact semen parameters. Despite some lubricants adversely affecting sperm parameters in vitro, their use in couples attempting conception does not affect cycle fecundability compared to nonuse.",
+    "is_verified": 1
+  },
+  {
+    "question": "What dietary factors are associated with fertility?",
+    "answer": "Fertility rates are decreased in women who are either very thin or obese. Elevated blood mercury levels from heavy seafood consumption have been associated with infertility. Women attempting to conceive should take a folic acid supplement (at least 400 mg daily) to reduce the risk of neural tube defects. Additionally, adherence to a 'fertility diet' that encourages higher consumption of monounsaturated fats, vegetable proteins, low-glycemic carbohydrates, high-fat dairy, multivitamins, and iron from plants and supplements has been associated with a lower risk of infertility related to ovulatory dysfunction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between diet and outcomes in women utilizing assisted reproductive technologies (ART)?",
+    "answer": "Studies have evaluated the impact of diet on outcomes for women using ART. For instance, adherence to a 'fertility diet' in the Nurses' Health Study II was not linked to pregnancy or live birth rates in women undergoing ART. However, another study indicated that women with higher adherence to a 'pro-fertility diet' (which included higher intakes of folic acid, vitamin B12, vitamin D, low-pesticide produce, whole grains, dairy, soy foods, and seafood) had an increased probability of live birth when utilizing ART. Additionally, adherence to the Mediterranean diet and the Dutch diet was associated with higher rates of positive pregnancy tests, ongoing clinical pregnancy, and live births following in vitro fertilization, although some studies found no significant associations between diet adherence and these outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "What dietary components are associated with reproductive outcomes after ART?",
+    "answer": "The excerpt discusses various dietary patterns and their association with reproductive outcomes after assisted reproductive technology (ART). It mentions the alternative health eating index 2010 diet, which includes high intakes of fruits, vegetables, whole grains, fish, and legumes, and low intakes of mayonnaise, snacks, and meat products. It also references diets high in seafood and vegetables, as well as the 'Western' diet characterized by high intakes of oil, meat, and chicken. Additionally, it highlights the importance of individual micronutrients and macronutrients such as multivitamins, folic acid, long-chain omega-3 fatty acids, full-fat dairy, whole grains, vegetables, and fish.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of soy isoflavones on fertility?",
+    "answer": "Soy isoflavones may have beneficial effects on fertility, although more studies are needed to confirm this.",
+    "is_verified": 1
+  },
+  {
+    "question": "What dietary factors negatively impact fertility?",
+    "answer": "Trans fatty acids, meat, carbohydrates, and glycemic load have been reported to negatively impact fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does smoking affect fertility in women?",
+    "answer": "Smoking has substantial adverse effects on fertility, with studies showing that smoking women are significantly more likely to be infertile and that menopause occurs earlier in smoking women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between smoking and miscarriage?",
+    "answer": "Smoking is associated with an increased risk of miscarriage in both naturally conceived pregnancies and those resulting from assisted reproductive technology (ART).",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of smoking on male fertility?",
+    "answer": "While decreases in sperm density and motility and abnormalities in sperm morphology have been observed in men who smoke, the data do not conclusively demonstrate that smoking decreases male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of alcohol on female fertility according to studies?",
+    "answer": "Some studies suggest that alcohol has a detrimental effect on female fertility, with a cohort study indicating that women who consumed two alcoholic drinks per day had a significantly increased risk of infertility (RR, 1.59; 95% CI, 1.09–2.31). In contrast, other data suggested that women who drank wine had a shorter time to conception compared to those who consumed no alcohol. However, higher levels of alcohol consumption (more than two drinks per day) are advised against when attempting pregnancy, and alcohol should be completely avoided during pregnancy due to its detrimental effects on fetal development.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does chronic alcohol dependence affect male fertility?",
+    "answer": "Chronic alcohol dependence in males has been associated with lower sperm counts, reduced sperm motility, poorer sperm morphology scores, decreased seminal fluid volume, and lower serum testosterone levels. Additionally, partners of men with heavy alcohol consumption experienced a longer time to pregnancy compared to partners of mild drinkers and nondrinkers, indicating a negative impact on male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of moderate alcohol consumption on male fertility?",
+    "answer": "There is a lack of evidence for any effect of moderate alcohol consumption on male fertility. However, alcohol abuse is associated with an increased risk of sexual dysfunction in both males and females, including ejaculatory dysfunction, premature ejaculation, decreased sexual desire, dyspareunia, and vaginal dryness.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does caffeine consumption affect fertility and pregnancy outcomes?",
+    "answer": "High levels of caffeine consumption (over 500 mg or more than 5 cups of coffee per day) have been associated with decreased fertility. During pregnancy, caffeine consumption over 200 to 300 mg per day may increase the risk of miscarriage but does not affect the risk of congenital anomalies. Moderate caffeine consumption (1-2 cups of coffee per day) before or during pregnancy has no apparent adverse effects on fertility or pregnancy outcomes, and caffeine consumption has no effect on semen parameters in men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of cannabis use on fertility?",
+    "answer": "Cannabis use has been associated with an increased prevalence of infertility in ovulatory women, with a relative risk of 1.7. Men who smoke cannabis have been reported to have 29% lower sperm counts compared to men who have never smoked cannabis, and there is a dose-dependent effect of cannabis on sperm counts. Cannabinoid agonists can inhibit sperm motility and acrosomal reactions necessary for fertilization. However, some studies have shown no association between cannabis use and time to pregnancy. The American College of Obstetricians and Gynecologists recommends that women who are pregnant or may become pregnant should discontinue cannabis use due to potential adverse effects.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of impaired fetal neurodevelopment?",
+    "answer": "Impaired fetal neurodevelopment can lead to various developmental disorders and cognitive impairments in the child, affecting their ability to learn, communicate, and interact socially. It may also increase the risk of neurodevelopmental conditions such as autism spectrum disorders, attention deficit hyperactivity disorder (ADHD), and other learning disabilities.",
+    "is_verified": 1
+  },
+  {
+    "question": "How can recreational drug use by men and women desiring pregnancy affect fertility?",
+    "answer": "The use of recreational drugs can negatively impact fertility in both men and women. In women, it can disrupt hormonal balance, affect ovulation, and harm the developing fetus. In men, it can lead to reduced sperm quality and count, affecting the chances of conception. Additionally, drug use during pregnancy can result in serious health issues for the fetus, including impaired neurodevelopment.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are endocrine-disrupting chemicals and how do they affect fertility?",
+    "answer": "Endocrine-disrupting chemicals are exogenous compounds that interfere with hormonal and homeostatic systems in organisms, potentially leading to adverse health effects. They are found in various environmental sources such as food, water, air, and consumer products. Evidence suggests that these chemicals may contribute to reduced fertility in both men and women, although studies show mixed results regarding their specific impact on time to pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the evidence regarding the impact of persistent organic pollutants on fertility?",
+    "answer": "A systematic review of 28 articles indicated a high level of evidence supporting adverse effects of female exposure to polychlorinated biphenyls on time to pregnancy. There was also weak evidence for the adverse effects of female exposure to polybrominated diphenyl ethers and certain per- and polyfluoroalkyl substances on time to pregnancy. However, there was little support for associations between female exposure to organochlorine pesticides and time to pregnancy, and insufficient studies on male exposure to persistent organic pollutants to draw conclusions.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does air pollution affect fertility?",
+    "answer": "Higher exposure to ambient air pollution has been linked to lower fertility rates in various regions, including Europe, the United States, and China. This growing concern highlights the potential adverse effects of environmental factors on reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between living near major roadways and fertility?",
+    "answer": "Couples who live closer to major roadways have a higher risk of infertility and longer time to pregnancy compared to those who live farther away. Women with higher preconception and early pregnancy exposure to nitrogen dioxides and fine particulate matter have decreased fecundability and a higher risk of miscarriage than those with lower exposure.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does air pollution affect sperm parameters?",
+    "answer": "Increased air pollution exposure has been linked to impaired semen parameters, including higher sperm DNA fragmentation and aneuploidy, lower sperm morphology and motility, and altered reproductive hormone levels.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of age on pregnancy and miscarriage risk?",
+    "answer": "The chances of pregnancy and live birth for women significantly decrease after age 35, as the risks of aneuploidy and miscarriage increase.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the fertile window and its significance for conception?",
+    "answer": "The fertile window spans the 6-day interval ending on the day of ovulation. Frequent intercourse (every 1-2 days) during this window yields the highest pregnancy rates, and couples should not limit the frequency of intercourse when trying to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "What methods can increase the probability of conceiving?",
+    "answer": "Fertility-awareness methods, such as ovulation detection kits and cervical mucus monitoring, have been shown to increase the probability of conceiving in a given menstrual cycle.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of daily folic acid supplementation in women?",
+    "answer": "Daily folic acid supplementation in women decreases the risk of neural tube defects in their children.",
+    "is_verified": 1
+  },
+  {
+    "question": "What lifestyle factors can impact fertility?",
+    "answer": "Alcohol abuse, recreational drugs, and smoking can negatively impact fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does caffeine intake affect fertility?",
+    "answer": "Caffeine intake may negatively impact fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What chemicals are associated with adverse effects on fertility?",
+    "answer": "Higher exposure to certain endocrine-disrupting chemicals, such as polychlorinated biphenyls, and to air pollution may adversely impact fertility in women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should women over 35 do if they have been unsuccessful in conceiving for 6 months?",
+    "answer": "Women over 35 should consider consultation with a reproductive specialist after 6 months of unsuccessful efforts to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "How can couples maximize fecundability during the fertile window?",
+    "answer": "Intercourse every 1 to 2 days during the fertile window can help maximize fecundability.",
+    "is_verified": 1
+  },
+  {
+    "question": "What methods can help couples who are unable to have regular frequent intercourse?",
+    "answer": "Fertility-awareness methods may help time frequent intercourse to the fertile window and decrease time to pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What substances should be discouraged for those attempting pregnancy?",
+    "answer": "Smoking and recreational drugs should be discouraged in men and women attempting pregnancy. Alcohol and caffeine use should be limited to minimal to moderate use while trying to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "What supplement should women wishing to become pregnant take?",
+    "answer": "Women wishing to become pregnant should take a daily folic acid supplement (400mg).",
+    "is_verified": 1
+  },
+  {
+    "question": "What lifestyle changes should be encouraged for those attempting to achieve pregnancy?",
+    "answer": "A healthy lifestyle and diet should be encouraged in men and women attempting to achieve pregnancy for their effects on general health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What should reproductive-aged men and women limit their exposure to?",
+    "answer": "Reproductive-aged men and women should be encouraged to limit their exposure to endocrine-disrupting chemicals in food, air, water, and personal care products, and to air pollution.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of the ASRM and SART in the context of this document?",
+    "answer": "The ASRM (American Society for Reproductive Medicine) and SART (Society for Assisted Reproductive Technology) have approved the report and contributed to its development through their Practice Committees and Boards of Directors, ensuring that the document reflects the needs of individual patients and available resources in clinical practice.",
+    "is_verified": 1
+  },
+  {
+    "question": "Who are some of the medical professionals involved in the preparation of this document?",
+    "answer": "The document involved contributions from various medical professionals including Alan Penzias, M.D., Ricardo Azziz, M.D., M.P.H., M.B.A., Kristin Bendikson, M.D., Tommaso Falcone, M.D., and many others who are members of the ASRM Practice Committee.",
+    "is_verified": 1
+  },
+  {
+    "question": "What kind of relationships did the Committee members disclose?",
+    "answer": "Committee members disclosed commercial and financial relationships with manufacturers or distributors of goods or services used to treat patients, and those with conflicts of interest did not participate in the discussion or development of the document.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of the references listed at the end of the excerpt?",
+    "answer": "The references provide evidence and support for the findings and recommendations made in the document, including studies on urinary hormone measurements and their relation to fertility, which are relevant to reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of female age on fecundity?",
+    "answer": "The impact of female age on fecundity is significant, as older reproductive age cohorts experience decreased fecundity. Studies have shown that age affects fertility rates, with increased infertility observed in both men and women as they age.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of anti-müllerian hormone in fertility?",
+    "answer": "Anti-müllerian hormone (AMH) is used as a biomarker for ovarian reserve and can provide insights into a woman's fertility potential, even in those not actively seeking fertility care.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the definitions of infertility and recurrent pregnancy loss?",
+    "answer": "Infertility is defined as the inability to conceive after one year of unprotected intercourse, while recurrent pregnancy loss refers to the occurrence of two or more consecutive pregnancy losses. These definitions are important for clinical management and treatment options.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does smoking affect fertility?",
+    "answer": "Cigarette smoking has been shown to negatively impact fertility, contributing to decreased fecundability in both men and women, as evidenced by findings in large prospective studies.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of age on the management of infertility?",
+    "answer": "The implications of age on the management of infertility include the need for tailored treatment approaches, as older women may require different interventions compared to younger women due to decreased fertility rates associated with aging.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between sexual intercourse timing and conception probability?",
+    "answer": "The timing of sexual intercourse in relation to ovulation significantly affects the probability of conception, the survival of the pregnancy, and even the sex of the baby, as discussed in the study by Wilcox et al. (1995).",
+    "is_verified": 1
+  },
+  {
+    "question": "How do day-specific probabilities of clinical pregnancy relate to ovulation?",
+    "answer": "Dunson et al. (1999) analyzed day-specific probabilities of clinical pregnancy based on studies with imperfect measures of ovulation, providing insights into the likelihood of conception on specific days of the menstrual cycle.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the likelihood of conception with a single act of intercourse?",
+    "answer": "Wilcox et al. (2001) provided benchmark rates for the likelihood of conception with a single act of intercourse, which can be used for assessing the effectiveness of post-coital contraceptives.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the duration of sexual abstinence affect sperm motility?",
+    "answer": "Elzanaty et al. (2005) studied the duration of sexual abstinence and its impact on epididymal and accessory sex gland secretions, finding a relationship between these factors and sperm motility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between sexual abstinence duration and semen quality?",
+    "answer": "Levitas et al. (2005) analyzed 9,489 semen samples and found a significant relationship between the duration of sexual abstinence and semen quality, indicating that longer abstinence may affect semen parameters.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the time interval between ejaculations influence semen parameters?",
+    "answer": "Check et al. (1995) investigated the effect of the time interval between ejaculations on semen parameters, concluding that this interval can significantly impact semen quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is fecundability in relation to fertility awareness indicators?",
+    "answer": "Stanford et al. (2019) studied fecundability in relation to the use of fertility awareness indicators in a North American preconception cohort, providing insights into how these indicators can affect the chances of conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "How accurate are apps and calendar methods in predicting the fertile window?",
+    "answer": "Setton et al. (2016) evaluated the accuracy of websites and mobile applications in predicting the fertile window, highlighting the importance of reliable tools for fertility tracking.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of urinary human chorionic gonadotrophin (hCG) levels following conception?",
+    "answer": "The levels of urinary human chorionic gonadotrophin (hCG) following conception can indicate pregnancy and are associated with variability in menstrual cycle length in women attempting to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the length of the fertile window affect the chances of conception in subfertile couples?",
+    "answer": "The length of the fertile window is positively associated with the chance of spontaneously conceiving an ongoing pregnancy in subfertile couples, meaning that a longer fertile window increases the likelihood of conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the usefulness of a urinary LH kit for ovulation prediction?",
+    "answer": "A urinary LH kit is useful for predicting ovulation during menstrual cycles of normal women, helping them identify the optimal time for conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between the urine LH surge and ovulation?",
+    "answer": "The temporal relation between the urine LH surge and sonographic evidence of ovulation is significant, as it helps determine the timing of ovulation and its clinical significance in fertility assessments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of false-positive home urine luteinizing hormone testing?",
+    "answer": "The absence of secretory endometrium after false-positive home urine luteinizing hormone testing indicates potential issues in the ovulation process and may affect fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the Clearblue Easy fertility monitor affect pregnancy rates?",
+    "answer": "The use of the Clearblue Easy fertility monitor has been associated with an increased pregnancy rate, suggesting it may be an effective tool for couples trying to conceive.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do cervical mucus secretions play in identifying fertile days?",
+    "answer": "Cervical mucus secretions on the day of intercourse serve as an accurate marker of highly fertile days, aiding couples in timing intercourse for conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What evidence exists regarding timing intercourse to achieve pregnancy?",
+    "answer": "Current evidence suggests that timing intercourse based on ovulation predictions can significantly enhance the chances of achieving pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do vulvar mucus observations relate to the probability of pregnancy?",
+    "answer": "Vulvar mucus observations can provide insights into the probability of pregnancy, as they are indicators of fertility during the menstrual cycle.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effectiveness of the TwoDay Algorithm in predicting pregnancy?",
+    "answer": "The TwoDay Algorithm is effective in relating cervical secretions to daily probabilities of pregnancy, helping couples optimize their chances of conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the prevalence of cervical mucus monitoring among women trying to conceive?",
+    "answer": "Cervical mucus monitoring is a prevalent practice among women attempting to conceive, as it helps them identify fertile days and improve their chances of pregnancy.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is fecundability in women trying to conceive?",
+    "answer": "Fecundability refers to the biological ability of a woman to conceive within a given menstrual cycle. It is a measure of fertility and is influenced by various factors including age, health, and timing of intercourse.",
+    "is_verified": 1
+  },
+  {
+    "question": "What role do mucus observations play in predicting conception?",
+    "answer": "Mucus observations during the fertile window can serve as a better predictor of conception compared to just timing of intercourse. This is because changes in cervical mucus can indicate ovulation and the optimal time for conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does stress affect male infertility?",
+    "answer": "Stress can lead to sexual dysfunctions and negatively impact male fertility by affecting hormone levels, sperm production, and overall reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of sperm transport from the external cervical os to the fallopian tubes?",
+    "answer": "The study of sperm transport from the external cervical os to the fallopian tubes is significant as it helps understand the timing and quantity of sperm that reach the site of fertilization, which is crucial for conception.",
+    "is_verified": 1
+  },
+  {
+    "question": "What evidence supports the dynamics of rapid sperm transport through the female genital tract?",
+    "answer": "Evidence from vaginal sonography of uterine peristalsis and hysterosalpingoscintigraphy supports the dynamics of rapid sperm transport, showing how sperm moves through the female reproductive tract after intercourse.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of vaginal lubricants on sperm activity?",
+    "answer": "Vaginal lubricants can affect sperm activity by influencing sperm motility and viability, which is important for couples trying to conceive. Some studies have shown that certain lubricants may hinder sperm function.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does saliva affect sperm motility and activity?",
+    "answer": "Saliva has been shown to have an effect on sperm motility and activity, which can impact the chances of conception when present during intercourse.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of vaginal lubricants on sperm motility and chromatin integrity?",
+    "answer": "Vaginal lubricants can have varying effects on sperm motility and chromatin integrity, which are important factors for successful fertilization and embryo development.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of lubricant use during intercourse on time to pregnancy?",
+    "answer": "A prospective cohort study indicated that lubricant use during intercourse may affect time to pregnancy, suggesting that certain lubricants could potentially hinder fertility efforts.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does weight loss in obese infertile women affect reproductive outcomes?",
+    "answer": "Weight loss in obese infertile women has been shown to improve reproductive outcomes across all forms of fertility treatment, indicating the importance of maintaining a healthy weight for fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between blood mercury concentrations, dietary seafood consumption, and infertility?",
+    "answer": "A case-control study found a link between infertility and blood mercury concentrations, as well as dietary seafood consumption, suggesting that high mercury levels may negatively impact fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of periconceptional supplementation with folate and multivitamins?",
+    "answer": "Periconceptional supplementation with folate and/or multivitamins has been shown to prevent neural tube defects, highlighting the importance of these supplements in preconception care.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do diet and lifestyle affect ovulatory disorder infertility?",
+    "answer": "Diet and lifestyle choices play a significant role in the prevention of ovulatory disorder infertility, emphasizing the need for healthy habits to support reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What dietary patterns are associated with outcomes of assisted reproduction?",
+    "answer": "Certain dietary patterns have been linked to improved outcomes in assisted reproduction, suggesting that nutrition can influence fertility treatment success.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does supplemental folate relate to traffic-related air pollution and live birth rates?",
+    "answer": "Research indicates that supplemental folate may mitigate the negative effects of traffic-related air pollution on live birth rates among women undergoing assisted reproduction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does the Mediterranean dietary pattern have on IVF success rates?",
+    "answer": "Adherence to the Mediterranean dietary pattern has been associated with increased chances of pregnancy in couples undergoing in vitro fertilization/intracytoplasmic sperm injection treatment.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does adherence to the Mediterranean diet impact IVF success rates among non-obese women?",
+    "answer": "A study found that adherence to the Mediterranean diet positively influences IVF success rates among non-obese women attempting to conceive, indicating the diet's potential benefits for fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between the preconception diet and ongoing pregnancy in women undergoing IVF/ICSI treatment?",
+    "answer": "The preconception diet is associated with the chance of ongoing pregnancy in women undergoing IVF/ICSI treatment, as indicated by a study published in Human Reproduction in 2012.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does the Mediterranean diet affect embryo yield in IVF?",
+    "answer": "A prospective cohort study published in Reproductive Biology and Endocrinology in 2019 found that the Mediterranean diet improves embryo yield in IVF.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the outcomes of assisted reproduction related to the Mediterranean diet?",
+    "answer": "An Italian cohort study published in the American Journal of Obstetrics and Gynecology in 2019 examined the Mediterranean diet and its outcomes on assisted reproduction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between dietary patterns and IVF outcomes among Japanese women?",
+    "answer": "A study published in Reproductive Medicine and Biology in 2018 found a lack of a meaningful association between dietary patterns and in vitro fertilization outcomes among Japanese women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the significance of cholesterol levels in young men and women planning conception?",
+    "answer": "A study published in Hungarian Medical Journal in 1996 discussed cholesterol levels in young men and women who are planning conception, indicating its potential relevance to reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do multivitamins and B vitamins intake relate to ovulatory infertility?",
+    "answer": "Research published in Fertility and Sterility in 2008 explored the use of multivitamins and intake of B vitamins and their association with the risk of ovulatory infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of dietary folate intake on reproductive function in premenopausal women?",
+    "answer": "A prospective cohort study published in PLoS One in 2012 investigated the impact of dietary folate intake on reproductive function in premenopausal women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the Danish prospective cohort study reveal about folic acid supplementation and fecundability?",
+    "answer": "The study published in the European Journal of Clinical Nutrition in 2016 found a relationship between folic acid supplementation and fecundability.",
+    "is_verified": 1
+  },
+  {
+    "question": "What effect does homocysteine concentration in follicular fluid have on oocyte maturity?",
+    "answer": "A study published in Ginekologia Polska in 2003 examined the effect of homocysteine concentration in follicular fluid on the degree of oocyte maturity.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between maternal prepregnancy folate intake and the risk of spontaneous abortion?",
+    "answer": "Research indicated that maternal prepregnancy folate intake is associated with the risk of spontaneous abortion, although the excerpt does not provide further details on the findings.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the role of periconceptional folic acid in preventing miscarriage?",
+    "answer": "Periconceptional folic acid has been shown to prevent miscarriage in Irish families with neural tube defects, according to a study published in the Irish Journal of Medical Science.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does dietary folate affect reproductive success in women undergoing assisted reproduction?",
+    "answer": "A study published in Obstetrics and Gynecology found that dietary folate is associated with reproductive success among women undergoing assisted reproduction treatments.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between dietary fat intake and reproductive hormone concentrations?",
+    "answer": "Research published in the American Journal of Clinical Nutrition indicates that dietary fat intake is linked to reproductive hormone concentrations and ovulation in regularly menstruating women.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact do serum omega-3 fatty acids have on treatment outcomes in assisted reproduction?",
+    "answer": "A study in Human Reproduction found that serum omega-3 fatty acids are associated with treatment outcomes among women undergoing assisted reproduction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of fatty acids on ICSI outcomes?",
+    "answer": "A prospective cohort study published in Lipids in Health and Disease examined the role of fatty acids on outcomes of intracytoplasmic sperm injection (ICSI).",
+    "is_verified": 1
+  },
+  {
+    "question": "How does dairy intake relate to in vitro fertilization outcomes?",
+    "answer": "Research published in Human Reproduction found that dairy intake is related to in vitro fertilization outcomes among women from a fertility clinic.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between dairy foods intake and anovulatory infertility?",
+    "answer": "A prospective study published in Human Reproduction indicated that there is a relationship between dairy foods intake and anovulatory infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the risk factors for female infertility in agricultural regions?",
+    "answer": "A study published in Epidemiology identified various risk factors for female infertility in agricultural regions.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does dietary fat intake affect fecundability?",
+    "answer": "Two preconception cohort studies published in the American Journal of Epidemiology found that dietary fat intake is associated with fecundability.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of maternal whole grain intake on in vitro fertilization outcomes?",
+    "answer": "Research published in Fertility and Sterility found that maternal whole grain intake is associated with outcomes of in vitro fertilization.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does protein intake relate to ovulatory infertility?",
+    "answer": "A study published in the American Journal of Obstetrics and Gynecology found that protein intake is associated with ovulatory infertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between seafood intake and time to pregnancy?",
+    "answer": "The study by Gaskins et al. (2018) investigates the impact of seafood intake on sexual activity and time to pregnancy, suggesting that dietary factors may influence reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does soy isoflavone intake affect the likelihood of becoming a mother?",
+    "answer": "The research conducted by Jacobsen et al. (2014) examines the association between soy isoflavone intake and the likelihood of ever becoming a mother, indicating potential dietary influences on fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of phytoestrogens on clomiphene induction in unexplained infertility patients?",
+    "answer": "Adding phytoestrogens to clomiphene induction can potentially enhance the treatment outcomes for patients with unexplained infertility, as indicated by a randomized trial.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do high doses of phytoestrogens affect the endometrium in patients undergoing intrauterine insemination?",
+    "answer": "High doses of phytoestrogens can reverse the antiestrogenic effects of clomiphene citrate on the endometrium, which may improve the chances of successful intrauterine insemination, according to a randomized trial.",
+    "is_verified": 1
+  },
+  {
+    "question": "What impact do phytoestrogens have on pregnancy rates in in vitro fertilization-embryo transfer cycles?",
+    "answer": "Phytoestrogens may improve the pregnancy rate in in vitro fertilization-embryo transfer cycles, as shown in a controlled, randomized trial.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between soy food intake and treatment outcomes in women undergoing assisted reproductive technology?",
+    "answer": "Soy food intake has been studied for its effects on treatment outcomes in women undergoing assisted reproductive technology, suggesting a potential influence on fertility outcomes.",
+    "is_verified": 1
+  },
+  {
+    "question": "How do dietary carbohydrate quantity and quality relate to the risk of ovulatory infertility?",
+    "answer": "A prospective study indicates that dietary carbohydrate quantity and quality may be related to the risk of ovulatory infertility, highlighting the importance of diet in reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of smoking on female infertility?",
+    "answer": "Smoking has been shown to negatively impact female infertility, as evidenced by a systematic review and meta-analysis that highlights its detrimental effects on reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does smoking affect oogenesis, fertilization, and implantation?",
+    "answer": "Smoking adversely affects oogenesis, fertilization, and implantation, which are critical processes in female fertility, according to research findings.",
+    "is_verified": 1
+  },
+  {
+    "question": "What lifestyle factors are associated with ovarian non-growing follicle count in reproductive age women?",
+    "answer": "Certain lifestyle factors have been associated with histologically derived human ovarian non-growing follicle count in reproductive age women, indicating their potential impact on fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of cocaine and tobacco use on pregnancy?",
+    "answer": "Cocaine and tobacco use are associated with an increased risk of spontaneous abortion, as indicated by the study published in the New England Journal of Medicine in 1999.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does smoking affect reproduction?",
+    "answer": "Smoking has been shown to cause gene damage to human gametes and embryos, negatively impacting reproduction, as discussed in the Human Reproduction Update in 2000.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the modifiable and non-modifiable risk factors for poor semen quality?",
+    "answer": "A case-referent study published in Human Reproduction in 2012 identified various modifiable and non-modifiable risk factors that can lead to poor semen quality.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of alcohol consumption on female fertility?",
+    "answer": "Research indicates that alcohol consumption negatively affects female fertility, with a study in Fertility and Sterility in 2004 showing effects over an 18-year period.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does moderate alcohol consumption affect fertility?",
+    "answer": "A follow-up study published in the British Medical Journal in 1998 examined the effects of moderate alcohol consumption on fertility among couples planning their first pregnancy, suggesting potential negative impacts.",
+    "is_verified": 1
+  },
+  {
+    "question": "What lifestyle factors are associated with reduced fecundity?",
+    "answer": "Negative lifestyle factors, including alcohol and drug use, are associated with a significant reduction in fecundity, as reported in Fertility and Sterility in 2004.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between alcohol use and infertility in Danish women?",
+    "answer": "A study published in Acta Obstetricia et Gynecologica Scandinavica in 2003 found that alcohol use is a predictor for infertility among a representative population of Danish women.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does alcohol and drug use affect sexual response?",
+    "answer": "The human sexual response can be significantly affected by alcohol and drugs, as discussed in the Journal of Substance Abuse Treatment in 1988.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between sexual dysfunction and substance dependence?",
+    "answer": "A study in the Indian Journal of Psychological Medicine in 2014 found that patients with alcohol and opioid dependence often experience sexual dysfunction.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between caffeine intake and fertility according to the studies mentioned?",
+    "answer": "Caffeine intake has been associated with delayed conception and decreased fertility. A European multicenter study indicated that caffeine consumption may negatively impact fertility and subfecundity. Additionally, a review highlighted maternal caffeine consumption as a potential risk factor for spontaneous abortion.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does marijuana use affect male reproductive health?",
+    "answer": "Chronic marijuana use has been linked to depression of plasma testosterone levels. Studies have shown associations between marijuana use and alterations in male reproductive hormones and semen quality. A systematic review indicated that cannabis may negatively affect male fertility, and research has demonstrated that human sperm express cannabinoid receptors, which can inhibit motility and other sperm functions.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the implications of the endocannabinoid system in sperm function?",
+    "answer": "The endocannabinoid system has been characterized in spermatozoa, with evidence suggesting that its signaling regulates sperm functions such as motility and the acrosome reaction. Activation of cannabinoid receptors in sperm can inhibit these functions, which may have implications for male fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are the effects of delta-9-tetrahydrocannabinol on human sperm function?",
+    "answer": "Delta-9-tetrahydrocannabinol, the primary psychoactive cannabinoid in marijuana, has been shown to affect human sperm function in vitro, as indicated by the study published in Fertil Steril 2006.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between marijuana use and time to pregnancy?",
+    "answer": "The study published in Fertil Steril 2018 found an association between the use of marijuana and time to pregnancy in both men and women, based on findings from the National Survey of Family Growth.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does marijuana use affect fecundability?",
+    "answer": "A North American preconception cohort study published in J Epidemiol Community Health 2018 examined the effects of marijuana use on fecundability, indicating potential implications for fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "What does the American College of Obstetricians and Gynecologists say about marijuana use during pregnancy?",
+    "answer": "The Committee Opinion No. 722 published by the American College of Obstetricians and Gynecologists discusses marijuana use during pregnancy and lactation, highlighting concerns regarding its effects on maternal and fetal health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What are endocrine-disrupting chemicals?",
+    "answer": "Endocrine-disrupting chemicals are substances that can interfere with the endocrine (hormonal) system, as discussed in the Endocrine Society scientific statement published in Endocr Rev 2009.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the impact of non-persistent chemicals in consumer products on fecundability?",
+    "answer": "A systematic review published in Hum Reprod Update 2019 examined the exposure to non-persistent chemicals in consumer products and its effects on fecundability, suggesting potential reproductive health implications.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between persistent organic pollutants and couple fecundability?",
+    "answer": "The systematic review published in Hum Reprod Update 2021 explored the relationship between persistent organic pollutants and couple fecundability, indicating potential adverse effects on fertility.",
+    "is_verified": 1
+  },
+  {
+    "question": "Does air pollution play a role in infertility?",
+    "answer": "A systematic review published in Environ Health 2017 investigated the role of air pollution in infertility, suggesting that environmental factors may contribute to reproductive challenges.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the effect of air pollution on human fertility rates?",
+    "answer": "The study published in Environ Int 2014 examined the impact of air pollution on human fertility rates, indicating a potential correlation between environmental pollution and reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between fertility rate reduction and exposure to ambient fine particles?",
+    "answer": "The study discusses the association between fertility rate reduction and pre-gestational exposure to ambient fine particles in the United States, highlighting environmental influences on reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the association between prenatal exposure to tetrachloroethylene (PCE) and reproductive health?",
+    "answer": "The study mentioned indicates an association between prenatal and early life exposure to tetrachloroethylene (PCE) and the development of polycystic ovary syndrome and other reproductive disorders.",
+    "is_verified": 1
+  },
+  {
+    "question": "What is the relationship between air pollution and pregnancy outcomes?",
+    "answer": "Several studies have investigated the impact of air pollution on pregnancy outcomes, including time-to-pregnancy, infertility, and pregnancy loss. For instance, one study found that proximity to major roadways is associated with longer time-to-pregnancy and increased infertility rates. Another study highlighted that ambient air pollution can affect fecundability, indicating that higher levels of pollution may reduce the likelihood of conception. Additionally, research has shown that air pollution is linked to an increased risk of pregnancy loss, suggesting that environmental factors can significantly influence reproductive health.",
+    "is_verified": 1
+  },
+  {
+    "question": "How does air pollution affect sperm quality?",
+    "answer": "A systematic review and meta-analysis have indicated that there is an association between air pollution and sperm quality. The findings suggest that exposure to air pollutants can negatively impact sperm parameters, which may have implications for male fertility. This highlights the importance of considering environmental factors when assessing reproductive health in men.",
+    "is_verified": 1
+  },
+  {
+    "question": "What suggestions does the committee provide for optimizing natural fertility?",
+    "answer": "The committee provides practitioners with suggestions to optimize the likelihood of achieving pregnancies in couples or individuals attempting to conceive without evidence of infertility.",
+    "is_verified": 1
+  }
+]

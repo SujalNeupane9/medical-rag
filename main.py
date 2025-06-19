@@ -11,7 +11,7 @@ import faiss
 from langchain_aws.embeddings import BedrockEmbeddings
 from langchain_aws import ChatBedrock
 from langchain_community.vectorstores import OpenSearchVectorSearch
-from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 from langchain_community.document_loaders import PyPDFLoader
@@ -24,6 +24,9 @@ import nltk
 from nltk.tokenize import sent_tokenize
 nltk.download('punkt_tab')
 nltk.download('punkt')
+
+## json retriever
+from question_pair_db import MedicalRAGRetriever
 
 from dotenv import load_dotenv
 
@@ -42,43 +45,6 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
-
-## load the json file
-with open('voxivf_qa_pairs.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
-
-def cosine_similarity_between_texts(text1, text2, embed_model):
-    # Generate embeddings
-    embedding1 = embed_model.embed_query(text1)
-    embedding2 = embed_model.embed_query(text2)
-    
-    # Reshape to 2D arrays for cosine similarity
-    emb1 = np.array(embedding1).reshape(1, -1)
-    emb2 = np.array(embedding2).reshape(1, -1)
-    
-    # Compute cosine similarity
-    similarity = cosine_similarity(emb1, emb2)[0][0]
-    return similarity
-
-def find_similar_question(user_question, embed_model, threshold=0.8):
-    best_match = None
-    best_score = 0
-    best_pair = None
-
-    for pair in data:
-        question = pair["question"]
-        similarity = cosine_similarity_between_texts(user_question, question, embed_model)
-        
-        if similarity > best_score:
-            best_score = similarity
-            best_match = pair if similarity >= threshold else None
-            best_pair = pair
-
-    if best_match:
-        return best_pair
-    else:
-        return None
-
 
 class SemanticTextSplitter:
     def __init__(self, chunk_size=512, chunk_overlap=256):
@@ -166,6 +132,8 @@ class PDFProcessor:
                  chroma_base_dir: str = "./chroma_db"):
         self.aws_region = aws_region
         self.chroma_base_dir = chroma_base_dir
+
+        self.json_retriever = MedicalRAGRetriever(force_rebuild=False)
         
         # Initialize AWS clients
         self.bedrock_client = boto3.client(
@@ -525,7 +493,7 @@ class PDFProcessor:
             if user_id not in self.user_qa_chains:
                 raise ValueError(f"QA chain not found for user {user_id}. Process documents first.")
             
-            response = find_similar_question(question,self.embeddings)
+            response = self.json_retriever.retrieve_answer(question)
             
             if response is None:
                 response = self.user_qa_chains[user_id].invoke({"question": question})

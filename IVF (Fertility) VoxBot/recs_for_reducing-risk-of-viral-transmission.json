@@ -1,0 +1,632 @@
+[
+    {
+        "question": "What are the sexually transmitted infections of major concern to reproductive specialists?",
+        "answer": "The sexually transmitted infections of major concern to reproductive specialists include human immunodeficiency virus (HIV) types 1 and 2, and hepatitis B and C viruses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential consequences of these infections during fertility treatment?",
+        "answer": "These pathogens can cause incurable chronic infections and may be transmitted through assisted reproductive technologies and from infected mothers to the fetus or newborn.",
+        "is_verified": 1
+    },
+    {
+        "question": "What advancements have been made in the management of hepatitis C and HIV?",
+        "answer": "There have been cure strategies developed for hepatitis C, but not for HIV types 1 and 2 or hepatitis B virus. New antiviral drugs have made it possible to manage many chronic viral infections, allowing HIV-infected individuals to live healthier, longer lives.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the CDC's conclusion regarding HIV transmission risk for individuals on antiretroviral therapy?",
+        "answer": "The CDC has concluded that people with HIV who take antiretroviral therapy as prescribed and achieve and maintain an undetectable viral load have effectively no risk of transmitting HIV through sex.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies are recommended for reducing the risk of viral transmission in couples seeking fertility treatment?",
+        "answer": "The recommendations include reducing viral load in an infected partner, reducing exposure and susceptibility in a non-infected partner, and promoting honest discussions with patients about available scientific evidence and risk reduction strategies for informed consent.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is advised for couples proceeding with assisted reproductive technologies (ARTs) regarding viral screening?",
+        "answer": "Couples are advised to undergo viral screening to minimize the risk of viral transmission to partners and offspring, and to allow for adequate segregation and storage of specimens to minimize the risk of cross-contamination.",
+        "is_verified": 1
+    },
+    {
+        "question": "Which viral infections should intimate couples be screened for before undergoing ART procedures?",
+        "answer": "Intimate couples in which one or both partners are positive for HIV, HBV (Hepatitis B Virus), or HCV (Hepatitis C Virus) should have the opportunity to undergo ART procedures at fertility centers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations does the American Society for Reproductive Medicine (ASRM) provide regarding Zika infections and West Nile virus?",
+        "answer": "The ASRM has separate publications with recommendations for managing fertility care in the context of Zika infections and West Nile virus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should couples do if one or both partners are infected with a sexually transmissible pathogenic virus?",
+        "answer": "They should receive in-depth preconception counseling on the risks of sexual and vertical transmission of their infections, and in many cases, the viral infection can be treated effectively to eliminate the risk of transmission during intercourse.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the first-line therapy for discordant couples where one partner has a viral infection?",
+        "answer": "The first-line therapy is to treat the viral infection effectively to eliminate the risk of transmission during intercourse.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be provided to discordant couples who have an infertility diagnosis?",
+        "answer": "Assisted reproductive technology (ART) may be required for conception in discordant couples with an infertility diagnosis, such as low sperm counts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of care should be provided to couples undergoing fertility treatment?",
+        "answer": "In-depth medical and obstetric care should be provided by a multidisciplinary medical team, including an expert in infectious disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What safe-sex practices should be emphasized during fertility treatment and pregnancy?",
+        "answer": "Counseling and education concerning safe-sex practices, such as the use of condoms, should be provided and emphasized throughout fertility treatment, pregnancy, and the postpartum period.",
+        "is_verified": 1
+    },
+    {
+        "question": "What diagnostic testing is recommended for the uninfected partner during treatment and pregnancy?",
+        "answer": "Serial diagnostic testing of the uninfected partner is recommended throughout treatment and pregnancy, as well as for both mother and infant during the first year after birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the characteristics of Human Immunodeficiency Virus (HIV)?",
+        "answer": "HIV type 1 and HIV-2 are retroviruses that infect T lymphocytes and other immune cells, primarily, and they have the same modes of transmission, putting women at risk of acquiring opportunistic infections and progressing to acquired immunodeficiency syndrome (AIDS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between HIV-1 and AIDS?",
+        "answer": "HIV-1 leads to AIDS and death in most individuals if left untreated.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does HIV-2 infection compare to HIV-1?",
+        "answer": "Immunodeficiency associated with HIV-2 infection may be less severe and develop more slowly than HIV-1.",
+        "is_verified": 1
+    },
+    {
+        "question": "What regions are most affected by HIV and AIDS?",
+        "answer": "Human immunodeficiency virus and AIDS are endemic in Sub-Saharan Africa and Southeast Asia and are prevalent throughout the world in high-risk groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the main modes of transmission for HIV?",
+        "answer": "Human immunodeficiency virus is transmitted both sexually and vertically through blood, semen, vaginal secretions, and breast milk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors influence the rate of HIV heterosexual transmission?",
+        "answer": "The rate of HIV heterosexual transmission is influenced by genital tract infections, ulceration, sexual practices that induce trauma or bleeding, and a lack of male circumcision.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does peripheral blood viral load affect HIV transmission?",
+        "answer": "The rate of HIV transmission is highly associated with peripheral blood viral load, being lowest in individuals with undetectable viral loads.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the HPTN 052 trial demonstrate regarding HIV transmission?",
+        "answer": "The HPTN 052 trial demonstrated a 93% reduction of HIV transmission within serodiscordant couples when the HIV-infected partner was taking antiretroviral therapy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the CDC's statement regarding HIV transmission and antiretroviral therapy?",
+        "answer": "Ongoing research supports the CDC statement that people with HIV who take antiretroviral therapy as prescribed and maintain an undetectable viral load have effectively no risk of transmitting HIV through sex.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended viral load for minimizing HIV viremia in infected partners?",
+        "answer": "Human immunodeficiency virus viremia should be minimized to a peripheral blood viral load of less than 40 copies/mL through the use of highly active antiretroviral therapy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should couples do before attempting to conceive if one partner is HIV-infected?",
+        "answer": "It is highly recommended that both partners undergo a sexual health screening before attempting to conceive.",
+        "is_verified": 1
+    },
+    {
+        "question": "What sexually transmitted infections can increase HIV-1 transmission?",
+        "answer": "Chlamydia trachomatis, Neisseria gonorrhea, and Treponema pallidum can increase HIV-1 transmission and should be treated.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done when there is a diagnosis of infertility?",
+        "answer": "Both partners should undergo a fertility assessment, which may include ovulation induction, intrauterine insemination (IUI), or in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risk reduction strategies for HIV-1 transmission during assisted reproductive technologies (ART)?",
+        "answer": "Risk reduction strategies include using antiretroviral drugs, avoiding breastfeeding, using intrauterine insemination (IUI) or in vitro fertilization (IVF), sperm washing for positive males, and pre-exposure prophylaxis (PREP) or condom use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the vertical transmission risk of HIV-1 when on antiretroviral drugs?",
+        "answer": "The vertical transmission risk of HIV-1 is less than 2% when the mother is on antiretroviral drugs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for managing hepatitis B and C in relation to ART?",
+        "answer": "For hepatitis B, vaccination is recommended, and for hepatitis C, direct-acting antiviral (DAA) therapy and universal precautions should be followed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What techniques are recommended for couples where both partners are HIV-infected to reduce the risk of superinfection?",
+        "answer": "Risk reduction techniques have been used for couples where both partners are HIV-infected to reduce the risk of superinfection of the female partner with different strains of HIV or drug-resistant HIV. In situations where the female partner is HIV-positive, IUI (Intrauterine Insemination) and IVF (In Vitro Fertilization) eliminate the risk of viral transmission to their partner effectively. In situations where the male partner is HIV-positive, a sperm wash protocol should be used to enrich motile sperm and reduce or eliminate HIV-infected white blood cells and free virus in the fraction isolated for insemination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of sperm wash protocols in the context of HIV-positive male partners?",
+        "answer": "A sperm wash protocol is used to enrich motile sperm and reduce or eliminate HIV-infected white blood cells and free virus in the fraction isolated for insemination. This technique helps to minimize the risk of HIV transmission during insemination procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the CDC estimate regarding HIV infections through donor insemination from 1980 to 1984?",
+        "answer": "The CDC estimated that 8–141 women were infected through donor insemination from 1980 to 1984 before stricter donor screening and semen quarantine practices were implemented.",
+        "is_verified": 1
+    },
+    {
+        "question": "How effective are sperm wash techniques in reducing HIV levels before insemination?",
+        "answer": "Sperm wash techniques that separate motile sperm from the round cell and seminal fluid fractions can markedly reduce HIV levels before insemination. A systemic review of studies revealed no cases of seroconversion in HIV-negative women undergoing IUI or IVF with sperm from their HIV-positive partners, indicating the effectiveness of these techniques.",
+        "is_verified": 1
+    },
+    {
+        "question": "What findings were reported in the systemic review from 2016 regarding HIV transmission in IUI and IVF cycles among HIV-discordant couples?",
+        "answer": "The systemic review from 2016 showed no HIV transmission in 8,212 IUI cycles and 1,254 IVF cycles among HIV-discordant couples, indicating the safety of these procedures when appropriate techniques are used.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken during IUI or IVF procedures to minimize risks?",
+        "answer": "Trauma to the cervix or uterus during the IUI or IVF procedure must be minimized to reduce risks associated with these procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are used in sperm wash procedures to separate motile sperm from HIV?",
+        "answer": "Sperm wash procedures involving density-gradient centrifugation followed by a sperm swim-up step have been used to separate motile sperm free from HIV and HIV-infected somatic cells. A modified method for limiting contamination of the sperm during the gradient separation is the double-tube method with the use of a product called ProInsert (Nidacon).",
+        "is_verified": 1
+    },
+    {
+        "question": "What method is used to retrieve sperm while avoiding contamination?",
+        "answer": "A tube that serves as a channel to retrieve the sperm pellet without coming into contact with the gradient material along the sidewalls of the tube, which may be contaminated with white blood cells or free virus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effectiveness of the double-tube gradient method for HIV removal?",
+        "answer": "Quantitative assessment of HIV in semen before and after the double-tube gradient method indicates that >99.99% of HIV-1 RNA is removed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should the uninfected partner in a discordant couple do during fertility treatments?",
+        "answer": "The uninfected partner should be tested for HIV at 3-month intervals during fertility treatments and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are some approaches to reduce susceptibility to HIV in the uninfected female partner?",
+        "answer": "Approaches such as pre-exposure prophylaxis (PREP) with antiretroviral drugs and locally applied vaginal estrogen gels may further reduce susceptibility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is recommended for serodiscordant couples regarding pre-exposure prophylaxis?",
+        "answer": "Pre-exposure prophylaxis with the use of tenofovir and emtricitabine is endorsed in serodiscordant couples.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done when HIV infection is detected in the female partner during pregnancy?",
+        "answer": "She should be referred to an obstetric service experienced in managing HIV-infected women.",
+        "is_verified": 1
+    },
+    {
+        "question": "What measures can reduce the risk of vertical transmission of HIV during pregnancy?",
+        "answer": "Use of antiretroviral drugs during pregnancy and/or labor, use of cesarean section in individuals with a detectable viral load, and avoidance of breastfeeding can reduce the risk of vertical transmission of HIV to <2%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is Hepatitis B virus and its significance?",
+        "answer": "Hepatitis B virus is a double-stranded DNA virus that is a major cause of acute and chronic hepatitis, cirrhosis, and hepatocellular cancer, and is one of the most common infectious diseases in the world.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the transmission routes for Hepatitis B virus (HBV)?",
+        "answer": "Hepatitis B virus can be transmitted parenterally, sexually, vertically, and via other routes of mucosal exposure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of seropositivity for HBV among regular sexual contacts with infected persons?",
+        "answer": "Approximately 25% of regular sexual contacts with HBV-infected persons will become seropositive for HBV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the effective measures to reduce the risk of HBV infection?",
+        "answer": "Universal safety precautions and vaccination with the HBV vaccine, available since 1982, are the most effective ways to reduce the risk of HBV infection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between HBV and HDV?",
+        "answer": "Hepatitis B virus-infected individuals run a high risk of coinfection or superinfection with hepatitis D virus (HDV), which requires the presence of HBV for replication. Approximately 25% of chronic HBV carriers are coinfected with HDV, increasing their risk of cirrhosis from 15% to 80%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What screening should couples undergoing IVF undergo regarding HBV?",
+        "answer": "All couples being evaluated for IVF should be screened for HBV via hepatitis B surface antigen (HBsAg).",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done if one partner is seronegative for HBV in a discordant couple?",
+        "answer": "The partner who is seronegative for HBsAg and has no evidence of immunity should be vaccinated against HBV.",
+        "is_verified": 1
+    },
+    {
+        "question": "When can fertility treatments be initiated for discordant partners?",
+        "answer": "Fertility treatments may be initiated once the vaccinated partner’s anti-hepatitis B surface antibody titer is positive.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is a modified sperm wash required after the female partner is immunized against HBV?",
+        "answer": "A modified sperm wash to reduce the viral load is not required after the female partner is immunized against HBV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done for HBsAg-positive HBV-infected women?",
+        "answer": "They should be offered a referral to a hepatologist to determine whether they are immune-tolerant or have immune-active disease.",
+        "is_verified": 1
+    },
+    {
+        "question": "What characterizes immune-tolerant individuals with HBV?",
+        "answer": "Immune-tolerant individuals are carriers of the virus with normal alanine transaminase and aspartate transaminase levels and do not have active hepatitis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is immune-active disease in the context of HBV?",
+        "answer": "Immune-active disease, previously termed chronic active hepatitis, occurs in individuals who have elevated liver function tests associated with chronic hepatitis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the current treatment recommendations for immune-tolerant patients with HBV?",
+        "answer": "For immune-tolerant patients with HBV, the current recommendations are to treat individuals with HBV DNA viral levels >200,000 IU/mL with appropriate antiviral therapy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended treatment for patients with immune-active disease during pregnancy?",
+        "answer": "Patients with immune-active disease should be treated based on the usual recommendations for all nonpregnant women with appropriate antiviral therapy as determined by the hepatologist.",
+        "is_verified": 1
+    },
+    {
+        "question": "What immunoprophylaxis should infants born to HBsAg-positive mothers receive?",
+        "answer": "All infants born to HBsAg-positive mothers should receive immunoprophylaxis within 12 hours after birth, which consists of both HBV vaccine and immunoglobulin, followed by two more injections of HBV vaccine in the first 6 months of life.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is breastfeeding contraindicated for women chronically infected with HBV?",
+        "answer": "Breastfeeding is not contraindicated in women chronically infected with HBV. For mothers on antiviral therapy, the antivirals are minimally excreted in breast milk and are unlikely to pose a risk to the infant.",
+        "is_verified": 1
+    },
+    {
+        "question": "How is Hepatitis C virus primarily transmitted?",
+        "answer": "Hepatitis C virus is primarily transmitted through parenteral exposure, such as blood products, shared needles, and needle-stick injuries.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the prevalence of Hepatitis C virus infection in the United States?",
+        "answer": "In the United States, the prevalence of Hepatitis C virus infection is between 0.8% and 1.3%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of patients infected with Hepatitis C virus develop chronic liver disease?",
+        "answer": "80% of patients infected with Hepatitis C virus develop chronic liver disease, and 35% develop cirrhosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk of vertical transmission of HCV from an infected mother to her child?",
+        "answer": "The risk of vertical transmission of HCV from an infected mother to her child occurs in 4%–6% of cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effectiveness of current treatment for hepatitis C with direct-acting antiviral therapy?",
+        "answer": "Current treatment of hepatitis C with direct-acting antiviral therapy is 98% effective in achieving a sustained virologic response (SVR), which is defined as a negative HCV RNA 12 weeks after treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for testing for HCV in pregnant women?",
+        "answer": "Current recommendations are to test all pregnant women at the onset of prenatal care, and this is extended to include testing of all male and female patients before IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should patients with hepatitis C be counseled about regarding transmission?",
+        "answer": "Patients with hepatitis C should be counseled about the risks of transmission to their partner, which is rare through sexual transmission, and to their children through vertical transmission.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors increase the risk of vertical transmission of HCV?",
+        "answer": "The risk of vertical transmission is increased with coinfection with HIV (19.4% risk), in patients with a high viral load (i.e., >2.5 x 10^6 IU/mL), and with invasive procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is cesarean section recommended to prevent vertical transmission of HCV?",
+        "answer": "A cesarean section for delivery is not recommended to prevent vertical transmission of HCV.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is breastfeeding safe for women who are chronic carriers of HCV?",
+        "answer": "Breastfeeding is considered safe in women who are chronic carriers of HCV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What diseases are associated with Human T-cell lymphotropic virus type 1 (HTLV-1)?",
+        "answer": "HTLV-1 is associated with adult T-cell leukemia and HTLV-1-associated myelopathy, also known as spastic paraparesis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the infection rate of adult T-cell leukemia or HTLV-1-associated myelopathy in individuals infected with HTLV-1?",
+        "answer": "Only 1%–4% of infected individuals develop either adult T-cell leukemia or HTLV-1-associated myelopathy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of screening semen donors for HTLV-1 and HTLV-2?",
+        "answer": "Semen donors are screened for HTLV-1 and HTLV-2 due to the potential for transmission through assisted reproductive technology (ART) procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for processing gametes from viral carriers in ART clinics?",
+        "answer": "It is recommended that the processing and culturing of gametes from viral carriers be completed in a designated space or at a designated time to minimize cross-contamination risk.",
+        "is_verified": 1
+    },
+    {
+        "question": "What viruses are mentioned as being a risk for contamination in ART clinics?",
+        "answer": "The viruses mentioned are HIV, HBV (Hepatitis B Virus), and HCV (Hepatitis C Virus).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the risk associated with cryopreserved tissue and contamination?",
+        "answer": "Although there is no documentation of cross-contamination of cryopreserved stored human tissue, it is recommended to take precautions to minimize the risk of cross-contamination, as viruses can survive in liquid nitrogen.",
+        "is_verified": 1
+    },
+    {
+        "question": "What measures are proposed to reduce cross-contamination of samples in liquid nitrogen storage?",
+        "answer": "The proposed measures include storing HIV-, HBV-, and HCV-infected specimens in separate canisters within the same tank to minimize the risk of cross-contamination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of using cryopreservation devices in medical procedures?",
+        "answer": "Cryopreservation devices are used to preserve biological samples, such as oocytes and sperm, by maintaining them at freezing temperatures to ensure their viability for future use. The devices are designed to withstand freezing temperatures and thawing cycles, which is crucial for the successful storage and later use of these samples.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the benefits of using liquid nitrogen vapor for storage of gametes?",
+        "answer": "Storing samples in liquid nitrogen vapor instead of in the liquid phase reduces the risk of contamination, as the vapor phase minimizes direct contact with liquid nitrogen. This method has been shown to be a viable alternative for preserving the integrity of oocytes and sperm, although it may pose risks if storage conditions are compromised.",
+        "is_verified": 1
+    },
+    {
+        "question": "How can sperm wash techniques impact the freezing of semen samples?",
+        "answer": "Sperm wash techniques are employed to decrease the viral load in semen samples before freezing. This is particularly important for individuals with HIV, as it helps reduce the risk of transmitting the virus during assisted reproduction procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of maintaining an undetectable viral load in HIV-positive individuals regarding transmission risk?",
+        "answer": "Individuals with HIV who adhere to antiretroviral therapy and maintain an undetectable viral load have effectively no risk of transmitting HIV through sexual contact. This underscores the importance of treatment adherence for both personal health and public health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken for intimate partners undergoing fertility treatment when one partner is HIV-positive?",
+        "answer": "While viral screening of intimate partners undergoing fertility treatment is not mandatory, it is recommended to ensure appropriate precautions are taken to minimize the risk of HIV transmission to uninfected partners and offspring. This includes using antiretroviral therapy and sperm washing techniques to reduce the risk further.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the clinical stance on providing fertility services to individuals with chronic viral infections?",
+        "answer": "Good clinical practice dictates that fertility services should not be withheld from individuals with chronic viral infections, including HIV. This approach emphasizes the importance of providing access to reproductive health services regardless of a patient's viral status.",
+        "is_verified": 1
+    },
+    {
+        "question": "What evidence supports the use of antiretroviral drugs in HIV-infected partners during infertility treatment?",
+        "answer": "There is substantial evidence supporting the recommendation that antiretroviral drugs should be used in HIV-infected partners to reduce HIV viremia during infertility treatment. This helps to minimize the risk of transmission during assisted reproductive procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies can be used to avoid infection for the uninfected partner during IUI or IVF?",
+        "answer": "Strategies to avoid infection for the uninfected partner should include condom use as well as PREP.",
+        "is_verified": 1
+    },
+    {
+        "question": "What vaccination is recommended for the seronegative partner when one partner is infected with HBV?",
+        "answer": "The seronegative partner should be vaccinated against HBV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should infants born to mothers who are HBV positive receive after birth?",
+        "answer": "Infants born to mothers who are HBV positive should receive both hepatitis B immunoglobulin and the hepatitis B vaccine within 12 hours after birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What screening is recommended for men and women undergoing IVF regarding HCV?",
+        "answer": "All men and women undergoing IVF should be screened for HCV and infected individuals should be treated with direct-acting antiviral therapy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done regarding infertility treatments for individuals infected with HCV?",
+        "answer": "Infertility treatments should be delayed until sustained virologic response (SVR) is achieved.",
+        "is_verified": 1
+    },
+    {
+        "question": "What counseling should women who are HCV-infected receive?",
+        "answer": "Women who are HCV-infected should be counseled about the risk of transmission of HCV to their fetus with increasing viral loads and positive HIV status.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is recommended regarding the storage of semen and embryos from patients infected with HIV, HCV, or HBV?",
+        "answer": "Best-practice guidelines recommend that semen and embryos from patients infected with HIV, HCV, or HBV be stored in a separate canister for each virus in the same cryostorage tank due to the theoretical risk of transmission.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the American Society for Reproductive Medicine (ASRM) in the context of treatment plans?",
+        "answer": "The ASRM's Practice Committee and Board of Directors approve reports that outline appropriate treatment plans for individual patients, considering their needs, available resources, and clinical practice limitations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mentioned about the members of the ASRM Practice Committee?",
+        "answer": "The document lists several members of the ASRM Practice Committee, including medical doctors and Ph.D. holders, who contributed to the preparation of the document and disclosed any commercial and financial relationships with manufacturers or distributors of goods or services used to treat patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is referenced regarding viral hepatitis C therapy?",
+        "answer": "A reference is made to a 2019 update on viral hepatitis C therapy, discussing pharmacokinetic and pharmacodynamic considerations in the clinical pharmacokinetics journal.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the CDC reference in the document?",
+        "answer": "The Centers for Disease Control and Prevention (CDC) is referenced for providing information on the effectiveness of prevention strategies to reduce the risk of acquiring or transmitting HIV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of assisted reproductive technology in preventing HIV transmission in HIV-discordant couples?",
+        "answer": "Assisted reproductive technology can be utilized to prevent the transmission of HIV-1 in HIV-discordant couples who desire to have children. This involves medical interventions that allow for conception while minimizing the risk of HIV transmission from the infected partner to the uninfected partner or to the child.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the considerations for providing fertility care to men who are seropositive for HIV?",
+        "answer": "Providing fertility care to men who are seropositive for HIV involves reviewing their medical history and the implications of HIV on fertility treatments, such as in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI). The experience from 10 years and 420 cycles indicates that with appropriate medical oversight, these procedures can be safely performed for seropositive men.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidance does the American Society for Reproductive Medicine provide for individuals with possible Zika virus exposure?",
+        "answer": "The American Society for Reproductive Medicine provides guidance for healthcare providers caring for women and men of reproductive age who may have been exposed to the Zika virus. This includes recommendations for planning pregnancy for those who are infected, exposed, or possibly exposed to the virus, ensuring that reproductive health is prioritized in the context of Zika virus exposure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the position of the Society for Maternal-Fetal Medicine on Hepatitis B in pregnancy?",
+        "answer": "The Society for Maternal-Fetal Medicine outlines screening, treatment, and prevention strategies for vertical transmission of Hepatitis B during pregnancy. This includes recommendations for managing pregnant women who are Hepatitis B positive to reduce the risk of transmission to the newborn.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for managing hepatitis C in pregnancy?",
+        "answer": "The Society for Maternal-Fetal Medicine (SMFM) provides guidelines for screening, treatment, and management of hepatitis C in pregnancy as detailed in their publication in the American Journal of Obstetrics and Gynecology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the ACOG Committee Opinion No. 751 about?",
+        "answer": "The ACOG Committee Opinion No. 751 discusses labor and delivery management of women with human immunodeficiency virus (HIV) infection, providing recommendations for healthcare providers.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of viral load in HIV transmission?",
+        "answer": "The study by Quinn et al. highlights the relationship between viral load and heterosexual transmission of HIV type 1, indicating that higher viral loads increase the risk of transmission.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role do sexually transmitted diseases play in HIV transmission?",
+        "answer": "According to Galvin and Cohen, sexually transmitted diseases can facilitate the transmission of HIV, making individuals more susceptible to infection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of antiretroviral therapy in HIV prevention?",
+        "answer": "Cohen et al. discuss the use of antiretroviral therapy as a preventive measure for HIV-1 transmission, demonstrating its effectiveness in reducing the risk of spreading the virus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies are recommended for preventing HIV infection among women attempting conception with HIV-infected men?",
+        "answer": "The MMWR report outlines strategies for preventing HIV infection among HIV-uninfected women who are attempting conception with HIV-infected men, focusing on risk reduction and safe practices.",
+        "is_verified": 1
+    },
+    {
+        "question": "How is HIV-1 infection associated with abnormal vaginal flora?",
+        "answer": "Sewankambo et al. found that HIV-1 infection is associated with abnormal vaginal flora morphology and bacterial vaginosis, indicating a link between these conditions and increased susceptibility to HIV.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for handling gametes from infectious patients in assisted reproductive technologies?",
+        "answer": "Jindal et al. provide guidelines for risk reduction when handling gametes from infectious patients seeking assisted reproductive technologies, emphasizing safety protocols to prevent transmission of infections.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the effectiveness of semen washing in preventing HIV transmission?",
+        "answer": "Semen washing has been shown to be effective in preventing human immunodeficiency virus (HIV) transmission and assisting pregnancy in HIV-discordant couples, as indicated by systematic reviews and meta-analyses.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are used to reduce HIV and hepatitis C virus transmission in serodiscordant couples?",
+        "answer": "Sperm washing and virus nucleic acid detection are methods used to reduce HIV and hepatitis C virus transmission in serodiscordant couples wishing to have children.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of T lymphocytes and macrophages in semen regarding HIV?",
+        "answer": "T lymphocytes and macrophages, rather than motile spermatozoa, are significant sources of human immunodeficiency virus in semen, highlighting the importance of these cells in the context of HIV transmission.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of inseminating HIV-negative women with processed semen from HIV-positive partners?",
+        "answer": "Insemination of HIV-negative women with processed semen from HIV-positive partners has been studied and reported in medical literature, indicating potential methods to assist conception while managing HIV transmission risks.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is pre-exposure prophylaxis (PrEP) in the context of HIV prevention?",
+        "answer": "Pre-exposure prophylaxis (PrEP) is a strategy for preventing HIV transmission in uninfected individuals at high risk, involving the use of antiretroviral medications such as neverapine and emtricitabine/tenofovir disoproxil fumarate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of topical estrogen in relation to SIV vaginal transmission?",
+        "answer": "Topical estrogen protects against SIV vaginal transmission without evidence of systemic effect.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of preexposure prophylaxis (PrEP) according to the CDC guidelines?",
+        "answer": "Preexposure prophylaxis is for the prevention of HIV infection in the United States.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of zidovudine treatment in relation to maternal-infant transmission of HIV?",
+        "answer": "Zidovudine treatment reduced maternal-infant transmission of human immunodeficiency virus type 1.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the global epidemiology of hepatitis B virus according to the referenced study?",
+        "answer": "The study provides an overview of the global epidemiology of hepatitis B virus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for immunization to eliminate hepatitis B virus transmission in the United States?",
+        "answer": "The recommendations include a comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States, as outlined by the Advisory Committee on Immunization Practices (ACIP).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the study by Poel CL and Chamuleau RA regarding hepatitis C?",
+        "answer": "The study discusses the sexual transmission of the hepatitis C virus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What organization published the Global Hepatitis Report in 2017?",
+        "answer": "The World Health Organization published the Global Hepatitis Report in 2017.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the key topics covered in the American Association for the Study of Liver Diseases' guidelines on hepatitis C?",
+        "answer": "The guidelines cover the diagnosis, management, and treatment of hepatitis C.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the 2018 update from the AASLD-IDSA Guidance Panel provide recommendations for?",
+        "answer": "The 2018 update provides recommendations for testing, managing, and treating hepatitis C virus infection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential risks of hepatitis C transmission during assisted conception procedures?",
+        "answer": "The excerpt mentions that there are transmissions of hepatitis C virus during ancillary procedures for assisted conception, indicating a risk of viral transmission in such medical contexts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the study on hepatitis B transmission from contaminated cryopreservation tanks?",
+        "answer": "The study highlights the risk of hepatitis B transmission through contaminated cryopreservation tanks, which is crucial for ensuring safety in reproductive medicine and the handling of biological samples.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does liquid nitrogen storage affect human spermatozoa?",
+        "answer": "The excerpt discusses the effect of liquid nitrogen vapor storage on the motility, viability, morphology, DNA integrity, and mitochondrial potential of frozen-thawed human spermatozoa, which is important for understanding sperm preservation techniques in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What considerations are there for medically assisted reproduction in patients with chronic viral diseases?",
+        "answer": "The excerpt references medically assisted reproduction in the presence of chronic viral diseases, suggesting that there are specific medical considerations and protocols that must be followed to ensure the safety and health of both the patient and potential offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the major concerns regarding sexually transmitted infections in fertility treatment?",
+        "answer": "The major concerns regarding sexually transmitted infections in fertility treatment include the transmission of HIV types 1 and 2, as well as hepatitis B and C. These pathogens can cause chronic, incurable infections and can be transmitted through assisted reproductive technologies and from infected mothers to fetuses or newborns.",
+        "is_verified": 1
+    }
+]

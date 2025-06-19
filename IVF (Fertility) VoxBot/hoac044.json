@@ -1,0 +1,912 @@
+[
+    {
+        "question": "What is the focus of the ESHRE survey mentioned in the excerpt?",
+        "answer": "The ESHRE survey focuses on managing chromosomal mosaicism, providing good practice recommendations related to this condition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What institutions are involved in the research on chromosomal mosaicism?",
+        "answer": "The research involves multiple institutions including the Centre for Medical Genetics at UZ Brussel, JUNO Genetics in Rome, Maastricht University Medical Centre, and several others across Europe.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism and why is it significant in medical genetics?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within an individual, which can have implications for reproductive health and genetic counseling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism in the context of preimplantation genetic testing (PGT)?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within the same individual, which can occur at the preimplantation stage of embryo development. In the context of PGT, it is significant because it can affect the viability and health outcomes of embryos when transferred during assisted reproductive technology (ART) procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical outcomes associated with the transfer of embryos with mosaic results?",
+        "answer": "The clinical outcomes associated with the transfer of embryos with mosaic results include varying rates of implantation, miscarriage, and live birth rates, as well as neonatal outcomes. Evidence is accumulating that helps clarify these outcomes, indicating that the presence of mosaicism can influence the success of embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methodologies were used to develop the good practice recommendations for managing mosaic embryos?",
+        "answer": "The good practice recommendations for managing mosaic embryos were developed using a predefined methodology by the European Society of Human Reproduction and Embryology (ESHRE). This included a literature review of studies published between 2010 and 2022, a large survey evaluating current practices, and consideration of published guidance documents. The survey involved members of ESHRE special interest groups and focused on ART and PGT practices.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres report mosaicism when biopsying three or more cells?",
+        "answer": "Eighty percent of centres that biopsy three or more cells report the occurrence of mosaicism in embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for managing chromosomal mosaicism in clinical practice?",
+        "answer": "The recommendations include managing the detection of chromosomal mosaicism, considering validation, risk assessment, designating and reporting mosaicism, embryo transfer policies, prenatal testing, and follow-up. Guidance is provided on essential elements for consent forms and genetic reports, as well as topics to cover in genetic counselling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of monitoring emerging data on chromosomal mosaicism?",
+        "answer": "Monitoring emerging data on chromosomal mosaicism is recommended for PGT centres to adapt or refine their policies based on new insights from evidence, which can lead to improved guidance and a more evidence-based approach in managing chromosomal mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the wider implications of the findings regarding chromosomal mosaicism?",
+        "answer": "The findings aim to facilitate a knowledge-based approach for dealing with chromosomal mosaicism across different centres and to direct future research towards existing gaps that can translate to clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing (PGT)?",
+        "answer": "Preimplantation genetic testing (PGT) involves analysis of the DNA from oocytes (polar bodies) or in vitro fertilized embryos (cleavage stage or blastocyst) to determine genetic abnormalities or for HLA typing. It includes three modalities: PGT for aneuploidy (PGT-A), PGT for monogenic/single gene defects (PGT-M), and PGT for chromosomal structural rearrangements (PGT-SR).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism?",
+        "answer": "Chromosomal mosaicism is defined as a state in which there is more than one karyotypically distinct cell population arising from a single embryo. This condition can have implications for genetic testing and embryo viability.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the key terms associated with the document?",
+        "answer": "The key terms associated with the document include mosaicism, genetic testing, guidance, aneuploidy, preimplantation testing, counselling, validation, embryo transfer, and prenatal testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism?",
+        "answer": "Chromosomal mosaicism is a phenomenon where an embryo has two or more different results for the number of chromosomes, indicating that some cells have a normal chromosomal count while others have an abnormal count. This condition complicates genetic testing and embryo transfer policies in preimplantation genetic testing (PGT).",
+        "is_verified": 1
+    },
+    {
+        "question": "How does preimplantation genetic testing (PGT) relate to chromosomal mosaicism?",
+        "answer": "Preimplantation genetic testing (PGT) involves analyzing the DNA from oocytes or in vitro fertilized embryos to identify genetic diseases or aneuploidy. In cases of chromosomal mosaicism, PGT may reveal different chromosomal counts within a single embryo, making interpretation of results challenging for clinics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What challenges do clinics face with embryos showing chromosomal mosaicism?",
+        "answer": "Clinics face challenges in interpreting genetic test results for embryos with chromosomal mosaicism, as the presence of both normal and abnormal chromosomal counts complicates decisions regarding embryo handling and transfer. This necessitates careful management and counseling of patients regarding their options.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are used to detect chromosomal mosaicism in embryos?",
+        "answer": "Chromosomal mosaicism in embryos is detected using high-resolution genome-wide methods, typically based on next-generation sequencing (NGS) of trophectoderm (TE) biopsies, which allows for the identification of intermediate copy number variations in chromosomal analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and its relevance to mosaicism?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is a genetic testing procedure used to evaluate embryos for chromosomal abnormalities before implantation during in vitro fertilization (IVF). In the context of PGT-A, mosaicism refers to the presence of a mix of euploid (normal) and aneuploid (abnormal) cells within an embryo. This type of mosaicism is significant because it can affect the embryo's viability and the outcomes of embryo transfer, as studies have shown that transferring embryos with chromosomal mosaic results can lead to lower implantation rates and higher miscarriage rates compared to transferring euploid embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of transferring embryos with chromosomal mosaic results?",
+        "answer": "Transferring embryos with chromosomal mosaic results, as indicated by PGT-A, has been associated with lower implantation rates and higher miscarriage rates compared to transferring euploid embryos. This suggests that while some embryos with mosaic results may lead to healthy pregnancies, the overall success rates are compromised, and the clinical significance of mosaicism remains an area of ongoing research.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the challenges associated with determining mosaicism in embryos?",
+        "answer": "The challenges in determining mosaicism in embryos include the analytical validity of the testing methods, which can yield intermediate results due to biological or technical reasons unrelated to true mosaicism. Additionally, the developmental potential of mosaic embryos and the clinical significance of detecting mosaicism at the preimplantation stage is still unclear. There is also a concern that the presence of mosaicism in a trophectoderm (TE) biopsy may not accurately reflect the chromosomal makeup of the entire embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the current understanding of the risks associated with mosaicism in embryos?",
+        "answer": "Current understanding of the risks associated with mosaicism in embryos is limited. There is insufficient information regarding the specific types of mosaicism, such as those affecting whole chromosomes or segmental imbalances, and their clinical implications. This lack of data complicates the decision-making process for embryo transfer in IVF treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the PGD International Society (PGDIS) regarding mosaic embryos?",
+        "answer": "The PGD International Society (PGDIS) has issued position statements on the transfer of mosaic embryos, providing guidance for clinicians and patients on this issue.",
+        "is_verified": 1
+    },
+    {
+        "question": "What guidance has the American Society for Reproductive Medicine provided?",
+        "answer": "The American Society for Reproductive Medicine's Practice Committee and Genetic Counseling Professional Group (GCPG) has published guidance on how to counsel patients regarding embryo chromosomal mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the article aim to provide recommendations on?",
+        "answer": "The article aims to provide good practice recommendations on managing the detection of chromosomal mosaicism in clinical practice, including essential elements for consent forms and genetic reports, as well as topics to cover in genetic counseling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should PGT centers consider when developing policies on mosaic embryos?",
+        "answer": "PGT centers should develop their policies on the transfer and cryopreservation of mosaic embryos in consideration of previously published recommendations for the organization of PGT and detection of chromosomal aberrations and monogenic disorders.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within the same individual, which can affect the development and function of embryos during preimplantation genetic testing (PGT).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT and its relevance to chromosomal mosaicism?",
+        "answer": "Preimplantation Genetic Testing (PGT) is a technique used to identify genetic defects in embryos created through in vitro fertilization (IVF) before pregnancy. It is particularly relevant to chromosomal mosaicism as it helps in screening embryos for chromosomal abnormalities, allowing for the selection of healthier embryos for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methodologies are used in PGT for detecting chromosomal mosaicism?",
+        "answer": "Methodologies for detecting chromosomal mosaicism in PGT include various genetic testing methods, such as comprehensive chromosomal screening (PGT-A), which analyzes the chromosomes of embryos to identify any mosaic patterns that may indicate genetic issues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the ESHRE good practice recommendations in relation to PGT and chromosomal mosaicism?",
+        "answer": "The ESHRE good practice recommendations provide guidelines for the detection and management of chromosomal mosaicism during PGT, ensuring that clinical practices are based on the latest scientific evidence and expert consensus, thereby improving patient outcomes in reproductive genetics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within an individual, which can result in varying phenotypes and may have implications for genetic disorders and reproductive health.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of detecting chromosomal mosaicism in medical practice?",
+        "answer": "Detecting chromosomal mosaicism is significant in medical practice as it can influence the management of genetic conditions, inform reproductive choices, and guide treatment options in assisted reproductive technologies such as preimplantation genetic testing (PGT).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are good practice recommendations for managing chromosomal mosaicism?",
+        "answer": "Good practice recommendations for managing chromosomal mosaicism include thorough genetic counseling, careful interpretation of genetic testing results, and consideration of the implications for reproductive options and health outcomes for affected individuals.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of ART/PGT centres are accredited or certified?",
+        "answer": "84.1% of participating ART/PGT centres are accredited/certified according to international and/or national standards.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the median number of ART cycles performed per year by the centres?",
+        "answer": "The median number of ART cycles performed per year by the centres is 700.0.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of ART cycles include any genetic testing?",
+        "answer": "24.2% of ART cycles include any genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres offering PGT-A perform 51–250 PGT-A cycles per year?",
+        "answer": "50.5% of centres offering PGT-A perform 51–250 PGT-A cycles per year.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the percentage of centres that perform up to 100 PGT-M cycles per year?",
+        "answer": "61.0% of centres offering PGT-M perform up to 100 cycles per year.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres perform 1–100 PGT-SR cycles per year?",
+        "answer": "61.9% of centres perform 1–100 PGT-SR cycles per year.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres offer testing for all indication groups?",
+        "answer": "47.7% of centres offer testing for all indication groups (PGT-A, PGT-M/PGT-A, PGT-SR/PGT-A).",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres apply only PGT-A?",
+        "answer": "14.2% of centres apply only PGT-A.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the most frequently applied stage for biopsy in PGT?",
+        "answer": "The most frequently applied stage for biopsy in PGT is the blastocyst stage, with an average of 84.2%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are commonly used for zona breaching during biopsy?",
+        "answer": "The most commonly used method for zona breaching during biopsy is laser-assisted drilling (86.8%). Other methods include combinations of laser drilling and mechanical opening of the zona pellucida (8.0%), and laser drilling with acidic Tyrode’s solution (2.8%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the optimal cell number aimed for in blastocyst biopsy according to the majority of centres?",
+        "answer": "The majority of centres (56.7%) aim for an optimal cell number of 5–10 cells in blastocyst biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres use shallow sequencing as a single test strategy for PGT?",
+        "answer": "About half of the centres use shallow sequencing (very low depth whole-genome sequencing) as a single test strategy to provide information on PGT-SR and/or aneuploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres performing in-house PGT have validated the technology independently from manufacturer validation?",
+        "answer": "88.1% of centres performing in-house PGT indicated that they had validated the technology for PGT independently from manufacturer validation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres included the calling of chromosomal mosaicism in their validation of technology?",
+        "answer": "61.8% (55/89) of centres included the calling of chromosomal mosaicism in their validation of technology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What cut-off level of abnormal cells do 39.1% of centres use to designate a euploid embryo?",
+        "answer": "39.1% of centres use a cut-off level of 20% abnormal cells to designate a euploid embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the percentage of centres that report full information on aneuploidy results in their PGT reports?",
+        "answer": "About 40% of the centres (39.1%; 79/202 replies) include full information on aneuploidy results in their PGT reports.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres specify the degree of mosaicism when reporting it?",
+        "answer": "71.0% (71/100) of centres that report mosaicism specify the degree of mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres provide a recommendation or prioritization for embryo transfer?",
+        "answer": "60.9% of centres include a recommendation or prioritization for embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of mosaicism in embryo transfer recommendations?",
+        "answer": "Mosaicism is considered in embryo transfer recommendations, with 49% of centers acknowledging its importance. Specific criteria for prioritizing mosaic embryos include the level of mosaicism, type of mosaicism (segmental, whole chromosome, complex abnormalities), and the type of chromosomes involved, which can be associated with conditions such as uniparental disomy, severe intrauterine growth retardation, or liveborn syndromes. Genetic counseling is also emphasized for prioritization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the types of mosaicism mentioned in the excerpt?",
+        "answer": "The types of mosaicism mentioned include segmental mosaicism, whole chromosome mosaicism, and complex abnormalities. These classifications are important for understanding the potential implications for embryo viability and associated syndromes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential implications of the type of chromosomes involved in mosaic embryos?",
+        "answer": "The type of chromosomes involved in mosaic embryos can be associated with potential outcomes such as uniparental disomy (UPD), severe intrauterine growth retardation, or liveborn syndromes, which are critical considerations in embryo transfer decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT in the context of ART/PGT centres?",
+        "answer": "PGT stands for preimplantation genetic testing, which is a procedure used in conjunction with ART (assisted reproductive technology) to screen embryos for genetic conditions before implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different types of PGT mentioned in the excerpt?",
+        "answer": "The excerpt mentions several types of PGT: PGT-A (preimplantation genetic testing for aneuploidy), PGT-M (preimplantation genetic testing for monogenic/single gene defects), and PGT-SR (preimplantation genetic testing for chromosomal structural rearrangements).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does chromosomal mosaicism refer to in the context of good practice recommendations?",
+        "answer": "Chromosomal mosaicism refers to a condition where an individual has two or more genetically different cell lines within their body. The excerpt indicates that there are good practice recommendations for managing cases of chromosomal mosaicism in ART/PGT settings.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of genetic counselling in embryo transfer strategies?",
+        "answer": "Genetic counselling is highlighted as important throughout the embryo transfer strategies, particularly in the context of managing mosaic embryos. It helps inform decisions regarding whether to transfer mosaic embryos or euploid embryos based on the specific circumstances of each case.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the preferred strategies for transferring mosaic embryos according to the respondents?",
+        "answer": "The preferred strategies for transferring mosaic embryos include transferring them only if no euploid embryos are available, or opting for vitrification of embryos immediately after biopsy and warming/transfer in a later frozen embryo transfer cycle. Additionally, the majority of centres apply a single embryo transfer strategy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of respondents have experience with transferring mosaic embryos?",
+        "answer": "52.9% of respondents indicated that they have transferred a putative mosaic embryo and would consider doing it again, while 9.8% stated they would never consider transferring a mosaic embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What options are available for mosaic embryos when no euploid embryos are available?",
+        "answer": "When no euploid embryos are available, the preferred option is to transfer/store a single mosaic embryo with ranking. Other options include discarding the mosaic embryo or donating it to research or rebiopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended procedure following the transfer of a mosaic embryo?",
+        "answer": "Following the transfer of a mosaic embryo, prenatal diagnosis is recommended in 95% of centres. Specifically, 62.9% of centres recommend amniocentesis (alone or in combination with other tests), while 32.1% recommend non-invasive prenatal testing (NIPT) and/or chorionic villus sampling (CVS).",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres recommend amniocentesis after transferring a mosaic embryo?",
+        "answer": "62.9% of centres recommend amniocentesis after transferring a mosaic embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the most common recommendation for prenatal testing after mosaic embryo transfer?",
+        "answer": "The most common recommendation for prenatal testing after mosaic embryo transfer is non-invasive prenatal testing (NIPT), which was recommended on its own or in conjunction with further testing if an abnormality is detected.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of patient counselling in the context of embryo transfer?",
+        "answer": "Patient counselling occurs before the start of the PGT cycle and often includes discussions about the fate of mosaic embryos, ensuring that patients are informed and provide consent regarding the transfer of these embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT?",
+        "answer": "PGT stands for preimplantation genetic testing, which is a procedure used to identify genetic defects in embryos created through in vitro fertilization (IVF) before pregnancy. It helps in selecting embryos that are free from specific genetic conditions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the types of PGT mentioned in the excerpt?",
+        "answer": "The excerpt mentions three types of preimplantation genetic testing: PGT-A (for aneuploidy), PGT-M (for monogenic/single gene defects), and PGT-SR (for chromosomal structural rearrangements).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT-A stand for and what is its purpose?",
+        "answer": "PGT-A stands for preimplantation genetic testing for aneuploidy. Its purpose is to screen embryos for chromosomal abnormalities, which can lead to implantation failure, miscarriage, or genetic disorders in the offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT-M stand for and what is its purpose?",
+        "answer": "PGT-M stands for preimplantation genetic testing for monogenic/single gene defects. Its purpose is to identify embryos that carry specific genetic mutations that could lead to inherited diseases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT-SR stand for and what is its purpose?",
+        "answer": "PGT-SR stands for preimplantation genetic testing for chromosomal structural rearrangements. Its purpose is to detect structural abnormalities in chromosomes that may affect embryo development and lead to genetic disorders.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the live birth rate following the transfer of mosaic embryos?",
+        "answer": "The live birth rate (LBR) following the transfer of mosaic embryos was reported to be 64.2% (68/106) of the centres.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres perform follow-up of pregnancies/children after transfer of a mosaic embryo?",
+        "answer": "Follow-up of pregnancies/children after transfer of a mosaic embryo is performed in 68.9% (73/106) of centres.",
+        "is_verified": 1
+    },
+    {
+        "question": "What percentage of centres indicate that information on many children is lost during follow-up?",
+        "answer": "19.8% (21/106) of centres indicate that information on many children is lost during follow-up.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of chromosomal mosaicism in the context of this excerpt?",
+        "answer": "The excerpt discusses the validation of methods for detecting aneuploidy and mosaicism, indicating that chromosomal mosaicism is a significant factor in the context of preimplantation genetic testing (PGT) and embryo transfer outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "How many references were retrieved from the literature search on chromosomal mosaicism?",
+        "answer": "From the literature search, 7623 references were retrieved, of which 6085 were excluded based on predefined criteria.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of the validation of technology mentioned in the excerpt?",
+        "answer": "The validation of technology is aimed at ensuring the accuracy of methods used for detecting aneuploidy and mosaicism, specifically for identifying mosaic embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT and what does it stand for?",
+        "answer": "PGT stands for preimplantation genetic testing, which is a procedure used to identify genetic defects in embryos created through in vitro fertilization (IVF) before pregnancy. It includes different types such as PGT-A for aneuploidy, PGT-M for monogenic/single gene defects, and PGT-SR for chromosomal structural rearrangements.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of reporting aneuploidies and mosaicism in PGT?",
+        "answer": "Reporting aneuploidies and mosaicism in PGT is significant because it helps in assessing the genetic health of embryos. Aneuploidies refer to an abnormal number of chromosomes, while mosaicism indicates the presence of two or more genetically different cell lines within the same embryo. Understanding these factors can influence decisions regarding embryo transfer and the likelihood of a successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the report on minimal size of segmental imbalances indicate?",
+        "answer": "The report on the minimal size of segmental imbalances indicates the smallest chromosomal abnormalities that can be detected by the testing centers. This is important for understanding the sensitivity and specificity of the PGT process in identifying potential genetic issues in embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the degree of mosaicism affect embryo transfer recommendations?",
+        "answer": "The degree of mosaicism can affect embryo transfer recommendations because it provides insight into the potential viability and health of the embryo. Centers that report on the degree of mosaicism may consider this information when making recommendations for embryo transfer, as higher degrees of mosaicism may lead to lower chances of successful implantation and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of transferring mosaic embryos following TE biopsy?",
+        "answer": "A prospective multicentre study and combined meta-analysis reported lower live birth rates (LBRs) and higher miscarriage rates with mosaic embryo transfer. Specifically, one large retrospective study found a statistically significant lower ongoing pregnancy rate (OPR) and LBRs for mosaic embryos compared to euploid embryos (37.0% versus 52.3%), with higher miscarriage rates (20.4% versus 8.6%). A recent double-blinded trial indicated that mosaic embryos in the low to moderate range resulted in LBRs similar to euploid embryos, with no increase in miscarriage risk and no cases of mosaicism or uniparental disomy (UPD) in newborns tested. Additionally, a mosaic PGT-A result based on an intermediate copy number value in the clinical TE biopsy has a very low safety concern.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the predictive value of detecting true mosaicism in embryos?",
+        "answer": "The predictive value with respect to the detection of true mosaicism in the corresponding foetus or newborn is currently under investigation, with no evidence suggesting that offspring from low-range mosaic embryo transfer are at greater risk for adverse outcomes compared to those conceived from euploid/untested embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes after the transfer of putative mosaic embryos?",
+        "answer": "Available data on the outcomes after the transfer of putative mosaic embryos suggest that they may lead to implantation failure or pregnancy loss, or result in a live birth with no apparent abnormality.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the clinical validity of detecting mosaicism at TE biopsy indicate?",
+        "answer": "Studies suggest that high-range mosaicism may represent a technical variation from the uniform aneuploidy range, and that TE biopsy—inner cell mass (ICM) concordance rates are poor for TE biopsies showing mosaicism, decreasing with the use of more dynamic ranges for mosaicism classification.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the concordance of mosaic TE results with the rest of the embryo?",
+        "answer": "Only a few studies have evaluated the concordance of a mosaic TE result with the rest of the embryo and with the ICM, indicating poorer performance in these cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of informed consent in the context of embryo transfer?",
+        "answer": "Informed consent (IC) is crucial in the context of embryo transfer (ET) as it ensures that patients are fully aware of the procedures, risks, and implications of transferring embryos, particularly when discussing the potential for mosaicism. Patients must be counseled about the timing of the transfer and the specific details regarding the embryos being transferred, including any genetic testing results such as preimplantation genetic testing (PGT). This process helps patients make informed decisions regarding their reproductive options.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT stand for and why is it important in reproductive medicine?",
+        "answer": "PGT stands for preimplantation genetic testing. It is important in reproductive medicine as it allows for the genetic screening of embryos before they are implanted in the uterus. This testing can identify genetic abnormalities, including chromosomal mosaicism, which can affect the viability of the embryo and the health of the future child. By using PGT, clinicians can provide patients with information that aids in making informed decisions about embryo transfer and potential outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mosaicism in the context of embryo transfer?",
+        "answer": "Mosaicism refers to the presence of two or more genetically different cell lines within a single embryo. In the context of embryo transfer, understanding mosaicism is important as it can influence the success of implantation and the health of the pregnancy. Patients should be counseled about the implications of transferring a mosaic embryo, as it may carry risks of developmental issues or may not implant successfully. This information is critical for informed consent and patient decision-making.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the concordance rate of mosaic embryos with the rest of the embryo and ICM according to the studies?",
+        "answer": "The concordance rates vary by study and type of mosaicism. For example, Kim et al. (2022) reported a confirmation rate of 2.1% for whole chromosome mosaic and 2.2% for segmental mosaic, while segmental aneuploid had a confirmation rate of 42.1%. Capalbo et al. (2021) found that for mosaic embryos in the 20-30% range, there were 0 concordances with aneuploid and 148 with euploid. Other studies like Wu et al. (2021) and Navratil et al. (2020) also provide various concordance rates for different categories of mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the classifications of ICM results based on the studies mentioned?",
+        "answer": "ICM results were classified as normal (<50%) or abnormal (>50%) according to Capalbo et al. (2021). This classification helps in assessing the viability and genetic health of the embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of mosaic errors were identified in the studies?",
+        "answer": "The studies identified various types of mosaic errors including whole chromosome errors, segmental chromosome errors, and complex chromosome errors. For instance, Fragouli et al. (2019) reported 16 mosaic whole chromosome errors, 15 mosaic segmental chromosome errors, and 12 mosaic complex chromosome errors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does TE and ICM stand for in the context of the studies?",
+        "answer": "TE stands for trophectoderm, which is the outer layer of the blastocyst that contributes to the placenta, while ICM stands for inner cell mass, which is the group of cells in the blastocyst that will develop into the embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the predictive value of TE biopsy for detecting mosaic findings?",
+        "answer": "The positive predictive value (PPV) for putative mosaic findings between TE biopsy and embryonic outgrowth on Day 12 has been found to be poor.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the concordance rate for mosaic TE biopsy results based on rebiopsy data?",
+        "answer": "The concordance rate for mosaic TE biopsy results was 42.6%, with 123 out of 289 mosaic embryos confirmed as mosaic at retest.",
+        "is_verified": 1
+    },
+    {
+        "question": "What cut-off values are used to define low-range and high-range mosaicism?",
+        "answer": "Cut-off values of 40% and 50% are used to define low-range mosaicism (abnormal cells between 20% and 39%) and high-range mosaicism (abnormal cells between 40% and 80%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the meta-analysis regarding outcomes after transferring low- or high-range mosaic embryos?",
+        "answer": "The meta-analysis showed no difference in outcomes (ongoing pregnancy rate, live birth rate, and miscarriage rate) after transferring low- or high-range mosaic embryos when a 40% cut-off value was used. However, when a 50% cut-off was employed, low-range mosaic embryos showed a higher ongoing pregnancy rate and lower miscarriage rate.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of mosaic embryos in reproductive medicine?",
+        "answer": "Mosaic embryos, which contain a mix of normal and abnormal cells, have been studied to understand their impact on reproductive outcomes. Research indicates that there may be no significant difference in outcomes such as live birth rate (LBR), ongoing pregnancy rate (OPR), clinical pregnancy rate, multiple pregnancy rate, and miscarriage rate when transferring low-range mosaic embryos (20-30% abnormal cells) compared to moderate-range mosaic embryos (30-50%). Additionally, studies have shown that higher levels of mosaicism are associated with increased rates of full aneuploidy, suggesting that the detection of high-range mosaicism may indicate a higher likelihood of chromosomal abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of chromosomal mosaicism in preimplantation genetic testing (PGT)?",
+        "answer": "Chromosomal mosaicism is a phenomenon observed in embryos that can complicate the interpretation of preimplantation genetic testing (PGT). The presence of mosaicism is linked to genetic testing outcomes, and the management of embryos with mosaic test results is crucial for clinical decision-making. While the article discusses the management of these embryos, it emphasizes that the clinical benefits and applications of PGT, particularly PGT-A (preimplantation genetic testing for aneuploidy), are outside its scope. However, understanding mosaicism is essential for optimizing embryo selection and improving reproductive outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the goal of PGT-A in clinical practice?",
+        "answer": "The goal of PGT-A (Preimplantation Genetic Testing for Aneuploidies) is to detect aneuploidies in embryos and withhold them from transfer under the hypothesis that embryos with a chromosomally abnormal test result would lead to implantation failure, miscarriage, or an ongoing aneuploid pregnancy or birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of chromosomal mosaicism in PGT-A?",
+        "answer": "There is an imbalance in the published data regarding chromosomal mosaicism, which may lead to the incorrect perception that it is a phenomenon unique to PGT-A. However, chromosomal mosaicism is also detected in other PGT modalities such as PGT-M and PGT-SR.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of PGT-M?",
+        "answer": "PGT-M (Preimplantation Genetic Testing for Monogenic disorders) is performed for patients who have a genetic problem, specifically a high risk of transmitting a gene defect to the next generation, but not necessarily an infertility problem.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does PGT-SR aim to achieve?",
+        "answer": "PGT-SR (Preimplantation Genetic Testing for Structural Rearrangements) is performed upon indication, such as in patients with a balanced translocation, and aims to withhold from transfer those embryos that reveal unbalanced translocations, which could lead to miscarriage, stillbirth, or severe disabilities in children born.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors can limit the accuracy of detecting chromosomal mosaicism?",
+        "answer": "Both biological factors and technical artifacts can significantly limit the accuracy of detecting chromosomal mosaicism and segmental imbalances. For example, technical noise such as aneuploid TE biopsies with DNA contamination, and biological factors like polyploid embryos with extra or missing chromosomes can complicate the detection process.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of TE biopsies in evaluating embryo genetic status?",
+        "answer": "TE biopsies are significant because they provide insight into the genetic status of the embryo, particularly in assessing conditions like mosaicism. The accuracy of these biopsies can be influenced by various factors such as cellularity, quality, and technical limitations, which can affect the reliability of the results. Understanding the relationship between TE biopsy results and the inner cell mass (ICM) is crucial for confirming the clinical validity of detecting mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What challenges are associated with the clinical validity of detecting mosaicism in embryos?",
+        "answer": "Challenges associated with the clinical validity of detecting mosaicism include variability in TE biopsy characteristics, potential contamination, and technical artefacts that may impact analysis. Additionally, there is a need for more studies to determine concordance rates between TE results and ICM to establish the reliability of mosaicism detection as a diagnostic criterion.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does mosaicism impact clinical decision-making in embryo selection?",
+        "answer": "Mosaicism impacts clinical decision-making by introducing a new diagnostic criterion that may improve embryo selection processes. However, the clinical utility of considering mosaicism is still under investigation, as studies show varied outcomes in terms of live birth rates and miscarriage rates when transferring mosaic embryos, depending on differing patient inclusion criteria and mosaicism designation thresholds.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of mosaicism in embryos?",
+        "answer": "Mosaicism in embryos can lead to potential wastage of viable and healthy embryos if stringent measures are applied for determining and handling them. This raises concerns about the clinical utility and impact of such measures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What strategies have researchers proposed for prioritizing mosaic embryos?",
+        "answer": "Researchers have proposed embryo prioritization strategies based on the outcomes of mosaic embryo transfers, such as prioritizing lower range mosaicism embryos over higher-range ones, segmental mosaics over whole chromosome mosaics, and single and double mosaics over complex mosaics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism and how can it be detected?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within an embryo. It can be detected using all three preimplantation genetic testing (PGT) modalities: PGT-A (for aneuploidy), PGT-SR (for structural rearrangements), and PGT-M (for monogenic disorders).",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors should PGT centers consider when reporting mosaicism?",
+        "answer": "PGT centers should consider factors such as the PGT modality, biopsy method and procedure, results of validation experiments, and the genetic testing platform's resolution and detection limits when reporting mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations have been formulated for handling embryos with chromosomal mosaicism?",
+        "answer": "Recommendations for good practice in detecting, reporting, and handling embryos with a TE result indicating chromosomal mosaicism have been formulated based on published data and surveys, as well as existing good practice documents on PGT.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for managing chromosomal mosaicism in embryos?",
+        "answer": "The recommendations aim to provide guidance for centers on managing 'mosaic' embryos, ensuring compliance with statutory requirements and clinical practice guidelines. They highlight the need for further research to address knowledge gaps in mosaicism detection and the accuracy of detecting mosaic segmental imbalances.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mosaicism detection based on?",
+        "answer": "Mosaicism detection is based on validation studies with cell mixtures, which serve as models but may not fully represent the variation in biopsies with limited cell numbers. There is a need for larger datasets and diverse methodologies to improve accuracy in detecting specific subtypes of mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of genome amplification methods in mosaicism detection?",
+        "answer": "Novel genome amplification methods are clinically implemented in PGT-A and are significant for improving the detection of mosaicism, which is crucial for assessing clinical validity and making informed decisions in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of mosaicism in embryo transfer during PGT-A cycles?",
+        "answer": "Mosaicism, particularly low- to moderate-range mosaicism, may not negatively affect live birth rates (LBRs). However, high-range mosaicism (greater than 50%) is less well studied, but it is hypothesized that most high-range mosaic embryos would be aneuploid, leading to non-implantation or miscarriage. Despite this, high-range mosaic embryos could still result in viable pregnancies and healthy babies, offering potential options for couples with limited alternatives. It is recommended to co-evaluate mosaicism with embryo morphology, as aneuploid cells tend to grow more slowly and exhibit different cellular shapes. Further research is needed to clarify the relationship between embryo morphology and genetic constitution.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between mosaicism in TE biopsy and live birth rates?",
+        "answer": "The level of mosaicism in TE biopsy has been related to the chance of live birth following embryo transfer, indicating that higher or lower levels of mosaicism may influence the likelihood of a successful pregnancy outcome.",
+        "is_verified": 1
+    },
+    {
+        "question": "What types of embryos should be included in studies investigating mosaicism?",
+        "answer": "Studies should include low-range and/or high-range mosaic aneuploid embryos to better understand the implications of mosaicism on pregnancy outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What aspects of pregnancy outcomes are currently lacking in research related to mosaic embryos?",
+        "answer": "Current research has primarily focused on implantation and pregnancy but has not adequately addressed live birth rates and the health of the newborn, which are critical for understanding the full impact of mosaic embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is suggested for improving the understanding of mosaic embryo transfer outcomes?",
+        "answer": "It is suggested that large-scale systematic registration of the degree and type of mosaicism in transferred embryos, along with prenatal follow-up data and birth outcomes, is necessary to fully understand the clinical consequences of mosaic embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does prenatal follow-up play in the context of mosaic embryo transfer?",
+        "answer": "Prenatal follow-up is largely implemented in clinical practice to monitor pregnancies resulting from mosaic embryo transfer, but the data collected is not systematically recorded or shared with the scientific community, limiting the understanding of outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the general recommendations for managing chromosomal mosaicism in a PGT workflow?",
+        "answer": "It is recommended that ART/PGT centres develop and document their approach for managing chromosomal mosaicism, including technical assessment, transfer/cryopreservation strategy, and reporting policy. They should monitor data on chromosomal mosaicism and adapt their policy based on new evidence. If the PGT technique does not assess chromosomal mosaicism, this should be discussed with patients during genetic counselling. If it can be assessed, the strategy for designating mosaicism and its limitations should also be discussed with patients. It is acceptable for a PGT centre not to report mosaicism if they have a classification strategy in place, but a 'mosaic' embryo should not be considered aneuploid by definition.",
+        "is_verified": 1
+    },
+    {
+        "question": "What specific recommendations are provided for genetic counselling regarding chromosomal mosaicism?",
+        "answer": "Counselling related to genetic analysis should include discussions about chromosomal mosaicism as a biological phenomenon in human preimplantation embryos and its potential impact on diagnosis, embryo transfer, and cycle outcomes. Laboratories should state their approach to managing mosaicism in the consent form for genetic testing and discuss it during counselling sessions prior to initiating PGT.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of genetic counselling in relation to mosaicism?",
+        "answer": "Genetic counselling should include the technical and biological limitations associated with the detection of mosaicism, as well as the centre’s policy on transfer and cryopreservation of mosaic embryos. Further genetic counselling may be required prior to embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations are made for the validation of methods used for preimplantation genetic testing (PGT)?",
+        "answer": "Validation of all methods used for PGT is recommended, and it is advised that PGT centres regularly participate in external quality assessment (EQA) schemes. Additionally, due to the presence of chromosomal mosaicism in multicell trophectoderm (TE) biopsy samples, it is recommended to include mosaic samples in the validation study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be documented if mosaicism is reported in a genetic test?",
+        "answer": "If mosaicism is reported, it is recommended that validation experiments are performed, and the validation data along with specific criteria (such as quality control and cut-off) used for classifying mosaicism should be clearly documented and made available to the assisted reproductive technology (ART) centre.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with chromosomal mosaicism in embryos?",
+        "answer": "Risk assessment should cover the risk of inconclusive or false-positive/negative results due to technical and biological reasons. Detection of chromosomal mosaicism in a TE biopsy may not accurately reflect the constitution of the entire embryo or its viability. Additionally, there is a risk of miscarriage, stillbirth, unbalanced offspring, mosaic offspring, or offspring with a chromosomal imbalance that is below the resolution of the test.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is recommended for the designation and reporting of mosaicism?",
+        "answer": "If mosaicism is reported, it is recommended to use stringent criteria for designating the range of mosaicism to avoid the risk of overcalling mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended terminology for reporting findings consistent with mosaicism in PGT reports?",
+        "answer": "The recommended terminology includes phrases such as 'putative mosaic', 'indicating mosaicism', or 'suggestive of mosaicism'.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the cut-off percentage used to discriminate between low-range and high-range mosaicism?",
+        "answer": "A cut-off of 50% can be used to discriminate between low-range and high-range mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations should be stated in the PGT report regarding the detection of mosaicism?",
+        "answer": "All technical and biological limitations associated with the detection of mosaicism should be clearly stated in the PGT report.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of including embryos diagnosed with (mosaic) segmental imbalances in systematic registration?",
+        "answer": "Including embryos diagnosed with (mosaic) segmental imbalances in systematic registration is significant as it helps clarify the fate of these embryos and can guide future decision-making regarding their transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the current understanding of the relationship between TE biopsy and the genetic status of the embryo?",
+        "answer": "It is currently unknown to what extent the aneuploidy in a TE biopsy reflects the status of the ICM or the remainder of the TE, indicating a need for further studies to investigate the concordance/discordance of the mosaicism status between TE and ICM.",
+        "is_verified": 1
+    },
+    {
+        "question": "What do studies suggest about the fate of aneuploid cells in TE and ICM during embryogenesis?",
+        "answer": "Data from model systems suggest that aneuploid cells in TE and ICM may have different fates and persistence during embryogenesis, and that different chromosomal aneuploidies may have distinct developmental potentials among different tissues.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does the current PGT-A standard of care determine the ploidy status of chromosomes?",
+        "answer": "The current PGT-A standard of care relies on low-pass sequencing methods to determine the ploidy status of different chromosomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the difference between meiotic and mitotic aneuploidies in terms of their origin and presence in embryos?",
+        "answer": "A meiotic error is passed from the gametes to the embryo and is more likely to be present in a majority of cells compared to a mitotic error, which affects the viability of mosaic meiotic aneuploidy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the value of NIPT in the prenatal follow-up after mosaic embryo transfer?",
+        "answer": "Standard NIPT testing and CVS are probably not the best options for prenatal testing after transfer of a mosaic embryo. Genome-wide NIPT (24 chromosome NIPT methodology) allows accurate detection of placental mosaicism for rare autosomal trisomies. Genome-wide NIPT may therefore be a first monitoring system to identify potentially concerning conditions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be included in the PGT report for embryo transfer?",
+        "answer": "The PGT report should contain technical information to allow careful interpretation of the data. In cases when embryos are transported between different centres, detailed technical information should be available upon request.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for embryo transfer among euploid and low-range mosaics?",
+        "answer": "When selecting embryos for transfer among euploid and low-range mosaics, the TE biopsy PGT-A result should be co-evaluated with embryo morphology and preferably not be assessed on its own. A new stimulation cycle is not recommended when embryos with ‘low-range’ mosaicism in their associated TE biopsy specimen are available for transfer. It is not acceptable to discard low-range mosaic embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is re-biopsy of embryos with a mosaic TE biopsy result recommended?",
+        "answer": "Re-biopsy of embryos with a mosaic TE biopsy result for the purpose of confirming chromosomal/ploidy status is not recommended since there is no evidence that this has diagnostic value, and it may have a possible negative impact on further embryonic development and implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of genetic counselling in the transfer of high-range mosaic embryos?",
+        "answer": "Genetic counselling is a prerequisite for the transfer of a high-range mosaic embryo, whether in a research setting or routine clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be considered regarding chromosomal mosaic results in PGT-M or PGT-SR?",
+        "answer": "Chromosomal mosaic results should be considered with respect to their impact on the accuracy of the PGT-M/PGT-SR diagnostic results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What recommendations are made for prenatal testing and follow-up after PGT?",
+        "answer": "Genetic counselling on prenatal diagnosis should be offered to all women who become pregnant following PGT, even if no recommendations can be made at present regarding the preferred prenatal follow-up for pregnancies achieved following low-range mosaic embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is a finding consistent with low-range mosaicism in a clinical TE biopsy an indication for invasive prenatal diagnosis?",
+        "answer": "No, a finding consistent with low-range mosaicism in a clinical TE biopsy does not represent an indication for invasive prenatal diagnosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should ART/PGT centres be encouraged to do regarding babies born after treatment?",
+        "answer": "ART/PGT centres should be encouraged to obtain follow-up data on babies born after treatment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of reporting low-range mosaicism in affected foetuses?",
+        "answer": "Reporting low-range mosaicism is significant because genetic findings should be reported based on their demonstrable clinical utility. This means that the information provided must have relevance to the clinical situation of the patients, balancing the need to inform with the actual clinical implications of the findings. It raises questions about the benefits for both couples and professionals, which can be explored further in qualitative studies and ethical discussions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role do qualitative studies and ethical discussions play in the context of genetic findings?",
+        "answer": "Qualitative studies and ethical discussions play a crucial role in understanding the implications of genetic findings, particularly in cases of low-range mosaicism. They help explore the tension between providing information to patients and the limited clinical relevance of certain findings, ensuring that the reporting of genetic information is both responsible and beneficial to the patients involved.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of chromosomal mosaicism in preimplantation embryos?",
+        "answer": "Chromosomal mosaicism in preimplantation embryos refers to the presence of two or more genetically different cell lines within the same embryo. This condition can affect the developmental potential of the embryo, as some cells may carry chromosomal abnormalities while others do not. Studies have shown that mosaic embryos can still develop normally, but the likelihood of successful implantation and healthy development may vary. Understanding chromosomal mosaicism is crucial for improving outcomes in assisted reproductive technologies such as in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of non-invasive prenatal testing for detecting fetoplacental chromosomal mosaicism?",
+        "answer": "Non-invasive prenatal testing (NIPT) allows for the detection of chromosomal abnormalities in the fetus by analyzing cell-free fetal DNA in the maternal blood. The ability to predict fetoplacental chromosomal mosaicism through NIPT has significant implications for prenatal care, as it can inform expectant parents about potential risks and guide clinical decision-making. Early detection of such conditions can lead to better management strategies during pregnancy and may influence choices regarding further testing or interventions.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does next-generation sequencing contribute to the understanding of chromosomal composition in embryos?",
+        "answer": "Next-generation sequencing (NGS) is a powerful tool that allows for detailed analysis of the chromosomal composition of embryos. By examining the genetic material from trophectoderm biopsies and the inner cell mass, researchers can assess the concordance of chromosomal abnormalities. This information is vital for evaluating the viability of embryos in the context of IVF, as it helps in selecting embryos with the best developmental potential and reducing the risk of genetic disorders in offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the good practice recommendations for polar body and embryo biopsy for preimplantation genetic testing (PGT)?",
+        "answer": "The ESHRE PGT Consortium and SIG Embryology Biopsy Working Group provided good practice recommendations for polar body and embryo biopsy for PGT, emphasizing the importance of standardized procedures to ensure the accuracy and reliability of genetic testing results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the PGDIS position statement on the transfer of mosaic embryos?",
+        "answer": "The PGDIS position statement addresses the clinical considerations and recommendations regarding the transfer of mosaic embryos, which are embryos with a mixture of normal and abnormal cells, highlighting the implications for reproductive outcomes and patient counseling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the good practice recommendations for the detection of monogenic disorders in preimplantation genetic testing?",
+        "answer": "The ESHRE PGT-M Working Group outlined good practice recommendations for the detection of monogenic disorders in PGT, focusing on the methodologies and protocols to accurately identify genetic conditions before embryo transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the good practice recommendations for the organization of preimplantation genetic testing (PGT)?",
+        "answer": "The ESHRE PGT Consortium Steering Committee provided good practice recommendations for the organization of PGT, which include guidelines on laboratory protocols, patient management, and ethical considerations to enhance the effectiveness of PGT procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the good practice recommendations for the detection of structural and chromosomal mosaicism in preimplantation genetic testing?",
+        "answer": "The ESHRE PGT-SR/PGT-A Working Group developed good practice recommendations for the detection of structural and chromosomal mosaicism in PGT, aiming to improve the understanding and management of embryos with chromosomal abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are numerical chromosomal aberrations?",
+        "answer": "Numerical chromosomal aberrations refer to changes in the number of chromosomes in a cell, which can lead to various genetic disorders and reproductive issues. These aberrations can be detected through comprehensive chromosome screening strategies in human embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of comprehensive chromosome screening in human blastocysts?",
+        "answer": "Comprehensive chromosome screening is significant as it provides insights into the cytogenetic constitution of human blastocysts, helping to identify chromosomal abnormalities that may affect embryo viability and the success of implantation during in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical error rates associated with next-generation sequencing in embryo transfer?",
+        "answer": "Clinical error rates of next-generation sequencing and array comparative genomic hybridization can impact the accuracy of embryo selection during single thawed euploid embryo transfer, which is crucial for successful IVF outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the PGDIS position statement on mosaic embryos indicate?",
+        "answer": "The PGDIS position statement on the transfer of mosaic embryos indicates that new information on preimplantation genetic testing for aneuploidy (PGT-A) has implications for clinical practices regarding the selection and transfer of embryos that may have chromosomal mosaicism.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is karyomapping and its relevance in genetic disease analysis?",
+        "answer": "Karyomapping is a universal method for genome-wide analysis of genetic diseases, which is based on mapping crossovers between parental haplotypes. This technique is relevant for identifying genetic disorders and ensuring healthy embryo selection during IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of transferring mosaic aneuploid blastocysts?",
+        "answer": "Transferring mosaic aneuploid blastocysts has implications for reproductive outcomes, as evidenced by cases where healthy babies were born after such transfers, suggesting that not all mosaic embryos lead to adverse outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of copy number analysis in embryology?",
+        "answer": "Copy number analysis of meiotic and postzygotic mitotic aneuploidies in trophoblast cells biopsied at the blastocyst stage is important for understanding the genetic health of embryos and improving the selection process in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of preimplantation genetic testing (PGT) in embryo transfer?",
+        "answer": "Preimplantation genetic testing (PGT) is significant in embryo transfer as it allows for the assessment of embryos for chromosomal abnormalities before implantation. This testing can help identify aneuploid embryos, which may lead to unsuccessful pregnancies or genetic disorders. By using techniques such as PGTseq, clinicians can evaluate the genetic makeup of embryos, improving the chances of successful implantation and healthy live births.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical implications of chromosomal mosaicism in embryos?",
+        "answer": "Chromosomal mosaicism in embryos refers to the presence of two or more genetically different cell lines within the same embryo. This condition can have significant clinical implications for preimplantation and prenatal diagnosis, as it may affect the embryo's viability and the risk of genetic disorders. Understanding the origins and consequences of mosaicism is crucial for making informed decisions regarding embryo transfer and potential outcomes for pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the evidence suggest about the transfer of mosaic embryos?",
+        "answer": "Evidence suggests that the transfer of mosaic embryos may still result in successful pregnancies, but the outcomes can vary significantly based on the degree of mosaicism and the specific genetic abnormalities present. The PGDIS position statement highlights the need for careful consideration and clinical prioritization when deciding to transfer mosaic embryos, as they may have their own genetic identity and potential for development.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does high-resolution next-generation sequencing contribute to the detection of mosaicism in embryos?",
+        "answer": "High-resolution next-generation sequencing enhances the detection of mosaicism in embryos by providing detailed genetic information about chromosomal errors at the blastocyst stage. This advanced technology allows for the identification of segmental aneuploidies and other chromosomal abnormalities, which can inform clinical decisions regarding embryo viability and the likelihood of successful implantation during assisted reproductive procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chromosomal mosaicism in human embryos?",
+        "answer": "Chromosomal mosaicism refers to the presence of two or more genetically different cell lines within a single embryo. This condition can complicate the diagnosis and management of embryos during in vitro fertilization (IVF) and preimplantation genetic testing (PGT).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of trophectoderm biopsy in diagnosing chromosomal mosaicism?",
+        "answer": "Trophectoderm biopsy is a procedure where a small sample of cells is taken from the outer layer of the embryo (the trophectoderm) for genetic testing. This method is significant for diagnosing chromosomal mosaicism as it allows for the assessment of the genetic makeup of the embryo, which is crucial for determining its viability and potential for successful implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical implications of chromosomal mosaicism in IVF treatments?",
+        "answer": "The extent of chromosomal mosaicism can significantly influence the clinical outcomes of IVF treatments. Embryos with mosaicism may have varied developmental potential, affecting implantation rates and the likelihood of a successful pregnancy. Understanding the mosaic status can guide clinical decisions regarding embryo transfer and management strategies in IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of preimplantation genetic testing for aneuploidy (PGT-A) in managing mosaic embryos?",
+        "answer": "Preimplantation genetic testing for aneuploidy (PGT-A) plays a critical role in managing mosaic embryos by allowing clinicians to identify chromosomal abnormalities before implantation. This testing helps in selecting embryos with the best chance of resulting in a healthy pregnancy, thereby improving the overall success rates of IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the first report of a live birth from a mosaic embryo transfer?",
+        "answer": "The first report of a live birth from a mosaic embryo transfer documented a case involving a non-mosaic partial aneuploidy and uniparental disomy 15. This case highlights the potential for successful pregnancies even with embryos that exhibit chromosomal abnormalities, challenging previous assumptions about the viability of such embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the ESHRE PGT Consortium data collection?",
+        "answer": "The ESHRE PGT Consortium data collection provides insights into preimplantation genetic testing (PGT) analyses, specifically detailing the trends and outcomes of PGT from 2016 to 2017, which is crucial for understanding advancements in reproductive medicine and genetic diagnosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the APCAD method mentioned in the excerpt?",
+        "answer": "The APCAD (Analysis of Parental Contribution for Aneuploidy Detection) is a novel method developed to detect aneuploidy and mosaicism in preimplantation embryos, which is significant for improving the accuracy of genetic testing in assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the topics covered in the article by Vermeesch JR, Voet T, and Devriendt K?",
+        "answer": "The article discusses prenatal and pre-implantation genetic diagnosis, highlighting the importance of genetic testing before implantation to identify potential genetic disorders, which is essential for informed reproductive choices.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are good practice recommendations for chromosomal mosaicism?",
+        "answer": "Good practice recommendations for chromosomal mosaicism provide guidelines for the management and interpretation of mosaicism in genetic testing, which is important for clinicians to ensure accurate diagnosis and counseling for patients undergoing preimplantation genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the European recommendations for good practice in addition to an evidence-based guidelines programme?",
+        "answer": "The excerpt references a publication by Vermeulen et al. that discusses European recommendations for good practice in addition to an evidence-based guidelines programme, detailing the rationale and method of development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of transferring mosaic embryos in clinical practice?",
+        "answer": "The excerpt mentions a study by Victor et al. that explores the outcomes of transferring one hundred mosaic embryos in a single clinic, focusing on when and why these transfers result in healthy pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing for chromosomal abnormalities?",
+        "answer": "Viotti discusses preimplantation genetic testing for chromosomal abnormalities, including aneuploidy, mosaicism, and structural rearrangements, indicating its relevance in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the true incidence of chromosomal mosaicism after preimplantation genetic testing?",
+        "answer": "Wu et al. state that the true incidence of chromosomal mosaicism after preimplantation genetic testing is much lower than indicated by trophectoderm biopsy, highlighting a significant finding in reproductive genetics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What advancements have been made in embryo selection based on mosaicism?",
+        "answer": "Viotti et al. emphasize the need to consider mosaicism during embryo selection and discuss the formulation of an embryo ranking system based on outcome data from one thousand mosaic embryo transfers, indicating advancements in clinical practices for embryo selection.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are being developed for single-cell library preparation in genomics?",
+        "answer": "Zahn et al. describe a scalable method for whole-genome single-cell library preparation without preamplification, which is relevant for genomic studies in medical research.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the international glossary on infertility and fertility care?",
+        "answer": "The international glossary on infertility and fertility care provides standardized definitions and terminology that are essential for understanding and discussing infertility and fertility treatments. It helps healthcare professionals communicate effectively and ensures consistency in research and clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the study on blastomere movement in early-stage human embryos suggest?",
+        "answer": "The study indicates that blastomere movement is correlated with ploidy and mosaicism in early-stage human embryos after in vitro fertilization. This suggests that the physical behavior of cells in embryos may be linked to their genetic composition, which could have implications for embryo selection in fertility treatments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the prospective multicenter study on mosaic embryo transfer?",
+        "answer": "The prospective multicenter study and meta-analysis on mosaic embryo transfer found that the pregnancy outcomes of transferring mosaic embryos can vary, and it provides insights into the potential risks and benefits associated with this practice in assisted reproductive technology.",
+        "is_verified": 1
+    }
+]

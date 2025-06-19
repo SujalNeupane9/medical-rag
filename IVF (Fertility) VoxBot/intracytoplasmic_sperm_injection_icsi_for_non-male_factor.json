@@ -1,0 +1,497 @@
+[
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a medical procedure used to improve fertilization in couples with male factor infertility. It involves injecting a single sperm directly into an egg, and is typically used in conjunction with in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the indications for using ICSI?",
+        "answer": "ICSI is indicated for couples with low or absent fertilization due to male factor infertility, as well as for couples who have experienced fertilization failure in a prior IVF cycle without detectable abnormalities in semen parameters. It is also used in cases where semen parameters meet the World Health Organization 2010 normative reference values.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the safety and efficacy of ICSI?",
+        "answer": "Studies have shown that ICSI is safe and effective for treating various male factor conditions, although the diagnostic criteria for male factor infertility may not perfectly predict poor or absent fertilization outcomes in assisted reproductive technology (ART).",
+        "is_verified": 1
+    },
+    {
+        "question": "How has the use of ICSI changed over time?",
+        "answer": "The use of ICSI has become more common for patients with borderline or even normal semen parameters, expanding its application beyond traditional male factor infertility cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and how has its usage changed over time in the United States?",
+        "answer": "ICSI, or Intracytoplasmic Sperm Injection, is a medical procedure used in assisted reproductive technology where a single sperm is injected directly into an egg. In the United States, the use of ICSI for all indications increased from 36.4% in 1996 to 76.2% in 2012, with the largest increase occurring in cycles with non-male factor infertility, rising from 15.4% to 66.9%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does CDC data indicate about ICSI usage for diagnosed male factor infertility?",
+        "answer": "Data from the U.S. Centers for Disease Control and Prevention (CDC) in 2016 indicated that the percentage of fresh nondonor oocyte retrievals that used ICSI for diagnosed male factor infertility ranged from 87% to 94% across all age groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What findings were reported in the cohort study published in 2018 regarding ICSI and live-birth rates?",
+        "answer": "A cohort study published in 2018 using CDC data found that the increased use of ICSI did not correlate with an increase in the diagnosis of male factor infertility in patients under 35 years, and there was only a modest increase in live-birth rates per cycle over the study period from 2000 to 2014.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the proposed indications for using ICSI in cases without identifiable male factor infertility?",
+        "answer": "Proposed indications for the use of ICSI where there is no identifiable male factor include unexplained infertility, poor-quality oocytes, low oocyte yield, advanced maternal age, prior fertilization failure with conventional insemination, preimplantation genetic testing (PGT), fertilization after in vitro maturation (IVM), and fertilization of cryopreserved oocytes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the rationale behind the use of ICSI in cases without male factor infertility?",
+        "answer": "The rationale for using ICSI in cases without identifiable male factor infertility, with the exception of preimplantation genetic testing (PGT), is to avoid fertilization failure. However, the likelihood of fertilization failure must be balanced against the potential risks and costs of the procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and its relevance to unexplained infertility?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a medical procedure used in assisted reproductive technology where a single sperm is injected directly into an egg. It has been proposed for use in patients with unexplained infertility because it may bypass potential fertilization barriers that could be causing the infertility. This technique can increase the chances of fertilization and subsequent live birth in cases where traditional methods have failed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the fertilization rates after ICSI compared to conventional insemination?",
+        "answer": "The fertilization rates after ICSI were 65.3% versus 48.1% and 61.0% versus 51.6% for the two studies, respectively, with statistical significance (P<.001).",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the occurrence of fertilization failure in the conventional insemination groups compared to the ICSI groups?",
+        "answer": "Fertilization failure occurred more commonly in the conventional insemination groups than in the ICSI groups: 0 versus 16.7% and 0.8% versus 19.2%, respectively, with statistical significance (P<.002 and P<.001).",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the study involving 60 women with unexplained infertility regarding fertilization rates?",
+        "answer": "The study found no statistically significant differences in the primary outcome (fertilization rate 77.2% vs. 82.4%) or in secondary outcomes such as embryo quality, implantation rate, clinical pregnancy rate, or live-birth rate between conventional insemination and ICSI groups.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the result of the randomized trial comparing conventional insemination with ICSI in 100 couples?",
+        "answer": "The trial revealed no difference in pregnancy rates between the two treatment groups: IVF 32% and ICSI 38%, with a relative risk (RR) of 0.83 and a 95% confidence interval (CI) of 0.48–1.45.",
+        "is_verified": 1
+    },
+    {
+        "question": "What limitations were noted in the studies comparing ICSI and conventional insemination?",
+        "answer": "The studies were limited by their small sample sizes and the fact that they used sibling oocytes, which affected the ability to ascertain the impact of insemination or ICSI on clinical outcomes such as implantation, pregnancy, or live-birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the fertilization rate observed in ICSI fertilized oocytes compared to conventional IVF?",
+        "answer": "An almost 30% higher fertilization rate was observed in ICSI fertilized oocytes (RR 1.27; 95% CI, 1.02–1.58).",
+        "is_verified": 1
+    },
+    {
+        "question": "How does fertilization failure compare between conventional insemination and ICSI?",
+        "answer": "Fertilization failure was over eight times more likely in cycles that used conventional insemination compared with ICSI (RR 8.22; 95% CI, 4.44–15.23).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the failed fertilization rate in the conventional fertilization group?",
+        "answer": "The failed fertilization rate was 21.5% (194 of 901) in the conventional fertilization group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the current evidence suggest about the routine use of ICSI for unexplained infertility?",
+        "answer": "The current evidence regarding the benefits of the routine use of ICSI for unexplained infertility is limited, suggesting that ICSI may be associated with a decreased occurrence of fertilization failure but does not demonstrate an improvement in live birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What challenges are presented by morphologically abnormal oocytes in ICSI?",
+        "answer": "Morphologically abnormal oocytes (with either nuclear, cytoplasmic, or zona pellucida abnormalities) in the presence of normal semen parameters create a clinical challenge, and no studies have addressed whether the use of ICSI in such cases improves live birth.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the theoretical benefit of using ICSI in cases of low oocyte yield?",
+        "answer": "Intracytoplasmic sperm injection is commonly used in cases of low oocyte yield to theoretically increase the number of embryos achieved compared with the number expected with conventional insemination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the impact of ICSI compared to conventional insemination on fertilization rates and live birth outcomes?",
+        "answer": "The study found that ICSI provided statistically similar outcomes compared to conventional insemination in terms of fertilization rates (77.7% vs. 70.2%), fertilization failure (11.5% vs. 11.5%), embryo quality, mean embryos per patient (2.5 vs. 2.2), clinical pregnancy rates (17.3% vs. 21.1%), and miscarriage rates (33.3% vs. 36.4%). Additionally, for women with elevated levels of follicle-stimulating hormone (FSH) as the only infertility diagnosis, ICSI did not improve the odds of live birth. In cycles meeting the criteria for diminished ovarian reserve, ICSI was associated with a lower live-birth rate compared to conventional IVF, showing an absolute decrease of 1.5% (20.4% live birth rate in ICSI versus 21.9% in cycles without ICSI). Overall, the use of ICSI for low oocyte yield does not significantly improve fertilization rates, embryo number and quality, or live-birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of advanced maternal age on oocyte quality and fertilization rates?",
+        "answer": "Oocytes retrieved from older women have been theorized to have structural defects of the zona pellucida or cytoplasm, which might reduce the fertilization rate with conventional insemination. This suggests that advanced maternal age may negatively impact the quality of oocytes, potentially affecting fertilization outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the excerpt suggest about fertilization rates in women older than 35 years compared to younger women?",
+        "answer": "The excerpt indicates that the fertilization rates for women older than 35 years using conventional insemination are similar to those of younger women, with rates of 64% for older women and 67% for younger women as demonstrated in a retrospective study.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the clinical pregnancy rates between conventional fertilization and ICSI?",
+        "answer": "The clinical pregnancy rates are 21.1% for conventional fertilization and 16.7% for ICSI.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the live-birth rates for women who had oocytes fertilized by conventional fertilization compared to those who had ICSI?",
+        "answer": "The live-birth rates are 11.9% for conventional fertilization and 9.6% for ICSI.",
+        "is_verified": 1
+    },
+    {
+        "question": "Does ICSI improve live birth outcomes for women of advanced maternal age?",
+        "answer": "ICSI for advanced maternal age does not improve live birth outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of using ICSI after prior total failed fertilization with normal semen analysis?",
+        "answer": "The use of ICSI in IVF after prior total failed fertilization is advocated to reduce the risk of subsequent failed fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What correlation exists between subsequent total failed fertilization and oocyte quality?",
+        "answer": "Subsequent total failed fertilization may be related to poor oocyte quality, as indicated by retrospective studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the fertilization rates using IVF/conventional insemination after total failed fertilization?",
+        "answer": "In cycles with total fertilization failure, subsequent fertilization rates using IVF/conventional insemination ranged from 30% to 97%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the results of the prospective study comparing conventional insemination and ICSI after total failed fertilization?",
+        "answer": "In the study, 11% of 109 oocytes were fertilized by conventional insemination, while 48% of 162 oocytes were fertilized with IVF-ICSI.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the rationale for the routine use of ICSI for all oocytes?",
+        "answer": "The rationale is to reduce the likelihood of fertilization failure and potentially increase the number of embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the outcome of the multi-center, randomized, controlled trial comparing conventional insemination and ICSI?",
+        "answer": "The trial compared outcomes in 415 couples with non-male factor infertility, but specific results are not detailed in the excerpt.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the fertilization rates for conventional insemination and ICSI?",
+        "answer": "The fertilization rate was higher with conventional insemination than with ICSI, at 58% vs. 47%.",
+        "is_verified": 1
+    },
+    {
+        "question": "What was the rate of fertilization failure in the conventional insemination and ICSI groups?",
+        "answer": "Fertilization failure occurred in 11 (5%) of 206 in the conventional insemination group and 4 (2%) of 209 in the ICSI group.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the number needed to treat with ICSI to prevent one case of fertilization failure with conventional insemination?",
+        "answer": "The number needed to treat with ICSI to prevent one case of fertilization failure with conventional insemination is 33.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the clinical pregnancy rates for conventional insemination and ICSI?",
+        "answer": "The clinical pregnancy rates were similar for conventional insemination and ICSI, at 33% vs. 26%.",
+        "is_verified": 1
+    },
+    {
+        "question": "For what condition should ICSI be reserved according to the study?",
+        "answer": "The study concluded that the use of ICSI should be reserved only for male factor infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the rationale for using ICSI in cases requiring PGT of embryos?",
+        "answer": "The rationale for using ICSI in cases requiring PGT of embryos is to ensure monospermic fertilization and eliminate the possibility of contamination from extraneous sperm attached to the zona pellucida.",
+        "is_verified": 1
+    },
+    {
+        "question": "Did the report show any difference in cleavage and quality of embryos derived from normal zygotes by the two insemination methods?",
+        "answer": "No, the report showed no difference in cleavage and quality of embryos derived from normal zygotes by the two insemination methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "Was there a statistically significant difference in aneuploidy rates or mosaicism when comparing fertilization methods?",
+        "answer": "A retrospective analysis failed to show a statistically significant difference in aneuploidy rates or mosaicism when comparing fertilization methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and why is it used in the context of IVM?",
+        "answer": "ICSI, or Intracytoplasmic Sperm Injection, is a specialized form of in vitro fertilization (IVF) where a single sperm is injected directly into an egg. It is used in the context of In Vitro Maturation (IVM) because the zona pellucida of immature oocytes may harden during IVM, making fertilization more difficult. ICSI is preferred as it has been shown to increase fertilization rates for IVM oocytes, although it may impair developmental competence compared to conventional IVF.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the fertilization rates of matured oocytes using ICSI compared to conventional IVF?",
+        "answer": "The fertilization rates of matured oocytes in patients who did not receive gonadotropins were 37.7% (229 of 608 matured oocytes) with conventional IVF, compared to 69.3% (318 of 459 mature oocytes) when ICSI was used as the insemination technique.",
+        "is_verified": 1
+    },
+    {
+        "question": "How do implantation and clinical pregnancy rates compare between ICSI and conventional IVF?",
+        "answer": "Despite the higher fertilization rates with ICSI, the implantation rate was statistically significantly higher in embryos derived from oocytes fertilized with conventional IVF (24.2%) compared to ICSI (14.8%). Similarly, the clinical pregnancy rates per embryo transfer were higher for conventional IVF (34.5%) compared to ICSI (20.0%).",
+        "is_verified": 1
+    },
+    {
+        "question": "What caution should be taken when interpreting data on ICSI and IVM?",
+        "answer": "Caution should be exercised in interpreting the data on ICSI and IVM due to the lack of data on live-birth rates, which is a critical outcome measure in assessing the effectiveness of these fertilization techniques.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of oocyte cryopreservation in relation to fertilization rates?",
+        "answer": "Oocyte cryopreservation involves the removal of cumulus cells before freezing, which may lead to changes in the zona pellucida that could reduce fertilization rates with conventional insemination. Therefore, ICSI is often recommended for fertilizing cryopreserved oocytes to improve the chances of successful fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and how is it related to cryopreserved oocytes?",
+        "answer": "ICSI (Intracytoplasmic Sperm Injection) is the preferred method for fertilizing cryopreserved oocytes, although limited data exist comparing it to conventional insemination for this purpose.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with ICSI for non-male factor infertility?",
+        "answer": "The safety of ICSI for non-male factor infertility has not been thoroughly evaluated, but studies indicate that ICSI is associated with a small increased risk of adverse outcomes in offspring, which are generally attributed to underlying male factor infertility. The specific risks related to ICSI for non-male factor infertility patients are unknown.",
+        "is_verified": 1
+    },
+    {
+        "question": "What did the large population cohort study reveal about the risk of birth defects after IVF and ICSI?",
+        "answer": "A large population cohort study found that the risk of major birth defects after IVF (with or without ICSI) had an odds ratio of 1.24 after adjusting for confounders. Specifically, those undergoing ICSI had an increased odds ratio for birth defects of 1.57. This increased rate of birth defects is particularly noted in men with abnormal semen analyses due to known chromosomal abnormalities.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of using ICSI in IVF cycles?",
+        "answer": "The study suggests caution in the unindicated use of ICSI in all IVF cycles due to the associated increased risk of birth defects and the complexity and cost that ICSI adds to the IVF process. ICSI requires additional laboratory experience, resources, effort, and time.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of ICSI for unexplained infertility?",
+        "answer": "ICSI for unexplained infertility has been associated with increased fertilization rates and a decreased risk of failed fertilization in some studies, but it has not been shown to improve live-birth outcomes.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is ICSI and how does it relate to live-birth outcomes?",
+        "answer": "ICSI, or Intracytoplasmic Sperm Injection, is a reproductive technology used to improve fertilization rates in cases of infertility. The excerpt discusses various studies and findings related to ICSI, indicating that it does not improve live-birth outcomes for poor-quality oocytes or in cases of low oocyte yield and advanced maternal age. It also mentions that ICSI can increase fertilization rates when conventional insemination has failed, but routine use of ICSI in cases without male factor infertility is not supported by evidence. Additionally, ICSI appears to improve fertilization rates of in vitro matured oocytes, but caution is advised due to limited data on live-birth rates.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of using ICSI for non-male factor infertility?",
+        "answer": "The excerpt suggests that using ICSI for non-male factor infertility may not be beneficial for all patients, as it requires more than 30 unnecessary cases of ICSI to prevent one case of unexpected fertilization failure. It also notes that the additional cost burden of ICSI for non-male factor indications should be considered, especially since data on improved live-birth outcomes over conventional insemination are limited or absent.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the conclusions regarding ICSI and preimplantation genetic testing?",
+        "answer": "The conclusions indicate that ICSI without male factor infertility may be beneficial for select patients undergoing IVF with preimplantation genetic testing for monogenic diseases and previously cryopreserved oocytes. However, the lack of evidence supporting improved live-birth outcomes for non-male factor indications must be taken into account.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of the document reviewed by the ASRM members?",
+        "answer": "The document reflects appropriate management of problems encountered in the practice of reproductive medicine, serving as a guide for clinicians, although it is not the only approved standard of practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "Who contributed to the preparation of the document?",
+        "answer": "Denis Vaughan, M.D., is acknowledged for his special contribution in the preparation of the document.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the Practice Committees and the Board of Directors of ASRM and SART regarding the document?",
+        "answer": "They have approved the report, which outlines management practices in reproductive medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be considered when determining the course of treatment for patients according to the document?",
+        "answer": "The needs of the individual patient, available resources, and institutional or clinical practice limitations should be taken into account.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of disclosing commercial and financial relationships by the Committee members?",
+        "answer": "It ensures transparency and addresses potential conflicts of interest in the development of the document.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a specialized form of in vitro fertilization (IVF) that involves the direct injection of a single sperm into an oocyte (egg) to facilitate fertilization. This technique is often used in cases of male infertility where there are issues with sperm motility or morphology, or after previous fertilization failures with conventional IVF methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the benefits of using ICSI over conventional IVF?",
+        "answer": "ICSI can overcome previous fertilization failures associated with conventional IVF, particularly in cases where there are issues with sperm quality or quantity. Studies have shown that ICSI can lead to successful pregnancies in couples who have struggled with infertility due to male factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the genetic considerations related to ICSI?",
+        "answer": "Genetic considerations related to ICSI include the potential for increased risk of genetic abnormalities due to the selection of sperm and the manipulation of oocytes. It is important for couples undergoing ICSI to be aware of these risks and to consider genetic counseling if necessary.",
+        "is_verified": 1
+    },
+    {
+        "question": "What trends have been observed in the use of ICSI in the United States?",
+        "answer": "Trends in the use of ICSI in the United States indicate an increase in its application, particularly among couples facing male infertility issues. The technique has become a common practice in assisted reproductive technology due to its effectiveness in achieving fertilization and successful pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a specialized form of in vitro fertilization (IVF) that involves the direct injection of a single sperm into an egg to facilitate fertilization. It is often used in cases of male infertility or when previous IVF attempts have failed.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does ICSI compare to conventional IVF in terms of live birth rates?",
+        "answer": "Research indicates that ICSI does not increase the cumulative live birth rate in cases of non-male factor infertility when compared to conventional IVF methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of using ICSI in unexplained infertility cases?",
+        "answer": "ICSI is considered a complementary technique to conventional IVF for managing unexplained infertility, particularly in couples who have not succeeded with intrauterine insemination (IUI). It can provide an alternative approach to achieve fertilization and improve chances of conception.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential outcomes of using conventional oocyte insemination versus ICSI?",
+        "answer": "Conventional oocyte insemination may result in better pregnancy outcomes compared to ICSI in certain cases, depending on the specific fertility issues being addressed.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a medical procedure used in assisted reproductive technology where a single sperm is injected directly into an egg to facilitate fertilization, particularly in cases of male factor infertility or unexplained infertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of using ICSI for non-male factor infertility?",
+        "answer": "Studies have shown that ICSI can be used effectively for non-male factor infertility, with various outcomes reported in terms of fertilization rates and pregnancy success rates compared to conventional in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of oocyte morphology in relation to ICSI?",
+        "answer": "Research indicates that oocyte morphology does not correlate with fertilization rates and embryo quality after ICSI, suggesting that other factors may play a more critical role in the success of the procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "Is ICSI recommended for patients with a low number of retrieved oocytes?",
+        "answer": "There is ongoing debate regarding the routine recommendation of ICSI for patients with four or fewer oocytes retrieved, with some studies suggesting it may not be necessary in all cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between assisted hatching and ICSI outcomes?",
+        "answer": "Analysis of cycles in assisted reproduction has shown that assisted hatching and ICSI are not associated with improved outcomes for patients with diminished ovarian reserve, indicating that these interventions may not enhance success rates in such cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of intracytoplasmic sperm injection (ICSI) in non-male factor infertility in advanced maternal age?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is utilized as a treatment option for couples facing non-male factor infertility, particularly in cases involving advanced maternal age. It allows for the direct injection of sperm into an egg, which can improve fertilization rates and outcomes for older women who may have reduced fertility.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the treatment policy after poor fertilization in the first IVF cycle?",
+        "answer": "The treatment policy after poor fertilization in the first IVF cycle often involves assessing the underlying causes and considering alternative approaches, such as the use of intracytoplasmic sperm injection (ICSI) to enhance fertilization rates in subsequent cycles.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of complete failure of fertilization in couples with mechanical infertility for subsequent IVF cycles?",
+        "answer": "Complete failure of fertilization in couples with mechanical infertility suggests that there may be significant challenges in achieving pregnancy through conventional IVF. This may lead to the consideration of alternative methods, such as ICSI, in subsequent cycles to improve the chances of successful fertilization and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the prognosis for clinical pregnancy and delivery after total fertilization failure during conventional IVF?",
+        "answer": "The prognosis for clinical pregnancy and delivery after total fertilization failure during conventional IVF is generally poor. However, utilizing techniques like ICSI may offer better outcomes in subsequent attempts by directly addressing fertilization issues.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does ICSI serve as a treatment for unexplained total fertilization failure or low fertilization after conventional IVF?",
+        "answer": "ICSI serves as a treatment for unexplained total fertilization failure or low fertilization by allowing for the direct injection of sperm into the egg, which can bypass certain barriers to fertilization that may not be present in conventional IVF methods.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the differences between conventional insemination and intracytoplasmic sperm injection?",
+        "answer": "Conventional insemination involves placing sperm in a dish with eggs, allowing natural fertilization to occur, while intracytoplasmic sperm injection (ICSI) involves directly injecting a single sperm into an egg. ICSI is often used in cases where conventional insemination has failed or is unlikely to succeed due to male factor infertility or other issues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the use of ICSI for all cases of in-vitro conception?",
+        "answer": "The use of ICSI for all cases of in-vitro conception is a debated topic, as it may improve fertilization rates in certain cases, particularly where male factor infertility is present. However, it may not be necessary for all patients, and the decision should be based on individual circumstances and fertility assessments.",
+        "is_verified": 1
+    },
+    {
+        "question": "What were the findings of the randomized controlled trial comparing conventional IVF and ICSI for non-male-factor infertility?",
+        "answer": "The randomized controlled trial comparing conventional IVF and ICSI for non-male-factor infertility found that ICSI may provide better fertilization rates and clinical outcomes in certain cases, suggesting it could be a more effective treatment option for couples facing infertility without male factors.",
+        "is_verified": 1
+    },
+    {
+        "question": "How does ICSI improve embryo quality in non-male-factor couples?",
+        "answer": "ICSI may improve embryo quality in non-male-factor couples by ensuring that only the best quality sperm is used for fertilization, which can lead to better embryo development and higher chances of successful implantation and pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the focus of the studies mentioned in the excerpt?",
+        "answer": "The studies focus on comparing in-vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) in the context of infertility treatments, specifically for couples with tubal infertility and normozoospermic semen.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the findings of the study by Bukulmez et al. regarding ICSI and IVF?",
+        "answer": "The study by Bukulmez et al. compares ICSI and IVF for patients whose sole cause of infertility is a tubal factor, indicating that both methods were evaluated in a prospective, randomized trial.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the question posed in the study by Poehl et al.?",
+        "answer": "The study by Poehl et al. raises the question of whether IVF patients with nonmale factors should opt for ICSI or not, highlighting the decision-making process in assisted reproductive technology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a specialized form of in vitro fertilization (IVF) that involves the direct injection of a single sperm into an egg to facilitate fertilization. It is often used in cases of male factor infertility or when previous IVF attempts have failed due to fertilization issues.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential benefits of using ICSI in patients with non-male factor infertility?",
+        "answer": "The potential benefits of using ICSI in patients with non-male factor infertility include the prevention of total fertilization failure and the enhancement of embryo quality, as suggested by studies examining its effectiveness in various infertility contexts.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of preimplantation genetic diagnosis (PGD) and preimplantation genetic screening (PGS)?",
+        "answer": "Preimplantation genetic diagnosis (PGD) and preimplantation genetic screening (PGS) are techniques used to identify genetic defects in embryos before implantation during IVF. These methods aim to improve the chances of a successful pregnancy and reduce the risk of genetic disorders in offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What impact does fertilization method have on mosaicism rates in embryos?",
+        "answer": "The choice of fertilization method can significantly impact the rate of mosaicism in embryos, which is the presence of two or more genetically different cell lines within the same embryo. Studies have assessed how different fertilization techniques affect this outcome, particularly in the context of next-generation sequencing for preimplantation genetic testing for aneuploidy (PGT-A).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of using ICSI in IVF cycles for women with tubal ligation?",
+        "answer": "Research indicates that the use of ICSI in IVF cycles for women with tubal ligation does not improve pregnancy or live birth rates compared to other methods, suggesting that ICSI may not be necessary in these cases.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the implications of using in vitro matured oocytes in assisted reproductive technology?",
+        "answer": "The use of in vitro matured oocytes in assisted reproductive technology can lead to favorable pregnancy outcomes, as evidenced by studies comparing fertilization techniques and their effectiveness in achieving successful pregnancies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of human oocyte cryopreservation?",
+        "answer": "Human oocyte cryopreservation is a medical procedure that involves freezing human eggs for future use, allowing women to preserve their fertility for various reasons, such as medical treatments or age-related fertility decline.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the outcomes of children conceived through intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Studies have shown that children conceived through intracytoplasmic sperm injection (ICSI) have been followed up for medical and developmental outcomes, indicating that while there may be some risks, many children develop normally.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the relationship between ICSI pregnancies and chromosomal anomalies?",
+        "answer": "Research has indicated that there is an incidence of chromosomal anomalies in pregnancies resulting from intracytoplasmic sperm injection (ICSI), and this has been studied in relation to sperm parameters.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with intracytoplasmic sperm injection and in vitro fertilization?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) and in vitro fertilization (IVF) have been associated with an increased risk of major birth defects compared to natural conception, as highlighted in various studies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the multi-centre cohort study reveal about the physical health of children conceived through assisted reproductive technologies?",
+        "answer": "A multi-centre cohort study has assessed the physical health of children conceived through intracytoplasmic sperm injection (ICSI), in vitro fertilization (IVF), and natural conception, providing insights into their health outcomes at the age of five.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of karyotyping in babies conceived through ICSI?",
+        "answer": "Karyotyping in babies conceived through intracytoplasmic sperm injection (ICSI) is significant as it helps identify chromosomal abnormalities, which can inform about potential health risks and guide future reproductive decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is intracytoplasmic sperm injection (ICSI)?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is a medical procedure used to treat male infertility by injecting a single sperm directly into an egg to facilitate fertilization. It is particularly effective for couples with significant abnormalities in sperm parameters and is often used in conjunction with assisted reproductive technologies for other causes of infertility, even when sperm parameters are within normal reference values set by the World Health Organization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the indications for using ICSI?",
+        "answer": "ICSI is indicated for cases of low or absent fertilization in couples with clear abnormalities in seminal parameters. It may also be utilized in other infertility situations where sperm parameters meet the normative values established by the World Health Organization, indicating its broader application in assisted reproduction.",
+        "is_verified": 1
+    },
+    {
+        "question": "What does the committee's opinion provide regarding ICSI?",
+        "answer": "The committee's opinion provides a critical review of the literature based on available evidence to identify situations where ICSI may or may not be beneficial for treating infertility. This document serves as an updated guideline, replacing a previously published document on the same topic.",
+        "is_verified": 1
+    }
+]

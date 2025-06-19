@@ -1,0 +1,557 @@
+[
+    {
+        "question": "What are the good practice recommendations for polar body and embryo biopsy for PGT?",
+        "answer": "The excerpt mentions that the content relates to the ESHRE PGT Consortium and SIG-Embryology Biopsy Working Group, which provides good practice recommendations for polar body and embryo biopsy for preimplantation genetic testing (PGT). However, specific recommendations are not detailed in the excerpt provided.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing (PGT)?",
+        "answer": "Preimplantation genetic testing (PGT) is a technique used in reproductive medicine to test embryos for genetic defects before implantation during in vitro fertilization (IVF). It helps in identifying embryos that are free of specific genetic conditions, thereby increasing the chances of a successful pregnancy and reducing the risk of genetic disorders in offspring.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the technical aspects of embryo biopsy in PGT?",
+        "answer": "The technical aspects of embryo biopsy in PGT include the procedure for obtaining a sample from the embryo, which can be done at different stages such as polar body, cleavage stage, or blastocyst biopsy. Recommendations also cover cryopreservation methods, laboratory practices, and necessary training for personnel involved in the biopsy process.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different types of PGT mentioned in the excerpt?",
+        "answer": "The excerpt mentions two types of preimplantation genetic testing: PGT for monogenic/single-gene defects (PGT-M) and PGT for chromosomal structural rearrangements/aneuploidies (PGT-SR/PGT-A). These tests are designed to identify specific genetic issues in embryos before they are implanted in the uterus.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing (PGT)?",
+        "answer": "Preimplantation genetic testing (PGT) is a procedure used in conjunction with in vitro fertilization (IVF) to test embryos for genetic abnormalities before implantation. It involves the biopsy of embryos to obtain a sample that can be analyzed in a genetics laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the technical aspects of embryo biopsy mentioned in the excerpt?",
+        "answer": "The technical aspects of embryo biopsy involve the process of removing a sample from an egg or embryo, which is then tested for genetic information. This procedure is crucial for ensuring the accuracy and effectiveness of preimplantation genetic testing (PGT).",
+        "is_verified": 1
+    },
+    {
+        "question": "Why are the recommendations for PGT important for patients?",
+        "answer": "The recommendations for PGT are important for patients because they aim to ensure that laboratory personnel and geneticists perform the testing according to the best laboratory and clinical practices, ultimately leading to better care and outcomes for PGT patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic testing (PGT)?",
+        "answer": "Preimplantation genetic testing (PGT) is defined as a test performed to analyze the DNA from oocytes (polar bodies) or embryos (cleavage stage or blastocyst) for HLA typing or for determining genetic abnormalities. This includes PGT for aneuploidy (PGT-A), PGT for monogenic/single gene defects (PGT-M), and PGT for chromosomal structural rearrangements (PGT-SR).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different types of PGT mentioned in the excerpt?",
+        "answer": "The different types of PGT mentioned are: PGT for aneuploidy (PGT-A), PGT for monogenic/single gene defects (PGT-M), and PGT for chromosomal structural rearrangements (PGT-SR).",
+        "is_verified": 1
+    },
+    {
+        "question": "What technologies are used in PGT?",
+        "answer": "Technologies used in PGT include polymerase chain reaction (PCR)-based methods and interphase fluorescence in situ hybridization (FISH), which became the standard method for sexing embryos and for detecting numerical and structural chromosomal aberrations.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT-A and its purpose in IVF?",
+        "answer": "PGT-A (Preimplantation Genetic Testing for Aneuploidy) is a procedure carried out mainly for in vitro fertilization (IVF) patients. Its original aims include increasing pregnancy rates per embryo transfer and decreasing miscarriage rates. It also aims to increase elective single embryo transfer and reduce time to pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the cited indications for PGT-A?",
+        "answer": "Cited indications for PGT-A include advanced maternal age (AMA), recurrent implantation failure (RIF), severe male factor (SMF), and couples with normal karyotypes who have experienced recurrent miscarriage (RM).",
+        "is_verified": 1
+    },
+    {
+        "question": "What organizations have drafted guidelines for PGT?",
+        "answer": "The PGD International Society has drafted guidelines for Preimplantation Genetic Diagnosis (PGD), while the American Society for Reproductive Medicine reviewed PGT practice in the USA and published several opinion papers on related topics. The ESHRE PGT Consortium also published guidelines to standardize and improve quality standards in PGT.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PGT and what does it involve?",
+        "answer": "PGT stands for Preimplantation Genetic Testing, which involves techniques such as embryo biopsy, amplification-based testing, and FISH-based testing to evaluate embryos for genetic conditions before implantation during IVF procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the main aspects covered in the guidelines for PGT?",
+        "answer": "The guidelines for PGT cover various aspects including patient selection, counselling, pregnancy and children follow-up, and technical recommendations for embryo biopsy and genetic testing for chromosomal aberrations and monogenic disorders.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of the ESHRE PGT Consortium?",
+        "answer": "The ESHRE PGT Consortium initiates External Quality Assessment schemes to evaluate laboratories and improve their techniques and reports related to Preimplantation Genetic Testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "How are the guidelines for PGT being updated?",
+        "answer": "The guidelines for PGT are being updated to reflect fast changes in the provision of PGT services, ensuring that they remain relevant and effective in clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the main steps involved in the biopsy procedure of preimplantation embryos?",
+        "answer": "The biopsy procedure of preimplantation embryos consists of two main steps: creating an opening in the zona pellucida (ZP) and removing polar bodies (PBs) or embryonic cells.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods can be used to perform ZP opening during the biopsy procedure?",
+        "answer": "ZP opening may be performed either mechanically, chemically, or using a laser.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is mechanical zona opening and how is it performed?",
+        "answer": "Mechanical zona opening, also known as partial zona dissection, involves creating a slit in the zona pellucida (ZP) using a sharp micropipette. This method was the first used for opening the ZP and is still applied clinically, although less frequently now.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is chemical zona drilling and why has it fallen out of favor?",
+        "answer": "Chemical zona drilling uses an acidic solution (acid Tyrode’s) to dissolve the ZP locally. It was commonly used in the early days of cleavage-stage embryo biopsies, but concerns about the potential toxicity of acid Tyrode’s on embryo viability and the advent of laser technology have led most laboratories to discontinue its use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the current preferred method for zona pellucida opening in embryo biopsies?",
+        "answer": "The current preferred method for zona pellucida opening in embryo biopsies is laser technology. It involves using a guided non-contact laser beam that can be adjusted to create an opening of the desired size accurately and quickly, minimizing damage to polar bodies or embryonic cells.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken when using a laser for zona opening?",
+        "answer": "When using a laser for zona opening, the power of the laser beam and exposure parameters (pulse length/width) should be carefully followed according to the manufacturer's specifications to avoid damaging polar bodies or embryonic cells.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended size for openings during PB or cleavage stage biopsy?",
+        "answer": "During PB or cleavage stage biopsy, the size of the opening should not be too large to prevent the loss of blastomeres during embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What methods are used for cell removal during embryo biopsy?",
+        "answer": "Cell removal during embryo biopsy can be done using several methods, with aspiration inside the biopsy micropipette being the most widely used. This method is applicable for all stages of biopsy, including polar body, cleavage stage, and blastocyst biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the methods of oocyte and embryo biopsy mentioned in the excerpt?",
+        "answer": "The methods of oocyte and embryo biopsy mentioned include cell removal by extrusion or flow displacement, aspiration and excision with a laser, and aspiration combined with mechanical detachment of the trophectoderm (TE) cells. Biopsy can be performed by removing one or two polar bodies from the unfertilized oocyte or zygote, removing one or two blastomeres at the cleavage stage, or removing several TE cells at the blastocyst stage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of blastocyst biopsy or TE biopsy?",
+        "answer": "Blastocyst biopsy or TE biopsy is significant because it provides more cells for genetic analysis and is performed at an embryonic stage that is more amenable to genetic analysis and less sensitive to possible damage compared to cleavage-stage biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What happens to the cells after biopsy according to the excerpt?",
+        "answer": "After biopsy, the cells are washed and either fixed on a slide for FISH analysis or collected in small reaction tubes for amplification-based testing, referred to as 'tubing'.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of rebiopsy of embryos?",
+        "answer": "Rebiopsy of embryos is considered only in cases of failed, incomplete, or inconclusive genetic diagnosis, as it may impact further analysis or treatment decisions.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended procedure for cleaning and decontaminating surfaces before a biopsy in an IVF laboratory?",
+        "answer": "Prior to the biopsy procedure, work surfaces, equipment, and materials should be cleaned and decontaminated with disinfectants that have proven compatibility and efficacy for use in an IVF laboratory.",
+        "is_verified": 1
+    },
+    {
+        "question": "What protective clothing should be worn during PGT-related procedures?",
+        "answer": "During PGT-related procedures, protective clothing should include a full surgical gown (clean, not sterile and changed regularly), hair cover/hat, face mask (covering nose and mouth), and preferably shoe covers or dedicated shoes. Gloves should be worn at all times and changed frequently, with powder-free and well-fitting options such as nitrile being preferred over vinyl.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the preferred method of insemination for PGT and why?",
+        "answer": "Intracytoplasmic sperm injection (ICSI) is preferable for PGT to minimize the risk of both maternal contamination from residual sperm and to enhance the chances of successful fertilization.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for polar body and embryo biopsy for PGT?",
+        "answer": "Recommendations include careful removal of cumulus cells and rinsing of oocytes prior to ICSI and zygotes after fertilization check to avoid contamination. Routine IVF culture conditions apply, and time-lapse imaging systems may be used to limit exposure to sub-optimal conditions. After biopsy, oocytes and embryos should be rinsed to remove biopsy medium before culture or cryopreservation. Individual embryo culture is advised using multiple-well dishes or separate droplets to prevent mixing. Biopsy procedures should be performed by qualified practitioners, minimizing duration, adhering to biopsy criteria, ensuring equipment is calibrated, and using sterile reagents within expiry dates. Biopsy dishes should be prepared and labeled appropriately.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of rinsing drops and biopsy medium in the IVF-PGT procedure?",
+        "answer": "The rinsing drops and biopsy medium are used to maintain pH, osmolality, osmolarity, and temperature during the procedure, ensuring optimal conditions for the oocyte or embryo handling.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the stages during which witnessing is recommended in the IVF-PGT procedure?",
+        "answer": "Witnessing is recommended during the following stages: (i) immediately after biopsy to confirm the oocyte/embryo and sample number match; (ii) during spreading or tubing to confirm sample identification matches the labelling; (iii) for further culture when placing and labelling the oocyte/embryo; (iv) before cryopreservation; (v) after diagnostic results are issued; and (vi) during thawing/warming and selecting embryos for transfer.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the specific issues related to labelling and witnessing for biopsy in IVF-PGT?",
+        "answer": "Specific issues include the need for individual culture or cryopreservation of biopsied oocytes and embryos with a clear identification system, the requirement for written identification on cryo-support when printed labels are not feasible, and the necessity of a witness for traceability even with electronic systems in place.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the risks associated with biopsy in the context of IVF?",
+        "answer": "Biopsy is invasive and could damage cells and DNA. Therefore, it is important to note and share information about the integrity of biopsy samples, including cell lysis, degeneration, and degradation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for biopsy laboratory infrastructure in IVF centers?",
+        "answer": "The embryology laboratory design should include a dedicated area for biopsy, and a separate biopsy laboratory room may be advisable for high workload IVF centers. The laboratory should adhere to safety and environmental standards to minimize damaging effects on biological material.",
+        "is_verified": 1
+    },
+    {
+        "question": "What equipment is recommended for biopsy procedures in IVF?",
+        "answer": "The biopsy equipment setup includes an inverted microscope with a heated stage, three-dimensional micromanipulators, microinjectors, a stereoscope, and incubators. Special equipment such as a laser may be required for assisted hatching and blastocyst biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What materials are required before starting a biopsy procedure?",
+        "answer": "The materials required include capillaries, IVF certified dishes, IVF certified mineral oil, buffered media (such as HEPES or MOPS), and micropipettes that vary according to biopsy stages.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommended training standards for performing embryo biopsy?",
+        "answer": "Training for biopsy should meet the standards required for certification in routine embryology, including preclinical training with at least 50 oocytes or embryos and supervised clinical training with an additional 20 to 40 oocytes or embryos, depending on the practitioner's experience.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the diameter of the biopsy pipette?",
+        "answer": "The biopsy pipette has a special diameter according to the biopsy stage: 10–15 μm for PB biopsy, 30–35 μm for cleavage stage biopsy, and 25–30 μm for blastocyst biopsy, which is crucial for the successful execution of the biopsy procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "Who should supervise the embryo biopsy laboratory?",
+        "answer": "The embryo biopsy laboratory should be supervised by a person with recognized expertise in clinical embryology and preferably also basic knowledge in medical genetics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of clinical embryologists in the biopsy process?",
+        "answer": "Biopsy should be supervised by a clinical embryologist, preferably holding the relevant certification for their own country, and/or the ESHRE certification for clinical embryology.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are polar bodies and their significance in the biopsy process?",
+        "answer": "PBs are the by-products of female meiosis, which allow predicting the resulting genotype of the maternal contribution to the embryo. Polar body 1 (PB1) can be distinguished from polar body 2 (PB2) based on size, shape, and position within the perivitelline space.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the methods of performing PB biopsy?",
+        "answer": "PB biopsy can be performed simultaneously or sequentially. In simultaneous biopsy, PB1 and PB2 are removed between 6 and 9 hours after insemination. In sequential biopsy, PB1 is removed within 4 hours following oocyte retrieval and PB2 is removed following fertilization assessment (16 to 18 hours after insemination).",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the procedure for opening the zona pellucida (ZP) during biopsy?",
+        "answer": "The ZP opening should be performed with laser or mechanically, and the diameter of the hole should be adapted to the diameter of the biopsy pipette.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done after aspiration of PB1 in sequential biopsy?",
+        "answer": "After aspiration of PB1, the oocyte is fertilized and examined for the presence of pronuclei and extrusion of PB2, which is removed in the same manner as PB1. Although a second slit may be necessary to reach the second PB, it should be avoided as it may affect blastocyst hatching.",
+        "is_verified": 1
+    },
+    {
+        "question": "How should PBs be positioned during simultaneous biopsy?",
+        "answer": "In simultaneous biopsy, the PBs should be positioned in the same focal plane to allow removal through a single slit in the ZP.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the process of embryo transfer and cryopreservation in IVF?",
+        "answer": "Embryo transfer can occur at either the cleavage stage or blastocyst stage, depending on the policy of the IVF center. Cryopreservation of zygotes or supernumerary embryos is performed according to the IVF laboratory policy and the patient's preference. Rebiopsy of embryos may be considered at the cleavage or blastocyst stage if allowed by local regulations. Cleavage-stage biopsy is typically done on Day 3 post-insemination, specifically between the six-cell stage and the pre-compaction stage of embryo development. It is recommended to biopsy embryos at the six or more cell stage on Day 3, provided they have an acceptable grade with limited fragmentation (up to 25%). Embryos with fragmentation between 25% and 50% can also be biopsied, but this may lead to lower chances of implantation and potential issues with genetic diagnosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations for performing a cleavage-stage biopsy?",
+        "answer": "Cleavage-stage biopsy should be performed on Day 3 post-insemination, ideally when the embryo is at the six-cell stage or higher, with limited fragmentation (up to 25%). If the embryo has a fragmentation level between 25% and 50%, it can still be biopsied, but there are lower chances of successful implantation and potential for misdiagnosis. The biopsy can be conducted on cryopreserved or warmed embryos in a similar manner to fresh embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What factors influence the decision to biopsy an embryo?",
+        "answer": "The decision to biopsy an embryo is influenced by the timing of the biopsy (Day 3 post-insemination), the developmental stage of the embryo (preferably at the six-cell stage or higher), the degree of fragmentation (ideally limited to 25%), and local regulations regarding rebiopsy. Additionally, the laboratory policy and the patient's preferences play a significant role in the decision-making process.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of polar body and embryo biopsy in PGT?",
+        "answer": "The purpose of polar body and embryo biopsy in preimplantation genetic testing (PGT) is to analyze the genetic material of embryos to identify any genetic abnormalities before implantation. This helps in selecting the healthiest embryos for transfer, thereby increasing the chances of a successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of the zona pellucida (ZP) in embryo biopsy?",
+        "answer": "The zona pellucida (ZP) is significant in embryo biopsy as it is the protective outer layer of the embryo that must be breached to access the inner cells for biopsy. Proper opening of the ZP is crucial to ensure that a nucleated cell is removed for genetic analysis while minimizing damage to the embryo.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommended practices for embryo biopsy to ensure genetic testing accuracy?",
+        "answer": "It is recommended to biopsy only one cell to minimize damage to the embryo, but in cases where accuracy is critical, a two-cell biopsy may be performed. Additionally, care should be taken to visualize the nucleus to ensure that a nucleated cell is removed and to avoid binucleated cells, which could compromise the accuracy of genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the conditions for embryo transfer after biopsy?",
+        "answer": "After biopsy, embryos are cultured according to standard IVF culture conditions. Transfer can occur on Day 4 post insemination or at the blastocyst stage, and it is recommended to cryopreserve any supernumerary embryos at the blastocyst stage for future use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of blastocyst biopsy in genetic testing?",
+        "answer": "Blastocyst biopsy allows for the removal of several cells for genetic testing while being non-invasive to the inner cell mass (ICM), which is destined for fetal development. This method enables more comprehensive genetic analysis without harming the embryo's potential for development.",
+        "is_verified": 1
+    },
+    {
+        "question": "When is blastocyst biopsy performed?",
+        "answer": "Blastocyst biopsy is performed on Days 5 to 7 post insemination, depending on the rate of development of the embryos, once the inner cell mass (ICM) is clearly visible.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the biopsy procedure for blastocysts?",
+        "answer": "The biopsy procedure for blastocysts involves several steps and may vary depending on the morphology and quality of the blastocyst, expansion grade, and the position of the inner cell mass (ICM). It is performed in a buffered medium, and the use of non-contact lasers is highly recommended. The procedure includes making a hole in the zona pellucida (ZP) and excising trophectoderm (TE) cells. There are different methods for biopsy of blastocysts that are not fully hatched, including: 1) ZP opening on Days 3-4 post insemination, followed by TE cell removal on Days 5-7; 2) Early ZP opening on the day of blastocyst formation with subsequent culture to allow herniation of TE cells; 3) Simultaneous ZP opening and TE cell excision on the day of full blastocyst expansion. For effective biopsy, the ICM should be positioned between 7 and 11 o’clock to ensure visibility and avoid damage during the procedure.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended number of TE cells to biopsy for genetic testing?",
+        "answer": "It is recommended to biopsy 5 to 10 TE cells for genetic testing, depending on the stage of development and the number of cells constituting the blastocyst.",
+        "is_verified": 1
+    },
+    {
+        "question": "What should be done to avoid cross-contamination during blastocyst biopsy?",
+        "answer": "To avoid cross-contamination during biopsy, it is recommended to change the biopsy pipette for each blastocyst. Alternatively, the biopsy pipette can be thoroughly rinsed, but it should be verified in the laboratory that this is sufficient to avoid cross-contamination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the established technique for blastocyst cryopreservation?",
+        "answer": "Vitrification is the established technique for blastocyst cryopreservation, and blastocysts should be cryopreserved immediately after the biopsy according to cryopreservation procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is the time between blastocyst biopsy and cryopreservation important?",
+        "answer": "The time between blastocyst biopsy and cryopreservation is very important; it is recommended to cryopreserve them as soon as possible before re-expansion, particularly in cases where blastocysts are totally hatched.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is PB biopsy and when is it performed?",
+        "answer": "PB biopsy is the only option for preimplantation genetic testing (PGT) when local regulations allow biopsy only before syngamy. It is performed on Day 1 or on both Day 0 and Day 1 of embryo development, and both polar bodies (PBs) are required for accurate diagnosis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the limitations of PB biopsy?",
+        "answer": "PB biopsy cannot detect mitotic errors, paternally derived meiotic errors, or pathogenic variants from polar bodies. It is sufficient for testing maternally derived meiotic aneuploidies or maternal pathogenic variants. Additionally, it entails a high workload and has a moderate risk of technical complications such as fragmentation or degeneration of the PBs.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the expected rate of inconclusive diagnosis with PB biopsy?",
+        "answer": "The estimated rate of inconclusive diagnosis with PB biopsy is expected to be lower than 10%.",
+        "is_verified": 1
+    },
+    {
+        "question": "Can rebiopsy be performed after PB biopsy?",
+        "answer": "Yes, rebiopsy can be performed at a later developmental stage if allowed by local regulations, and still within the timing to allow for fresh embryo transfer if required.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the compatibility of PB biopsy with embryo transfer?",
+        "answer": "The PB biopsy approach is compatible with fresh embryo transfer, allowing for the possibility of transferring embryos after the biopsy and genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is cleavage-stage biopsy?",
+        "answer": "Cleavage-stage biopsy is a procedure that involves the collection of a single blastomere from an embryo at the cleavage stage of development, specifically on Day 3. This stage is characterized by the potential of blastomeres to contribute to the embryo proper, as their commitment to either the inner cell mass (ICM) or trophectoderm (TE) is not yet firmly established. The procedure allows for the detection of meiotic errors from both parents, but it cannot estimate mitotic errors leading to chromosomal mosaicism from a single blastomere. The amount of DNA available for analysis is limited, and the expected rate of inconclusive diagnosis is lower than 10%. Rebiopsy can be performed at the blastocyst stage if necessary, and embryos can be either cultured or cryopreserved following the biopsy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is blastocyst biopsy?",
+        "answer": "Blastocyst biopsy involves the collection of a multicellular section (5 to 10 cells) from a blastocyst on Days 5 to 7. This section is taken from the part of the blastocyst that will develop into the placenta and extra-embryonic membranes, while the inner cell mass (ICM), which will develop into the fetus, is kept intact. This method offers several advantages over alternative biopsy procedures, including higher reliability due to the analysis of a larger number of cells.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is a blastocyst?",
+        "answer": "A blastocyst is an early stage of embryonic development that occurs approximately five to six days after fertilization. It consists of a hollow ball of cells, which includes an inner cell mass that will eventually develop into the embryo, and an outer layer of cells called the trophoblast, which will contribute to the placenta.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is a time-lapse incubator used for in embryology?",
+        "answer": "A time-lapse incubator is a specialized device used in embryology to monitor the development of embryos over time without disturbing them. It allows for continuous observation and recording of embryonic development, which can help in selecting the best embryos for implantation during in vitro fertilization (IVF).",
+        "is_verified": 1
+    },
+    {
+        "question": "What does ZP opening refer to in the context of embryo retrieval?",
+        "answer": "ZP opening refers to the process of creating an opening in the zona pellucida (ZP), which is the protective outer layer surrounding an egg or embryo. This procedure is often necessary for the retrieval of trophoectoderm (TE) cells during preimplantation genetic testing or for assisted reproductive technologies.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is TE cell retrieval?",
+        "answer": "TE cell retrieval involves obtaining cells from the trophoectoderm layer of a blastocyst for various purposes, including genetic testing or assessment of embryo viability. This process is crucial in assisted reproductive technologies to ensure the best embryos are selected for implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the different biopsy approaches for preimplantation genetic testing (PGT)?",
+        "answer": "The main oocyte and embryo biopsy approaches for preimplantation genetic testing (PGT) include: 1. Polar Body (PB) biopsy, 2. Blastomere/Cleavage stage biopsy, and 3. Blastocyst/TE biopsy. Each approach has different complexities, number of cells retrieved, and implications for embryo development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of TE cells in embryo biopsy?",
+        "answer": "TE cells (trophectoderm cells) give rise to the placenta and the extra-embryonic membranes, which are crucial for embryo implantation and development. Biopsying TE cells allows for genetic testing of the embryo before implantation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the complexity involved in the acquisition of skills for embryo biopsy?",
+        "answer": "The complexity in the acquisition of skills varies by approach: the Day 0+Day 1 approach is moderate, while the Day 1-only approach is moderate to high due to the need to reliably recognize polar bodies (PB1 and PB2). Other strategies, such as the simultaneous ZP opening and TE cells retrieval strategy, are also moderate to high in complexity.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the laboratory workload associated with different embryo biopsy strategies?",
+        "answer": "The laboratory workload varies by strategy: PB biopsy has a very high to high workload as all oocytes/zygotes must be biopsied regardless of further development. The blastomere biopsy has a high to moderate workload, while the blastocyst biopsy requires multiple time slots (Days 5–7) and often necessitates cryopreservation.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of cryopreservation following biopsy in IVF clinics?",
+        "answer": "Cryopreservation following biopsy is mostly mandatory due to the turn-around time of the testing strategies required for Preimplantation Genetic Testing (PGT). It ensures that embryos can be preserved for future use while waiting for genetic testing results.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are meiotic and mitotic errors in the context of embryo development?",
+        "answer": "Meiotic errors refer to mistakes that occur during the formation of eggs and sperm, which can lead to chromosomal abnormalities in the embryo. Mitotic errors occur during cell division after fertilization and can lead to chromosomal mosaicism, where some cells have different genetic makeups. Both types of errors can impact embryo viability and development.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the role of trophectoderm (TE) biopsy in assessing embryo quality?",
+        "answer": "Trophectoderm (TE) biopsy is used to assess meiotic errors reliably from the trophectoderm cells of the embryo. It allows for genetic testing to identify potential chromosomal abnormalities before implantation, which can improve the chances of a successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the limitations of detecting mitotic errors in embryos?",
+        "answer": "The detection of mitotic errors leading to chromosomal mosaicism is subject to technical, methodological, and biological limitations. These limitations include the specific techniques used for PGT, validation parameters defined by genetic laboratories, and sampling bias that can occur when retrieving a biopsy from a mosaic blastocyst.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is blastocyst biopsy used for?",
+        "answer": "Blastocyst biopsy allows for an efficient way to run multiple analyses for different indications from the same sample after whole genome amplification (WGA), such as detecting chromosomal abnormalities and pathogenic variants.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the steps involved in sample collection after biopsy?",
+        "answer": "After biopsy, the cells are washed and either fixed on a slide for FISH analysis (spreading/ fixation) or collected in small reaction tubes for amplification-based testing (tubing). Efficient transfer of biopsied cells to slides or reaction tubes is critical for the success of a preimplantation genetic testing (PGT) cycle.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken during tubing to minimize contamination?",
+        "answer": "During tubing, stringent precautions should be taken to minimize contamination and maximize chances for amplification. Personnel should wear protective clothing, including a full surgical gown, hair cover/hat, face mask, and gloves. Gloves should be well-fitting and changed frequently.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of quality control in PGT?",
+        "answer": "Quality control is important in PGT to ensure proper management and risk assessment, as outlined in the recommendations presented in the paper on the organization of PGT.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommended practices for DNA decontamination in the laboratory environment?",
+        "answer": "The tubing area should be in a DNA-free environment, and DNA decontamination measures are required. It is advised that tubing is performed in a dedicated area or room close to the biopsy area. Work surfaces and equipment should be cleaned with DNA decontamination solutions or 10% bleach prior to each use, although 10% bleach is not recommended within the embryology laboratory. A 70% ethanol solution is also not recommended as it does not decontaminate DNA. To minimize contamination, the preparation of materials and reagents, and the tubing of biopsied cells, should be performed in a dedicated laminar flow hood or clean area, which should be irradiated with UV-C light for DNA decontamination prior to each use.",
+        "is_verified": 1
+    },
+    {
+        "question": "What type of reagents and materials should be used in the laboratory to ensure DNA-free conditions?",
+        "answer": "All solutions or reagents should be purchased 'ready to use' and should be of 'molecular biology' grade or equivalent. All reagents, whether purchased or in-house, should be tested for efficiency and contamination and validated. All plasticware used, including filter tips, should be certified DNA-free and DNase-free.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recommendations regarding the handling and storage of reagents in the laboratory?",
+        "answer": "Batch or lot numbers should be recorded for traceability according to the quality standards in the laboratory. Solutions or reagents should be split into small aliquots, and no aliquot should be reused for a clinical case. It is also recommended to avoid repeated freeze-thaw cycles of reagents.",
+        "is_verified": 1
+    },
+    {
+        "question": "What sterilization methods can be applied to laboratory materials and reagents?",
+        "answer": "Materials and reagents may be UV-C irradiated or autoclaved when applicable, for example, tube racks.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the importance of using an autoclave in the context of medical procedures?",
+        "answer": "Autoclaving is important in medical procedures to sterilize equipment and materials, ensuring that they are free from any microbial contamination before use. This is crucial in maintaining the integrity of biological samples and preventing contamination during sensitive processes such as embryo biopsy and genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "Why is it necessary to keep tubing materials and reagents away from DNA sources?",
+        "answer": "Keeping tubing materials and reagents away from DNA sources is necessary to prevent contamination that could compromise the integrity of genetic analyses. Contamination with exogenous DNA can lead to inaccurate results in clinical diagnostics and research, making it essential to maintain a sterile environment during procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What role does training play in the tubing procedure for embryo biopsy?",
+        "answer": "Training is critical in the tubing procedure for embryo biopsy as it ensures that practitioners are competent in performing the procedure without introducing contamination. Supervised training by experienced professionals helps evaluate amplification outcomes and ensures adherence to local or national regulations, which is vital for the accuracy and reliability of clinical diagnostics.",
+        "is_verified": 1
+    },
+    {
+        "question": "What precautions should be taken during the washing of biopsied cells?",
+        "answer": "During the washing of biopsied cells, it is crucial to wash the cells at least twice using a sterile transfer pipette to minimize contamination. Special care must be taken to avoid losing genetic material, especially when dealing with sticky cells from the trophectoderm (TE). Additionally, using a new pipette for each embryo helps prevent DNA carryover, which is essential for maintaining the purity of the samples.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the recommended procedure for polar body and embryo biopsy for PGT?",
+        "answer": "Recommendations include discarding certain biopsied cells, sampling another blastomere whenever possible, and ensuring minimal medium transfer (<1μl) with the biopsied cells. Tubes may be centrifuged before storage or processing. It is acceptable to transfer biopsied cells with or without microscopic visualization. Tubing can be performed in PBS or directly in lysis buffer, depending on the PGT center's protocol requirements. Both alkaline and proteinase K/sodium dodecyl sulfate treatments are acceptable for cell lysis. A minimum of one negative control per buffer is recommended to control for contamination during each procedure of cell sample collection, especially since the contamination risk is higher when working with single cells. After tubing, samples can be stored at room temperature, cooled, or frozen based on storage duration and laboratory conditions. For transport, biopsied cells can be shipped at room temperature, cooled, or frozen, with precautions taken to prevent contamination during shipment.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is cryopreservation in the context of oocytes and embryos?",
+        "answer": "Cryopreservation refers to the process of freezing oocytes and embryos for preservation. It is used in various situations, such as prior to biopsy, after biopsy for genetic testing, or for storing surplus embryos after diagnosis. The recommended method for cryopreservation is vitrification, which is a rapid freezing technique that preserves the viability of the embryos.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the significance of vitriﬁcation in the cryopreservation of embryos?",
+        "answer": "Vitrification is significant in the cryopreservation of embryos as it allows for the rapid freezing of biopsied and non-biopsied embryos, ensuring their viability for future use. It is recommended that biopsied embryos be vitrified individually and properly labeled to maintain their integrity during storage.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the alternative biopsy methods mentioned in the excerpt?",
+        "answer": "The excerpt mentions morula-stage biopsy as an alternative method, which is performed on Day 4 after artificial decompaction of the embryo. This method is similar to cleavage-stage biopsy but allows for the procurement of a similar number of cells as blastocyst biopsy. However, it requires more evidence before it can be widely implemented in clinical practice.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the potential implications of multiple vitrification-warming cycles on embryo viability?",
+        "answer": "The excerpt notes that while multiple vitrification-warming cycles may be necessary in some PGT cases, the influence of this approach on embryo viability, implantation, and clinical outcomes still requires further investigation. This indicates that the effects of repeated cycles on the success of embryo preservation and subsequent pregnancy outcomes are not yet fully understood.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is blastocentesis?",
+        "answer": "Blastocentesis is a minimally invasive procedure that involves collecting blastocoel fluid, which contains cell-free genomic DNA, for genetic testing. This technique allows for the purification and amplification of DNA for further analysis.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the current limitations of cell-free DNA analysis through blastocentesis?",
+        "answer": "The current limitations of cell-free DNA analysis through blastocentesis include insufficient efficacy and accuracy of the technique, which necessitates further research and validation before it can be considered clinically applicable.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the potential use of cell-free genomic DNA obtained from embryo culture medium?",
+        "answer": "Cell-free genomic DNA obtained from the embryo culture medium may be potentially used for genetic testing.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is one limitation of the technique mentioned in the excerpt?",
+        "answer": "One of the limitations of the technique is the current inability to discriminate embryonic DNA from sources of DNA contamination.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is required for the methodology mentioned in the excerpt?",
+        "answer": "Further optimisation of the methodology is required.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the recent developments in genetics and medically assisted reproduction?",
+        "answer": "The excerpt discusses recent developments in genetics and medically assisted reproduction, highlighting the transition from research to clinical applications, as noted in the work by Harper et al. (2018).",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the best practice guidelines for preimplantation genetic diagnosis (PGD)?",
+        "answer": "The excerpt references several best practice guidelines for PGD, including those from the ESHRE PGD consortium, which cover organization of PGD centers, amplification-based PGD, fluorescence in situ hybridization-based PGD, and guidelines for polar body and embryo biopsy for PGD/PGS.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the purpose of preimplantation genetic testing?",
+        "answer": "Preimplantation genetic testing aims to identify genetic defects in embryos before implantation, as outlined in the Practice Committee opinion by the Society for Assisted Reproductive Technology and the American Society for Reproductive Medicine.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the guidelines for good practice in PGD?",
+        "answer": "The guidelines for good practice in PGD, as provided by the Preimplantation Genetic Diagnosis International Society, include program requirements and laboratory quality assurance measures to ensure effective and safe PGD procedures.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is preimplantation genetic screening (PGS)?",
+        "answer": "Preimplantation genetic screening (PGS) is a medical procedure used in conjunction with in vitro fertilization (IVF) to test embryos for genetic abnormalities before implantation. This screening helps identify embryos that are genetically normal and increases the chances of a successful pregnancy.",
+        "is_verified": 1
+    },
+    {
+        "question": "What are the European recommendations for good practice in evidence-based guidelines in medicine?",
+        "answer": "The European recommendations for good practice in addition to an evidence-based guidelines programme involve a systematic approach to developing clinical guidelines that are based on the best available evidence, ensuring that healthcare practices are effective and safe for patients.",
+        "is_verified": 1
+    },
+    {
+        "question": "What is the international glossary on infertility and fertility care?",
+        "answer": "The international glossary on infertility and fertility care is a comprehensive document that defines key terms and concepts related to infertility and fertility treatments. It serves as a reference for healthcare professionals and researchers in the field of reproductive medicine.",
+        "is_verified": 1
+    }
+]
