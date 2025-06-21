@@ -5,14 +5,6 @@ import os
 
 load_dotenv()  
 
-session = boto3.Session(
-    aws_access_key_id="AKIA2ZIONDSBAEBNE26R",
-    aws_secret_access_key="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",
-    region_name=os.getenv("AWS_DEFAULT_REGION")
-)
-
-s3_client = session.client('s3')
-
 def upload_file_to_s3(file_name, bucket_name, object_name=None):
     """
     Upload a file to an S3 bucket
@@ -28,8 +20,8 @@ def upload_file_to_s3(file_name, bucket_name, object_name=None):
 
     # Create an S3 client
     session = boto3.Session(
-    aws_access_key_id="AKIA2ZIONDSBAEBNE26R",
-    aws_secret_access_key="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",
+    aws_access_key_id = os.getenv("aws_access_key_id"),
+    aws_secret_access_key=os.getenv("aws_secret_access_key"),
     region_name=os.getenv("AWS_DEFAULT_REGION")
     )
 
@@ -60,8 +52,8 @@ def delete_file_from_s3(bucket_name, object_key):
     """
     # Create S3 client using the session with proper credentials
     session = boto3.Session(
-        aws_access_key_id="AKIA2ZIONDSBAEBNE26R",
-        aws_secret_access_key="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",
+        aws_access_key_id=os.getenv("aws_access_key_id"),
+        aws_secret_access_key=os.getenv("aws_secret_access_key"),
         region_name=os.getenv("AWS_DEFAULT_REGION")
     )
     s3_client = session.client('s3')  # Use the session to create the client
